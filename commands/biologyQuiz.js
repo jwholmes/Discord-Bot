@@ -35,6 +35,24 @@ var correctGIFArray = [
   "https://tenor.com/view/genius-you-are-agenius-motivation-self-esteem-motivate-gif-6124403",
   "https://tenor.com/view/smart-hangover-alan-genius-zach-galifianakis-gif-5568438",
 ];
+var startGIFArray = [
+  "https://tenor.com/view/kevin-hart-its-about-to-go-down-calm-before-the-storm-gif-4420127",
+  "https://tenor.com/view/fresh-prince-of-bel-air-carlton-carlton-dance-excited-lets-get-this-party-started-gif-15161860",
+  "https://tenor.com/view/bugs-bunny-race-run-running-exercise-gif-4469250",
+  "https://tenor.com/view/start-fail-bmx-race-falling-gif-16226982",
+  "https://tenor.com/view/on-your-marks-bake-nodding-gif-14432251",
+  "https://tenor.com/view/get-ready-prepare-grace-and-frankie-season1-netflix-gif-16105467",
+  "https://tenor.com/view/here-we-go-jim-carrey-oh-boy-smile-happy-gif-15784141",
+  "https://tenor.com/view/school-paper-exam-board-gif-8766184",
+  "https://tenor.com/view/calm-down-meditate-josephina-deep-breaths-gif-15437684",
+  "https://tenor.com/view/jimmy-fallon-brace-yourself-prepare-yourself-gif-4657301",
+  "https://tenor.com/view/dance-off-brad-pitt-here-we-go-gif-13794894",
+  "https://tenor.com/view/its-that-time-again-that-time-again-here-we-go-here-we-are-spl-gif-15581235",
+  "https://tenor.com/view/trivia-gif-9621152",
+  "https://tenor.com/view/sonic-pop-quiz-hotshot-pop-quiz-hotshot-sonic-movie-gif-17090768",
+];
+const randomReadyGIF =
+  startGIFArray[Math.floor(Math.random() * startGIFArray.length)];
 
 async function process(message) {
   const randomQuestion = biology[Math.floor(Math.random() * biology.length)];
@@ -84,7 +102,7 @@ async function process(message) {
   var filter = (reaction, user) => {
     return reaction.emoji.name === emojiAnswer;
   };
-  const reactions = await botMessage.awaitReactions(filter, { time: 7000 });
+  const reactions = await botMessage.awaitReactions(filter, { time: 15000 });
 
   sendIncorrectGIF = () => {
     message.channel.send(randomIncorrectGIF);
@@ -122,7 +140,6 @@ async function process(message) {
     if (Math.random() > 0.5) {
       setTimeout(sendIncorrectGIF, 2000);
     }
-    // message.channel.send(randomGIF);
   }
 }
 
@@ -130,10 +147,13 @@ module.exports = {
   name: "quiz",
   description: "biology quiz",
   async execute(message, args) {
+    await message.channel.send(randomReadyGIF);
+    await new Promise((resolve) => setTimeout(resolve, 3000));
     for (let i = 0; i < 3; i++) {
       await process(message);
-      await new Promise((resolve) => setTimeout(resolve, 5000));
+      await new Promise((resolve) => setTimeout(resolve, 3000));
     }
+    await new Promise((resolve) => setTimeout(resolve, 1000));
     await message.channel.send(
       new Discord.MessageEmbed()
         .setColor("#9534eb")
