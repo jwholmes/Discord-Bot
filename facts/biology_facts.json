@@ -1,0 +1,52 @@
+{
+  "facts": [
+    {
+      "type": "boolean",
+      "fact": "Chloroplasts produce ATP",
+      "correctAnswer": "👎",
+      "incorrectAnswer": "👍"
+    },
+    {
+      "type": "boolean",
+      "fact": "Mitochondria produce ATP",
+      "correctAnswer": "👍",
+      "incorrectAnswer": "👎"
+    },
+    {
+      "type": "boolean",
+      "fact": "Prokaryotes have a nucleus",
+      "correctAnswer": "👎",
+      "incorrectAnswer": "👍"
+    },
+    {
+      "type": "boolean",
+      "fact": "The waxy covering found on some plants is called mesophyll tissue",
+      "correctAnswer": "👎",
+      "incorrectAnswer": "👍"
+    },
+    {
+      "type": "boolean",
+      "fact": "Increasing the temperature increases the rate of diffusion",
+      "correctAnswer": "👍",
+      "incorrectAnswer": "👎"
+    },
+    {
+      "type": "boolean",
+      "fact": "Platelets do NOT have a nucleus",
+      "correctAnswer": "👍",
+      "incorrectAnswer": "👎"
+    },
+    {
+      "type": "boolean",
+      "fact": "The heart has 3 chambers",
+      "correctAnswer": "👍",
+      "incorrectAnswer": "👎"
+    },
+    {
+      "type": "boolean",
+      "fact": "Antibiotics are effective against bacteria and viruses",
+      "correctAnswer": "👎",
+      "incorrectAnswer": "👍"
+    }
+  ]
+}
