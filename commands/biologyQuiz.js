@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const biology = require("../facts/bio-aqa-gcse-multiple-choice.json");
+const biology = require("../trivia/bio-aqa-gcse-multiple-choice.json");
 
 var emojiArray = ["🇦", "🇧", "🇨", "🇩", "🇪", "🇫"];
 var incorrectGIFArray = [

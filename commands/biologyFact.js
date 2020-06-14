@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const biology = require("../facts/biology_facts.json");
+const biology = require("../trivia/biology_facts.json");
 
 module.exports = {
   name: "fact",
