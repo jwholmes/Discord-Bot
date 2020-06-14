@@ -299,7 +299,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Sally is conducting an experiment where she times how long it takes for glucose molecules to diffuse across a membrane at different temperatures. She monitors the experiment by measuring the glucose concentration on each side of the membrane. \n<br><br> \nWhat is the independent variable in the experiment? ",
+      "question": "Sally is conducting an experiment where she times how long it takes for glucose molecules to diffuse across a membrane at different temperatures. She monitors the experiment by measuring the glucose concentration on each side of the membrane. \n\n\n \nWhat is the independent variable in the experiment? ",
       "correctAnswer": "Temperature ",
       "wrongAnswers": [
         "Rate of glucose diffusion",
@@ -467,9 +467,9 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "statement": "3 x 10<sup>-3</sup> = 3 x 0.001 = 0.003",
+      "statement": "3 x 10^-3 = 3 x 0.001 = 0.003",
       "wrongAnswers": ["3000", "300", "30", "0.3", "0.03"],
-      "question": "Which of the following is the correct representation of 3 x10<sup>-3</sup>?",
+      "question": "Which of the following is the correct representation of 3 x10^-3?",
       "correctAnswer": "0.003"
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
@@ -638,13 +638,9 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "High magnifications can be represented in standard form.",
-      "wrongAnswers": [
-        "24 x 10<sup>4</sup>",
-        "2.4 x 10<sup>4</sup>",
-        "0.24 x 10<sup>7</sup>"
-      ],
+      "wrongAnswers": ["24 x 10^4", "2.4 x 10^4", "0.24 x 10^7"],
       "question": "What is a magnification of x240 000 in standard form?",
-      "correctAnswer": "2.4 x 10<sup>5</sup>"
+      "correctAnswer": "2.4 x 10^5"
     },
     "parentId": "34b76ac0-d38b-11e7-b6f3-dd534bfe82a9",
     "id": "1c1a64d0-d9d6-11e7-a514-9d8aaaca3690",
@@ -962,17 +958,17 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "The optimal blood glucose range for humans is 6-8mmol/dm3",
-      "wrongAnswers": ["1-10 mmol/dm<sup>3", "2-4 mmol/dm<sup>3"],
+      "wrongAnswers": ["1-10 mmol/dm^3", "2-4 mmol/dm^3"],
       "question": "What is the optimal blood glucose range for humans?",
-      "correctAnswer": "6-8 mmol/dm<sup>3"
+      "correctAnswer": "6-8 mmol/dm^3"
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "2918da50-1666-11e8-86b4-659fd41ea83c",
     "draft": {
       "statement": "The optimal blood glucose range for humans is 6-8mmol/dm3",
-      "wrongAnswers": "1-10 mmol/dm<sup>3, 2-4 mmol/dm<sup>3",
+      "wrongAnswers": "1-10 mmol/dm^3, 2-4 mmol/dm^3",
       "question": "What is the optimal blood glucose range for humans?",
-      "correctAnswer": "6-8 mmol/dm<sup>3"
+      "correctAnswer": "6-8 mmol/dm^3"
     },
     "id": "29190164-1666-11e8-86b4-659fd41ea83c",
     "type": "module"
@@ -1089,9 +1085,9 @@
     "moduleType": "multiple-choice",
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
-      "statement": "3 x 10<sup>-3</sup> = 3 x 0.001 = 0.003",
+      "statement": "3 x 10^-3 = 3 x 0.001 = 0.003",
       "wrongAnswers": ["3000", "300", "30", "0.3", "0.03"],
-      "question": "Which of the following is the correct representation of 3 x10<sup>-3</sup>?",
+      "question": "Which of the following is the correct representation of 3 x10^-3?",
       "correctAnswer": "0.003"
     },
     "parentId": "2b97a310-2084-11e8-ae61-2be8181cb9ca",
@@ -1102,14 +1098,9 @@
     "moduleType": "multiple-choice",
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
-      "question": "2.6 x10<sup>3</sup> x 3.5 x10<sup>2</sup> = ?",
-      "correctAnswer": "9.1 x10<sup>5</sup>",
-      "wrongAnswers": [
-        "7.3 x10<sup>4</sup>",
-        "9.1 x10<sup>6</sup>",
-        "10.5 x10<sup>6</sup>",
-        "1.05 x10<sup>5</sup>"
-      ]
+      "question": "2.6 x10^3 x 3.5 x10^2 = ?",
+      "correctAnswer": "9.1 x10^5",
+      "wrongAnswers": ["7.3 x10^4", "9.1 x10^6", "10.5 x10^6", "1.05 x10^5"]
     },
     "parentId": "2b97a310-2084-11e8-ae61-2be8181cb9ca",
     "id": "2b97a316-2084-11e8-ae61-2be8181cb9ca",
@@ -1162,7 +1153,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Cystic fibrosis is an inherited disorder. The allele which causes cystic fibrosis is recessive (f).<br></br> By examining the area circled in the pedigree, what are the genotypes of the mother and the father?",
+      "question": "Cystic fibrosis is an inherited disorder. The allele which causes cystic fibrosis is recessive (f).\n\n By examining the area circled in the pedigree, what are the genotypes of the mother and the father?",
       "correctAnswer": "Mother: Ff - Father: Ff",
       "wrongAnswers": [
         "Mother: FF - Father: ff",
@@ -1173,7 +1164,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "0fb89c66-6765-451c-9cf1-a986214e5b04",
     "draft": {
-      "question": "Cystic fibrosis is an inherited disorder. The allele which causes cystic fibrosis is recessive (f).<br></br> By examining the area circled in the pedigree, what are the genotypes of the mother and the father?",
+      "question": "Cystic fibrosis is an inherited disorder. The allele which causes cystic fibrosis is recessive (f).\n\n By examining the area circled in the pedigree, what are the genotypes of the mother and the father?",
       "correctAnswer": "Mother: Ff - Father: Ff",
       "wrongAnswers": "Mother: FF - Father: ff, Mother: ff - Father: ff, Mother: FF - Father: FF, "
     },
@@ -1796,7 +1787,7 @@
         "Storms and droughts change water availability"
       ],
       "question": "Which of the following is not an example of how geographic activity can cause environmental change?",
-      "correctAnswer": "Burning fossil fuels increases the atmospheric concentration of CO<sub>2</sub>"
+      "correctAnswer": "Burning fossil fuels increases the atmospheric concentration of carbon dioxide"
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "f2f3f2cc-bc3e-45e9-9b42-9932e5de15d0",
@@ -2017,7 +2008,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "The gene for spots is DOMINANT. A spotty cow (Tt) is crossed with an all black cow (tt).<br></br> What will the ratio of spotty offspring : black offspring be? ",
+      "question": "The gene for spots is DOMINANT. A spotty cow (Tt) is crossed with an all black cow (tt).\n\n What will the ratio of spotty offspring : black offspring be? ",
       "correctAnswer": "1:1",
       "wrongAnswers": ["3:1", "2:1"]
     },
@@ -3500,19 +3491,15 @@
     "moduleType": "multiple-choice",
     "content": {
       "question": "A colony of bacteria forms a circle with a diameter of 80 mm. What is the area of the colony? (π = 3.142)\n",
-      "correctAnswer": "50.3 cm<sup>2</sup> ",
-      "wrongAnswers": [
-        "50.3 mm<sup>2</sup>",
-        "5030 cm<sup>2</sup>",
-        "20&comma;100 mm<sup>2</sup>"
-      ]
+      "correctAnswer": "50.3 cm^2 ",
+      "wrongAnswers": ["50.3 mm^2", "5030 cm^2", "20&comma;100 mm^2"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "47e64cfa-8202-41f6-867f-03d1aac498ab",
     "draft": {
       "question": "A colony of bacteria forms a circle with a diameter of 80 mm. What is the area of the colony? (π = 3.142)\n",
-      "correctAnswer": "50.3 cm<sup>2</sup> ",
-      "wrongAnswers": "50.3 mm<sup>2</sup>, 5030 cm<sup>2</sup>, 20&comma;100 mm<sup>2</sup>"
+      "correctAnswer": "50.3 cm^2 ",
+      "wrongAnswers": "50.3 mm^2, 5030 cm^2, 20&comma;100 mm^2"
     },
     "id": "7e0184ca-2454-4114-ae75-45ba879ea468",
     "moduleDifficulty": 1,
@@ -3591,28 +3578,11 @@
   },
   {
     "moduleType": "multiple-choice",
-    "content": {
-      "wrongAnswers": [
-        "Negative correlation between smoking and cancer in men",
-        "No correlation between smoking and cancer in men"
-      ],
-      "question": "What correlation (relationship) does this graph show?",
-      "correctAnswer": "Positive correlation between smoking and cancer in men",
-      "imageURL": "seneca-image-cdn:///courseImages/biology/2.4.1/Cigarette%20risk%20factors-min.jpg"
-    },
-    "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
-    "parentId": "420c9230-f6f5-11e7-8c22-f766c100d7f6",
-    "id": "81c6bb00-0062-11e8-8acd-e74d31f22635",
-    "type": "module",
-    "moduleDifficulty": 1
-  },
-  {
-    "moduleType": "multiple-choice",
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "The capital of Greece is Athens",
       "wrongAnswers": ["3:1", "3:2", "4:1", "4:10"],
-      "question": "The surface area of a cell is 4x10<sup>-6</sup>m<sup>2</sup>. The volume is 2x10<sup>-6</sup>m<sup>3</sup>. What is the surface area to volume ratio of the cell?",
+      "question": "The surface area of a cell is 4x10^-6m^2. The volume is 2x10^-6m^3. What is the surface area to volume ratio of the cell?",
       "correctAnswer": "2:1"
     },
     "parentId": "82955910-3cd0-11e8-b7e0-77c40dd5d93a",
@@ -3702,19 +3672,15 @@
     "moduleType": "multiple-choice",
     "content": {
       "question": "A colony of bacteria forms a circle with a diameter of 80 mm. What is the area of the colony? (π = 3.142)\n",
-      "correctAnswer": "50.3 cm<sup>2</sup> ",
-      "wrongAnswers": [
-        "50.3 mm<sup>2</sup>",
-        "5030 cm<sup>2</sup>",
-        "20&comma;100 mm<sup>2</sup>"
-      ]
+      "correctAnswer": "50.3 cm^2 ",
+      "wrongAnswers": ["50.3 mm^2", "5030 cm^2", "20&comma;100 mm^2"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "69b33c05-8973-4311-b4b0-2ba5c5c36194",
     "draft": {
       "question": "A colony of bacteria forms a circle with a diameter of 80 mm. What is the area of the colony? (π = 3.142)\n",
-      "correctAnswer": "50.3 cm<sup>2</sup> ",
-      "wrongAnswers": "50.3 mm<sup>2</sup>, 5030 cm<sup>2</sup>, 20&comma;100 mm<sup>2</sup>"
+      "correctAnswer": "50.3 cm^2 ",
+      "wrongAnswers": "50.3 mm^2, 5030 cm^2, 20&comma;100 mm^2"
     },
     "id": "86857ebd-020e-4184-baff-84131554b6ed",
     "moduleDifficulty": 1,
@@ -3875,7 +3841,7 @@
       "statement": "In different conditions, there are factors limiting the rate of photosynthesis.",
       "wrongAnswers": ["Temperature", "Light levels", "Flower size"],
       "question": "Which of these could be a limiting factor for photosynthesis on a warm, sunny day?",
-      "correctAnswer": "CO<sub>2</sub> concentrations"
+      "correctAnswer": "Carbon dioxide concentrations"
     },
     "parentId": "8ec17400-f6f6-11e7-8c22-f766c100d7f6",
     "id": "8ec17404-f6f6-11e7-8c22-f766c100d7f6",
@@ -4391,7 +4357,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "\"The phenotype of an organism is entirely dictated by the genotype.\"<br></br> Is this statement true or false?",
+      "question": "\"The phenotype of an organism is entirely dictated by the genotype.\"\n\n Is this statement true or false?",
       "correctAnswer": "False",
       "wrongAnswers": ["True"]
     },
@@ -4537,14 +4503,9 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "2.6 x10<sup>3</sup> x 3.5 x10<sup>2</sup> = ?",
-      "correctAnswer": "9.1 x10<sup>5</sup>",
-      "wrongAnswers": [
-        "7.3 x10<sup>4</sup>",
-        "9.1 x10<sup>6</sup>",
-        "10.5 x10<sup>6</sup>",
-        "1.05 x10<sup>5</sup>"
-      ]
+      "question": "2.6 x10^3 x 3.5 x10^2 = ?",
+      "correctAnswer": "9.1 x10^5",
+      "wrongAnswers": ["7.3 x10^4", "9.1 x10^6", "10.5 x10^6", "1.05 x10^5"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "9b7ccdd8-cd63-430c-8cc1-c13d94fba371",
@@ -4577,7 +4538,7 @@
       "wrongAnswers": [
         "Green revolution",
         "Digital revolution",
-        "2<sup>nd </sup> green revolution"
+        "2^nd  green revolution"
       ],
       "question": "Which revolution resulted in the initial spike in human activities that were detrimental to biodiversity?",
       "correctAnswer": "Industrial revolution"
@@ -5360,7 +5321,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Gonorrhoea is a sexually transmitted disease. <br>Which of the following methods could be used to help prevent transmission of gonorrhoea?",
+      "question": "Gonorrhoea is a sexually transmitted disease. \nWhich of the following methods could be used to help prevent transmission of gonorrhoea?",
       "correctAnswer": "Use a condom",
       "wrongAnswers": [
         "Use the contraceptive pill",
@@ -5711,15 +5672,7 @@
         "Storms and droughts change water availability"
       ],
       "question": "Which of the following is not an example of how geographic activity can cause environmental change?",
-      "correctAnswer": "Burning fossil fuels increases the atmospheric concentration of CO<sub>2</sub>"
-    },
-    "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
-    "parentId": "0586c150-e1bf-11e7-9086-6b799b25c42d",
-    "draft": {
-      "statement": "The burning of fossil fuels is a result of human, not geographic, activity.",
-      "wrongAnswers": "Volcanic eruptions change the composition of atmospheric gases, Storms and droughts change water availability\n",
-      "question": "Which of the following is not an example of how geographic activity can cause environmental change?",
-      "correctAnswer": "Burning fossil fuels increases the atmospheric concentration of CO<sub>2</sub>"
+      "correctAnswer": "Burning fossil fuels increases the atmospheric concentration of carbon dioxide"
     },
     "id": "d2539440-e1c1-11e7-9086-6b799b25c42d",
     "type": "module"
@@ -6579,7 +6532,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "\"Within a population, all individuals have the same genetics.\"<br></br> Is this statement true or false?",
+      "question": "\"Within a population, all individuals have the same genetics.\"\n\n Is this statement true or false?",
       "correctAnswer": "False",
       "wrongAnswers": ["True"]
     },

@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const biology = require("../facts/bio-aqa-gcse-multiple-choice.json");
 
 var length = biology.length;
-var emojiArray = ["🇦", "🇧", "🇨", "🇩", "🇪"];
+var emojiArray = ["🇦", "🇧", "🇨", "🇩", "🇪", "🇫"];
 
 async function process(message) {
   const randomNumber = Math.floor(Math.random() * length);
@@ -10,35 +10,19 @@ async function process(message) {
   const question = randomQuestion.content.question;
   const correctAnswer = randomQuestion.content.correctAnswer;
   const wrongAnswersArray = randomQuestion.content.wrongAnswers;
+  const imagery = randomQuestion.content.imageURL;
   const numberOfWrongAnswers = wrongAnswersArray.length;
-
-  console.log(wrongAnswersArray);
 
   const indexToAddCorrectAnswer = Math.floor(
     Math.random() * numberOfWrongAnswers
   );
-
   wrongAnswersArray.splice(indexToAddCorrectAnswer, 0, `${correctAnswer}`);
 
-  console.log(wrongAnswersArray);
-
   const newEmojiArray = emojiArray.slice(0, numberOfWrongAnswers + 1);
-  // const emojiString = newEmojiArray.toString();
-  console.log(newEmojiArray);
-
-  // const editedArray = wrongAnswersArray.map((wrongAnswersItem) => {
-  //   return emojiArray + ": " + wrongAnswersItem;
-  // });
-
   const editedArray = [];
   wrongAnswersArray.forEach((i, idx) => {
     editedArray.push(emojiArray[idx] + " " + i);
   });
-  console.log(editedArray);
-
-  // var brk = wrongAnswersArray.split(",");
-  // var res = brk.join(`\n`);
-  // editedArray.split(",");
   const finalArray = editedArray.join("\n");
 
   var questionEmbed = new Discord.MessageEmbed()
@@ -46,48 +30,65 @@ async function process(message) {
     .setDescription(
       `**${question}**` +
         `\n\n${finalArray}` +
-        "\n\n_The answer will be shown in 10 seconds_"
+        "\n\n_The answer will be shown in 15 seconds_"
     );
 
   const botMessage = await message.channel.send(questionEmbed);
-  // await Promise.all([botMessage.react("🇦"), botMessage.react(emojiArray[1])]);
   for (let i = 0; i < newEmojiArray.length; i++) {
     await botMessage.react(emojiArray[i]);
   }
 
-  var filter = (reaction, user) => {
-    return reaction.emoji.name === correctAnswer;
-  };
+  try {
+    await message.channel.send(imagery);
+  } catch (error) {
+    console.log("error");
+  }
 
-  const reactions = await botMessage.awaitReactions(filter, { time: 5000 });
-  // .then(async (collected) => {
-  //   return (reactions = await collected);
-  // });
+  const emojiAnswer = emojiArray[indexToAddCorrectAnswer];
+
+  var filter = (reaction, user) => {
+    return reaction.emoji.name === emojiAnswer;
+  };
+  const reactions = await botMessage.awaitReactions(filter, { time: 7000 });
   console.log(reactions);
 
-  // const answerEmbed = new Discord.MessageEmbed()
-  //   .setColor("#0099ff")
-  //   .setDescription(
-  //     `The answer was ` +
-  //       correctAnswer +
-  //       `\n\nThere were ${(await reactions.get(correctAnswer).count) - 1}
-  //               correct answers`
-  //   );
-
-  // try {
-  //   await message.channel.send(answerEmbed);
-  // } catch (error) {
-  //   message.channel.send("Seneca Bot is having a rough day");
-  // }
+  try {
+    await message.channel.send(
+      new Discord.MessageEmbed()
+        .setColor("#0099ff")
+        .setDescription(
+          `The answer was ` +
+            emojiAnswer +
+            `\n\nThere were ${
+              reactions.get(emojiAnswer).count - 1
+            } correct answers! 🥳`
+        )
+    );
+  } catch (error) {
+    await message.channel.send(
+      new Discord.MessageEmbed()
+        .setColor("#0099ff")
+        .setDescription(
+          `The answer was ` + emojiAnswer + `\n\nThere were 0 correct answers`
+        )
+    );
+    message.channel.send(
+      "https://tenor.com/view/jakeperalta-jake-peralta-b99-brooklynninenine-gif-8793716",
+      2000
+    );
+  }
 }
 
 module.exports = {
   name: "quiz",
   description: "biology quiz",
   async execute(message, args) {
-    for (let i = 0; i < 1; i++) {
+    for (let i = 0; i < 10; i++) {
       await process(message);
-      await new Promise((resolve) => setTimeout(resolve, 6000));
+      await new Promise((resolve) => setTimeout(resolve, 5000));
     }
+    await message.channel.send(
+      new Discord.MessageEmbed().setColor("#0099ff").setDescription("Game over")
+    );
   },
 };

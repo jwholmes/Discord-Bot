@@ -1,5 +1,3 @@
 node_modules
 .DS_Store
 config.json
-facts/biology_facts.json
-facts/bio-aqa-gcse-multiple-choice.json

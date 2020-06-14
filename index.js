@@ -35,8 +35,8 @@ bot.on("message", (msg) => {
     case "quiz":
       bot.commands.get("quiz").execute(msg, args);
       break;
-    case "mcq":
-      bot.commands.get("mcq").execute(msg, args);
+    case "meme":
+      bot.commands.get("meme").execute(msg, args);
       break;
   }
 });
