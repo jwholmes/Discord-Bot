@@ -12,7 +12,6 @@ const commandFiles = fs
 
 for (const file of commandFiles) {
   const command = require(`./commands/${file}`);
-
   bot.commands.set(command.name, command);
 }
 
@@ -29,15 +28,15 @@ bot.on("message", (msg) => {
 
   /* All commands go here */
   switch (args[0]) {
-    case "fact":
-      bot.commands.get("fact").execute(msg, args);
-      break;
+    // case "fact":
+    //   bot.commands.get("fact").execute(msg, args);
+    //   break;
     case "quiz":
       bot.commands.get("quiz").execute(msg, args);
       break;
-    case "meme":
-      bot.commands.get("meme").execute(msg, args);
-      break;
+    // case "meme":
+    //   bot.commands.get("meme").execute(msg, args);
+    //   break;
   }
 });
 

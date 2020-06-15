@@ -51,40 +51,30 @@ var startGIFArray = [
   "https://tenor.com/view/trivia-gif-9621152",
   "https://tenor.com/view/sonic-pop-quiz-hotshot-pop-quiz-hotshot-sonic-movie-gif-17090768",
 ];
-const randomReadyGIF =
-  startGIFArray[Math.floor(Math.random() * startGIFArray.length)];
+const randomReadyGIF = startGIFArray[Math.floor(Math.random() * startGIFArray.length)];
 
 async function process(message) {
   const randomQuestion = biology[Math.floor(Math.random() * biology.length)];
-  const randomIncorrectGIF =
-    incorrectGIFArray[Math.floor(Math.random() * incorrectGIFArray.length)];
-  const randomCorrectGIF =
-    correctGIFArray[Math.floor(Math.random() * correctGIFArray.length)];
+  const randomIncorrectGIF = incorrectGIFArray[Math.floor(Math.random() * incorrectGIFArray.length)];
+  const randomCorrectGIF = correctGIFArray[Math.floor(Math.random() * correctGIFArray.length)];
   const question = randomQuestion.content.question;
   const correctAnswer = randomQuestion.content.correctAnswer;
   const wrongAnswersArray = randomQuestion.content.wrongAnswers;
   const imagery = randomQuestion.content.imageURL;
   const numberOfWrongAnswers = wrongAnswersArray.length;
 
-  const indexToAddCorrectAnswer = Math.floor(
-    Math.random() * numberOfWrongAnswers
-  );
+  const indexToAddCorrectAnswer = Math.floor(Math.random() * numberOfWrongAnswers);
   wrongAnswersArray.splice(indexToAddCorrectAnswer, 0, `${correctAnswer}`);
 
+  const allAnswersArray = wrongAnswersArray;
+
   const newEmojiArray = emojiArray.slice(0, numberOfWrongAnswers + 1);
-  const editedArray = [];
-  wrongAnswersArray.forEach((i, idx) => {
-    editedArray.push(emojiArray[idx] + " " + i);
-  });
-  const finalArray = editedArray.join("\n");
+
+  const allAnswersString = wrongAnswersArray.map((i, idx) => emojiArray[idx] + " " + i).join("\n");
 
   var questionEmbed = new Discord.MessageEmbed()
     .setColor("#0099ff")
-    .setDescription(
-      `**${question}**` +
-        `\n\n${finalArray}` +
-        "\n\n_The answer will be shown in 15 seconds_"
-    );
+    .setDescription(`**${question}**` + `\n\n${allAnswersString}` + "\n\n_The answer will be shown in 15 seconds_");
 
   const botMessage = await message.channel.send(questionEmbed);
   for (let i = 0; i < newEmojiArray.length; i++) {
@@ -94,7 +84,7 @@ async function process(message) {
   try {
     await message.channel.send(imagery);
   } catch (error) {
-    console.log("error");
+    console.log("No imageURL found", error);
   }
 
   const emojiAnswer = emojiArray[indexToAddCorrectAnswer];
@@ -102,40 +92,33 @@ async function process(message) {
   var filter = (reaction, user) => {
     return reaction.emoji.name === emojiAnswer;
   };
-  const reactions = await botMessage.awaitReactions(filter, { time: 15000 });
+  const reactions = await botMessage.awaitReactions(filter, { time: 5000 });
 
   sendIncorrectGIF = () => {
     message.channel.send(randomIncorrectGIF);
   };
-
   sendCorrectGIF = () => {
     message.channel.send(randomCorrectGIF);
   };
 
-  try {
+  getCorrectUsers = (correctReaction) => {
+    return correctReaction.users.cache.filter((user) => !user.bot).map((user) => user.username);
+  };
+
+  if (reactions.has(emojiAnswer)) {
+    const correctReaction = reactions.get(emojiAnswer);
     await message.channel.send(
-      new Discord.MessageEmbed()
-        .setColor("#0099ff")
-        .setDescription(
-          `The answer was ` +
-            emojiAnswer +
-            `\n\nThere were ${
-              reactions.get(emojiAnswer).count - 1
-            } correct answers! 🥳`
-        )
+      new Discord.MessageEmbed().setColor("#0099ff").setDescription(`The answer was ${emojiAnswer} 
+        \nThere were ${correctReaction.count - 1} correct answers! 🥳 
+        \n**Correct answers:** \n ${getCorrectUsers(correctReaction).join("\n")}`)
     );
     if (Math.random() > 0.5) {
       setTimeout(sendCorrectGIF, 2000);
     }
-  } catch (error) {
+  } else {
     await message.channel.send(
-      new Discord.MessageEmbed()
-        .setColor("#0099ff")
-        .setDescription(
-          `The answer was ` +
-            emojiAnswer +
-            `\n\nThere were 0 correct answers 😬`
-        )
+      new Discord.MessageEmbed().setColor("#0099ff").setDescription(`The answer was ${emojiAnswer}
+        \nThere were 0 correct answers 😬`)
     );
     if (Math.random() > 0.5) {
       setTimeout(sendIncorrectGIF, 2000);
@@ -143,22 +126,24 @@ async function process(message) {
   }
 }
 
+sleep = async (milliseconds) => {
+  await new Promise((resolve) => setTimeout(resolve, milliseconds));
+};
+
 module.exports = {
   name: "quiz",
   description: "biology quiz",
   async execute(message, args) {
     await message.channel.send(randomReadyGIF);
-    await new Promise((resolve) => setTimeout(resolve, 3000));
-    for (let i = 0; i < 3; i++) {
+    await sleep(3000);
+    for (let i = 0; i < 1; i++) {
       await process(message);
-      await new Promise((resolve) => setTimeout(resolve, 3000));
+      await sleep(5000);
     }
-    await new Promise((resolve) => setTimeout(resolve, 1000));
+    await sleep(1000);
     await message.channel.send(
-      new Discord.MessageEmbed()
-        .setColor("#9534eb")
-        .setTitle("End of Quiz")
-        .setDescription("If you would like to play again, type `!quiz` 🧠")
+      new Discord.MessageEmbed().setColor("#9534eb").setTitle("End of Quiz")
+      // .setDescription("If you would like to play again, type `!quiz` 🧠")
     );
   },
 };
