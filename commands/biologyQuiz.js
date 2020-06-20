@@ -92,7 +92,7 @@ async function process(message) {
   var filter = (reaction, user) => {
     return reaction.emoji.name === emojiAnswer;
   };
-  const reactions = await botMessage.awaitReactions(filter, { time: 5000 });
+  const reactions = await botMessage.awaitReactions(filter, { time: 15000 });
 
   sendIncorrectGIF = () => {
     message.channel.send(randomIncorrectGIF);
@@ -136,14 +136,13 @@ module.exports = {
   async execute(message, args) {
     await message.channel.send(randomReadyGIF);
     await sleep(3000);
-    for (let i = 0; i < 1; i++) {
+    for (let i = 0; i < 15; i++) {
       await process(message);
       await sleep(5000);
     }
     await sleep(1000);
     await message.channel.send(
-      new Discord.MessageEmbed().setColor("#9534eb").setTitle("End of Quiz")
-      // .setDescription("If you would like to play again, type `!quiz` 🧠")
+      new Discord.MessageEmbed().setColor("#9534eb").setTitle("End of Quiz").setDescription("GG team! 🔥")
     );
   },
 };
