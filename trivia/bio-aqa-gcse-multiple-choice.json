@@ -17,11 +17,7 @@
     "content": {
       "question": "Which organs can be damaged by excessive alcohol drinking?",
       "correctAnswer": "Liver and brain",
-      "wrongAnswers": [
-        "Lungs and heart",
-        "Pancreas and stomach",
-        "Intestines and kidneys"
-      ]
+      "wrongAnswers": ["Lungs and heart", "Pancreas and stomach", "Intestines and kidneys"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "87d90289-fd62-4e02-b4af-2049902e187e",
@@ -51,12 +47,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "The only vein that carries deoxygenated blood is the pulmonary vein.",
-      "wrongAnswers": [
-        "Renal vein",
-        "Jugular vein",
-        "Portal vein",
-        "Subclavian vein"
-      ],
+      "wrongAnswers": ["Renal vein", "Jugular vein", "Portal vein", "Subclavian vein"],
       "question": "Which is the only type of vein that carries oxygenated blood?",
       "correctAnswer": "Pulmonary vein"
     },
@@ -153,11 +144,7 @@
     "content": {
       "question": "Which of the following is NOT a type of tissue that makes up leaves?",
       "correctAnswer": "Muscular tissue",
-      "wrongAnswers": [
-        "Epidermal tissue",
-        "Palisade mesophyll",
-        "Spongy mesophyll"
-      ]
+      "wrongAnswers": ["Epidermal tissue", "Palisade mesophyll", "Spongy mesophyll"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "83033a53-58ac-4637-ad06-c25e81bccba5",
@@ -187,11 +174,7 @@
     "content": {
       "question": "Which of the following is NOT a viable method of preventing contamination?",
       "correctAnswer": "Keeping cultures at high temperatures",
-      "wrongAnswers": [
-        "Passing through a flame",
-        "Boiling solutions",
-        "Taping a lid on the Petri dish"
-      ]
+      "wrongAnswers": ["Passing through a flame", "Boiling solutions", "Taping a lid on the Petri dish"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "be98967b-f42d-4eb7-bcdc-fbaf0ec54e92",
@@ -204,11 +187,7 @@
     "content": {
       "question": "Which of the following is NOT a disadvantage of genomic screening? ",
       "correctAnswer": "Screening of genetic disorders",
-      "wrongAnswers": [
-        "Expensive",
-        "Ethical implications",
-        "Prevents discrimination"
-      ]
+      "wrongAnswers": ["Expensive", "Ethical implications", "Prevents discrimination"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "0eb5d790-f6f8-11e7-8c22-f766c100d7f6",
@@ -248,11 +227,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "The higher the gradient of a product produced vs time graph the faster the rate of reaction. ",
-      "wrongAnswers": [
-        "Slow rate of reaction",
-        "No reaction",
-        "Enzyme is denatured"
-      ],
+      "wrongAnswers": ["Slow rate of reaction", "No reaction", "Enzyme is denatured"],
       "question": "A graph, with enzyme activity on the y axis, has a steep curve. This reflects:",
       "correctAnswer": "Fast rate of reaction"
     },
@@ -285,11 +260,7 @@
     "content": {
       "question": "Sally is conducting an experiment where she times how long it takes for glucose molecules to diffuse across a membrane at different temperatures. She monitors the experiment by measuring the glucose concentration on each side of the membrane. \n\n\n \nWhat is the independent variable in the experiment? ",
       "correctAnswer": "Temperature ",
-      "wrongAnswers": [
-        "Rate of glucose diffusion",
-        "Glucose concentration",
-        "Type of membrane used"
-      ]
+      "wrongAnswers": ["Rate of glucose diffusion", "Glucose concentration", "Type of membrane used"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "818ee252-97ae-4dd7-bddd-aee1660dac9d",
@@ -362,7 +333,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Taq polymerase is an enzyme used in laboratories that has optimum activity at a temperature of 75&deg;C. \nSuggest why it does not denature at this temperature. ",
+      "question": "Taq polymerase is an enzyme used in laboratories that has optimum activity at a temperature of 75 degrees Celsius.\nSuggest why it does not denature at this temperature. ",
       "correctAnswer": "Its 3D structure contains many disulphide covalent bonds ",
       "wrongAnswers": [
         "It has many hydrophobic amino acids",
@@ -437,12 +408,7 @@
     "content": {
       "question": "In what year did Darwin and Wallace produce joint writings?",
       "correctAnswer": "1858",
-      "wrongAnswers": [
-        "1970",
-        "1800",
-        "2017",
-        "They never produced joint writings"
-      ]
+      "wrongAnswers": ["1970", "1800", "2017", "They never produced joint writings"]
     },
     "parentId": "12e966f0-16e8-11e8-8b90-07b7b3cc864d",
     "id": "12e966f5-16e8-11e8-8b90-07b7b3cc864d",
@@ -466,12 +432,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "The heart muscle is supplied with oxygenated blood by the coronary arteries.",
-      "wrongAnswers": [
-        "Vena cava",
-        "Pulmonary vein",
-        "Pulmonary artery",
-        "Aorta"
-      ],
+      "wrongAnswers": ["Vena cava", "Pulmonary vein", "Pulmonary artery", "Aorta"],
       "question": "Which blood vessel supplies the heart muscle with oxygenated blood?",
       "correctAnswer": "Coronary arteries"
     },
@@ -547,11 +508,7 @@
     "content": {
       "question": "What will happen to the rate of enzyme activity if the substrate concentration is continually increased? ",
       "correctAnswer": "Rate will increase and then plateau ",
-      "wrongAnswers": [
-        "Rate will continually increase",
-        "Rate of enzyme activity will plateau",
-        "Rate will not change"
-      ]
+      "wrongAnswers": ["Rate will continually increase", "Rate of enzyme activity will plateau", "Rate will not change"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "a83a7892-2df9-4f1d-a4a0-7647398c07e6",
@@ -635,11 +592,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Some strains of bacteria are resistant to certain antibiotics. This means that these antibiotics cannot kill them.",
-      "wrongAnswers": [
-        "Antibiotic protection",
-        "Antibiotic fight",
-        "Antibiotic shield"
-      ],
+      "wrongAnswers": ["Antibiotic protection", "Antibiotic fight", "Antibiotic shield"],
       "question": "When antibiotics are unable to kill bacteria, that bacteria is said to be displaying:",
       "correctAnswer": "Antibiotic resistance"
     },
@@ -683,10 +636,7 @@
     "moduleType": "multiple-choice",
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
-      "wrongAnswers": [
-        "Converting glucose into starch",
-        "Breaking down proteins into urea"
-      ],
+      "wrongAnswers": ["Converting glucose into starch", "Breaking down proteins into urea"],
       "question": "Which of these does not involve the body's metabolism? ",
       "correctAnswer": "Retina changing size in response to light",
       "imageURL": "https://media.giphy.com/media/3oKIPj8N0zkGfuufpC/giphy.mp4"
@@ -699,11 +649,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Mycoprotein is high in fibre.",
-      "wrongAnswers": [
-        "High in protein",
-        "Low in fat",
-        "Suitable for vegetarians"
-      ],
+      "wrongAnswers": ["High in protein", "Low in fat", "Suitable for vegetarians"],
       "question": "Which of the following is NOT a quality of mycoprotein?",
       "correctAnswer": "Low in fibre"
     },
@@ -765,12 +711,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Which monk enhanced our understanding of genetics using experiements on pea plant?",
-      "wrongAnswers": [
-        "Dalai Lama",
-        "Nelson Mandela",
-        "Charles Darwin",
-        "Alfred Wallace"
-      ],
+      "wrongAnswers": ["Dalai Lama", "Nelson Mandela", "Charles Darwin", "Alfred Wallace"],
       "question": "Which monk enhanced our understanding of genetics using experiments on pea plant?",
       "correctAnswer": "Gregor Mendel"
     },
@@ -794,12 +735,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "When a community is stable, populations sizes in it are:",
-      "wrongAnswers": [
-        "Growing rapidly",
-        "Growing slowly",
-        "Falling fast",
-        "Falling slowly"
-      ],
+      "wrongAnswers": ["Growing rapidly", "Growing slowly", "Falling fast", "Falling slowly"],
       "question": "When a community is stable, the populations within it are:",
       "correctAnswer": "Fairly constant"
     },
@@ -849,11 +785,7 @@
     "content": {
       "question": "What do scientists think caused the extinction of the dinosaurs?",
       "correctAnswer": "A meteorite or asteroid impact acted like a volcanic eruption ",
-      "wrongAnswers": [
-        "They moved to Mars",
-        "The seas flooded the entire Earth",
-        "The old Earth exploded"
-      ]
+      "wrongAnswers": ["They moved to Mars", "The seas flooded the entire Earth", "The old Earth exploded"]
     },
     "parentId": "2666dfa0-16e8-11e8-8b90-07b7b3cc864d",
     "id": "2666dfa8-16e8-11e8-8b90-07b7b3cc864d",
@@ -894,11 +826,7 @@
     "content": {
       "question": "What is the limiting factor in mineral-deficient soil?",
       "correctAnswer": "Chlorophyll concentration",
-      "wrongAnswers": [
-        "Carbon dioxide concentration",
-        "Temperature",
-        "Light intensity"
-      ]
+      "wrongAnswers": ["Carbon dioxide concentration", "Temperature", "Light intensity"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "f3ee74ae-3cd4-4e44-9b3f-0fe5128a175d",
@@ -924,12 +852,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Guard cells found in the leaves are responsible for opening and closing the stomata.",
-      "wrongAnswers": [
-        "Root hair cells",
-        "Lignin",
-        "Xylem cells",
-        "Phloem cells"
-      ],
+      "wrongAnswers": ["Root hair cells", "Lignin", "Xylem cells", "Phloem cells"],
       "question": "Which of the following cells are responsible for opening and closing the stomata?",
       "correctAnswer": "Guard cells"
     },
@@ -1005,11 +928,7 @@
     "content": {
       "question": "Which of the following is NOT a use of monoclonal antibodies?",
       "correctAnswer": "Dyeing fabric",
-      "wrongAnswers": [
-        "Testing for pregnancies",
-        "Testing for HIV",
-        "Treating cancer"
-      ]
+      "wrongAnswers": ["Testing for pregnancies", "Testing for HIV", "Treating cancer"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "f1018235-92ab-4161-a592-2bba9a8ded9d",
@@ -1046,11 +965,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "If the pH is too low or high an enzyme is denatured and will not function.",
-      "wrongAnswers": [
-        "Activity increases",
-        "Activity remains constant",
-        "Stop producing substrate"
-      ],
+      "wrongAnswers": ["Activity increases", "Activity remains constant", "Stop producing substrate"],
       "question": "What happens to enzymes when pH is very high?",
       "correctAnswer": "Denature"
     },
@@ -1126,11 +1041,7 @@
     "content": {
       "question": "Cystic fibrosis is an inherited disorder. The allele which causes cystic fibrosis is recessive (f).\n\n By examining the area circled in the pedigree, what are the genotypes of the mother and the father?",
       "correctAnswer": "Mother: Ff - Father: Ff",
-      "wrongAnswers": [
-        "Mother: FF - Father: ff",
-        "Mother: ff - Father: ff",
-        "Mother: FF - Father: FF"
-      ]
+      "wrongAnswers": ["Mother: FF - Father: ff", "Mother: ff - Father: ff", "Mother: FF - Father: FF"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "0fb89c66-6765-451c-9cf1-a986214e5b04",
@@ -1242,11 +1153,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "The central nervous system responds to stimuli via a reflex arc.",
-      "wrongAnswers": [
-        "Via respiration",
-        "Via a metabolic pathway",
-        "Via the 'knee-jerk reaction'"
-      ],
+      "wrongAnswers": ["Via respiration", "Via a metabolic pathway", "Via the 'knee-jerk reaction'"],
       "question": "How does the central nervous system respond to stimuli?",
       "correctAnswer": "Via a reflex arc"
     },
@@ -1258,10 +1165,7 @@
     "moduleType": "multiple-choice",
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
-      "wrongAnswers": [
-        "They let us think about things for a long time",
-        "They are slower than other brain processes"
-      ],
+      "wrongAnswers": ["They let us think about things for a long time", "They are slower than other brain processes"],
       "question": "Why are reflex actions important?",
       "correctAnswer": "They let us react to dangerous situations quickly and automatically",
       "imageURL": "https://media.giphy.com/media/k440hwq05EgBW/giphy.mp4"
@@ -1361,11 +1265,7 @@
     "content": {
       "question": "What is the main function of a sperm cell?",
       "correctAnswer": "To fertilise egg cells",
-      "wrongAnswers": [
-        "To spread DNA in bacterial culture",
-        "To reproduce asexually",
-        "To kill bacteria"
-      ]
+      "wrongAnswers": ["To spread DNA in bacterial culture", "To reproduce asexually", "To kill bacteria"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "545c3360-d381-11e7-b6f3-dd534bfe82a9",
@@ -1475,12 +1375,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Phloem vessels are specialised for transporting food products to parts of the plant where they are needed.",
-      "wrongAnswers": [
-        "Xylem",
-        "Transpiration stream",
-        "Stomata",
-        "Nervous system"
-      ],
+      "wrongAnswers": ["Xylem", "Transpiration stream", "Stomata", "Nervous system"],
       "question": "Plant cells have specialised systems that transport water and minerals, or sugars. What vessels are used to move sugars from where they're produced to where they're used up?",
       "correctAnswer": "Phloem"
     },
@@ -1608,12 +1503,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "The consensus amongst climate scientists is that the greenhouse effect is causing global warming, i.e. the gradual increase in the Earth’s temperature.",
-      "wrongAnswers": [
-        "Deforestation",
-        "Land use change",
-        "The population explosion",
-        "Overfishing"
-      ],
+      "wrongAnswers": ["Deforestation", "Land use change", "The population explosion", "Overfishing"],
       "question": "The consensus among climate scientists is that the greenhouse effect is causing:",
       "correctAnswer": "Global warming"
     },
@@ -1653,11 +1543,7 @@
     "content": {
       "question": "What size are eukaryotic cells? ",
       "correctAnswer": "10 - 100 micrometres",
-      "wrongAnswers": [
-        "100 - 1&comma;000 micrometres",
-        "10 - 100 nanometres",
-        "100 - 1&comma;000 nanometres"
-      ]
+      "wrongAnswers": ["100 - 1,000 micrometres", "10 - 100 nanometres", "100 - 1,000 nanometres"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "dc0a4577-5f14-4245-88f1-7f6b5fcde585",
@@ -1696,11 +1582,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Examples of inherited disorders include red-green colour blindness, cystic fibrosis and sickle cell anaemia. ",
-      "wrongAnswers": [
-        "Red-green colour blindness",
-        "Cystic fibrosis",
-        "Sickle cell anaemia"
-      ],
+      "wrongAnswers": ["Red-green colour blindness", "Cystic fibrosis", "Sickle cell anaemia"],
       "question": "Which of these is not an example of an inherited disorder?",
       "correctAnswer": "Malaria"
     },
@@ -1846,11 +1728,7 @@
     "content": {
       "question": "Which of the following is NOT a consequence of global warming?",
       "correctAnswer": "Increase in biodiversity",
-      "wrongAnswers": [
-        "Ocean acidification",
-        "Changes to migration patterns",
-        "Rising sea surface temperatures"
-      ]
+      "wrongAnswers": ["Ocean acidification", "Changes to migration patterns", "Rising sea surface temperatures"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "6d8c2ad8-2724-438b-a917-26aa9352060d",
@@ -1907,11 +1785,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Excessive alcohol intake is a risk factor for liver and brain damage",
-      "wrongAnswers": [
-        "Lungs and heart",
-        "Pancreas and stomach",
-        "Intestines and kidneys"
-      ],
+      "wrongAnswers": ["Lungs and heart", "Pancreas and stomach", "Intestines and kidneys"],
       "question": "Which organs can be damaged by excessive alcohol drinking?",
       "correctAnswer": "Liver and brain"
     },
@@ -1994,11 +1868,7 @@
     "content": {
       "question": "Which of the following is NOT a response to the body being too hot?",
       "correctAnswer": "Muscle contractions increase",
-      "wrongAnswers": [
-        "Sweat is released from sweat glands under the skin",
-        "Hairs lie flat",
-        "Vasodilation"
-      ]
+      "wrongAnswers": ["Sweat is released from sweat glands under the skin", "Hairs lie flat", "Vasodilation"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "9b88a815-84d9-4a5e-9523-de08b6a56970",
@@ -2147,11 +2017,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "If the pH is too low or high an enzyme is denatured and will not function.",
-      "wrongAnswers": [
-        "Activity increases",
-        "Activity remains constant",
-        "Stop producing substrate"
-      ],
+      "wrongAnswers": ["Activity increases", "Activity remains constant", "Stop producing substrate"],
       "question": "What happens to enzymes when pH is too high?",
       "correctAnswer": "Denature"
     },
@@ -2211,10 +2077,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "In most cases, mutations affect proteins minimally, but occasionally they can alter the protein with detrimental effects on the protein's function, and sometimes they may give the protein a survival advantage.",
-      "wrongAnswers": [
-        "An alteration to the protein's functionality",
-        "A survival advantage"
-      ],
+      "wrongAnswers": ["An alteration to the protein's functionality", "A survival advantage"],
       "question": "Which of the following is a mutation unable to cause?",
       "correctAnswer": "The destruction of the organism"
     },
@@ -2277,12 +2140,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Both diffusion and osmosis are examples of passive transport: particles move down a concentration gradient, meaning that these processes do not require energy. Net particle movement occurs as a by-product of the random motion of particles.",
-      "wrongAnswers": [
-        "Just diffusion",
-        "Just osmosis",
-        "Just active transport",
-        "Both osmosis and active transport"
-      ],
+      "wrongAnswers": ["Just diffusion", "Just osmosis", "Just active transport", "Both osmosis and active transport"],
       "question": "Which of diffusion, osmosis and active transport are examples of passive transport?",
       "correctAnswer": "Both diffusion and osmosis"
     },
@@ -2309,12 +2167,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Bile is an alkaline substance produced in the liver and stored in the gall bladder.",
-      "wrongAnswers": [
-        "Stomach",
-        "Mouth",
-        "Large intestine",
-        "Small intestine"
-      ],
+      "wrongAnswers": ["Stomach", "Mouth", "Large intestine", "Small intestine"],
       "question": "Where is bile stored?",
       "correctAnswer": "Gall bladder"
     },
@@ -2350,11 +2203,7 @@
     "moduleType": "multiple-choice",
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
-      "wrongAnswers": [
-        "Muscle contractions (shivering)",
-        "Hairs stand on end",
-        "Blood vessels constrict"
-      ],
+      "wrongAnswers": ["Muscle contractions (shivering)", "Hairs stand on end", "Blood vessels constrict"],
       "question": "Which of these will NOT happen if our body is too cold?",
       "correctAnswer": "Sweating",
       "imageURL": "https://media.giphy.com/media/d3mlmtNPoxNrt4Bi/giphy.mp4"
@@ -2369,10 +2218,7 @@
     "content": {
       "question": "When growing bacterial cultures, which of the following is an independent variable?",
       "correctAnswer": "The choice of antibiotic/antiseptic",
-      "wrongAnswers": [
-        "The diameter of the clear zone",
-        "The period of time in incubation"
-      ]
+      "wrongAnswers": ["The diameter of the clear zone", "The period of time in incubation"]
     },
     "parentId": "c4c5a140-d39a-11e7-b6f3-dd534bfe82a9",
     "id": "5545c120-ff54-11e7-bab0-5799ac420c2b",
@@ -2473,12 +2319,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Arteries carry oxygenated blood apart from the pulmonary artery.",
-      "wrongAnswers": [
-        "Renal artery",
-        "Femoral artery",
-        "Vertebral artery",
-        "Carotid artery"
-      ],
+      "wrongAnswers": ["Renal artery", "Femoral artery", "Vertebral artery", "Carotid artery"],
       "question": "Which is the only artery that does NOT carry oxygenated blood?",
       "correctAnswer": "Pulmonary artery"
     },
@@ -2506,11 +2347,7 @@
     "content": {
       "question": "What are apex predators eaten by?",
       "correctAnswer": "Nothing",
-      "wrongAnswers": [
-        "Secondary apex predators",
-        "Tertiary consumers",
-        "Omnivores"
-      ]
+      "wrongAnswers": ["Secondary apex predators", "Tertiary consumers", "Omnivores"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "f5574f68-6973-42f2-9ee5-d20a7f473df7",
@@ -2721,10 +2558,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Active transport is a process whereby dissolved molecules move from a less concentrated solution to a more concentrated solution.",
-      "wrongAnswers": [
-        "Sugar absorption in the guts of humans",
-        "Mineral ion absorption in the roots of plants"
-      ],
+      "wrongAnswers": ["Sugar absorption in the guts of humans", "Mineral ion absorption in the roots of plants"],
       "question": "Which of the following processes does not occur via active transport?",
       "correctAnswer": "Movement of water up xylem vessels"
     },
@@ -2737,12 +2571,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Bile is an alkaline substance produced in the liver and stored in the gall bladder.",
-      "wrongAnswers": [
-        "Stomach",
-        "Mouth",
-        "Large intestine",
-        "Small intestine"
-      ],
+      "wrongAnswers": ["Stomach", "Mouth", "Large intestine", "Small intestine"],
       "question": "Where is bile stored?",
       "correctAnswer": "Gall bladder"
     },
@@ -2773,12 +2602,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "The only truly effective way to guarantee avoidance of pregnancy is abstinence",
-      "wrongAnswers": [
-        "Diaphragms",
-        "Contraceptive implants",
-        "Intrauterine devices",
-        "Contraceptive pills"
-      ],
+      "wrongAnswers": ["Diaphragms", "Contraceptive implants", "Intrauterine devices", "Contraceptive pills"],
       "question": "What is the only truly effective method of avoiding pregnancy?",
       "correctAnswer": "Abstinence"
     },
@@ -2866,12 +2690,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "The body uses oxygen for respiration.",
-      "wrongAnswers": [
-        "Photosynthesis",
-        "Hydrolysis",
-        "Breathing",
-        "Gas exchange"
-      ],
+      "wrongAnswers": ["Photosynthesis", "Hydrolysis", "Breathing", "Gas exchange"],
       "question": "What process does the body use oxygen for?",
       "correctAnswer": "Respiration"
     },
@@ -2884,10 +2703,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Genetic engineering involves modifying (changing) an organism’s genome by introducing a gene from another organism to produce a desired characteristic.",
-      "wrongAnswers": [
-        "Introducing a gene from another organism",
-        "Modifying an organism's genome"
-      ],
+      "wrongAnswers": ["Introducing a gene from another organism", "Modifying an organism's genome"],
       "question": "Genetic engineering does not involve:",
       "correctAnswer": "Creating a new gene"
     },
@@ -2912,12 +2728,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "When a community is stable, populations sizes in it are:",
-      "wrongAnswers": [
-        "Growing rapidly",
-        "Growing slowly",
-        "Falling fast",
-        "Falling slowly"
-      ],
+      "wrongAnswers": ["Growing rapidly", "Growing slowly", "Falling fast", "Falling slowly"],
       "question": "When a community is stable, the populations within it are:",
       "correctAnswer": "Fairly constant"
     },
@@ -2967,11 +2778,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "The function of platelets is to trigger blood clotting.",
-      "wrongAnswers": [
-        "Defence against disease",
-        "Transporting oxygen",
-        "Growth & repair"
-      ],
+      "wrongAnswers": ["Defence against disease", "Transporting oxygen", "Growth & repair"],
       "question": "What is the function of platelets?",
       "correctAnswer": "Trigger blood clotting"
     },
@@ -2984,11 +2791,7 @@
     "content": {
       "question": "Which of the following is NOT a factor that affects the rate of photosynthesis?",
       "correctAnswer": "Glucose concentration",
-      "wrongAnswers": [
-        "Temperature",
-        "Light intensity",
-        "Chlorophyll concentration"
-      ]
+      "wrongAnswers": ["Temperature", "Light intensity", "Chlorophyll concentration"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "f3ee74ae-3cd4-4e44-9b3f-0fe5128a175d",
@@ -3014,11 +2817,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Gibberellins do not promote growth in plant tissue cultures. ",
-      "wrongAnswers": [
-        "Promoting flowering",
-        "Increasing fruit size",
-        "Initiating seed germination"
-      ],
+      "wrongAnswers": ["Promoting flowering", "Increasing fruit size", "Initiating seed germination"],
       "question": "Gibberellins are NOT used for:",
       "correctAnswer": "Promoting growth in tissue culture"
     },
@@ -3330,14 +3129,14 @@
     "content": {
       "question": "A colony of bacteria forms a circle with a diameter of 80 mm. What is the area of the colony? (π = 3.142)\n",
       "correctAnswer": "50.3 cm^2 ",
-      "wrongAnswers": ["50.3 mm^2", "5030 cm^2", "20&comma;100 mm^2"]
+      "wrongAnswers": ["50.3 mm^2", "5030 cm^2", "20,100 mm^2"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "47e64cfa-8202-41f6-867f-03d1aac498ab",
     "draft": {
       "question": "A colony of bacteria forms a circle with a diameter of 80 mm. What is the area of the colony? (π = 3.142)\n",
       "correctAnswer": "50.3 cm^2 ",
-      "wrongAnswers": "50.3 mm^2, 5030 cm^2, 20&comma;100 mm^2"
+      "wrongAnswers": "50.3 mm^2, 5030 cm^2, 20,100 mm^2"
     },
     "id": "7e0184ca-2454-4114-ae75-45ba879ea468",
     "moduleDifficulty": 1,
@@ -3348,10 +3147,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "The presence of more humans means that more resources are being used. Not only are there more humans than ever before, but the desired standard of living is also higher, and so we are producing more goods. ",
-      "wrongAnswers": [
-        "Human population explosion",
-        "Increased average standard of living"
-      ],
+      "wrongAnswers": ["Human population explosion", "Increased average standard of living"],
       "question": "Which of the following is not a cause of increased waste production?",
       "correctAnswer": "Increased rate of deforestation"
     },
@@ -3390,11 +3186,7 @@
     "content": {
       "question": "Which of the following is NOT a hormone that controls the menstrual cycle?",
       "correctAnswer": "Testosterone",
-      "wrongAnswers": [
-        "Follicle Stimulating Hormone",
-        "Progesterone",
-        "Luteinising Hormone"
-      ]
+      "wrongAnswers": ["Follicle Stimulating Hormone", "Progesterone", "Luteinising Hormone"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "42ad0c63-41f8-4744-9f10-0bc8fd3475ca",
@@ -3445,11 +3237,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "A classic example of such predator-prey cycle dynamics is that of the Canada lynx and snowshoe hare.",
-      "wrongAnswers": [
-        "American lynx and snowshoe hare",
-        "Canada lynx and snowy hare",
-        "American lynx and snowy hare"
-      ],
+      "wrongAnswers": ["American lynx and snowshoe hare", "Canada lynx and snowy hare", "American lynx and snowy hare"],
       "question": "Which of these is a classic example of predator-prey dynamics?",
       "correctAnswer": "Canada lynx and snowshoe hare"
     },
@@ -3476,12 +3264,7 @@
     "content": {
       "question": "Which of the following is NOT a feature of male puberty?",
       "correctAnswer": "The amount of the hormone oestrogen rises",
-      "wrongAnswers": [
-        "Sperm production",
-        "Changes to the underarm",
-        "facial and pubic hair grow",
-        "Voice deepens"
-      ]
+      "wrongAnswers": ["Sperm production", "Changes to the underarm", "facial and pubic hair grow", "Voice deepens"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "42ad0c63-41f8-4744-9f10-0bc8fd3475ca",
@@ -3494,14 +3277,14 @@
     "content": {
       "question": "A colony of bacteria forms a circle with a diameter of 80 mm. What is the area of the colony? (π = 3.142)\n",
       "correctAnswer": "50.3 cm^2 ",
-      "wrongAnswers": ["50.3 mm^2", "5030 cm^2", "20&comma;100 mm^2"]
+      "wrongAnswers": ["50.3 mm^2", "5030 cm^2", "20,100 mm^2"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "69b33c05-8973-4311-b4b0-2ba5c5c36194",
     "draft": {
       "question": "A colony of bacteria forms a circle with a diameter of 80 mm. What is the area of the colony? (π = 3.142)\n",
       "correctAnswer": "50.3 cm^2 ",
-      "wrongAnswers": "50.3 mm^2, 5030 cm^2, 20&comma;100 mm^2"
+      "wrongAnswers": "50.3 mm^2, 5030 cm^2, 20,100 mm^2"
     },
     "id": "86857ebd-020e-4184-baff-84131554b6ed",
     "moduleDifficulty": 1,
@@ -3549,12 +3332,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Veins have valves to prevent the back flow of blood.",
-      "wrongAnswers": [
-        "Keep pressure low",
-        "Stop bleeding",
-        "Enable transfer of waste products",
-        "Prevent disease"
-      ],
+      "wrongAnswers": ["Keep pressure low", "Stop bleeding", "Enable transfer of waste products", "Prevent disease"],
       "question": "Why do veins have valves?",
       "correctAnswer": "Prevent backflow of blood"
     },
@@ -3600,11 +3378,7 @@
     "content": {
       "question": "Which of the following are NOT tissues of living organisms?",
       "correctAnswer": "Molecular tissue",
-      "wrongAnswers": [
-        "Epithelial tissue",
-        "Muscular tissue",
-        "Epidermal tissue"
-      ]
+      "wrongAnswers": ["Epithelial tissue", "Muscular tissue", "Epidermal tissue"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "8c06082f-98cd-4cb4-b458-6749a81a1558",
@@ -3617,11 +3391,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Golden rice is rice that has been genetically modified to contain a molecule that’s used to make vitamin A.",
-      "wrongAnswers": [
-        "Vitamin A",
-        "Vitamin C",
-        "A molecule that helps make vitamin C"
-      ],
+      "wrongAnswers": ["Vitamin A", "Vitamin C", "A molecule that helps make vitamin C"],
       "question": "Golden rice has been genetically modified to contain:",
       "correctAnswer": "A molecule that helps make vitamin A"
     },
@@ -3696,11 +3466,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "0-10 micrometres",
-        "100-1&comma;000 micrometres",
-        "1&comma;000-10&comma;000 micrometres"
-      ],
+      "wrongAnswers": ["0-10 micrometres", "100-1,000 micrometres", "1,000-10,000 micrometres"],
       "question": "How big are eukaryotic cells?",
       "correctAnswer": "10-100 micrometres",
       "imageURL": "https://media.giphy.com/media/TvVck7lO4LDJS/giphy.mp4"
@@ -3728,10 +3494,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "If our body temperature rises well above 37°C, then automatic mechanisms will work to reduce the body's temperature.",
-      "wrongAnswers": [
-        "Automatic mechanisms will work to increase the body's temperature",
-        "Nothing will happen"
-      ],
+      "wrongAnswers": ["Automatic mechanisms will work to increase the body's temperature", "Nothing will happen"],
       "question": "What will happen if our body temperature rises well above 37°C?",
       "correctAnswer": "Automatic mechanisms will work to reduce the body's temperature"
     },
@@ -3745,11 +3508,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Feeding animals foods high in protein helps to boost growth rates.",
-      "wrongAnswers": [
-        "Boost energy levels",
-        "Boost intelligence",
-        "Boost mobility"
-      ],
+      "wrongAnswers": ["Boost energy levels", "Boost intelligence", "Boost mobility"],
       "question": "How do high protein foods benefit animals?",
       "correctAnswer": "Boost growth rates"
     },
@@ -3820,11 +3579,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Overfishing has led to the drastic decline of many fish stocks across the globe.",
-      "wrongAnswers": [
-        "Natural population dynamics",
-        "Changing ocean currents",
-        "Tourism"
-      ],
+      "wrongAnswers": ["Natural population dynamics", "Changing ocean currents", "Tourism"],
       "question": "What has been the primary cause of the drastic decline in global fish stocks?",
       "correctAnswer": "Overfishing"
     },
@@ -3956,11 +3711,7 @@
     "content": {
       "question": "Who discovered penicillin?",
       "correctAnswer": "Alexander Fleming",
-      "wrongAnswers": [
-        "Percy Penicillin",
-        "Alexandra Flemon",
-        "Albert Einstein"
-      ]
+      "wrongAnswers": ["Percy Penicillin", "Alexandra Flemon", "Albert Einstein"]
     },
     "parentId": "97822380-1660-11e8-adf5-8d78175c2a66",
     "id": "97822387-1660-11e8-adf5-8d78175c2a66",
@@ -3972,10 +3723,7 @@
     "content": {
       "question": "Why are scientists always trialling new antibiotics?",
       "correctAnswer": "New strains of resistant bacteria are always developing",
-      "wrongAnswers": [
-        "Antibiotics stop working over time",
-        "Antibiotics are constantly proving unreliable"
-      ]
+      "wrongAnswers": ["Antibiotics stop working over time", "Antibiotics are constantly proving unreliable"]
     },
     "parentId": "97f72c70-1660-11e8-adf5-8d78175c2a66",
     "id": "97f75386-1660-11e8-adf5-8d78175c2a66",
@@ -3986,11 +3734,7 @@
     "content": {
       "question": "Which of the following is NOT a reason why some people didn't believe Darwin's theory of evolution by natural selection?",
       "correctAnswer": "There was evidence against it",
-      "wrongAnswers": [
-        "Genes had not been discovered",
-        "Not enough evidence",
-        "Went against religious beliefs"
-      ]
+      "wrongAnswers": ["Genes had not been discovered", "Not enough evidence", "Went against religious beliefs"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "93fffc71-f60b-498f-90de-60c3a934e7cc",
@@ -4082,10 +3826,7 @@
     "content": {
       "question": "Why is it hard to treat brain damage or problems in the brain?",
       "correctAnswer": "We don't understand the brain that well",
-      "wrongAnswers": [
-        "We can't operate on the brain",
-        "We don't have any tools that can influence the brain"
-      ]
+      "wrongAnswers": ["We can't operate on the brain", "We don't have any tools that can influence the brain"]
     },
     "parentId": "3418e680-d98e-11e7-9bd5-53995c3110f0",
     "id": "9b72ac30-01a7-11e8-b0b0-75ed55be49fa",
@@ -4146,11 +3887,7 @@
     "content": {
       "question": "Which of the following is NOT a key feature of sexual reproduction?",
       "correctAnswer": "Only one parent",
-      "wrongAnswers": [
-        "Male and female gametes fuse",
-        "Offspring are non-identical",
-        "Cells divide by meiosis"
-      ]
+      "wrongAnswers": ["Male and female gametes fuse", "Offspring are non-identical", "Cells divide by meiosis"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "48f8c7db-9432-4629-ad05-1843379c9aca",
@@ -4163,11 +3900,7 @@
     "content": {
       "question": "Which of the following is NOT an internal condition that needs to be regulated in the body?",
       "correctAnswer": "Carbon monoxide levels",
-      "wrongAnswers": [
-        "Body temperature",
-        "Urea concentration",
-        "Blood sugar levels"
-      ]
+      "wrongAnswers": ["Body temperature", "Urea concentration", "Blood sugar levels"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "93d9f5b3-d4b2-4d99-8ed0-32efbbd6f780",
@@ -4223,11 +3956,7 @@
     "content": {
       "question": "Which property of xylem cells means their tubes are hollow and therefore resistance to water flow is low?",
       "correctAnswer": "They are dead",
-      "wrongAnswers": [
-        "They have no end walls",
-        "They contain lignin in the cell walls",
-        "They are waterproof"
-      ]
+      "wrongAnswers": ["They have no end walls", "They contain lignin in the cell walls", "They are waterproof"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "83033a53-58ac-4637-ad06-c25e81bccba5",
@@ -4253,12 +3982,7 @@
     "content": {
       "question": "According to Alfred Wallace's proposal, which of the following is the first stage in speciation?",
       "correctAnswer": "Geographical isolation",
-      "wrongAnswers": [
-        "Genetic variation",
-        "Natural selection",
-        "Natural selection",
-        "Genetic divergence"
-      ]
+      "wrongAnswers": ["Genetic variation", "Natural selection", "Natural selection", "Genetic divergence"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "88262f33-cbd6-4c9d-a3ce-6208ca1f11e1",
@@ -4271,10 +3995,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Most bacteria need a moist environment in which to grow, so a dry place is not ideal for culturing.",
-      "wrongAnswers": [
-        "In a nutrient broth solution",
-        "On agar in a petri dish"
-      ],
+      "wrongAnswers": ["In a nutrient broth solution", "On agar in a petri dish"],
       "question": "Bacteria can be cultured in several ways. Which of the following is not a method?",
       "correctAnswer": "In a warm dry place"
     },
@@ -4339,11 +4060,7 @@
     "content": {
       "question": "What does the CNS stand for?",
       "correctAnswer": "Central nervous system",
-      "wrongAnswers": [
-        "Core nervous system",
-        "Central neurone system",
-        "Critical nerve system"
-      ]
+      "wrongAnswers": ["Core nervous system", "Central neurone system", "Critical nerve system"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "6ff75470-5943-4101-bac3-bbfbbca56bff",
@@ -4356,11 +4073,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "For some time, and especially since the industrial revolution, humans have conducted many activities that have caused a severe decline in biodiversity on a global scale.",
-      "wrongAnswers": [
-        "Green revolution",
-        "Digital revolution",
-        "2^nd  green revolution"
-      ],
+      "wrongAnswers": ["Green revolution", "Digital revolution", "2^nd  green revolution"],
       "question": "Which revolution resulted in the initial spike in human activities that were detrimental to biodiversity?",
       "correctAnswer": "Industrial revolution"
     },
@@ -4455,11 +4168,7 @@
     "content": {
       "question": "Antibiotic resistance comes about partly because of...",
       "correctAnswer": "Evolution and mutations",
-      "wrongAnswers": [
-        "Painkillers",
-        "Tobacco Mosaic Virus",
-        "The use of stem cells"
-      ]
+      "wrongAnswers": ["Painkillers", "Tobacco Mosaic Virus", "The use of stem cells"]
     },
     "parentId": "6fb44460-de7e-11e7-b793-3dd4f13e8c3b",
     "id": "a89a5100-00e0-11e8-ab0f-d7a6440be174",
@@ -4658,8 +4367,8 @@
     "moduleType": "multiple-choice",
     "content": {
       "question": "In degrees Celsius, what is the optimum temperature of the human body?",
-      "correctAnswer": "37&deg;C",
-      "wrongAnswers": ["35&deg;C", "31&deg;C", "33&deg;C"]
+      "correctAnswer": "37 degrees Celsius",
+      "wrongAnswers": ["35 degrees Celsius", "31 degrees Celsius", "33 degrees Celsius"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "4adbd64a-c89e-45b7-958b-e996bf627de2",
@@ -4703,11 +4412,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Food chains nearly always begin with a producer that produces its own food. This is usually a green plant or algae that can carry out photosynthesis.",
-      "wrongAnswers": [
-        "They can absorb sunlight",
-        "They are very small",
-        "They are green"
-      ],
+      "wrongAnswers": ["They can absorb sunlight", "They are very small", "They are green"],
       "question": "What process can producers carry out?",
       "correctAnswer": "They can make their own food"
     },
@@ -4765,10 +4470,7 @@
     "content": {
       "question": "Which of these bacteria aren't good for human health?",
       "correctAnswer": "Salmonella",
-      "wrongAnswers": [
-        "Gut bacteria",
-        "Skin flora (on the surface of the skin)"
-      ]
+      "wrongAnswers": ["Gut bacteria", "Skin flora (on the surface of the skin)"]
     },
     "parentId": "944a57d0-f6f5-11e7-8c22-f766c100d7f6",
     "id": "b5a5a230-fd0e-11e7-b837-697ceb00e53f",
@@ -4886,11 +4588,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Each nucleotide is made up of a sugar, a phosphate and a base attached to the sugar.",
-      "wrongAnswers": [
-        "A phosphate",
-        "A sugar",
-        "A base attached to the sugar"
-      ],
+      "wrongAnswers": ["A phosphate", "A sugar", "A base attached to the sugar"],
       "question": "Nucleotides are made up of three components. Which one of these is not a component?",
       "correctAnswer": "A carbon"
     },
@@ -4941,11 +4639,7 @@
     "content": {
       "question": "Which of the following do NOT give rise to antibiotic resistance?",
       "correctAnswer": "Resistant bacteria produce non-identical copies",
-      "wrongAnswers": [
-        "Random mutations",
-        "Natural selection",
-        "Non-resistant bacteria die"
-      ]
+      "wrongAnswers": ["Random mutations", "Natural selection", "Non-resistant bacteria die"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "c625616a-9a35-45f0-9741-d6a63580a780",
@@ -5002,11 +4696,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Neuroscientists are scientists who study the brain",
-      "wrongAnswers": [
-        "Nervous scientist",
-        "Neuronescientist",
-        "Head scientist"
-      ],
+      "wrongAnswers": ["Nervous scientist", "Neuronescientist", "Head scientist"],
       "question": "What is another name for a scientist who studies the brain?",
       "correctAnswer": "Neuroscientist"
     },
@@ -5019,11 +4709,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "The Mode is the Most Common value in a series of numbers.",
-      "wrongAnswers": [
-        "The most rare value",
-        "The average value",
-        "The range of values"
-      ],
+      "wrongAnswers": ["The most rare value", "The average value", "The range of values"],
       "question": "What is the correct definition for the mode of a series of numbers?",
       "correctAnswer": "The most common value"
     },
@@ -5174,11 +4860,7 @@
     "content": {
       "question": "Which of the following is the vector for malaria? ",
       "correctAnswer": "Female anopheles mosquito",
-      "wrongAnswers": [
-        "Male anopheles mosquito",
-        "Female anaphylatic mosquito",
-        "Malaria is not spread by a vector"
-      ]
+      "wrongAnswers": ["Male anopheles mosquito", "Female anaphylatic mosquito", "Malaria is not spread by a vector"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "c625616a-9a35-45f0-9741-d6a63580a780",
@@ -5190,11 +4872,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "The higher the gradient of a product produced vs time graph the faster the rate of reaction. ",
-      "wrongAnswers": [
-        "Slow rate of reaction",
-        "No reaction",
-        "Enzyme is denatured"
-      ],
+      "wrongAnswers": ["Slow rate of reaction", "No reaction", "Enzyme is denatured"],
       "question": "A graph, with enzyme activity on the y axis, has a steep curve. This reflects:",
       "correctAnswer": "Fast rate of reaction"
     },
@@ -5302,10 +4980,7 @@
     "content": {
       "question": "What would happen if red blood cells had a nucleus?",
       "correctAnswer": "There would be less room for haemoglobin and oxygen",
-      "wrongAnswers": [
-        "We wouldn't be able to fight off illness",
-        "We wouldn't be able to reproduce"
-      ]
+      "wrongAnswers": ["We wouldn't be able to fight off illness", "We wouldn't be able to reproduce"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "f9109d03-7b1d-446a-9181-0640af46da86",
@@ -5487,10 +5162,7 @@
     "content": {
       "question": "What would happen if red blood cells had a nucleus?",
       "correctAnswer": "There would be less room for haemoglobin and oxygen",
-      "wrongAnswers": [
-        "We wouldn't be able to fight off illness",
-        "We wouldn't be able to reproduce"
-      ]
+      "wrongAnswers": ["We wouldn't be able to fight off illness", "We wouldn't be able to reproduce"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "3ba4fed0-d523-11e7-a3a5-d92be72aa0f2",
@@ -5628,11 +5300,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "The size of the concentration gradient, the temperature, and the membrane surface area are all factors that affect the rate of diffusion across membranes.",
-      "wrongAnswers": [
-        "Size of concentration gradient",
-        "Temperature",
-        "Membrane surface area"
-      ],
+      "wrongAnswers": ["Size of concentration gradient", "Temperature", "Membrane surface area"],
       "question": "Which of the following does not affect the rate of diffusion across membranes?",
       "correctAnswer": "Colour of molecule"
     },
@@ -5721,10 +5389,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "If our body temperature rises well above 37°C, then automatic mechanisms will work to reduce the body's temperature.",
-      "wrongAnswers": [
-        "Automatic mechanisms will work to increase the body's temperature",
-        "Nothing will happen"
-      ],
+      "wrongAnswers": ["Automatic mechanisms will work to increase the body's temperature", "Nothing will happen"],
       "question": "What will happen if our body temperature rises well above 37°C?",
       "correctAnswer": "Automatic mechanisms will work to reduce the body's temperature"
     },
@@ -5808,12 +5473,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Veins have valves to prevent the back flow of blood.",
-      "wrongAnswers": [
-        "Keep pressure low",
-        "Stop bleeding",
-        "Enable transfer of waste products",
-        "Prevent disease"
-      ],
+      "wrongAnswers": ["Keep pressure low", "Stop bleeding", "Enable transfer of waste products", "Prevent disease"],
       "question": "Why do veins have valves?",
       "correctAnswer": "Prevent backflow of blood"
     },
@@ -5864,12 +5524,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "The only vein that carries deoxygenated blood is the pulmonary vein.",
-      "wrongAnswers": [
-        "Renal vein",
-        "Jugular vein",
-        "Portal vein",
-        "Subclavian vein"
-      ],
+      "wrongAnswers": ["Renal vein", "Jugular vein", "Portal vein", "Subclavian vein"],
       "question": "Which is the only type of vein that carries oxygenated blood?",
       "correctAnswer": "Pulmonary vein"
     },
@@ -5909,11 +5564,7 @@
     "content": {
       "question": "Which of these CANNOT help to prevent the spread of pathogens?",
       "correctAnswer": "Blowing them away",
-      "wrongAnswers": [
-        "Washing your hands",
-        "Antibacterial products",
-        "Isolating infected people"
-      ]
+      "wrongAnswers": ["Washing your hands", "Antibacterial products", "Isolating infected people"]
     },
     "parentId": "944a57d0-f6f5-11e7-8c22-f766c100d7f6",
     "id": "e2bfc3f0-fd0d-11e7-b837-697ceb00e53f",
@@ -5950,12 +5601,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "A potometer is used to estimate the rate of transpiration.",
-      "wrongAnswers": [
-        "Thermometer",
-        "Dynamometer",
-        "Speedometer",
-        "Barometer"
-      ],
+      "wrongAnswers": ["Thermometer", "Dynamometer", "Speedometer", "Barometer"],
       "question": "What apparatus is used to calculate the rate of transpiration?",
       "correctAnswer": "Potometer"
     },
@@ -5980,12 +5626,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Guard cells found in the leaves are responsible for opening and closing the stomata.",
-      "wrongAnswers": [
-        "Root hair cells",
-        "Lignin",
-        "Xylem cells",
-        "Phloem cells"
-      ],
+      "wrongAnswers": ["Root hair cells", "Lignin", "Xylem cells", "Phloem cells"],
       "question": "Which of the following cells are responsible for opening and closing the stomata?",
       "correctAnswer": "Guard cells"
     },
@@ -6101,11 +5742,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "The capital of Greece is Athens",
-      "wrongAnswers": [
-        "Deep breathing",
-        "Reducing activity levels",
-        "More sleep"
-      ],
+      "wrongAnswers": ["Deep breathing", "Reducing activity levels", "More sleep"],
       "question": "Which of the following is a form of treatment for type 1 diabetes?",
       "correctAnswer": "Injecting insulin"
     },
@@ -6134,12 +5771,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Diabetics can't control their blood glucose levels. ",
-      "wrongAnswers": [
-        "Water balance",
-        "Menstrual cycle",
-        "Nitrogen balance",
-        "Temperature"
-      ],
+      "wrongAnswers": ["Water balance", "Menstrual cycle", "Nitrogen balance", "Temperature"],
       "question": "What are diabetics unable to control?",
       "correctAnswer": "Blood glucose levels"
     },
@@ -6177,10 +5809,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Active transport is a process whereby dissolved molecules move from a less concentrated solution to a more concentrated solution.",
-      "wrongAnswers": [
-        "Sugar absorption in the guts of humans",
-        "Mineral ion absorption in the roots of plants"
-      ],
+      "wrongAnswers": ["Sugar absorption in the guts of humans", "Mineral ion absorption in the roots of plants"],
       "question": "Which of the following processes does not occur via active transport?",
       "correctAnswer": "Movement of water up xylem vessels"
     },
@@ -6200,11 +5829,7 @@
     "content": {
       "question": "Which tissue can contract to bring about force and motion?",
       "correctAnswer": "Muscular tissue",
-      "wrongAnswers": [
-        "Mesophyll tissue",
-        "Ligamental tissue",
-        "Motional tissue"
-      ]
+      "wrongAnswers": ["Mesophyll tissue", "Ligamental tissue", "Motional tissue"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "8c06082f-98cd-4cb4-b458-6749a81a1558",
@@ -6381,11 +6006,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "In the extreme case of heart failure, patients may require a donor heart to be transplanted",
-      "wrongAnswers": [
-        "Dialysis",
-        "Use of animal or artificial valves",
-        "Insertion of stents"
-      ],
+      "wrongAnswers": ["Dialysis", "Use of animal or artificial valves", "Insertion of stents"],
       "question": "What procedure may be necessary in the case of heart failure?",
       "correctAnswer": "Transplant of a donor heart"
     },
@@ -6410,11 +6031,7 @@
     "content": {
       "question": "Which of the following is a disadvantage of farmers lighting and heating plants? ",
       "correctAnswer": "Increased cost ",
-      "wrongAnswers": [
-        "Lower yields",
-        "Lower costs",
-        "Increased rate of photosynthesis"
-      ]
+      "wrongAnswers": ["Lower yields", "Lower costs", "Increased rate of photosynthesis"]
     },
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "parentId": "8e66d0e0-f6f6-11e7-8c22-f766c100d7f6",
@@ -6462,12 +6079,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Both diffusion and osmosis are examples of passive transport: particles move down a concentration gradient, meaning that these processes do not require energy. Net particle movement occurs as a by-product of the random motion of particles.",
-      "wrongAnswers": [
-        "Just diffusion",
-        "Just osmosis",
-        "Just active transport",
-        "Both osmosis and active transport"
-      ],
+      "wrongAnswers": ["Just diffusion", "Just osmosis", "Just active transport", "Both osmosis and active transport"],
       "question": "Which of diffusion, osmosis and active transport are examples of passive transport?",
       "correctAnswer": "Both diffusion and osmosis"
     },
@@ -6507,10 +6119,7 @@
     "content": {
       "question": "Do body cells or sex cells (sperm and egg cells) have more chromosomes?",
       "correctAnswer": "Body cells have 2x as many chromosomes as sex cells",
-      "wrongAnswers": [
-        "They have the same number of chromosomes",
-        "Sex cells have more chromosomes than body cells"
-      ]
+      "wrongAnswers": ["They have the same number of chromosomes", "Sex cells have more chromosomes than body cells"]
     },
     "parentId": "a1fed050-d421-11e7-8dfd-47703dff82b3",
     "id": "f92c4b90-0055-11e8-a894-8948e289518b",
@@ -6604,11 +6213,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Typical inputs include excreted material from humans and animals, as well as farm and garden waste.",
-      "wrongAnswers": [
-        "Excreted material from animals",
-        "Farm waste",
-        "Garden waste"
-      ],
+      "wrongAnswers": ["Excreted material from animals", "Farm waste", "Garden waste"],
       "question": "Which of the following is not a typical input for small-scale biogas generators?",
       "correctAnswer": "Excreted material from plants"
     },
@@ -6637,11 +6242,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Carbon dioxide availability is not a factor that affects the rate of decay of biological material.",
-      "wrongAnswers": [
-        "Moisture availability",
-        "Oxygen availability",
-        "Temperature"
-      ],
+      "wrongAnswers": ["Moisture availability", "Oxygen availability", "Temperature"],
       "question": "Which of the following conditions does not affect the rate of decay?",
       "correctAnswer": "Carbon dioxide availability"
     },
@@ -6654,10 +6255,7 @@
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "These reproductive hormones also cause secondary sex characteristics to develop. ",
-      "wrongAnswers": [
-        "Primary sex characteristics",
-        "Tertiary sex characteristics"
-      ],
+      "wrongAnswers": ["Primary sex characteristics", "Tertiary sex characteristics"],
       "question": "Features that appear during puberty are called:",
       "correctAnswer": "Secondary sex characteristics "
     },

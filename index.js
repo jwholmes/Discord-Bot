@@ -6,9 +6,7 @@ const fs = require("fs");
 
 bot.commands = new Discord.Collection();
 
-const commandFiles = fs
-  .readdirSync("./commands")
-  .filter((file) => file.endsWith(".js"));
+const commandFiles = fs.readdirSync("./commands").filter((file) => file.endsWith(".js"));
 
 for (const file of commandFiles) {
   const command = require(`./commands/${file}`);
@@ -33,6 +31,9 @@ bot.on("message", (msg) => {
     //   break;
     case "quiz":
       bot.commands.get("quiz").execute(msg, args);
+      break;
+    case "test":
+      bot.commands.get("test").execute(msg, args);
       break;
     // case "meme":
     //   bot.commands.get("meme").execute(msg, args);
