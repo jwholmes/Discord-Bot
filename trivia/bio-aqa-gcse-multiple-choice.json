@@ -1038,24 +1038,6 @@
   },
   {
     "moduleType": "multiple-choice",
-    "content": {
-      "question": "Cystic fibrosis is an inherited disorder. The allele which causes cystic fibrosis is recessive (f).\n\n By examining the area circled in the pedigree, what are the genotypes of the mother and the father?",
-      "correctAnswer": "Mother: Ff - Father: Ff",
-      "wrongAnswers": ["Mother: FF - Father: ff", "Mother: ff - Father: ff", "Mother: FF - Father: FF"]
-    },
-    "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
-    "parentId": "0fb89c66-6765-451c-9cf1-a986214e5b04",
-    "draft": {
-      "question": "Cystic fibrosis is an inherited disorder. The allele which causes cystic fibrosis is recessive (f).\n\n By examining the area circled in the pedigree, what are the genotypes of the mother and the father?",
-      "correctAnswer": "Mother: Ff - Father: Ff",
-      "wrongAnswers": "Mother: FF - Father: ff, Mother: ff - Father: ff, Mother: FF - Father: FF, "
-    },
-    "id": "2d2c23a1-9940-480c-8376-8ef8eaf4a454",
-    "moduleDifficulty": 1,
-    "type": "module"
-  },
-  {
-    "moduleType": "multiple-choice",
     "courseId": "6b76a6e0-cf79-11e7-83a9-29a486db2c9f",
     "content": {
       "statement": "Decomposers can't act in peat bogs.",

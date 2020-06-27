@@ -1,6 +1,15 @@
 const Discord = require("discord.js");
 const biology = require("../trivia/bio-aqa-gcse-multiple-choice.json");
+const business = require("../trivia/bus-aqa-gcse-multiple-choice.json");
+const comsci = require("../trivia/comsci-aqa-gcse-multiple-choice.json");
+const dt = require("../trivia/dt-aqa-gcse-multiple-choice.json");
+const englishLanguage = require("../trivia/eng-aqa-gcse-language-multiple-choice.json");
+const englishAIC = require("../trivia/eng-aqa-gcse-AIC-multiple-choice.json");
+const french = require("../trivia/french-aqa-gcse-multiple-choice.json");
 const geography = require("../trivia/geog-aqa-gcse-multiple-choice.json");
+const historyGermany = require("../trivia/hist-aqa-gcse-germany-multiple-choice.json");
+const physics = require("../trivia/phys-aqa-gcse-multiple-choice.json");
+const spanish = require("../trivia/span-aqa-gcse-multiple-choice.json");
 
 var emojiArray = ["🇦", "🇧", "🇨", "🇩", "🇪", "🇫"];
 var incorrectGIFArray = [
@@ -54,14 +63,14 @@ var startGIFArray = [
 ];
 const randomReadyGIF = startGIFArray[Math.floor(Math.random() * startGIFArray.length)];
 
-async function geographyProcess(message) {
-  const randomGeographyQuestion = geography[Math.floor(Math.random() * geography.length)];
+async function process(message, data) {
+  const randomQuestion = data[Math.floor(Math.random() * data.length)];
   const randomIncorrectGIF = incorrectGIFArray[Math.floor(Math.random() * incorrectGIFArray.length)];
   const randomCorrectGIF = correctGIFArray[Math.floor(Math.random() * correctGIFArray.length)];
-  const geographyQuestion = randomGeographyQuestion.content.question;
-  const correctAnswer = randomGeographyQuestion.content.correctAnswer;
-  const wrongAnswersArray = randomGeographyQuestion.content.wrongAnswers;
-  const geographyQuestionImagery = randomGeographyQuestion.content.imageURL;
+  const question = randomQuestion.content.question;
+  const correctAnswer = randomQuestion.content.correctAnswer;
+  const wrongAnswersArray = randomQuestion.content.wrongAnswers;
+  const questionImagery = randomQuestion.content.imageURL;
   const numberOfWrongAnswers = wrongAnswersArray.length;
 
   const indexToAddCorrectAnswer = Math.floor(Math.random() * numberOfWrongAnswers);
@@ -73,83 +82,17 @@ async function geographyProcess(message) {
 
   const allAnswersString = wrongAnswersArray.map((i, idx) => emojiArray[idx] + " " + i).join("\n");
 
-  var geographyQuestionEmbed = new Discord.MessageEmbed()
+  var questionEmbed = new Discord.MessageEmbed()
     .setColor("#0099ff")
-    .setDescription(`**${geographyQuestion}**` + `\n\n${allAnswersString}`);
+    .setDescription(`**${question}**` + `\n\n${allAnswersString}`);
 
-  const botMessage = await message.author.send(geographyQuestionEmbed);
+  const botMessage = await message.author.send(questionEmbed);
   for (let i = 0; i < newEmojiArray.length; i++) {
     await botMessage.react(emojiArray[i]);
   }
 
   try {
-    await message.author.send(geographyQuestionImagery);
-  } catch (error) {
-    console.log("No imageURL found", error);
-  }
-
-  const emojiAnswer = emojiArray[indexToAddCorrectAnswer];
-
-  var filter = (reaction, user) => user.id === message.author.id;
-  const reactions = await botMessage.awaitReactions(filter, { max: 1, time: 15000 });
-
-  sendIncorrectGIF = () => {
-    message.author.send(randomIncorrectGIF);
-  };
-  sendCorrectGIF = () => {
-    message.author.send(randomCorrectGIF);
-  };
-
-  getCorrectUsers = (correctReaction) => {
-    return correctReaction.users.cache.filter((user) => !user.bot).map((user) => user.username);
-  };
-
-  if (reactions.has(emojiAnswer)) {
-    const correctReaction = reactions.get(emojiAnswer);
-    await message.author.send(new Discord.MessageEmbed().setColor("#30E84E").setDescription(`You nailed it! 🥳 `));
-    if (Math.random() > 0.5) {
-      setTimeout(sendCorrectGIF, 2000);
-    }
-  } else {
-    await message.author.send(
-      new Discord.MessageEmbed().setColor("#F96F51").setDescription(`The answer was ${emojiAnswer}`)
-    );
-    if (Math.random() > 0.5) {
-      setTimeout(sendIncorrectGIF, 2000);
-    }
-  }
-}
-
-async function biologyProcess(message) {
-  const randomBiologyQuestion = biology[Math.floor(Math.random() * biology.length)];
-  const randomIncorrectGIF = incorrectGIFArray[Math.floor(Math.random() * incorrectGIFArray.length)];
-  const randomCorrectGIF = correctGIFArray[Math.floor(Math.random() * correctGIFArray.length)];
-  const biologyQuestion = randomBiologyQuestion.content.question;
-  const correctAnswer = randomBiologyQuestion.content.correctAnswer;
-  const wrongAnswersArray = randomBiologyQuestion.content.wrongAnswers;
-  const imagery = randomBiologyQuestion.content.imageURL;
-  const numberOfWrongAnswers = wrongAnswersArray.length;
-
-  const indexToAddCorrectAnswer = Math.floor(Math.random() * numberOfWrongAnswers);
-  wrongAnswersArray.splice(indexToAddCorrectAnswer, 0, `${correctAnswer}`);
-
-  const allAnswersArray = wrongAnswersArray;
-
-  const newEmojiArray = emojiArray.slice(0, numberOfWrongAnswers + 1);
-
-  const allAnswersString = wrongAnswersArray.map((i, idx) => emojiArray[idx] + " " + i).join("\n");
-
-  var biologyQuestionEmbed = new Discord.MessageEmbed()
-    .setColor("#0099ff")
-    .setDescription(`**${biologyQuestion}**` + `\n\n${allAnswersString}`);
-
-  const botMessage = await message.author.send(biologyQuestionEmbed);
-  for (let i = 0; i < newEmojiArray.length; i++) {
-    await botMessage.react(emojiArray[i]);
-  }
-
-  try {
-    await message.author.send(imagery);
+    await message.author.send(questionImagery);
   } catch (error) {
     console.log("No imageURL found", error);
   }
@@ -164,10 +107,6 @@ async function biologyProcess(message) {
   };
   sendCorrectGIF = () => {
     message.author.send(randomCorrectGIF);
-  };
-
-  getCorrectUsers = (correctReaction) => {
-    return correctReaction.users.cache.filter((user) => !user.bot).map((user) => user.username);
   };
 
   if (reactions.has(emojiAnswer)) {
@@ -197,10 +136,28 @@ module.exports = {
     const subjectMessage = await message.author.send(
       new Discord.MessageEmbed().setColor("#FFD800").setTitle("QUIZ TIME!").setDescription(`**Choose your subject 📚**
         \n🧬 Biology 
-        \n🌍 Geography`)
+        \n💰 Business
+        \n💻 ComSci 
+        \n⚒️ DT 
+        \n🕵️ English Lit - An Inspector Calls
+        \n📚 English Language
+        \n🇫🇷 French
+        \n🌍 Geography
+        \n🇩🇪 History - Nazi Germany 
+        \n🔭 Physics 
+        \n🇪🇸 Spanish`)
     );
     await subjectMessage.react("🧬");
+    await subjectMessage.react("💰");
+    await subjectMessage.react("💻");
+    await subjectMessage.react("⚒️");
+    await subjectMessage.react("🕵️");
+    await subjectMessage.react("📚");
+    await subjectMessage.react("🇫🇷");
     await subjectMessage.react("🌍");
+    await subjectMessage.react("🇩🇪");
+    await subjectMessage.react("🔭");
+    await subjectMessage.react("🇪🇸");
 
     var filter = (reaction, user) => user.id === message.author.id;
     const subjectReaction = await subjectMessage.awaitReactions(filter, { max: 1 });
@@ -210,14 +167,59 @@ module.exports = {
     await sleep(2000);
 
     if (subjectReaction.has("🧬")) {
-      for (let i = 0; i < 2; i++) {
-        await biologyProcess(message);
-        await sleep(5000);
+      for (let i = 0; i < 5; i++) {
+        await process(message, biology);
+        await sleep(3000);
+      }
+    } else if (subjectReaction.has("💰")) {
+      for (let i = 0; i < 5; i++) {
+        await process(message, business);
+        await sleep(3000);
+      }
+    } else if (subjectReaction.has("💻")) {
+      for (let i = 0; i < 5; i++) {
+        await process(message, comsci);
+        await sleep(3000);
+      }
+    } else if (subjectReaction.has("⚒️")) {
+      for (let i = 0; i < 5; i++) {
+        await process(message, dt);
+        await sleep(3000);
+      }
+    } else if (subjectReaction.has("🕵️")) {
+      for (let i = 0; i < 5; i++) {
+        await process(message, englishAIC);
+        await sleep(3000);
+      }
+    } else if (subjectReaction.has("📚")) {
+      for (let i = 0; i < 5; i++) {
+        await process(message, englishLanguage);
+        await sleep(3000);
+      }
+    } else if (subjectReaction.has("🇫🇷")) {
+      for (let i = 0; i < 5; i++) {
+        await process(message, french);
+        await sleep(3000);
       }
     } else if (subjectReaction.has("🌍")) {
-      for (let i = 0; i < 2; i++) {
-        await geographyProcess(message);
-        await sleep(5000);
+      for (let i = 0; i < 5; i++) {
+        await process(message, geography);
+        await sleep(3000);
+      }
+    } else if (subjectReaction.has("🇩🇪")) {
+      for (let i = 0; i < 5; i++) {
+        await process(message, historyGermany);
+        await sleep(3000);
+      }
+    } else if (subjectReaction.has("🔭")) {
+      for (let i = 0; i < 5; i++) {
+        await process(message, physics);
+        await sleep(3000);
+      }
+    } else if (subjectReaction.has("🇪🇸")) {
+      for (let i = 0; i < 5; i++) {
+        await process(message, spanish);
+        await sleep(3000);
       }
     }
 
