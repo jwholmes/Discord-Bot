@@ -1005,7 +1005,7 @@
       "wrongAnswers": [
         "Summarise the similarities or differences between sources",
         "Compare how the writers convey their ideas",
-        "Analyse how the writer uses language to make the reader feel&comma; imagine or think something"
+        "Analyse how the writer uses language to make the reader feel, imagine or think something"
       ]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
@@ -2038,11 +2038,7 @@
     "content": {
       "question": "What type of sentences should you use to quicken the pace?",
       "correctAnswer": "Short, simple sentences",
-      "wrongAnswers": [
-        "Long&comma; complex sentences",
-        "Long&comma; compound sentences",
-        "Short&comma; complex sentences"
-      ]
+      "wrongAnswers": ["Long, complex sentences", "Long, compound sentences", "Short, complex sentences"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "62ef9b0a-9711-4bde-8712-052d2ccb3353",
@@ -2105,9 +2101,9 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": [
-        "Fast&comma; efficient and useful",
-        "Overwhelming&comma; shocking and disturbing",
-        "Offensive&comma; unhealthy and deceptive"
+        "Fast, efficient and useful",
+        "Overwhelming, shocking and disturbing",
+        "Offensive, unhealthy and deceptive"
       ],
       "question": "Which triple best describes the picture?",
       "correctAnswer": "Dark, gooey and moist",

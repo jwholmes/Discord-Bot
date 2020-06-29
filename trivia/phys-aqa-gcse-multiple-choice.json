@@ -1345,7 +1345,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Wave frequency is measured in hertz. ",
-      "wrongAnswers": ["4&comma;000 s", "6 s", "0.004 s"],
+      "wrongAnswers": ["4,000 s", "6 s", "0.004 s"],
       "question": "A wave with a frequency of 6 kHz was found to oscillate 24,000 times. Over what time period was it measured?",
       "correctAnswer": "4 s"
     },
@@ -3720,7 +3720,7 @@
     "content": {
       "question": "If there are 600 turns on the secondary coil, how many turns must there be on the primary coil in order for the 20,000 V potential difference to be 'stepped-up' to 400,000 V?",
       "correctAnswer": "30 turns",
-      "wrongAnswers": ["12&comma;000 turns", "300 turns", "1&comma;200 turns"]
+      "wrongAnswers": ["12,000 turns", "300 turns", "1,200 turns"]
     },
     "courseId": "fe56ca00-05aa-11e8-9a61-01927559cfd5",
     "parentId": "0bf29fc3-2e47-4d15-8f63-7d455c7fd27e",

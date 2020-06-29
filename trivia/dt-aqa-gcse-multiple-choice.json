@@ -321,7 +321,7 @@
     "content": {
       "question": "What is NOT a type of polymer?",
       "correctAnswer": "Graphene",
-      "wrongAnswers": ["Corn starch polymers", "Polylactic acid (PLA)", "Polyhydroxybutyrate (PHB&comma; Biopol)"]
+      "wrongAnswers": ["Corn starch polymers", "Polylactic acid (PLA)", "Polyhydroxybutyrate (PHB, Biopol)"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "fb5867df-1d03-4464-aabb-84332d3371a0",
