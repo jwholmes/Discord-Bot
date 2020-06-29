@@ -3,10 +3,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Increase",
-        "Stay the same"
-      ],
+      "wrongAnswers": ["Increase", "Stay the same"],
       "question": "What is likely to happen to the sales at a supermarket like Waitrose during a recession?",
       "correctAnswer": "Decrease",
       "imageURL": "https://media.giphy.com/media/SYcMO4b4naMog/giphy.mp4"
@@ -22,11 +19,7 @@
     "content": {
       "question": "During a recession, which supermarket is most likely to increase their market share?",
       "correctAnswer": "Aldi",
-      "wrongAnswers": [
-        "Waitrose",
-        "Marks and Spencer",
-        "Whole Foods"
-      ]
+      "wrongAnswers": ["Waitrose", "Marks and Spencer", "Whole Foods"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "006abd20-3322-11e8-84d9-f7b314e82c3a",
@@ -43,11 +36,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Clothes",
-        "Video games",
-        "Meals out"
-      ],
+      "wrongAnswers": ["Clothes", "Video games", "Meals out"],
       "question": "What will people spend the same amount of money on, even if their income falls?",
       "correctAnswer": "Water",
       "imageURL": "https://media.giphy.com/media/3ohuPkgbcIaG2OoDIs/giphy.mp4"
@@ -69,9 +58,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Product-driven"
-      ],
+      "wrongAnswers": ["Product-driven"],
       "question": "LEGO Ideas is an online community where members can submit their own ideas for new sets. These are voted on by other members and reviewed by LEGO. Each year an idea is comissioned by LEGO to be created and sold worldwide. This is an example of a business being what?  ",
       "correctAnswer": "Market-driven",
       "imageURL": "https://media.giphy.com/media/T7bfazAi4ul8I/giphy.mp4"
@@ -87,11 +74,7 @@
     "content": {
       "question": "What does someone in the population become once they buy a product or service?",
       "correctAnswer": "Customer",
-      "wrongAnswers": [
-        "Creator",
-        "Distributor",
-        "Consumer"
-      ]
+      "wrongAnswers": ["Creator", "Distributor", "Consumer"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "00b803b0-332b-11e8-84d9-f7b314e82c3a",
@@ -104,9 +87,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Customers' needs"
-      ],
+      "wrongAnswers": ["Customers' needs"],
       "question": "Does Chanel serve customers' wants or needs?",
       "correctAnswer": "Customers' wants",
       "imageURL": "https://media3.giphy.com/media/CZU0qUFpp8GZy/giphy.mp4"
@@ -123,10 +104,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Liabilities",
-        "Equity"
-      ],
+      "wrongAnswers": ["Liabilities", "Equity"],
       "question": "Which part of the balance sheet shows the valuable things that a business owns?",
       "correctAnswer": "Assets",
       "imageURL": "https://media.giphy.com/media/xcP3TbiuWjCla/giphy.mp4"
@@ -140,9 +118,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Blockbuster Video"
-      ],
+      "wrongAnswers": ["Blockbuster Video"],
       "question": "Consumers stopped wanting to buy DVDs and started wanting to stream TV and films online. Who met customers' wants best?",
       "correctAnswer": "Netflix",
       "imageURL": "https://media.giphy.com/media/2hSgG85AY9vSU/giphy.mp4"
@@ -161,11 +137,7 @@
     "content": {
       "question": "Which of these is a business/product with a high market share in a fast growing market?",
       "correctAnswer": "Star",
-      "wrongAnswers": [
-        "Question mark",
-        "Cash cow",
-        "Dog"
-      ]
+      "wrongAnswers": ["Question mark", "Cash cow", "Dog"]
     },
     "parentId": "02bb89f0-332d-11e8-84d9-f7b314e82c3a",
     "id": "01492590-4873-11e8-a882-43c135924cd1",
@@ -178,11 +150,7 @@
     "content": {
       "question": "When do consumers usually spend more money on luxury goods?",
       "correctAnswer": "When interest rates are 2%",
-      "wrongAnswers": [
-        "When interest rates are 4%",
-        "When interest rates are 20%",
-        "When interest rates are 8%"
-      ]
+      "wrongAnswers": ["When interest rates are 4%", "When interest rates are 20%", "When interest rates are 8%"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "c5fe889d-0f20-414f-9b55-2fae024067b8",
@@ -197,10 +165,7 @@
     "content": {
       "question": "For an ice cream factory, if demand rose 100% in one week, which production methodology is likely to be best to deal with the rise in demand?",
       "correctAnswer": "Just in case",
-      "wrongAnswers": [
-        "Just in time",
-        "Job production"
-      ]
+      "wrongAnswers": ["Just in time", "Job production"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "9458d3e0-f367-4934-b0bf-a078c4fc4cae",
@@ -215,11 +180,7 @@
     "content": {
       "question": "When are consumers most likely to spend more money on luxury goods?",
       "correctAnswer": "When interest rates are negative",
-      "wrongAnswers": [
-        "When interest rates are 3%",
-        "When interest rates are 80%",
-        "When interest rates are 8%"
-      ]
+      "wrongAnswers": ["When interest rates are 3%", "When interest rates are 80%", "When interest rates are 8%"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "c5fe889d-0f20-414f-9b55-2fae024067b8",
@@ -234,11 +195,7 @@
     "content": {
       "question": "Which energy source could a business use to be more sustainable?",
       "correctAnswer": "Wind",
-      "wrongAnswers": [
-        "Gas",
-        "Coal",
-        "Oil"
-      ]
+      "wrongAnswers": ["Gas", "Coal", "Oil"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "fb7ec496-b63d-429b-a882-acf5a73492ac",
@@ -252,11 +209,7 @@
     "content": {
       "question": "During a recession, which supermarket is most likely to increase their market share?",
       "correctAnswer": "Aldi",
-      "wrongAnswers": [
-        "Waitrose",
-        "Marks and Spencer",
-        "Whole Foods"
-      ]
+      "wrongAnswers": ["Waitrose", "Marks and Spencer", "Whole Foods"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "9b6fb27c-ea22-4f0b-8d57-02e0bba47211",
@@ -286,11 +239,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "To increase customer loyalty",
-        "It is expensive",
-        "To harm their brand image"
-      ],
+      "wrongAnswers": ["To increase customer loyalty", "It is expensive", "To harm their brand image"],
       "question": "Why should businesses try to build long-term relationships with suppliers?",
       "correctAnswer": "To try to reduce costs in the future (long-run)",
       "imageURL": "https://media.giphy.com/media/3o7TKJNFVZ4xCMriFy/giphy.mp4"
@@ -306,10 +255,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Worse designs",
-        "Imitating designs"
-      ],
+      "wrongAnswers": ["Worse designs", "Imitating designs"],
       "question": "Which of these is a way for the UK to compete against lower cost nations?",
       "correctAnswer": "Better designs",
       "imageURL": "https://media.giphy.com/media/Cxy620WOwyDC0/giphy.mp4"
@@ -325,10 +271,7 @@
     "content": {
       "question": "What type of cost are raw materials?",
       "correctAnswer": "Variable cost",
-      "wrongAnswers": [
-        "Fixed cost",
-        "Unnecessary cost"
-      ]
+      "wrongAnswers": ["Fixed cost", "Unnecessary cost"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "5461d7f1-a34a-4b58-a27f-b2804d017390",
@@ -343,9 +286,7 @@
     "content": {
       "question": "Is research that a firm does itself primary market research or secondary market research?",
       "correctAnswer": "Primary market research",
-      "wrongAnswers": [
-        "Secondary market research"
-      ]
+      "wrongAnswers": ["Secondary market research"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "3eb4ab92-ce2a-4d0a-bd43-9570b695e9e9",
@@ -377,10 +318,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Number of employees",
-        "Company legal structure"
-      ],
+      "wrongAnswers": ["Number of employees", "Company legal structure"],
       "question": "Which of these things affect a firm's pricing decisions?",
       "correctAnswer": "The degree of competition",
       "imageURL": "https://media.giphy.com/media/j3jpSEciMC2mk/giphy.mp4"
@@ -397,10 +335,7 @@
     "content": {
       "question": "Why can price skimming be good?",
       "correctAnswer": "It allows a business to cover high research and development costs",
-      "wrongAnswers": [
-        "Consumers pay more",
-        "Slower unit sales growth"
-      ]
+      "wrongAnswers": ["Consumers pay more", "Slower unit sales growth"]
     },
     "parentId": "104539f0-332c-11e8-84d9-f7b314e82c3a",
     "id": "104539f2-332c-11e8-84d9-f7b314e82c3a",
@@ -414,11 +349,7 @@
     "content": {
       "question": "What is a disadvantage of price skimming?",
       "correctAnswer": "Slower unit sales growth",
-      "wrongAnswers": [
-        "Maximised profit",
-        "Greater research and development costs",
-        "Shareholders don't like it"
-      ]
+      "wrongAnswers": ["Maximised profit", "Greater research and development costs", "Shareholders don't like it"]
     },
     "parentId": "104539f0-332c-11e8-84d9-f7b314e82c3a",
     "id": "104539f5-332c-11e8-84d9-f7b314e82c3a",
@@ -431,11 +362,7 @@
     "content": {
       "question": "A company chooses to create a Snapchat filter to promote their sunglasses. Which of the 4 Ps does this involve?",
       "correctAnswer": "Promotion",
-      "wrongAnswers": [
-        "Price",
-        "Product",
-        "Place"
-      ]
+      "wrongAnswers": ["Price", "Product", "Place"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "105e9c10-3331-11e8-84d9-f7b314e82c3a",
@@ -454,11 +381,7 @@
     "content": {
       "question": "Which aspects of the marketing mix does promotion influence?",
       "correctAnswer": "Price  + place + product (all the other ones)",
-      "wrongAnswers": [
-        "Price",
-        "Price + place",
-        "Product + place"
-      ]
+      "wrongAnswers": ["Price", "Price + place", "Product + place"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "105e9c10-3331-11e8-84d9-f7b314e82c3a",
@@ -475,11 +398,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Price skimming",
-        "Price inflation",
-        "Price propping"
-      ],
+      "wrongAnswers": ["Price skimming", "Price inflation", "Price propping"],
       "question": "When Apple first released their Apple watch it was sold at a low price to compete with products from companies like Fitbit. What is this an example of?",
       "correctAnswer": "Price penetration",
       "imageURL": "https://media.giphy.com/media/8rljBufM9xKkE/giphy.mp4"
@@ -502,11 +421,7 @@
     "content": {
       "question": "Which of these businesses sells luxury goods?",
       "correctAnswer": "Gucci (Kering)",
-      "wrongAnswers": [
-        "Primark",
-        "H&M",
-        "Uniqlo"
-      ]
+      "wrongAnswers": ["Primark", "H&M", "Uniqlo"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "10cdffb0-3331-11e8-84d9-f7b314e82c3a",
@@ -523,11 +438,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Hamley's",
-        "Toys R Us",
-        "Early Learning Centre"
-      ],
+      "wrongAnswers": ["Hamley's", "Toys R Us", "Early Learning Centre"],
       "question": "Where would be the best place for Dell to sell their computers?",
       "correctAnswer": "Amazon",
       "imageURL": "https://media.giphy.com/media/xTk9ZzHknhfZCcTDi0/giphy.gif"
@@ -550,11 +461,7 @@
     "content": {
       "question": "If a customer chooses to buy a dress online because it is cheaper, which of the 4 P's had the greatest influence on their purchase?",
       "correctAnswer": "Price",
-      "wrongAnswers": [
-        "Promotion",
-        "Place",
-        "Product"
-      ]
+      "wrongAnswers": ["Promotion", "Place", "Product"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "10cdffb0-3331-11e8-84d9-f7b314e82c3a",
@@ -595,11 +502,7 @@
     "content": {
       "question": "If WHSmith buys a set of Sharpie pens for £5 and add a mark-up of 20%, how much will they sell them for?",
       "correctAnswer": "£6",
-      "wrongAnswers": [
-        "£5",
-        "£4",
-        "£10"
-      ]
+      "wrongAnswers": ["£5", "£4", "£10"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "10f79a00-332c-11e8-84d9-f7b314e82c3a",
@@ -618,12 +521,7 @@
     "content": {
       "question": "Which of the 4 P's matters the most?",
       "correctAnswer": "It depends on the business",
-      "wrongAnswers": [
-        "Price",
-        "Promotion",
-        "Place",
-        "Product"
-      ]
+      "wrongAnswers": ["Price", "Promotion", "Place", "Product"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "11533540-3331-11e8-84d9-f7b314e82c3a",
@@ -640,11 +538,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Easier to get to",
-        "Better customer service",
-        "Better duty free selection"
-      ],
+      "wrongAnswers": ["Easier to get to", "Better customer service", "Better duty free selection"],
       "question": "Why do Ryanair only fly from secondary airports?",
       "correctAnswer": "Cheaper fees",
       "imageURL": "https://media.giphy.com/media/10qIE0w0P6s0so/giphy.mp4"
@@ -665,12 +559,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Price",
-        "Place",
-        "Product",
-        "Promotion"
-      ],
+      "wrongAnswers": ["Price", "Place", "Product", "Promotion"],
       "question": "Aston Martin’s showroom in Derby is within 100m of Derbyshire County Cricket ground and an upmarket Nuffield Health Club. Which element of the marketing mix is this due to?",
       "correctAnswer": "All of them",
       "imageURL": "https://media.giphy.com/media/oHx98dt342b9m/giphy.mp4"
@@ -692,11 +581,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Society",
-        "Economy",
-        "Legislation"
-      ],
+      "wrongAnswers": ["Society", "Economy", "Legislation"],
       "question": "Amazon bought Kiva robotics so it could use robots in more of its factories. This is an example of a change in...",
       "correctAnswer": "Technology",
       "imageURL": "https://media.giphy.com/media/obWh8XqeiaT8A/giphy.mp4"
@@ -713,10 +598,7 @@
     "content": {
       "question": "Why might poor customer service not increase profits?",
       "correctAnswer": "Dissatisfied customers tell others and fewer people buy from the firm",
-      "wrongAnswers": [
-        "Can employ less customer service staff",
-        "Lower quality products can be made more cheaply"
-      ]
+      "wrongAnswers": ["Can employ less customer service staff", "Lower quality products can be made more cheaply"]
     },
     "parentId": "11cdef10-3327-11e8-84d9-f7b314e82c3a",
     "id": "11cdef17-3327-11e8-84d9-f7b314e82c3a",
@@ -727,10 +609,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Primary sector",
-        "Secondary sector"
-      ],
+      "wrongAnswers": ["Primary sector", "Secondary sector"],
       "question": "Instagram (owned by Facebook) operates in which sector?",
       "correctAnswer": "Tertiary sector",
       "imageURL": "https://media.giphy.com/media/uo6rcjwHSAFsQ/giphy.mp4"
@@ -753,9 +632,7 @@
     "content": {
       "question": "Which type of organisation usually has managers with a larger span of control?",
       "correctAnswer": "Flat organisational structures",
-      "wrongAnswers": [
-        "Tall organisational structures"
-      ]
+      "wrongAnswers": ["Tall organisational structures"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "eb30ffda-eb16-4487-bbaa-43e5a0ecd3b7",
@@ -768,11 +645,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Only benefit society",
-        "Only distribute goods",
-        "Only to make profit"
-      ],
+      "wrongAnswers": ["Only benefit society", "Only distribute goods", "Only to make profit"],
       "question": "Why is a company selling malaria nets in Africa likely to have been set up?",
       "correctAnswer": "Benefit society & distribute goods",
       "imageURL": "https://media.giphy.com/media/e4He2jOnL7bB6/giphy.mp4"
@@ -807,10 +680,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Product design",
-        "Post sales service"
-      ],
+      "wrongAnswers": ["Product design", "Post sales service"],
       "question": "Which aspect of the sales process do in-store employees who are polite, friendly and helpful contribute to?",
       "correctAnswer": "Good customer engagement",
       "imageURL": "https://media.giphy.com/media/3o6ZtfM2FuAvCrYBLW/giphy.mp4"
@@ -825,11 +695,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Efficient shop service",
-        "Product knowledge",
-        "Good customer engagement in store"
-      ],
+      "wrongAnswers": ["Efficient shop service", "Product knowledge", "Good customer engagement in store"],
       "question": "Users can call help lines if they have any issues with a product after purchase, which helps maintain high customer satisfaction. What is this an example of?",
       "correctAnswer": "Post sales service",
       "imageURL": "https://media.giphy.com/media/FqAwoNjVneJxK/giphy.mp4"
@@ -846,11 +712,7 @@
     "content": {
       "question": "Technology has made customer service easier. Which of the following is not a new way that firms can interact with their customers?",
       "correctAnswer": "In store help",
-      "wrongAnswers": [
-        "Webchat",
-        "FAQs on company website",
-        "Social media messaging"
-      ]
+      "wrongAnswers": ["Webchat", "FAQs on company website", "Social media messaging"]
     },
     "parentId": "156c99a0-3327-11e8-84d9-f7b314e82c3a",
     "id": "156c99a3-3327-11e8-84d9-f7b314e82c3a",
@@ -880,9 +742,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Quantitative"
-      ],
+      "wrongAnswers": ["Quantitative"],
       "question": "Are the written complaints about chicken nuggets sold in 2004 qualitative or quantitative market research?",
       "correctAnswer": "Qualitative",
       "imageURL": "https://media.giphy.com/media/eWNRNp3BVmTYs/giphy.mp4"
@@ -900,10 +760,7 @@
     "content": {
       "question": "What does acquiring a competitor usually do to the degree of competition in a market?",
       "correctAnswer": "Decrease competition",
-      "wrongAnswers": [
-        "Increase competition",
-        "Nothing"
-      ]
+      "wrongAnswers": ["Increase competition", "Nothing"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "a9358ca3-f36a-4b63-94a4-d458797e24a8",
@@ -916,9 +773,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "He thought nobody wanted electric cars"
-      ],
+      "wrongAnswers": ["He thought nobody wanted electric cars"],
       "question": "Elon Musk set up Tesla because:",
       "correctAnswer": "He thought people wanted electric cars",
       "imageURL": "https://media.giphy.com/media/l2JeigqUdzYAkGyTS/giphy.mp4"
@@ -933,9 +788,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Customers' needs"
-      ],
+      "wrongAnswers": ["Customers' needs"],
       "question": "Does Chanel serve customers' wants or needs?",
       "correctAnswer": "Customers' wants",
       "imageURL": "https://media3.giphy.com/media/CZU0qUFpp8GZy/giphy.mp4"
@@ -954,9 +807,7 @@
     "content": {
       "question": "What are customers' needs?",
       "correctAnswer": "The things that people can't live without",
-      "wrongAnswers": [
-        "The things that people would like to have"
-      ]
+      "wrongAnswers": ["The things that people would like to have"]
     },
     "parentId": "1e404960-332b-11e8-84d9-f7b314e82c3a",
     "id": "1e404966-332b-11e8-84d9-f7b314e82c3a",
@@ -984,10 +835,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Too much demand",
-        "Competition from Ryanair"
-      ],
+      "wrongAnswers": ["Too much demand", "Competition from Ryanair"],
       "question": "Juicero sold very expensive juicers. What is a big risk for a new business like Juicero?",
       "correctAnswer": "Nobody wants to buy their product",
       "imageURL": "https://media.giphy.com/media/cyzSuMXYQBcD6/giphy.mp4"
@@ -1028,11 +876,7 @@
     "content": {
       "question": "How much was Red Bull fined for breaking trade descriptions legislation by not giving you wings?",
       "correctAnswer": "AUD 13 million",
-      "wrongAnswers": [
-        "AUD 130 million",
-        "AUD 1.3 million",
-        "AUD 13 thousand"
-      ]
+      "wrongAnswers": ["AUD 130 million", "AUD 1.3 million", "AUD 13 thousand"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "207f3548-2450-4f0d-a968-caeb2121055c",
@@ -1046,11 +890,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Patents",
-        "Government monopoly",
-        "Low prices"
-      ],
+      "wrongAnswers": ["Patents", "Government monopoly", "Low prices"],
       "question": "Which thing is most likely to create a situation with low competition in the aeroplane manufacturing industry?",
       "correctAnswer": "High investment",
       "imageURL": "https://media.giphy.com/media/jydWeLlhDbqk8/giphy.mp4"
@@ -1086,10 +926,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Less than the borrowed amount",
-        "The same amount as they borrowed"
-      ],
+      "wrongAnswers": ["Less than the borrowed amount", "The same amount as they borrowed"],
       "question": "How much money do businesses normally pay back when they loan money with a 1% interest rate?",
       "correctAnswer": "More than the borrowed amount",
       "imageURL": "https://media.giphy.com/media/Q8JhKDsvVxPRS/giphy.mp4"
@@ -1111,11 +948,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Distributor",
-        "Retailer",
-        "Producer"
-      ],
+      "wrongAnswers": ["Distributor", "Retailer", "Producer"],
       "question": "What do we call a firm that turns raw materials into a product?",
       "correctAnswer": "Manufacturer",
       "imageURL": "https://media.giphy.com/media/3o6ozDo3YE7BUYN7sA/giphy.mp4"
@@ -1131,9 +964,7 @@
     "content": {
       "question": "When interest rates are low, do consumers usually have more or less money to spend in the rest of the economy?",
       "correctAnswer": "More",
-      "wrongAnswers": [
-        "Less"
-      ]
+      "wrongAnswers": ["Less"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "9dc0bd81-1b8a-4c17-9776-b67c4f2dceaf",
@@ -1148,9 +979,7 @@
     "content": {
       "question": "If revenues are higher next year than this year, is this usually good or bad?",
       "correctAnswer": "Usually good",
-      "wrongAnswers": [
-        "Usually bad"
-      ]
+      "wrongAnswers": ["Usually bad"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "b1296ada-8374-4a3e-a019-7f1f335c44a0",
@@ -1163,11 +992,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Retail",
-        "Procurement",
-        "Customer service"
-      ],
+      "wrongAnswers": ["Retail", "Procurement", "Customer service"],
       "question": "Jaguar Land Rover use DHL to transport the stock of its car parts to and from its factories but also within car plants. What is this process called?",
       "correctAnswer": "Logistics ",
       "imageURL": "https://media.giphy.com/media/RRy0B9K3V8gjS/giphy.mp4"
@@ -1181,10 +1006,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Less than the borrowed amount",
-        "The same amount as they borrowed"
-      ],
+      "wrongAnswers": ["Less than the borrowed amount", "The same amount as they borrowed"],
       "question": "How much money do businesses normally pay back when they loan money with a 1% interest rate?",
       "correctAnswer": "More than the borrowed amount",
       "imageURL": "https://media.giphy.com/media/Q8JhKDsvVxPRS/giphy.mp4"
@@ -1201,11 +1023,7 @@
     "content": {
       "question": "Which of the following is NOT a way of growing a business organically?",
       "correctAnswer": "Acquiring a competitor",
-      "wrongAnswers": [
-        "Opening a new warehouse",
-        "Launching a new product line",
-        "Hiring more salespeople"
-      ]
+      "wrongAnswers": ["Opening a new warehouse", "Launching a new product line", "Hiring more salespeople"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "a9358ca3-f36a-4b63-94a4-d458797e24a8",
@@ -1218,11 +1036,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "To increase customer loyalty",
-        "It is expensive",
-        "To harm their brand image"
-      ],
+      "wrongAnswers": ["To increase customer loyalty", "It is expensive", "To harm their brand image"],
       "question": "Why should businesses try to build long-term relationships with suppliers?",
       "correctAnswer": "To try to reduce costs in the future (long-run)",
       "imageURL": "https://media.giphy.com/media/3o7TKJNFVZ4xCMriFy/giphy.mp4"
@@ -1245,11 +1059,7 @@
     "content": {
       "question": "What method of distribution can be used by a businesses to make sure their supply chain is as cost efficient as possible?",
       "correctAnswer": "Just in time (JIT) production",
-      "wrongAnswers": [
-        "Flow production",
-        "Job production",
-        "Just in case (JIC) production"
-      ]
+      "wrongAnswers": ["Flow production", "Job production", "Just in case (JIC) production"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "2de905a0-3326-11e8-84d9-f7b314e82c3a",
@@ -1266,9 +1076,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "He thought nobody wanted electric cars"
-      ],
+      "wrongAnswers": ["He thought nobody wanted electric cars"],
       "question": "Elon Musk set up Tesla because:",
       "correctAnswer": "He thought people wanted electric cars",
       "imageURL": "https://media.giphy.com/media/l2JeigqUdzYAkGyTS/giphy.mp4"
@@ -1289,9 +1097,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Market-driven"
-      ],
+      "wrongAnswers": ["Market-driven"],
       "question": "If Domino's Pizza invented a new form of toastie and began selling only toasties, is that likely to be product-driven or market-driven?",
       "correctAnswer": "Product-driven",
       "imageURL": "https://media.giphy.com/media/5Ynni4pZUNrfJA1Rob/giphy.mp4"
@@ -1307,11 +1113,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Costcutter",
-        "Asda",
-        "Tesco"
-      ],
+      "wrongAnswers": ["Costcutter", "Asda", "Tesco"],
       "question": "To which business is the quality of suppliers' raw materials likely to be more important to?",
       "correctAnswer": "Waitrose",
       "imageURL": "https://media.giphy.com/media/xThtag60ZwcSIgThio/giphy.mp4"
@@ -1332,11 +1134,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Costcutter",
-        "Asda",
-        "Tesco"
-      ],
+      "wrongAnswers": ["Costcutter", "Asda", "Tesco"],
       "question": "To which business is the quality of suppliers' raw materials likely to be more important to?",
       "correctAnswer": "Waitrose",
       "imageURL": "https://media.giphy.com/media/xThtag60ZwcSIgThio/giphy.mp4"
@@ -1353,9 +1151,7 @@
     "content": {
       "question": "A government survey of supermarkets is an example of what?",
       "correctAnswer": "Secondary market research",
-      "wrongAnswers": [
-        "Primary market research"
-      ]
+      "wrongAnswers": ["Primary market research"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "b96fcdac-c96b-4f27-9f75-ac77e05a3a12",
@@ -1368,10 +1164,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Increasing production capacity",
-        "Opening new stores"
-      ],
+      "wrongAnswers": ["Increasing production capacity", "Opening new stores"],
       "question": "What form of internal expansion were Virgin using when they launched the airline Virgin Atlantic?",
       "correctAnswer": "Launching new products",
       "imageURL": "https://media.giphy.com/media/aaZ4tEu5BxDWM/giphy.mp4"
@@ -1388,11 +1181,7 @@
     "content": {
       "question": "What is another term for internal expansion?",
       "correctAnswer": "Organic growth",
-      "wrongAnswers": [
-        "Inorganic growth",
-        "Interior growth",
-        "Domestic growth"
-      ]
+      "wrongAnswers": ["Inorganic growth", "Interior growth", "Domestic growth"]
     },
     "parentId": "366b0200-3321-11e8-84d9-f7b314e82c3a",
     "id": "366b0204-3321-11e8-84d9-f7b314e82c3a",
@@ -1427,11 +1216,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Land",
-        "Capital",
-        "Enterprise"
-      ],
+      "wrongAnswers": ["Land", "Capital", "Enterprise"],
       "question": "Which factor of production is shown here?",
       "correctAnswer": "Labour",
       "imageURL": "https://media.giphy.com/media/3o7aCRZ3j5ey9KhGj6/giphy.mp4"
@@ -1445,10 +1230,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Fast growth",
-        "Growing revenues"
-      ],
+      "wrongAnswers": ["Fast growth", "Growing revenues"],
       "question": "Daimler (the company that makes Mercedes cars) merged with Chrysler in the late 1990s. The companies had very different cultures with regards to staff treatment and, in 2007, Chrysler sold Daimler to an investment company. Why was this merger unsuccessful?",
       "correctAnswer": "Demotivated employees and complexity",
       "imageURL": "https://media.giphy.com/media/sUt2ssoEoxw4g/giphy.mp4"
@@ -1470,11 +1252,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "The owner",
-        "Brighton's general public",
-        "An employee"
-      ],
+      "wrongAnswers": ["The owner", "Brighton's general public", "An employee"],
       "question": "Who is not a stakeholder of a supermarket in Brighton?",
       "correctAnswer": "The Queen",
       "imageURL": "https://media.giphy.com/media/xThtag60ZwcSIgThio/giphy.mp4"
@@ -1490,10 +1268,7 @@
     "content": {
       "question": "Which of these is not a drawback of decision-making in decentralised organisations?",
       "correctAnswer": "Decision-makers will always make consistent decisions",
-      "wrongAnswers": [
-        "Inconsistent decisions",
-        "Decisions may not be aligned with overall objectives"
-      ]
+      "wrongAnswers": ["Inconsistent decisions", "Decisions may not be aligned with overall objectives"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "5ba84a1a-9aeb-40c9-881a-ad257ad0e66e",
@@ -1508,11 +1283,7 @@
     "content": {
       "question": "Which stakeholder usually has the biggest impact on a business?",
       "correctAnswer": "Owner",
-      "wrongAnswers": [
-        "Supplier",
-        "Employee",
-        "Customer"
-      ]
+      "wrongAnswers": ["Supplier", "Employee", "Customer"]
     },
     "parentId": "3828d6b0-32b5-11e8-84d9-f7b314e82c3a",
     "id": "3828d6b2-32b5-11e8-84d9-f7b314e82c3a",
@@ -1524,11 +1295,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Owners and suppliers",
-        "Suppliers and customers",
-        "Customers and employees"
-      ],
+      "wrongAnswers": ["Owners and suppliers", "Suppliers and customers", "Customers and employees"],
       "question": "In India, the operations of Coca Cola depleted the clean water supplies available to some small village communities nearby. This involved conflict between which stakeholders in particular?",
       "correctAnswer": "Local community and owners",
       "imageURL": "https://media.giphy.com/media/l3mZjPMqNDnDtPxAI/giphy.mp4"
@@ -1545,10 +1312,7 @@
     "content": {
       "question": "Who is most likely to care if a small local community does not like how they operate?",
       "correctAnswer": "A corner shop",
-      "wrongAnswers": [
-        "Burberry",
-        "Adidas"
-      ]
+      "wrongAnswers": ["Burberry", "Adidas"]
     },
     "parentId": "3828d6b0-32b5-11e8-84d9-f7b314e82c3a",
     "id": "3828d6b5-32b5-11e8-84d9-f7b314e82c3a",
@@ -1562,11 +1326,7 @@
     "content": {
       "question": "What do we call the part of the product or service that is different to anything else in the market?",
       "correctAnswer": "Unique selling point",
-      "wrongAnswers": [
-        "Different trading idea",
-        "Key product difference",
-        "Ultimate selling point"
-      ]
+      "wrongAnswers": ["Different trading idea", "Key product difference", "Ultimate selling point"]
     },
     "parentId": "3a4e55b0-332c-11e8-84d9-f7b314e82c3a",
     "id": "3a4e55b4-332c-11e8-84d9-f7b314e82c3a",
@@ -1578,11 +1338,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "They blow cold air not warm air",
-        "They require very little energy",
-        "They never break"
-      ],
+      "wrongAnswers": ["They blow cold air not warm air", "They require very little energy", "They never break"],
       "question": "What is the USP of Dyson Airblade hand dryers? ",
       "correctAnswer": "The fans are bladeless",
       "imageURL": "https://media.giphy.com/media/7TkwD0bxE3OTXmCYi7/giphy.mp4"
@@ -1599,10 +1355,7 @@
     "content": {
       "question": "Which financial statement mainly works out net profit?",
       "correctAnswer": "Income statement",
-      "wrongAnswers": [
-        "Balance sheet",
-        "Cash flow statement"
-      ]
+      "wrongAnswers": ["Balance sheet", "Cash flow statement"]
     },
     "parentId": "c9eae2d0-3334-11e8-84d9-f7b314e82c3a",
     "id": "3a91a7d0-334e-11e8-84d9-f7b314e82c3a",
@@ -1615,11 +1368,7 @@
     "content": {
       "question": "What type of sales promotion is a \"buy one get one free\" deal?",
       "correctAnswer": "Value for money offer",
-      "wrongAnswers": [
-        "Free gift",
-        "Point of sales display",
-        "Discount coupon"
-      ]
+      "wrongAnswers": ["Free gift", "Point of sales display", "Discount coupon"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "fd77abeb-9adc-4b12-888f-344938abf3df",
@@ -1634,10 +1383,7 @@
     "content": {
       "question": "The Monzo banking app works like many larger banks, but their products are very nice to look at. Which component of the design mix are they focusing on?",
       "correctAnswer": "Aesthetics",
-      "wrongAnswers": [
-        "Function",
-        "Cost"
-      ]
+      "wrongAnswers": ["Function", "Cost"]
     },
     "parentId": "3ae5dac0-332c-11e8-84d9-f7b314e82c3a",
     "id": "3ae5dac4-332c-11e8-84d9-f7b314e82c3a",
@@ -1650,11 +1396,7 @@
     "content": {
       "question": "At which stage of the product life cycle are marketing and advertising most important?",
       "correctAnswer": "Introduction",
-      "wrongAnswers": [
-        "Maturity",
-        "Saturation",
-        "Research and Development"
-      ]
+      "wrongAnswers": ["Maturity", "Saturation", "Research and Development"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "3b1994f0-332c-11e8-84d9-f7b314e82c3a",
@@ -1673,11 +1415,7 @@
     "content": {
       "question": "At which stage of the product life cycle are marketing and advertising most important?",
       "correctAnswer": "Introduction",
-      "wrongAnswers": [
-        "Maturity",
-        "Saturation",
-        "Research and Development"
-      ]
+      "wrongAnswers": ["Maturity", "Saturation", "Research and Development"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "3f9c81da-ab72-4abc-9de4-23b7e6a5d112",
@@ -1691,9 +1429,7 @@
     "content": {
       "question": "What are customers' needs?",
       "correctAnswer": "The things that people can't live without",
-      "wrongAnswers": [
-        "The things that people would like to have"
-      ]
+      "wrongAnswers": ["The things that people would like to have"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "0c0ae065-5c22-496f-90d5-d5e32267774b",
@@ -1705,10 +1441,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Changing the target market",
-        "Advertising"
-      ],
+      "wrongAnswers": ["Changing the target market", "Advertising"],
       "question": "Which extension strategy is this an example of?",
       "correctAnswer": "Updated packaging or branding",
       "imageURL": "https://media.giphy.com/media/gUdgDxpDhkUZa/giphy.mp4"
@@ -1729,11 +1462,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Update packaging",
-        "Adding less features",
-        "Sticking with the core"
-      ],
+      "wrongAnswers": ["Update packaging", "Adding less features", "Sticking with the core"],
       "question": "UnderArmour's 2014 \"I will what I want\" campaign aimed at females was an example of what type of extension strategy?",
       "correctAnswer": "Changing the target market",
       "imageURL": "https://media.giphy.com/media/v709dQ5jppg0o/giphy.mp4"
@@ -1754,9 +1483,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Risk"
-      ],
+      "wrongAnswers": ["Risk"],
       "question": "What is the money earned if a business succeeds an example of?",
       "correctAnswer": "Reward",
       "imageURL": "https://media.giphy.com/media/9HQRIttS5C4Za/giphy.mp4"
@@ -1788,10 +1515,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Service",
-        "Good and service"
-      ],
+      "wrongAnswers": ["Service", "Good and service"],
       "question": "What is Coca Cola an example of?",
       "correctAnswer": "Good",
       "imageURL": "https://media.giphy.com/media/13BlyhHQCHkpIA/giphy.mp4"
@@ -1809,11 +1533,7 @@
     "content": {
       "question": "What method of distribution can be used by a business to make sure their supply chain is as cost-efficient as possible?",
       "correctAnswer": "Just in time (JIT) production",
-      "wrongAnswers": [
-        "Flow production",
-        "Job production",
-        "Just in case (JIC) production"
-      ]
+      "wrongAnswers": ["Flow production", "Job production", "Just in case (JIC) production"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "a172b79a-fef0-4efb-b638-864db8d019f4",
@@ -1847,11 +1567,7 @@
     "content": {
       "question": "If WHSmith buys a set of Sharpie pens for £5 and add a mark-up of 20%, how much will they sell them for?",
       "correctAnswer": "£6",
-      "wrongAnswers": [
-        "£5",
-        "£4",
-        "£10"
-      ]
+      "wrongAnswers": ["£5", "£4", "£10"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "6a0e4d66-0597-4a69-85e7-4c8b3ebda227",
@@ -1865,11 +1581,7 @@
     "content": {
       "question": "The supermarket Iceland promised not to use plastic packaging in their supermarkets by 2023. What has this business been influenced by?",
       "correctAnswer": "Environmental expectations",
-      "wrongAnswers": [
-        "Technology",
-        "Economy",
-        "Legislation"
-      ]
+      "wrongAnswers": ["Technology", "Economy", "Legislation"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "407e6f10-32b4-11e8-84d9-f7b314e82c3a",
@@ -1907,10 +1619,7 @@
     "content": {
       "question": "Which account on the income statement shows the total revenue, the cost of sales and the gross profit?",
       "correctAnswer": "Trading account",
-      "wrongAnswers": [
-        "Traders account",
-        "Trade account"
-      ]
+      "wrongAnswers": ["Traders account", "Trade account"]
     },
     "parentId": "6632f920-3335-11e8-84d9-f7b314e82c3a",
     "id": "46d81780-334f-11e8-84d9-f7b314e82c3a",
@@ -1923,10 +1632,7 @@
     "content": {
       "question": "Which of the following is not an outcome caused by there being a larger, single, global market?",
       "correctAnswer": "Face less competition",
-      "wrongAnswers": [
-        "More opportunity for growth",
-        "Access to more consumers"
-      ]
+      "wrongAnswers": ["More opportunity for growth", "Access to more consumers"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "47005970-3322-11e8-84d9-f7b314e82c3a",
@@ -1942,11 +1648,7 @@
     "content": {
       "question": "If there is a recession in another European country, UK businesses will likely see a negative impact on their profits. This is due to which drawback of globalisation?",
       "correctAnswer": "Fluctuating global economy",
-      "wrongAnswers": [
-        "Competition",
-        "High UK wages",
-        "Ethical issues"
-      ]
+      "wrongAnswers": ["Competition", "High UK wages", "Ethical issues"]
     },
     "parentId": "4767f4e0-3322-11e8-84d9-f7b314e82c3a",
     "id": "4767f4e5-3322-11e8-84d9-f7b314e82c3a",
@@ -1959,10 +1661,7 @@
     "content": {
       "question": "Which of these costs is NOT reduced by internal recruitment?",
       "correctAnswer": "Company car costs",
-      "wrongAnswers": [
-        "Training costs",
-        "Job advertising costs"
-      ]
+      "wrongAnswers": ["Training costs", "Job advertising costs"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "4cb8d490-3328-11e8-84d9-f7b314e82c3a",
@@ -1975,10 +1674,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Secondary sector",
-        "Tertiary sector"
-      ],
+      "wrongAnswers": ["Secondary sector", "Tertiary sector"],
       "question": "Which sector would forestry be classified as?",
       "correctAnswer": "Primary sector",
       "imageURL": "https://media.giphy.com/media/xT9KVonN0PEqGHXpqU/giphy.mp4"
@@ -2001,10 +1697,7 @@
     "content": {
       "question": "Which of these are barriers against competition?",
       "correctAnswer": "Patents",
-      "wrongAnswers": [
-        "High demand",
-        "Fast industry growth. Diseconomies of scale"
-      ]
+      "wrongAnswers": ["High demand", "Fast industry growth. Diseconomies of scale"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "31cce886-93cd-413a-a3be-57306b167c79",
@@ -2020,10 +1713,7 @@
     "content": {
       "question": "Which financial statement would use net cash flow, opening cash balance and closing cash balance?",
       "correctAnswer": "Cash flow statement",
-      "wrongAnswers": [
-        "Balance sheet",
-        "Income statement"
-      ]
+      "wrongAnswers": ["Balance sheet", "Income statement"]
     },
     "parentId": "c9eae2d0-3334-11e8-84d9-f7b314e82c3a",
     "id": "4f5b76a0-334e-11e8-84d9-f7b314e82c3a",
@@ -2036,10 +1726,7 @@
     "content": {
       "question": "Which of the following is NOT an example of a fixed cost?",
       "correctAnswer": "Raw materials",
-      "wrongAnswers": [
-        "Rent of office space",
-        "Company insurance"
-      ]
+      "wrongAnswers": ["Rent of office space", "Company insurance"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "5197e2d0-3332-11e8-84d9-f7b314e82c3a",
@@ -2074,10 +1761,7 @@
     "content": {
       "question": "Which of these is not something an employer might specify in a job advertisement?",
       "correctAnswer": "Desired blood type",
-      "wrongAnswers": [
-        "Essential skills",
-        "Required languages"
-      ]
+      "wrongAnswers": ["Essential skills", "Required languages"]
     },
     "parentId": "53987950-3328-11e8-84d9-f7b314e82c3a",
     "id": "53987956-3328-11e8-84d9-f7b314e82c3a",
@@ -2090,9 +1774,7 @@
     "content": {
       "question": "Which market is most likely to see the highest spending on advertising?",
       "correctAnswer": "Competitive market",
-      "wrongAnswers": [
-        "Uncompetitive market"
-      ]
+      "wrongAnswers": ["Uncompetitive market"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "fc92d94a-a39a-4c3c-bbbc-2a80f6f45451",
@@ -2107,10 +1789,7 @@
     "content": {
       "question": "What type of chain of command do tall organisational structures have?",
       "correctAnswer": "Long chain of command",
-      "wrongAnswers": [
-        "Short chain of command",
-        "No chain of command"
-      ]
+      "wrongAnswers": ["Short chain of command", "No chain of command"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "eb30ffda-eb16-4487-bbaa-43e5a0ecd3b7",
@@ -2125,11 +1804,7 @@
     "content": {
       "question": "What are charities like Oxfam?",
       "correctAnswer": "Not-for-profit organisations",
-      "wrongAnswers": [
-        "Sole traders",
-        "Public companies",
-        "Social enterprises"
-      ]
+      "wrongAnswers": ["Sole traders", "Public companies", "Social enterprises"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "8d5ade4d-6b6e-4332-8342-bc475da9a74c",
@@ -2141,11 +1816,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Costcutter",
-        "Asda",
-        "Tesco"
-      ],
+      "wrongAnswers": ["Costcutter", "Asda", "Tesco"],
       "question": "To which business is the quality of suppliers' raw materials likely to be more important to?",
       "correctAnswer": "Waitrose",
       "imageURL": "https://media.giphy.com/media/xThtag60ZwcSIgThio/giphy.mp4"
@@ -2166,10 +1837,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "£1 = $14",
-        "£1 = $0.14"
-      ],
+      "wrongAnswers": ["£1 = $14", "£1 = $0.14"],
       "question": "Roughly what is the exchange rate between the pound and the US dollar?",
       "correctAnswer": "£1 = $1.40",
       "imageURL": "https://media.giphy.com/media/3o8dFzIXb0qaE3pYWs/giphy.mp4"
@@ -2185,10 +1853,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "They may make too much lemonade",
-        "The price of lemons may fall"
-      ],
+      "wrongAnswers": ["They may make too much lemonade", "The price of lemons may fall"],
       "question": "For a lemonade business using JIT, what may happen in a heatwave?",
       "correctAnswer": "They may not be able to make enough lemonade",
       "imageURL": "https://media.giphy.com/media/H8mHrjPswQ0Zq/giphy.mp4"
@@ -2224,11 +1889,7 @@
     "content": {
       "question": "Which type of stock management will help a business cope if there is a sudden problem with raw material supplies?",
       "correctAnswer": "Just in case",
-      "wrongAnswers": [
-        "Just in time",
-        "Just in the event",
-        "Just in a second"
-      ]
+      "wrongAnswers": ["Just in time", "Just in the event", "Just in a second"]
     },
     "parentId": "57ac17b0-3326-11e8-84d9-f7b314e82c3a",
     "id": "57ac65d1-3326-11e8-84d9-f7b314e82c3a",
@@ -2240,11 +1901,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Adverts on Instagram",
-        "Hand out coupons in Subway",
-        "Promotions in nightclubs"
-      ],
+      "wrongAnswers": ["Adverts on Instagram", "Hand out coupons in Subway", "Promotions in nightclubs"],
       "question": "If a cruise ship business wanted to target the elderly segment, which promotion channel would make the most sense?",
       "correctAnswer": "Adverts in gardening magazines",
       "imageURL": "https://media.giphy.com/media/RPxnmOkdfSEw0/giphy.mp4"
@@ -2260,10 +1917,7 @@
     "content": {
       "question": "Which of these is NOT a benefit of effective recruitment?",
       "correctAnswer": "Less competent workforce",
-      "wrongAnswers": [
-        "High productivity",
-        "Good customer service"
-      ]
+      "wrongAnswers": ["High productivity", "Good customer service"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "5853de80-3328-11e8-84d9-f7b314e82c3a",
@@ -2279,10 +1933,7 @@
     "content": {
       "question": "Which of these is not likely to increase with an effective recruitment process?",
       "correctAnswer": "Customer complaints",
-      "wrongAnswers": [
-        "Productivity",
-        "Output quality"
-      ]
+      "wrongAnswers": ["Productivity", "Output quality"]
     },
     "parentId": "5853de80-3328-11e8-84d9-f7b314e82c3a",
     "id": "5853de86-3328-11e8-84d9-f7b314e82c3a",
@@ -2296,11 +1947,7 @@
     "content": {
       "question": "What does the Japanese term kaizen mean?",
       "correctAnswer": "Continuous improvement",
-      "wrongAnswers": [
-        "Lean production",
-        "Cell division",
-        "Waste minimisation"
-      ]
+      "wrongAnswers": ["Lean production", "Cell division", "Waste minimisation"]
     },
     "parentId": "dc592020-6b34-11e8-bc0c-5f276c86c2fa",
     "id": "5aaaa1c0-6b39-11e8-bc0c-5f276c86c2fa",
@@ -2313,11 +1960,7 @@
     "content": {
       "question": "What is the legal obligation of most limited companies?",
       "correctAnswer": "To maximise shareholder value",
-      "wrongAnswers": [
-        "To maximise sales",
-        "To maximise revenue",
-        "To maximise impact"
-      ]
+      "wrongAnswers": ["To maximise sales", "To maximise revenue", "To maximise impact"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "369bae25-d768-4c93-9afc-1ababd4c427f",
@@ -2332,10 +1975,7 @@
     "content": {
       "question": "What remains after all a business' costs have been subtracted from revenue on a business' income statement?",
       "correctAnswer": "Net profit",
-      "wrongAnswers": [
-        "Gross profit",
-        "Operating profit"
-      ]
+      "wrongAnswers": ["Gross profit", "Operating profit"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "6632f920-3335-11e8-84d9-f7b314e82c3a",
@@ -2350,10 +1990,7 @@
     "content": {
       "question": "Which of the following is NOT a benefit of secondary market research?",
       "correctAnswer": "It can be tailored to a business' specific needs",
-      "wrongAnswers": [
-        "It is cheap",
-        "It covers an entire market not a small target market"
-      ]
+      "wrongAnswers": ["It is cheap", "It covers an entire market not a small target market"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "b96fcdac-c96b-4f27-9f75-ac77e05a3a12",
@@ -2366,10 +2003,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Elderly",
-        "Toddlers"
-      ],
+      "wrongAnswers": ["Elderly", "Toddlers"],
       "question": "Which market segment do you think this advert for shampoo is targeting?",
       "correctAnswer": "Females",
       "imageURL": "https://media.giphy.com/media/JE3gNpmWrINSo/giphy.mp4"
@@ -2385,11 +2019,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Old people",
-        "Farmers",
-        "Females"
-      ],
+      "wrongAnswers": ["Old people", "Farmers", "Females"],
       "question": "Which market segment do you think this Skittles advert is most likely to be targeting?",
       "correctAnswer": "Young people",
       "imageURL": "https://media.giphy.com/media/vjvx6YjG3ADo4/giphy.mp4"
@@ -2422,12 +2052,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "No"
-      ],
+      "wrongAnswers": ["No"],
       "question": "Is the BMW on the market map higher quality than the blue Hyundai?",
       "correctAnswer": "Yes",
-      "imageURL": "seneca-image-cdn:///2018-03/7ce18036-3927-4a0e-954c-f0ba03d96d3d/1.2.3%20market%20mapping%20(4).png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/7ce18036-3927-4a0e-954c-f0ba03d96d3d/1.2.3%20market%20mapping%20(4).png"
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "5c160f40-332b-11e8-84d9-f7b314e82c3a",
@@ -2440,10 +2068,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "£1 = $14",
-        "£1 = $0.14"
-      ],
+      "wrongAnswers": ["£1 = $14", "£1 = $0.14"],
       "question": "Roughly what is the exchange rate between the pound and the US dollar?",
       "correctAnswer": "£1 = $1.40",
       "imageURL": "https://media.giphy.com/media/3o8dFzIXb0qaE3pYWs/giphy.mp4"
@@ -2467,11 +2092,7 @@
     "content": {
       "question": "What is the term used to describe the lack of distinction between a sole trader's assets and their business' assets?",
       "correctAnswer": "Unlimited liability",
-      "wrongAnswers": [
-        "Limited liability",
-        "Restricted liability",
-        "Limitless liability"
-      ]
+      "wrongAnswers": ["Limited liability", "Restricted liability", "Limitless liability"]
     },
     "parentId": "5d241cf0-32b4-11e8-84d9-f7b314e82c3a",
     "id": "5d241cf4-32b4-11e8-84d9-f7b314e82c3a",
@@ -2502,11 +2123,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Doctors' surgery",
-        "Law firm",
-        "Accountancy firm"
-      ],
+      "wrongAnswers": ["Doctors' surgery", "Law firm", "Accountancy firm"],
       "question": "Which of the following is not an example of a partnership?",
       "correctAnswer": "Tesco PLC",
       "imageURL": "https://media.giphy.com/media/3o6nUPKb34pQLRmEpi/giphy.mp4"
@@ -2523,9 +2140,7 @@
     "content": {
       "question": "Which type of business finds it easier to retain employees?",
       "correctAnswer": "Partnership",
-      "wrongAnswers": [
-        "Sole trader"
-      ]
+      "wrongAnswers": ["Sole trader"]
     },
     "parentId": "5d759850-32b4-11e8-84d9-f7b314e82c3a",
     "id": "5d75bf63-32b4-11e8-84d9-f7b314e82c3a",
@@ -2536,11 +2151,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "PR",
-        "Sales promotion",
-        "Social media"
-      ],
+      "wrongAnswers": ["PR", "Sales promotion", "Social media"],
       "question": "What is Nike's partnership with Roger Federer an example of?",
       "correctAnswer": "Sponsorship",
       "imageURL": "https://media.giphy.com/media/7VAXGPQvsZ1Hq/giphy.mp4"
@@ -2559,10 +2170,7 @@
     "content": {
       "question": "Which of the following is not a type of limited company?",
       "correctAnswer": "Commercial",
-      "wrongAnswers": [
-        "Private",
-        "Public"
-      ]
+      "wrongAnswers": ["Private", "Public"]
     },
     "parentId": "5de28af0-32b4-11e8-84d9-f7b314e82c3a",
     "id": "5de28af4-32b4-11e8-84d9-f7b314e82c3a",
@@ -2574,10 +2182,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Sole trader",
-        "Partnership"
-      ],
+      "wrongAnswers": ["Sole trader", "Partnership"],
       "question": "Google is an example of what type of company?",
       "correctAnswer": "Limited company",
       "imageURL": "https://media.giphy.com/media/AglR3plfuGwkU/giphy.mp4"
@@ -2592,10 +2197,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Government monopoly",
-        "Low prices"
-      ],
+      "wrongAnswers": ["Government monopoly", "Low prices"],
       "question": "What often creates low competition in the healthcare industry?",
       "correctAnswer": "Patents",
       "imageURL": "https://media.giphy.com/media/FVBAF9tFhfUZy/giphy.mp4"
@@ -2611,9 +2213,7 @@
     "content": {
       "question": "If cost A = £100,000 at an output of 20 units and cost A = £100,000 at an output of 100 units, is it a fixed or variable cost?",
       "correctAnswer": "Fixed cost",
-      "wrongAnswers": [
-        "Variable cost"
-      ]
+      "wrongAnswers": ["Variable cost"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "5461d7f1-a34a-4b58-a27f-b2804d017390",
@@ -2645,11 +2245,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "£7.50",
-        "20p",
-        "50p"
-      ],
+      "wrongAnswers": ["£7.50", "20p", "50p"],
       "question": "If a hot dog van has a total cost of £1500 and produces an output of 750 hotdogs, what is the average unit cost of 1 hot dog?",
       "correctAnswer": "£2",
       "imageURL": "https://media.giphy.com/media/NmGbJwLl7Y4lG/giphy.mp4"
@@ -2666,11 +2262,7 @@
     "content": {
       "question": "If a business borrows a loan of £9,000 at an interest rate of 2%, how much interest will they pay on the loan each year?",
       "correctAnswer": "£180",
-      "wrongAnswers": [
-        "£18",
-        "£450",
-        "£45"
-      ]
+      "wrongAnswers": ["£18", "£450", "£45"]
     },
     "parentId": "624f5db0-3332-11e8-84d9-f7b314e82c3a",
     "id": "624f5db6-3332-11e8-84d9-f7b314e82c3a",
@@ -2699,11 +2291,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "500",
-        "300",
-        "100"
-      ],
+      "wrongAnswers": ["500", "300", "100"],
       "question": "If a sweatshirt company has a total cost of £5,000 and they sell each jumper they make for £20, how many jumpers will they need to sell to break-even?",
       "correctAnswer": "250",
       "imageURL": "https://media.giphy.com/media/d1E1ankn7suZrKHC/giphy.gif"
@@ -2718,11 +2306,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "£700",
-        "£1600",
-        "£500"
-      ],
+      "wrongAnswers": ["£700", "£1600", "£500"],
       "question": "A coffee shop has a total cost of £700 and a revenue of £1,600, what is their margin of safety?",
       "correctAnswer": "£900",
       "imageURL": "https://media.giphy.com/media/Dy5InLmd7AZm8/giphy.mp4"
@@ -2737,10 +2321,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Higher wages",
-        "Lower transportation costs back to the UK"
-      ],
+      "wrongAnswers": ["Higher wages", "Lower transportation costs back to the UK"],
       "question": "Why do many businesses use labour in developing countries to make products?",
       "correctAnswer": "Lower wages and cheaper to provide working conditions",
       "imageURL": "https://media.giphy.com/media/Ef2ofcq1q8EaQ/giphy.mp4"
@@ -2755,11 +2336,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Cheaper labour",
-        "Greater availability of raw materials",
-        "Less competition"
-      ],
+      "wrongAnswers": ["Cheaper labour", "Greater availability of raw materials", "Less competition"],
       "question": "Why might Topshop pay more to be located in a shopping mall in the centre of a city rather than pay less and be in a business park on the outskirts?",
       "correctAnswer": "More accessible for customers",
       "imageURL": "https://media.giphy.com/media/4CP58gxwbBy2Q/giphy.mp4"
@@ -2774,11 +2351,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Amazon",
-        "Asos",
-        "Boohoo"
-      ],
+      "wrongAnswers": ["Amazon", "Asos", "Boohoo"],
       "question": "Who is more likely to need a retail store in a busy shopping centre?",
       "correctAnswer": "Forever 21",
       "imageURL": "https://media.giphy.com/media/ane0zK0jt24r6/giphy.mp4"
@@ -2793,11 +2366,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "The views are prettier",
-        "There are more customers",
-        "There are fewer sports shops"
-      ],
+      "wrongAnswers": ["The views are prettier", "There are more customers", "There are fewer sports shops"],
       "question": "Why would Sports Direct choose to be located in Derbyshire over London?",
       "correctAnswer": "Labour is cheaper",
       "imageURL": "https://media.giphy.com/media/13V2RU2v9iNGtq/giphy.mp4"
@@ -2811,11 +2380,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Zara",
-        "H&M",
-        "Topshop"
-      ],
+      "wrongAnswers": ["Zara", "H&M", "Topshop"],
       "question": "Who is most likely to rent a space on a business park on the outskirts of a town?",
       "correctAnswer": "Asos",
       "imageURL": "https://media.giphy.com/media/9WxhJU5SUVhao/giphy.mp4"
@@ -2832,10 +2397,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Batch production",
-        "Job production"
-      ],
+      "wrongAnswers": ["Batch production", "Job production"],
       "question": "\"An assembly line produces standardised products\". Which type of production does this describe?",
       "correctAnswer": "Flow production",
       "imageURL": "https://media.giphy.com/media/xT4uQpK1cJ4l95vDc4/giphy.mp4"
@@ -2850,10 +2412,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Batch production",
-        "Flow production"
-      ],
+      "wrongAnswers": ["Batch production", "Flow production"],
       "question": "Which type of production is being used here?",
       "correctAnswer": "Job production",
       "imageURL": "https://media.giphy.com/media/VtIwoshDy2AoM/giphy.mp4"
@@ -2867,9 +2426,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Qualitative"
-      ],
+      "wrongAnswers": ["Qualitative"],
       "question": "Is the number of people who complained about chicken nuggets sold in 2004 qualitative or quantitative market research?",
       "correctAnswer": "Quantitative",
       "imageURL": "https://media.giphy.com/media/eWNRNp3BVmTYs/giphy.mp4"
@@ -2907,11 +2464,7 @@
     "content": {
       "question": "Which of the following items is least likely to be made using job production?",
       "correctAnswer": "Football",
-      "wrongAnswers": [
-        "Wedding dress",
-        "Customised birthday cake",
-        "Handmade armchair"
-      ]
+      "wrongAnswers": ["Wedding dress", "Customised birthday cake", "Handmade armchair"]
     },
     "parentId": "65f80640-3325-11e8-84d9-f7b314e82c3a",
     "id": "65f82d55-3325-11e8-84d9-f7b314e82c3a",
@@ -2923,10 +2476,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "There is more labour and less machinery",
-        "There is only machinery and no labour"
-      ],
+      "wrongAnswers": ["There is more labour and less machinery", "There is only machinery and no labour"],
       "question": "Flow production is \"capital intensive\", what does this mean?",
       "correctAnswer": "There is more machinery and less labour",
       "imageURL": "https://media.giphy.com/media/n1JN4fSrXovJe/giphy.mp4"
@@ -2941,10 +2491,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Job production",
-        "Batch production"
-      ],
+      "wrongAnswers": ["Job production", "Batch production"],
       "question": "Shampoo is produced using an assembly line so that a large customer base can be catered for. What type of production is being used to produce shampoo?",
       "correctAnswer": "Flow production",
       "imageURL": "https://media.giphy.com/media/ZAtp0wEORSwFO/giphy.mp4"
@@ -2961,10 +2508,7 @@
     "content": {
       "question": "Why might a business that manufactures in the UK be less competitive on price than one that manufactures in China?",
       "correctAnswer": "Higher minimum wage in the UK",
-      "wrongAnswers": [
-        "Higher minimum wage in China",
-        "Import taxes into UK are high"
-      ]
+      "wrongAnswers": ["Higher minimum wage in China", "Import taxes into UK are high"]
     },
     "parentId": "678a29e0-3323-11e8-84d9-f7b314e82c3a",
     "id": "678a29e6-3323-11e8-84d9-f7b314e82c3a",
@@ -2976,11 +2520,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "The Health and Safety in the Workplace Act",
-        "The Welfare at Work Act",
-        "The Equality Act"
-      ],
+      "wrongAnswers": ["The Health and Safety in the Workplace Act", "The Welfare at Work Act", "The Equality Act"],
       "question": "What is the name of the law that places a duty (responsibility) on businesses to make sure that the health and safety of their employees is properly managed?",
       "correctAnswer": "The Health and Safety at Work Act ",
       "imageURL": "https://media.giphy.com/media/WUEzWhiS6RN5e/giphy.mp4"
@@ -2995,11 +2535,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Hazard analyses",
-        "Danger checks",
-        "Threat evaluations"
-      ],
+      "wrongAnswers": ["Hazard analyses", "Danger checks", "Threat evaluations"],
       "question": "What do firms need to complete to ensure dangers in the workplace are minimised?",
       "correctAnswer": "Risk assessments",
       "imageURL": "https://media.giphy.com/media/3orif39j7bD7DVDJHG/giphy.mp4"
@@ -3013,11 +2549,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Trade description",
-        "Not fit for purpose",
-        "Wrong size"
-      ],
+      "wrongAnswers": ["Trade description", "Not fit for purpose", "Wrong size"],
       "question": "If a chair breaks on the first use, a customer can claim a refund on the grounds of which consumer law?",
       "correctAnswer": "Satisfactory quality",
       "imageURL": "https://media.giphy.com/media/26BGGNs1gCbRF53Xy/giphy.mp4"
@@ -3041,11 +2573,7 @@
     "content": {
       "question": "The supermarket Iceland promised not to use plastic packaging in their supermarkets by 2023. What has this business been influenced by?",
       "correctAnswer": "Environmental expectations",
-      "wrongAnswers": [
-        "Technology",
-        "Economy",
-        "Legislation"
-      ]
+      "wrongAnswers": ["Technology", "Economy", "Legislation"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "5af7dd07-0946-4371-ac32-6ba621158544",
@@ -3084,10 +2612,7 @@
     "content": {
       "question": "If a new legislation results in an increase in the national minimum wage, what will happen to the costs of a business with many minimum wage workers?",
       "correctAnswer": "Increase",
-      "wrongAnswers": [
-        "Decrease",
-        "Stay the same"
-      ]
+      "wrongAnswers": ["Decrease", "Stay the same"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "68b27d40-3323-11e8-84d9-f7b314e82c3a",
@@ -3106,11 +2631,7 @@
     "content": {
       "question": "What is the key benefit of primary research?",
       "correctAnswer": "It is tailored to the needs of the business",
-      "wrongAnswers": [
-        "It is quick",
-        "It is cheap",
-        "It is more reliable than secondary research"
-      ]
+      "wrongAnswers": ["It is quick", "It is cheap", "It is more reliable than secondary research"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "e5a238c5-1f80-4a13-b283-d1db76ec6196",
@@ -3125,11 +2646,7 @@
     "content": {
       "question": "Which of these businesses uses franchising?",
       "correctAnswer": "KFC",
-      "wrongAnswers": [
-        "Tesco",
-        "Seneca",
-        "Oxfam"
-      ]
+      "wrongAnswers": ["Tesco", "Seneca", "Oxfam"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "69b1fdd0-3321-11e8-84d9-f7b314e82c3a",
@@ -3148,11 +2665,7 @@
     "content": {
       "question": "What do we call it when a company gives someone the right to to sell its products and use its trademarks?",
       "correctAnswer": "Franchising",
-      "wrongAnswers": [
-        "Employing",
-        "Outsourcing",
-        "Diversifying"
-      ]
+      "wrongAnswers": ["Employing", "Outsourcing", "Diversifying"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "69b1fdd0-3321-11e8-84d9-f7b314e82c3a",
@@ -3189,10 +2702,7 @@
     "content": {
       "question": "How are cars usually manufactured?",
       "correctAnswer": "Flow production",
-      "wrongAnswers": [
-        "Job production",
-        "Lot production"
-      ]
+      "wrongAnswers": ["Job production", "Lot production"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "9458d3e0-f367-4934-b0bf-a078c4fc4cae",
@@ -3205,9 +2715,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Qualitative"
-      ],
+      "wrongAnswers": ["Qualitative"],
       "question": "Is the number of Chicken nuggets sold in 2004 qualitative or quantitative market research?",
       "correctAnswer": "Quantitative",
       "imageURL": "https://media.giphy.com/media/eWNRNp3BVmTYs/giphy.mp4"
@@ -3225,10 +2733,7 @@
     "content": {
       "question": "When evaluating Beyond Meat, which category of market research would details of M&S' vegetarian range best fit into?",
       "correctAnswer": "Competition",
-      "wrongAnswers": [
-        "Demand",
-        "Target market"
-      ]
+      "wrongAnswers": ["Demand", "Target market"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "dfdff260-1bc3-46b5-ac51-222702fb1f42",
@@ -3242,11 +2747,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Lost customers",
-        "High costs due to processing returns",
-        "Product recalls"
-      ],
+      "wrongAnswers": ["Lost customers", "High costs due to processing returns", "Product recalls"],
       "question": "Which of the following is not usually a consequence of poor quality?",
       "correctAnswer": "Loyal customers",
       "imageURL": "https://media.giphy.com/media/3o6MbqqtKgZhaLhUC4/giphy.mp4"
@@ -3261,11 +2762,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Company feedback",
-        "Employee feedback",
-        "Host feedback"
-      ],
+      "wrongAnswers": ["Company feedback", "Employee feedback", "Host feedback"],
       "question": "Airbnb ask people who stay in properties listed on the website to rate them afterwards. What is this an example of?",
       "correctAnswer": "Customer feedback",
       "imageURL": "https://media.giphy.com/media/yoJC2klF9cvzVFti3S/giphy.mp4"
@@ -3298,11 +2795,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Trade description",
-        "Not fit for purpose",
-        "Wrong size"
-      ],
+      "wrongAnswers": ["Trade description", "Not fit for purpose", "Wrong size"],
       "question": "If a chair breaks on the first use, a customer can claim a refund on the grounds of which consumer law?",
       "correctAnswer": "Satisfactory quality",
       "imageURL": "https://media.giphy.com/media/26BGGNs1gCbRF53Xy/giphy.mp4"
@@ -3336,10 +2829,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "It gives customers a sense of purpose",
-        "It is cheaper than online feedback"
-      ],
+      "wrongAnswers": ["It gives customers a sense of purpose", "It is cheaper than online feedback"],
       "question": "How does customer service help businesses improve product quality?",
       "correctAnswer": "It helps spot problems that have not yet been identified by the company",
       "imageURL": "https://media.giphy.com/media/T8Dhl1KPyzRqU/giphy.mp4"
@@ -3353,10 +2843,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Land",
-        "Capital"
-      ],
+      "wrongAnswers": ["Land", "Capital"],
       "question": "Which factor of production is Elon Musk?",
       "correctAnswer": "Enterprise",
       "imageURL": "https://media.giphy.com/media/ENFBBy8kUJpoQ/giphy.mp4"
@@ -3374,11 +2861,7 @@
     "content": {
       "question": "What does B2B mean?",
       "correctAnswer": "Business-to-business",
-      "wrongAnswers": [
-        "Business-to-basics",
-        "Back-to-business",
-        "Business-to-barcodes"
-      ]
+      "wrongAnswers": ["Business-to-basics", "Back-to-business", "Business-to-barcodes"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "9ccf0400-5408-49b1-8734-6e5a532710fe",
@@ -3410,12 +2893,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Mainly goods"
-      ],
+      "wrongAnswers": ["Mainly goods"],
       "question": "Snap Inc (Snapchat) is a business that provides what?",
       "correctAnswer": "Mainly services",
-      "imageURL": "seneca-image-cdn:///2018-03/031cd907-bf9e-4af5-96ed-0076b7f8058b/shutterstock_551952883.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/031cd907-bf9e-4af5-96ed-0076b7f8058b/shutterstock_551952883.jpg"
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "76b8a1f0-32ae-11e8-84d9-f7b314e82c3a",
@@ -3423,7 +2904,7 @@
       "wrongAnswers": "Mainly goods",
       "question": "Snap Inc (Snapchat) is a business that provides what?",
       "correctAnswer": "Mainly services",
-      "imageURL": "seneca-image-cdn:///2018-03/031cd907-bf9e-4af5-96ed-0076b7f8058b/shutterstock_551952883.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/031cd907-bf9e-4af5-96ed-0076b7f8058b/shutterstock_551952883.jpg"
     },
     "id": "76b8a1f5-32ae-11e8-84d9-f7b314e82c3a",
     "type": "module",
@@ -3435,11 +2916,7 @@
     "content": {
       "question": "Which of these types of businesses is likely to find it easiest to raise equity & debt finance?",
       "correctAnswer": "Public limited company",
-      "wrongAnswers": [
-        "Private limited company",
-        "Partnership",
-        "Sole trader"
-      ]
+      "wrongAnswers": ["Private limited company", "Partnership", "Sole trader"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "262243fd-1c4f-40c3-9283-41d7340fe962",
@@ -3453,11 +2930,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Social media",
-        "Advertising",
-        "Public relations"
-      ],
+      "wrongAnswers": ["Social media", "Advertising", "Public relations"],
       "question": "Nike work with Neymar to promote their products. What type of promotion method is this an example of?",
       "correctAnswer": "Sponsorship",
       "imageURL": "https://media.giphy.com/media/3ohs7RkcDquVXo5uSY/giphy.mp4"
@@ -3474,11 +2947,7 @@
     "content": {
       "question": "Which of the following is not a promotional method?",
       "correctAnswer": "Customer service",
-      "wrongAnswers": [
-        "Sponsorship",
-        "Advertising",
-        "Product placements"
-      ]
+      "wrongAnswers": ["Sponsorship", "Advertising", "Product placements"]
     },
     "parentId": "77c3fd60-3330-11e8-84d9-f7b314e82c3a",
     "id": "77c3fd65-3330-11e8-84d9-f7b314e82c3a",
@@ -3491,11 +2960,7 @@
     "content": {
       "question": "What does B2C mean?",
       "correctAnswer": "Business-to-consumer",
-      "wrongAnswers": [
-        "Business-to-corporate",
-        "Business-to-customer",
-        "Business-to-company"
-      ]
+      "wrongAnswers": ["Business-to-corporate", "Business-to-customer", "Business-to-company"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "9ccf0400-5408-49b1-8734-6e5a532710fe",
@@ -3511,11 +2976,7 @@
     "content": {
       "question": "Which of the following does market research not gather information on?",
       "correctAnswer": "Employee opinion",
-      "wrongAnswers": [
-        "Demand",
-        "Competition",
-        "Target Market"
-      ]
+      "wrongAnswers": ["Demand", "Competition", "Target Market"]
     },
     "parentId": "79691420-332b-11e8-84d9-f7b314e82c3a",
     "id": "79691426-332b-11e8-84d9-f7b314e82c3a",
@@ -3528,11 +2989,7 @@
     "content": {
       "question": "What do we call organisations that loan businesses money?",
       "correctAnswer": "Creditors",
-      "wrongAnswers": [
-        "Creators",
-        "Convenors",
-        "Contributors"
-      ]
+      "wrongAnswers": ["Creators", "Convenors", "Contributors"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "9f2959b4-fb9f-41e5-8c11-c36bec315822",
@@ -3546,10 +3003,7 @@
     "content": {
       "question": "What type of cost is rent?",
       "correctAnswer": "Fixed cost",
-      "wrongAnswers": [
-        "Variable cost",
-        "Unnecessary cost"
-      ]
+      "wrongAnswers": ["Variable cost", "Unnecessary cost"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "5461d7f1-a34a-4b58-a27f-b2804d017390",
@@ -3565,11 +3019,7 @@
     "content": {
       "question": "What's another term for advertising?",
       "correctAnswer": "\"Above the line\" promotion",
-      "wrongAnswers": [
-        "\"Below the line\" promotion",
-        "\"Between the lines\" promotion",
-        "\"Down the line\" promotion"
-      ]
+      "wrongAnswers": ["\"Below the line\" promotion", "\"Between the lines\" promotion", "\"Down the line\" promotion"]
     },
     "parentId": "7a8937e0-3330-11e8-84d9-f7b314e82c3a",
     "id": "7a8937e3-3330-11e8-84d9-f7b314e82c3a",
@@ -3583,11 +3033,7 @@
     "content": {
       "question": "Which of newspapers, television and the internet are platforms for advertising?",
       "correctAnswer": "All of them",
-      "wrongAnswers": [
-        "Newspapers and the internet",
-        "Television and the internet",
-        "The internet"
-      ]
+      "wrongAnswers": ["Newspapers and the internet", "Television and the internet", "The internet"]
     },
     "parentId": "7a8937e0-3330-11e8-84d9-f7b314e82c3a",
     "id": "7a8937e4-3330-11e8-84d9-f7b314e82c3a",
@@ -3600,11 +3046,7 @@
     "content": {
       "question": "PR involves maintaining a good public image. What does PR stand for?",
       "correctAnswer": "Public Relations",
-      "wrongAnswers": [
-        "Private Relations",
-        "Public Relationship",
-        "Private Relationship"
-      ]
+      "wrongAnswers": ["Private Relations", "Public Relationship", "Private Relationship"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "7ae895f0-3330-11e8-84d9-f7b314e82c3a",
@@ -3623,11 +3065,7 @@
     "content": {
       "question": "Which of the following is an example of public relations?",
       "correctAnswer": "Newspaper editorial",
-      "wrongAnswers": [
-        "Magazine advert",
-        "Celebrity endorsement",
-        "Social media shout-out"
-      ]
+      "wrongAnswers": ["Magazine advert", "Celebrity endorsement", "Social media shout-out"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "7ae895f0-3330-11e8-84d9-f7b314e82c3a",
@@ -3644,11 +3082,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Public relations",
-        "Advertising",
-        "Sponsorship"
-      ],
+      "wrongAnswers": ["Public relations", "Advertising", "Sponsorship"],
       "question": "What is a competition by Nando's on social media to win a free meal for two an example of?",
       "correctAnswer": "Sales promotion",
       "imageURL": "https://media.giphy.com/media/3oxQNp0SiNeaYQ51Vm/giphy.mp4"
@@ -3671,11 +3105,7 @@
     "content": {
       "question": "What type of sales promotion is a \"buy one get one free\" deal?",
       "correctAnswer": "Value for money offer",
-      "wrongAnswers": [
-        "Free gift",
-        "Point of sales display",
-        "Discount coupon"
-      ]
+      "wrongAnswers": ["Free gift", "Point of sales display", "Discount coupon"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "7b442370-3330-11e8-84d9-f7b314e82c3a",
@@ -3694,10 +3124,7 @@
     "content": {
       "question": "If net profit margin has risen, is this good or bad for a business?",
       "correctAnswer": "Good",
-      "wrongAnswers": [
-        "Bad",
-        "Neutral"
-      ]
+      "wrongAnswers": ["Bad", "Neutral"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "253c9ce0-3336-11e8-84d9-f7b314e82c3a",
@@ -3715,10 +3142,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Sole trader",
-        "Partnership"
-      ],
+      "wrongAnswers": ["Sole trader", "Partnership"],
       "question": "Which type of company would find it easiest to get a loan?",
       "correctAnswer": "Private limited company",
       "imageURL": "https://media.giphy.com/media/11zyJuJXMxxJFm/giphy.mp4"
@@ -3735,11 +3159,7 @@
     "content": {
       "question": "Which suffix follows the name of a private limited company?",
       "correctAnswer": "Ltd",
-      "wrongAnswers": [
-        "PLC",
-        "Prv",
-        "Lim"
-      ]
+      "wrongAnswers": ["PLC", "Prv", "Lim"]
     },
     "parentId": "7c3329b0-32b4-11e8-84d9-f7b314e82c3a",
     "id": "7c3329b6-32b4-11e8-84d9-f7b314e82c3a",
@@ -3751,9 +3171,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Quantitative"
-      ],
+      "wrongAnswers": ["Quantitative"],
       "question": "What type of research would gather information about how customers felt about the service at a bar?",
       "correctAnswer": "Qualitative",
       "imageURL": "https://media.giphy.com/media/l2Je508RKOnum7CGk/giphy.mp4"
@@ -3770,9 +3188,7 @@
     "content": {
       "question": "Topshop shares are not available for purchase by the public. What type of limited company is Topshop?",
       "correctAnswer": "Private ",
-      "wrongAnswers": [
-        "Public"
-      ]
+      "wrongAnswers": ["Public"]
     },
     "parentId": "7c9fce30-32b4-11e8-84d9-f7b314e82c3a",
     "id": "7c9fce36-32b4-11e8-84d9-f7b314e82c3a",
@@ -3784,10 +3200,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Full-time",
-        "Job share"
-      ],
+      "wrongAnswers": ["Full-time", "Job share"],
       "question": "What type of contract would be most useful for a business that is only busy at certain times of the week or certain months in the year?",
       "correctAnswer": "Part-time",
       "imageURL": "https://media.giphy.com/media/3orif2JK8DsUSxMShW/giphy.mp4"
@@ -3803,10 +3216,7 @@
     "content": {
       "question": "Which of these is an employee benefit of full-time contracts compared to other types?",
       "correctAnswer": "Perks like healthcare or a company car",
-      "wrongAnswers": [
-        "Less work hours per week",
-        "More flexibility"
-      ]
+      "wrongAnswers": ["Less work hours per week", "More flexibility"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "7ced3930-3328-11e8-84d9-f7b314e82c3a",
@@ -3844,10 +3254,7 @@
     "content": {
       "question": "Why do most companies try to become incorporated?",
       "correctAnswer": "To make it easier to get a bank loan",
-      "wrongAnswers": [
-        "To retain more employees",
-        "It's easy and cheap"
-      ]
+      "wrongAnswers": ["To retain more employees", "It's easy and cheap"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "7d017630-32b4-11e8-84d9-f7b314e82c3a",
@@ -3866,11 +3273,7 @@
     "content": {
       "question": "What are charities like Oxfam?",
       "correctAnswer": "Not-for-profit organisations",
-      "wrongAnswers": [
-        "Sole traders",
-        "Public companies",
-        "Social enterprises"
-      ]
+      "wrongAnswers": ["Sole traders", "Public companies", "Social enterprises"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "7ec4aa00-32b4-11e8-84d9-f7b314e82c3a",
@@ -3889,11 +3292,7 @@
     "content": {
       "question": "What do the people who run 'unincorporated associations' have?",
       "correctAnswer": "Unlimited liability",
-      "wrongAnswers": [
-        "Limited liability",
-        "Surfboards",
-        "Red hats"
-      ]
+      "wrongAnswers": ["Limited liability", "Surfboards", "Red hats"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "7ec4aa00-32b4-11e8-84d9-f7b314e82c3a",
@@ -3912,11 +3311,7 @@
     "content": {
       "question": "What is the key benefit of primary research?",
       "correctAnswer": "It is tailored to the needs of the business",
-      "wrongAnswers": [
-        "It is quick",
-        "It is cheap",
-        "It is more reliable that secondary research"
-      ]
+      "wrongAnswers": ["It is quick", "It is cheap", "It is more reliable that secondary research"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "7eebc0f0-332b-11e8-84d9-f7b314e82c3a",
@@ -3935,9 +3330,7 @@
     "content": {
       "question": "A government survey of supermarkets is an example of what?",
       "correctAnswer": "Secondary market research",
-      "wrongAnswers": [
-        "Primary market research"
-      ]
+      "wrongAnswers": ["Primary market research"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "7f64e890-332b-11e8-84d9-f7b314e82c3a",
@@ -3956,10 +3349,7 @@
     "content": {
       "question": "Which of the following is NOT a benefit of secondary market research?",
       "correctAnswer": "It can be tailored to a business' specific needs",
-      "wrongAnswers": [
-        "It is cheap",
-        "It covers an entire market not a small target market"
-      ]
+      "wrongAnswers": ["It is cheap", "It covers an entire market not a small target market"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "7f64e890-332b-11e8-84d9-f7b314e82c3a",
@@ -3977,11 +3367,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Clothes",
-        "Video games",
-        "Meals out"
-      ],
+      "wrongAnswers": ["Clothes", "Video games", "Meals out"],
       "question": "What will people spend the same amount of money on, even if their income falls?",
       "correctAnswer": "Water",
       "imageURL": "https://media.giphy.com/media/3ohuPkgbcIaG2OoDIs/giphy.mp4"
@@ -3998,11 +3384,7 @@
     "content": {
       "question": "In 2018, what % of overall retail spending was spent on e-commerce?",
       "correctAnswer": "17%",
-      "wrongAnswers": [
-        "13%",
-        "24%",
-        "27%"
-      ]
+      "wrongAnswers": ["13%", "24%", "27%"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "7302055d-a614-48b2-9a1e-1ab9be178217",
@@ -4015,11 +3397,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Increasing sales",
-        "Chasing customers that owe money",
-        "Selling assets"
-      ],
+      "wrongAnswers": ["Increasing sales", "Chasing customers that owe money", "Selling assets"],
       "question": "Which of the following will not increase cash inflows?",
       "correctAnswer": "Lending more credit to customers",
       "imageURL": "https://media.giphy.com/media/l0OXXpl20sY9G0uJy/giphy.mp4"
@@ -4036,10 +3414,7 @@
     "content": {
       "question": "If net profit margin has risen, is this good or bad for a business?",
       "correctAnswer": "Good",
-      "wrongAnswers": [
-        "Bad",
-        "Neutral"
-      ]
+      "wrongAnswers": ["Bad", "Neutral"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "b1296ada-8374-4a3e-a019-7f1f335c44a0",
@@ -4053,9 +3428,7 @@
     "content": {
       "question": "Is the fact that 99% of consumers like fried chicken more market-driven or product-driven?",
       "correctAnswer": "Market-driven",
-      "wrongAnswers": [
-        "Product-driven"
-      ]
+      "wrongAnswers": ["Product-driven"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "dfdff260-1bc3-46b5-ac51-222702fb1f42",
@@ -4068,9 +3441,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Customers' needs"
-      ],
+      "wrongAnswers": ["Customers' needs"],
       "question": "Does Airbnb serve customers' wants or needs?",
       "correctAnswer": "Customers' wants",
       "imageURL": "https://media.giphy.com/media/3og0ID1kWsuOfY8nLy/giphy.mp4"
@@ -4093,9 +3464,7 @@
     "content": {
       "question": "What are customers' needs?",
       "correctAnswer": "The things that people can't live without",
-      "wrongAnswers": [
-        "The things that people would like to have"
-      ]
+      "wrongAnswers": ["The things that people would like to have"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "85ad7020-32ac-11e8-84d9-f7b314e82c3a",
@@ -4131,11 +3500,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "£10.50",
-        "£150",
-        "£110"
-      ],
+      "wrongAnswers": ["£10.50", "£150", "£110"],
       "question": "If a sweet shop sells 700 sweets for 15p each, what is the shop's revenue?",
       "correctAnswer": "£105",
       "imageURL": "https://media.giphy.com/media/26FxCxnkrzUy0u2nm/giphy.mp4"
@@ -4150,11 +3515,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "£300",
-        "£1500",
-        "£6000"
-      ],
+      "wrongAnswers": ["£300", "£1500", "£6000"],
       "question": "If a hotel has 20 guests staying, and each room costs £150, what is the revenue made in one evening?",
       "correctAnswer": "£3000",
       "imageURL": "https://media.giphy.com/media/panz4Sg09WoN2/giphy.mp4"
@@ -4171,10 +3532,7 @@
     "content": {
       "question": "Which of the following is NOT an example of a fixed cost?",
       "correctAnswer": "Raw materials",
-      "wrongAnswers": [
-        "Rent of office space",
-        "Company insurance"
-      ]
+      "wrongAnswers": ["Rent of office space", "Company insurance"]
     },
     "parentId": "8614a750-32b5-11e8-84d9-f7b314e82c3a",
     "id": "8614a754-32b5-11e8-84d9-f7b314e82c3a",
@@ -4223,11 +3581,7 @@
     "content": {
       "question": "If a hot dog van has a total cost of £1500 and produces an output of 750 hotdogs, what is the average unit cost of 1 hot dog?",
       "correctAnswer": "£2",
-      "wrongAnswers": [
-        "£7.50",
-        "20p",
-        "50p"
-      ]
+      "wrongAnswers": ["£7.50", "20p", "50p"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "866adda0-32b5-11e8-84d9-f7b314e82c3a",
@@ -4243,11 +3597,7 @@
     "content": {
       "question": "If a business borrows a loan of £9,000 at an interest rate of 2%, how much interest will they pay on the loan each year?",
       "correctAnswer": "£180",
-      "wrongAnswers": [
-        "£18",
-        "£450",
-        "£45"
-      ]
+      "wrongAnswers": ["£18", "£450", "£45"]
     },
     "parentId": "866adda0-32b5-11e8-84d9-f7b314e82c3a",
     "id": "866adda6-32b5-11e8-84d9-f7b314e82c3a",
@@ -4259,11 +3609,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Sell assets",
-        "Overdraft",
-        "Savings"
-      ],
+      "wrongAnswers": ["Sell assets", "Overdraft", "Savings"],
       "question": "When a business sells shares for a % of the business, which external method of finance is this business using?",
       "correctAnswer": "Share capital",
       "imageURL": "https://media.giphy.com/media/l4pTm2BowP6FO3eIU/giphy.mp4"
@@ -4278,11 +3624,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Share capital",
-        "Government grant",
-        "Bank loan"
-      ],
+      "wrongAnswers": ["Share capital", "Government grant", "Bank loan"],
       "question": "Which of the following is not an external source of funding?",
       "correctAnswer": "Retained profit",
       "imageURL": "https://media.giphy.com/media/C5cDXxEgBGNjy/giphy.mp4"
@@ -4298,11 +3640,7 @@
     "content": {
       "question": "Which of these types of product sees suppliers in a supply chain work most closely with the manufacturers?",
       "correctAnswer": "JIT production",
-      "wrongAnswers": [
-        "Batch production",
-        "Job production",
-        "Flow production"
-      ]
+      "wrongAnswers": ["Batch production", "Job production", "Flow production"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "9458d3e0-f367-4934-b0bf-a078c4fc4cae",
@@ -4317,9 +3655,7 @@
     "content": {
       "question": "Is the ability to access more customers globally an advantage or disadvantage of e-commerce?",
       "correctAnswer": "Advantage",
-      "wrongAnswers": [
-        "Disadvantage"
-      ]
+      "wrongAnswers": ["Disadvantage"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "7302055d-a614-48b2-9a1e-1ab9be178217",
@@ -4354,10 +3690,7 @@
     "content": {
       "question": "Which of the following is a short-term source of finance?",
       "correctAnswer": "Trade credits",
-      "wrongAnswers": [
-        "Share capital",
-        "Mortgages"
-      ]
+      "wrongAnswers": ["Share capital", "Mortgages"]
     },
     "parentId": "8c6407a0-3331-11e8-84d9-f7b314e82c3a",
     "id": "8c642eb2-3331-11e8-84d9-f7b314e82c3a",
@@ -4369,9 +3702,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Personal savings"
-      ],
+      "wrongAnswers": ["Personal savings"],
       "question": "I'm setting up a new business selling toothbrushes for animals. Which source of finance am I likely to struggle to get?",
       "correctAnswer": "Bank loan",
       "imageURL": "https://media.giphy.com/media/iSM6EREOAj2Fy/giphy.mp4"
@@ -4386,14 +3717,10 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Enforced support",
-        "Reputation boosting",
-        "Sponsorship"
-      ],
+      "wrongAnswers": ["Enforced support", "Reputation boosting", "Sponsorship"],
       "question": "Lenny Henry is a comedian who features in the Premier Inn adverts. What is it called when a celebrity is advertised as using a product or service?",
       "correctAnswer": "Celebrity endorsement",
-      "imageURL": "seneca-image-cdn:///2018-03/5cd8c7e2-b03d-46a3-a5c3-899e2967c595/shutterstock_696157768.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/5cd8c7e2-b03d-46a3-a5c3-899e2967c595/shutterstock_696157768.jpg"
     },
     "parentId": "8ce3b460-3330-11e8-84d9-f7b314e82c3a",
     "id": "8ce3b464-3330-11e8-84d9-f7b314e82c3a",
@@ -4422,11 +3749,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "It's expensive",
-        "It's cheap but not effective",
-        "Social media platforms are fun to use"
-      ],
+      "wrongAnswers": ["It's expensive", "It's cheap but not effective", "Social media platforms are fun to use"],
       "question": "Why do businesses use social media for promotion?",
       "correctAnswer": "It's cheap and easy to target specific people",
       "imageURL": "https://media.giphy.com/media/FX6O07exxbUze/giphy.mp4"
@@ -4443,11 +3766,7 @@
     "content": {
       "question": "Businesses can pay Facebook or Instagram to aim adverts at a precise group of people in a particular age group. Which benefit of social media promotion is this?",
       "correctAnswer": "It can easily reach a target market",
-      "wrongAnswers": [
-        "Adverts can be easily updated",
-        "It is very expensive",
-        "It doesn't require much effort"
-      ]
+      "wrongAnswers": ["Adverts can be easily updated", "It is very expensive", "It doesn't require much effort"]
     },
     "parentId": "8d427630-3330-11e8-84d9-f7b314e82c3a",
     "id": "8d427634-3330-11e8-84d9-f7b314e82c3a",
@@ -4460,11 +3779,7 @@
     "content": {
       "question": "What is Facebook acquiring WhatsApp an example of?",
       "correctAnswer": "An acquisition",
-      "wrongAnswers": [
-        "Internal growth",
-        "A merger",
-        "Organic growth"
-      ]
+      "wrongAnswers": ["Internal growth", "A merger", "Organic growth"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "a9358ca3-f36a-4b63-94a4-d458797e24a8",
@@ -4478,11 +3793,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Social media",
-        "Sponsorship",
-        "Celebrity endorsement"
-      ],
+      "wrongAnswers": ["Social media", "Sponsorship", "Celebrity endorsement"],
       "question": "In James Bond, Daniel Craig frequently wears and mentions his brand of watch (Omega in Casino Royale). What type of promotion is this an example of?",
       "correctAnswer": "Product placement",
       "imageURL": "https://media.giphy.com/media/nu4DN4nKos3m0/giphy.mp4"
@@ -4497,11 +3808,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Subliminal messaging",
-        "Product hinting",
-        "Suggestive sales"
-      ],
+      "wrongAnswers": ["Subliminal messaging", "Product hinting", "Suggestive sales"],
       "question": "What is it called when products are featured in TV programmes and films?",
       "correctAnswer": "Product placement",
       "imageURL": "https://media.giphy.com/media/2T0COzN9AclK8/giphy.mp4"
@@ -4516,10 +3823,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Costa Coffee products in Coronation Street",
-        "Daniel Craig's Omega watch in Casino Royale"
-      ],
+      "wrongAnswers": ["Costa Coffee products in Coronation Street", "Daniel Craig's Omega watch in Casino Royale"],
       "question": "Which of the following is not an example of product placement?",
       "correctAnswer": "George Clooney appearing in Nespresso adverts",
       "imageURL": "https://media.giphy.com/media/KefFGweYcSJtS/giphy.mp4"
@@ -4536,11 +3840,7 @@
     "content": {
       "question": "TQM is a set of management principles that places quality at the heart of everything a business does. What does TQM stand for?",
       "correctAnswer": "Total Quality Management",
-      "wrongAnswers": [
-        "Top Quality Meaning",
-        "Total Quantity Making",
-        "Together Quick Management"
-      ]
+      "wrongAnswers": ["Top Quality Meaning", "Total Quantity Making", "Together Quick Management"]
     },
     "parentId": "8dd069e0-3326-11e8-84d9-f7b314e82c3a",
     "id": "8dd069e4-3326-11e8-84d9-f7b314e82c3a",
@@ -4554,11 +3854,7 @@
     "content": {
       "question": "What is the main reason companies use Total Quality Management?",
       "correctAnswer": "To achieve a high customer satisfaction",
-      "wrongAnswers": [
-        "Because TQM is cheap",
-        "To make shareholders happy",
-        "To reduce customer satisfaction"
-      ]
+      "wrongAnswers": ["Because TQM is cheap", "To make shareholders happy", "To reduce customer satisfaction"]
     },
     "parentId": "8dd069e0-3326-11e8-84d9-f7b314e82c3a",
     "id": "8dd069e6-3326-11e8-84d9-f7b314e82c3a",
@@ -4587,9 +3883,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Risk"
-      ],
+      "wrongAnswers": ["Risk"],
       "question": "What is the money earned if a business succeeds an example of?",
       "correctAnswer": "Reward",
       "imageURL": "https://media.giphy.com/media/9HQRIttS5C4Za/giphy.mp4"
@@ -4613,11 +3907,7 @@
     "content": {
       "question": "Which of the following is not a cost of maintaining high quality products and services?",
       "correctAnswer": "Advertising costs",
-      "wrongAnswers": [
-        "Inspection costs",
-        "Staff training",
-        "Provision of services"
-      ]
+      "wrongAnswers": ["Inspection costs", "Staff training", "Provision of services"]
     },
     "parentId": "8eb9df80-3326-11e8-84d9-f7b314e82c3a",
     "id": "8eb9df84-3326-11e8-84d9-f7b314e82c3a",
@@ -4630,10 +3920,7 @@
     "content": {
       "question": "If a business has a negative gross profit margin, is this good or bad news for the business?",
       "correctAnswer": "Bad",
-      "wrongAnswers": [
-        "Ok",
-        "Good"
-      ]
+      "wrongAnswers": ["Ok", "Good"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "253c9ce0-3336-11e8-84d9-f7b314e82c3a",
@@ -4653,11 +3940,7 @@
     "content": {
       "question": "Which of the following is an example of public relations?",
       "correctAnswer": "Newspaper editorial",
-      "wrongAnswers": [
-        "Magazine advert",
-        "Celebrity endorsement",
-        "Social media shout-out"
-      ]
+      "wrongAnswers": ["Magazine advert", "Celebrity endorsement", "Social media shout-out"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "ffd3fdd7-6e33-4da5-b522-97b0b6ad1bf8",
@@ -4671,10 +3954,7 @@
     "content": {
       "question": "Which of these is not a characteristic of people at the top of an organisational hierarchy?",
       "correctAnswer": "Always have the most knowledge of day-to-day operations",
-      "wrongAnswers": [
-        "Most experienced",
-        "Have the most expertise"
-      ]
+      "wrongAnswers": ["Most experienced", "Have the most expertise"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "90284720-3327-11e8-84d9-f7b314e82c3a",
@@ -4694,11 +3974,7 @@
     "content": {
       "question": "Which of the following can not be described as a market?",
       "correctAnswer": "A specific business",
-      "wrongAnswers": [
-        "A place to trade products",
-        "An industry",
-        "A specific group of customers"
-      ]
+      "wrongAnswers": ["A place to trade products", "An industry", "A specific group of customers"]
     },
     "parentId": "90daf220-3323-11e8-84d9-f7b314e82c3a",
     "id": "90daf224-3323-11e8-84d9-f7b314e82c3a",
@@ -4712,11 +3988,7 @@
     "content": {
       "question": "What do we call the group of people a company aims their product or service at?",
       "correctAnswer": "Target market",
-      "wrongAnswers": [
-        "Bullseye market",
-        "Jackpot market",
-        "Goal market"
-      ]
+      "wrongAnswers": ["Bullseye market", "Jackpot market", "Goal market"]
     },
     "parentId": "90daf220-3323-11e8-84d9-f7b314e82c3a",
     "id": "90daf225-3323-11e8-84d9-f7b314e82c3a",
@@ -4728,12 +4000,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Quality",
-        "Location",
-        "Product Range",
-        "Customer Service"
-      ],
+      "wrongAnswers": ["Quality", "Location", "Product Range", "Customer Service"],
       "question": "Ryanair sells flights from £17. What do you think it competes on?",
       "correctAnswer": "Price",
       "imageURL": "https://media.giphy.com/media/sCeDVONTypmVy/giphy.mp4"
@@ -4748,10 +4015,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Location",
-        "Price"
-      ],
+      "wrongAnswers": ["Location", "Price"],
       "question": "Colgate sell lots of different types of toothpaste. What do you think one variable that they compete on is?",
       "correctAnswer": "Product range",
       "imageURL": "https://media.giphy.com/media/dcl7xz9f5RhSw/giphy.mp4"
@@ -4766,10 +4030,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Location",
-        "Price"
-      ],
+      "wrongAnswers": ["Location", "Price"],
       "question": "Colgate sell lots of different types of toothpaste. What do you think one variable that they compete on is?",
       "correctAnswer": "Product range",
       "imageURL": "https://media.giphy.com/media/i9jTr69HWubKw/giphy.mp4"
@@ -4784,9 +4045,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Price"
-      ],
+      "wrongAnswers": ["Price"],
       "question": "Do you think Apple competes more on price or quality?",
       "correctAnswer": "Quality",
       "imageURL": "https://media.giphy.com/media/3ov9jHqy9lSecfENr2/giphy.mp4"
@@ -4801,9 +4060,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Quality"
-      ],
+      "wrongAnswers": ["Quality"],
       "question": "Do you think Aldi competes more on quality or price?",
       "correctAnswer": "Price",
       "imageURL": "https://media.giphy.com/media/XKT62CZzcBfTW5oMCu/giphy.mp4"
@@ -4820,10 +4077,7 @@
     "content": {
       "question": "What effect does competition normally have on a business’ profits?",
       "correctAnswer": "Negative",
-      "wrongAnswers": [
-        "Positive",
-        "No effect"
-      ]
+      "wrongAnswers": ["Positive", "No effect"]
     },
     "parentId": "91eb0290-3323-11e8-84d9-f7b314e82c3a",
     "id": "91eb0296-3323-11e8-84d9-f7b314e82c3a",
@@ -4836,10 +4090,7 @@
     "content": {
       "question": "Which of these is not a drawback of decision-making in decentralised organisations?",
       "correctAnswer": "Decision-makers will always make consistent decisions",
-      "wrongAnswers": [
-        "Inconsistent decisions",
-        "Decisions may not be aligned with overall objectives"
-      ]
+      "wrongAnswers": ["Inconsistent decisions", "Decisions may not be aligned with overall objectives"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "9221cd30-3327-11e8-84d9-f7b314e82c3a",
@@ -4856,10 +4107,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Changing the target market",
-        "Advertising"
-      ],
+      "wrongAnswers": ["Changing the target market", "Advertising"],
       "question": "Which extension strategy is this an example of?",
       "correctAnswer": "Updated packaging or branding",
       "imageURL": "https://media.giphy.com/media/gUdgDxpDhkUZa/giphy.mp4"
@@ -4876,11 +4124,7 @@
     "content": {
       "question": "Which of these is not a way of reducing the risk a business faces?",
       "correctAnswer": "Taking on more debt",
-      "wrongAnswers": [
-        "Researching the market",
-        "Staying on top of technological change",
-        "Making a business plan"
-      ]
+      "wrongAnswers": ["Researching the market", "Staying on top of technological change", "Making a business plan"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "012512d0-caf2-4d16-b457-165307905192",
@@ -4930,10 +4174,7 @@
     "content": {
       "question": "Why can e-commerce be good for UK companies?",
       "correctAnswer": "They can reach more global customers",
-      "wrongAnswers": [
-        "It increases competition",
-        "They can charge higher prices"
-      ]
+      "wrongAnswers": ["It increases competition", "They can charge higher prices"]
     },
     "parentId": "98e12770-3321-11e8-84d9-f7b314e82c3a",
     "id": "98e12772-3321-11e8-84d9-f7b314e82c3a",
@@ -4945,11 +4186,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Increased customer base",
-        "Increased shipping costs",
-        "Increased production prices"
-      ],
+      "wrongAnswers": ["Increased customer base", "Increased shipping costs", "Increased production prices"],
       "question": "Why has E-commerce made selling products more difficult for business?",
       "correctAnswer": "Increased competition",
       "imageURL": "https://media.giphy.com/media/IwTWTsUzmIicM/giphy.mp4"
@@ -4964,9 +4201,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Uber"
-      ],
+      "wrongAnswers": ["Uber"],
       "question": "Farmdrop owns its cars and Uber does not. Who is a global expansion likely to be more expensive for?",
       "correctAnswer": "Farmdrop",
       "imageURL": "https://media.giphy.com/media/3ohfFH6Evbu6ElsiIw/giphy.mp4"
@@ -4980,11 +4215,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Fax",
-        "Telegraph",
-        "Phone"
-      ],
+      "wrongAnswers": ["Fax", "Telegraph", "Phone"],
       "question": "Digital communication now lets businesses communicate with customers using:",
       "correctAnswer": "Video chat and webinars",
       "imageURL": "https://media.giphy.com/media/l0HlTvBJmxqpHgrTO/giphy.mp4"
@@ -5003,11 +4234,7 @@
     "content": {
       "question": "Which of the following would not be found on a business' website?",
       "correctAnswer": "Names of previous customers",
-      "wrongAnswers": [
-        "FAQs",
-        "Reports for shareholders",
-        "Customer service"
-      ]
+      "wrongAnswers": ["FAQs", "Reports for shareholders", "Customer service"]
     },
     "parentId": "9958c870-3321-11e8-84d9-f7b314e82c3a",
     "id": "9958c875-3321-11e8-84d9-f7b314e82c3a",
@@ -5056,12 +4283,7 @@
     "content": {
       "question": "If a business uses cost-plus pricing, its raw materials and inputs cost £200 and it uses a 40% mark-up, what price will it charge customers?",
       "correctAnswer": "£280",
-      "wrongAnswers": [
-        "£200",
-        "£160",
-        "£120",
-        "£400"
-      ]
+      "wrongAnswers": ["£200", "£160", "£120", "£400"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "250a6b76-0c6b-40da-8fec-70f9a07eafbd",
@@ -5075,10 +4297,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Salary",
-        "Employee's valuation of their job"
-      ],
+      "wrongAnswers": ["Salary", "Employee's valuation of their job"],
       "question": "Which of these is not necessarily increased with a higher salary?",
       "correctAnswer": "Performance",
       "imageURL": "https://media.giphy.com/media/HSZUEPVpvA5ag/giphy.mp4"
@@ -5094,11 +4313,7 @@
     "content": {
       "question": "Which of the following is most likely to be a sole trader?",
       "correctAnswer": "Market stall trader",
-      "wrongAnswers": [
-        "KFC franchisee",
-        "An agency for influencers",
-        "TOMS shoes"
-      ]
+      "wrongAnswers": ["KFC franchisee", "An agency for influencers", "TOMS shoes"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "2e34ace6-c2c1-49fd-9035-e53728d2c466",
@@ -5136,9 +4351,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Job production"
-      ],
+      "wrongAnswers": ["Job production"],
       "question": "\"An assembly line produces standardised products\". Which type of production does this describe?",
       "correctAnswer": "Flow production",
       "imageURL": "https://media.giphy.com/media/xT4uQpK1cJ4l95vDc4/giphy.mp4"
@@ -5154,9 +4367,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Flow production"
-      ],
+      "wrongAnswers": ["Flow production"],
       "question": "Which type of production is being used here by the individual craftsman?",
       "correctAnswer": "Job production",
       "imageURL": "https://media.giphy.com/media/VtIwoshDy2AoM/giphy.mp4"
@@ -5194,11 +4405,7 @@
     "content": {
       "question": "Which of the following items is least likely to be made using job production?",
       "correctAnswer": "Football",
-      "wrongAnswers": [
-        "Wedding dress",
-        "Customised birthday cake",
-        "Handmade armchair"
-      ]
+      "wrongAnswers": ["Wedding dress", "Customised birthday cake", "Handmade armchair"]
     },
     "parentId": "a42acd20-6b34-11e8-bc0c-5f276c86c2fa",
     "id": "a42acd26-6b34-11e8-bc0c-5f276c86c2fa",
@@ -5211,11 +4418,7 @@
     "content": {
       "question": "Which of these is NOT a desirable characteristic of an entrepreneur?",
       "correctAnswer": "Reckless",
-      "wrongAnswers": [
-        "Innovative",
-        "Hard-working",
-        "Organised"
-      ]
+      "wrongAnswers": ["Innovative", "Hard-working", "Organised"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "9ccf0400-5408-49b1-8734-6e5a532710fe",
@@ -5229,10 +4432,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "There is more labour and less machinery",
-        "There is only machinery and no labour"
-      ],
+      "wrongAnswers": ["There is more labour and less machinery", "There is only machinery and no labour"],
       "question": "Flow production is \"capital intensive\", what does this mean?",
       "correctAnswer": "There is more machinery and less labour",
       "imageURL": "https://media.giphy.com/media/n1JN4fSrXovJe/giphy.mp4"
@@ -5247,10 +4447,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Job production",
-        "Batch production"
-      ],
+      "wrongAnswers": ["Job production", "Batch production"],
       "question": "Shampoo is produced using an assembly line so that a large customer base can be catered for. What type of production is being used to produce shampoo?",
       "correctAnswer": "Flow production",
       "imageURL": "https://media.giphy.com/media/ZAtp0wEORSwFO/giphy.mp4"
@@ -5266,11 +4463,7 @@
     "content": {
       "question": "Which of these businesses uses franchising?",
       "correctAnswer": "KFC",
-      "wrongAnswers": [
-        "Tesco",
-        "Seneca",
-        "Oxfam"
-      ]
+      "wrongAnswers": ["Tesco", "Seneca", "Oxfam"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "b8c53883-d074-4626-9b12-562b57d0d7af",
@@ -5282,10 +4475,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Fast growth",
-        "Growing revenues"
-      ],
+      "wrongAnswers": ["Fast growth", "Growing revenues"],
       "question": "Daimler (the company that makes Mercedes cars) merged with Chrysler in the late 1990s. The companies had very different cultures with regards to staff treatment and, in 2007, Chrysler sold Daimler to an investment company. Why was this merger unsuccessful?",
       "correctAnswer": "Demotivated employees and complexity",
       "imageURL": "https://media.giphy.com/media/sUt2ssoEoxw4g/giphy.mp4"
@@ -5300,10 +4490,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Too much demand",
-        "Competition from Ryanair"
-      ],
+      "wrongAnswers": ["Too much demand", "Competition from Ryanair"],
       "question": "Juicero sold very expensive juicers. What is a big risk for a new business like Juicero?",
       "correctAnswer": "Nobody wants to buy their product",
       "imageURL": "https://media.giphy.com/media/cyzSuMXYQBcD6/giphy.mp4"
@@ -5320,11 +4507,7 @@
     "content": {
       "question": "Which of these is not a way of reducing the risk a business faces?",
       "correctAnswer": "Taking on more debt",
-      "wrongAnswers": [
-        "Researching the market",
-        "Staying on top of technological change",
-        "Making a business plan"
-      ]
+      "wrongAnswers": ["Researching the market", "Staying on top of technological change", "Making a business plan"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "e4b693d0-3324-11e8-84d9-f7b314e82c3a",
@@ -5343,9 +4526,7 @@
     "content": {
       "question": "If cost A = £100,000 at an output of 20 units and cost A = £100,000 at an output of 100 units, is it a fixed or variable cost?",
       "correctAnswer": "Fixed cost",
-      "wrongAnswers": [
-        "Variable cost"
-      ]
+      "wrongAnswers": ["Variable cost"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "a3dccf65-aad5-4cc8-a6f7-8a0b7882988a",
@@ -5360,11 +4541,7 @@
     "content": {
       "question": "What do the people who run 'unincorporated associations' have?",
       "correctAnswer": "Unlimited liability",
-      "wrongAnswers": [
-        "Limited liability",
-        "Surfboards",
-        "Red hats"
-      ]
+      "wrongAnswers": ["Limited liability", "Surfboards", "Red hats"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "8d5ade4d-6b6e-4332-8342-bc475da9a74c",
@@ -5378,9 +4555,7 @@
     "content": {
       "question": "Can the owners of not-for-profits withdraw retained earnings?",
       "correctAnswer": "No",
-      "wrongAnswers": [
-        "Yes"
-      ]
+      "wrongAnswers": ["Yes"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "262243fd-1c4f-40c3-9283-41d7340fe962",
@@ -5433,11 +4608,7 @@
     "content": {
       "question": "Which product requires a large amount of information to be given to consumers in promotion?",
       "correctAnswer": "Laptop",
-      "wrongAnswers": [
-        "Orange juice",
-        "Handbag",
-        "Moleskine notepads"
-      ]
+      "wrongAnswers": ["Orange juice", "Handbag", "Moleskine notepads"]
     },
     "parentId": "adb64310-3330-11e8-84d9-f7b314e82c3a",
     "id": "adb64316-3330-11e8-84d9-f7b314e82c3a",
@@ -5448,11 +4619,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Update packaging",
-        "Adding less features",
-        "Sticking with the core"
-      ],
+      "wrongAnswers": ["Update packaging", "Adding less features", "Sticking with the core"],
       "question": "UnderArmour's 2014 \"I will what I want\" campaign aimed at females was an example of what type of extension strategy?",
       "correctAnswer": "Changing the target market",
       "imageURL": "https://media.giphy.com/media/v709dQ5jppg0o/giphy.mp4"
@@ -5469,10 +4636,7 @@
     "content": {
       "question": "Is a motorway billboard a type of advertising platform?",
       "correctAnswer": "Yes",
-      "wrongAnswers": [
-        "No",
-        "Cannot say"
-      ]
+      "wrongAnswers": ["No", "Cannot say"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "fc92d94a-a39a-4c3c-bbbc-2a80f6f45451",
@@ -5504,10 +4668,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "So that he would lose tournaments",
-        "So that he would play golf with their CEO"
-      ],
+      "wrongAnswers": ["So that he would lose tournaments", "So that he would play golf with their CEO"],
       "question": "Why did Nike pay Rory McIlroy to use their golf equipment?",
       "correctAnswer": "To increase sales and improve the brand image",
       "imageURL": "https://media.giphy.com/media/64aOP440Fspkk/giphy.mp4"
@@ -5524,10 +4685,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "To change the function of their watches",
-        "So that their CEO could meet Daniel Craig"
-      ],
+      "wrongAnswers": ["To change the function of their watches", "So that their CEO could meet Daniel Craig"],
       "question": "Why do Omega watches sponsor the James Bond films?",
       "correctAnswer": "To improve their brand image and increase sales",
       "imageURL": "https://media.giphy.com/media/qwN7eKTiAd2Q8/giphy.mp4"
@@ -5543,11 +4701,7 @@
     "content": {
       "question": "Which of these is the latest stage in the sales process?",
       "correctAnswer": "Customer service",
-      "wrongAnswers": [
-        "Knowledge of product",
-        "Friendly salespeople. Fast customer service",
-        "Efficient delivery time"
-      ]
+      "wrongAnswers": ["Knowledge of product", "Friendly salespeople. Fast customer service", "Efficient delivery time"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "b971ff5c-80b6-4dbc-ad4b-b7e70b6c52fe",
@@ -5563,11 +4717,7 @@
     "content": {
       "question": "Who would not be particularly interested in a new business' plan?",
       "correctAnswer": "The government",
-      "wrongAnswers": [
-        "Owner",
-        "Venture capitalist",
-        "Bank manager"
-      ]
+      "wrongAnswers": ["Owner", "Venture capitalist", "Bank manager"]
     },
     "parentId": "b0ebe880-32b5-11e8-84d9-f7b314e82c3a",
     "id": "b0ebe886-32b5-11e8-84d9-f7b314e82c3a",
@@ -5580,11 +4730,7 @@
     "content": {
       "question": "Which of the following is not a key part of a business plan?",
       "correctAnswer": "Names of the most junior workers",
-      "wrongAnswers": [
-        "Market statement",
-        "Mission analysis",
-        "Executive summary"
-      ]
+      "wrongAnswers": ["Market statement", "Mission analysis", "Executive summary"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "b1466490-32b5-11e8-84d9-f7b314e82c3a",
@@ -5604,10 +4750,7 @@
     "content": {
       "question": "Which of the following is not a disadvantage of making business plans?",
       "correctAnswer": "They give good guidance on how to proceed as a business",
-      "wrongAnswers": [
-        "They can be costly and time consuming to make",
-        "They may stop a business being flexible"
-      ]
+      "wrongAnswers": ["They can be costly and time consuming to make", "They may stop a business being flexible"]
     },
     "parentId": "b2357f80-32b5-11e8-84d9-f7b314e82c3a",
     "id": "b235a691-32b5-11e8-84d9-f7b314e82c3a",
@@ -5618,11 +4761,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "They got it all back",
-        "Someone else insured it",
-        "Coca Cola invested it for them"
-      ],
+      "wrongAnswers": ["They got it all back", "Someone else insured it", "Coca Cola invested it for them"],
       "question": "When Virgin Cola was shut down, what happened to Virgin's money?",
       "correctAnswer": "They lost the money invested in the Virgin Cola project",
       "imageURL": "https://media.giphy.com/media/v2YxCO2pwHjji/giphy.mp4"
@@ -5637,10 +4776,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Primary sector",
-        "Secondary sector"
-      ],
+      "wrongAnswers": ["Primary sector", "Secondary sector"],
       "question": "Which sector is healthcare usually in?",
       "correctAnswer": "Tertiary sector",
       "imageURL": "https://media.giphy.com/media/KLS4Bsn2o42xq/giphy.mp4"
@@ -5673,11 +4809,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Rescheduling cash payments",
-        "Getting an overdraft",
-        "Finding new sources of finance"
-      ],
+      "wrongAnswers": ["Rescheduling cash payments", "Getting an overdraft", "Finding new sources of finance"],
       "question": "Which of these is not a way businesses can improve their cash flow?",
       "correctAnswer": "Increasing cash outflows",
       "imageURL": "https://media.giphy.com/media/3osxYamKD88c6pXdfO/giphy.mp4"
@@ -5692,11 +4824,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "They got it all back",
-        "Someone else insured it",
-        "Coca Cola invested it for them"
-      ],
+      "wrongAnswers": ["They got it all back", "Someone else insured it", "Coca Cola invested it for them"],
       "question": "When Virgin Cola was shut down, what happened to Virgin's money?",
       "correctAnswer": "They lost the money invested in the Virgin Cola project",
       "imageURL": "https://media.giphy.com/media/v2YxCO2pwHjji/giphy.mp4"
@@ -5717,9 +4845,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Bad"
-      ],
+      "wrongAnswers": ["Bad"],
       "question": "Is a weak pound good or bad for UK exporters?",
       "correctAnswer": "Good",
       "imageURL": "https://media.giphy.com/media/3o85gbx2ISZReby90Y/giphy.mp4"
@@ -5736,11 +4862,7 @@
     "content": {
       "question": "The supermarket Iceland promised not to use plastic packaging in their supermarkets by 2023. What has this business been influenced by?",
       "correctAnswer": "Environmental expectations",
-      "wrongAnswers": [
-        "Technology",
-        "Economy",
-        "Legislation"
-      ]
+      "wrongAnswers": ["Technology", "Economy", "Legislation"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "c7009565-de01-49b4-8da4-e6acb2c4ee15",
@@ -5754,10 +4876,7 @@
     "content": {
       "question": "Which of these are barriers against competition?",
       "correctAnswer": "Strong brand",
-      "wrongAnswers": [
-        "High demand",
-        "Fast industry growth"
-      ]
+      "wrongAnswers": ["High demand", "Fast industry growth"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "31cce886-93cd-413a-a3be-57306b167c79",
@@ -5772,10 +4891,7 @@
     "content": {
       "question": "Why do most companies try to become incorporated?",
       "correctAnswer": "To make it easier to get a bank loan",
-      "wrongAnswers": [
-        "To retain more employees",
-        "It's easy and cheap"
-      ]
+      "wrongAnswers": ["To retain more employees", "It's easy and cheap"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "5a00824a-bc3f-4791-a5bb-afc823bfef02",
@@ -5789,11 +4905,7 @@
     "content": {
       "question": "Who owns a limited company?",
       "correctAnswer": "Shareholders",
-      "wrongAnswers": [
-        "A sole trader",
-        "The partners",
-        "The managers"
-      ]
+      "wrongAnswers": ["A sole trader", "The partners", "The managers"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "262243fd-1c4f-40c3-9283-41d7340fe962",
@@ -5806,11 +4918,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Nationwide",
-        "The Guardian",
-        "Spotify"
-      ],
+      "wrongAnswers": ["Nationwide", "The Guardian", "Spotify"],
       "question": "Which business will have the greatest impact on traffic congestion?",
       "correctAnswer": "Jaguar Land Rover",
       "imageURL": "https://media.giphy.com/media/l6mxLLvfadIQw/giphy.mp4"
@@ -5825,10 +4933,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Primary sector",
-        "Secondary sector"
-      ],
+      "wrongAnswers": ["Primary sector", "Secondary sector"],
       "question": "Instagram (owned by Facebook) operates in which sector?",
       "correctAnswer": "Tertiary sector",
       "imageURL": "https://media.giphy.com/media/uo6rcjwHSAFsQ/giphy.mp4"
@@ -5846,11 +4951,7 @@
     "content": {
       "question": "Which of the following is not a possible reward from a successful business?",
       "correctAnswer": "Dissatisfaction at work",
-      "wrongAnswers": [
-        "Flexible working hours",
-        "Financial gain",
-        "Pursuing an interest at work"
-      ]
+      "wrongAnswers": ["Flexible working hours", "Financial gain", "Pursuing an interest at work"]
     },
     "parentId": "beb94320-32b2-11e8-84d9-f7b314e82c3a",
     "id": "beb94326-32b2-11e8-84d9-f7b314e82c3a",
@@ -5862,11 +4963,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Innovative",
-        "Organised",
-        "Willing to take risk"
-      ],
+      "wrongAnswers": ["Innovative", "Organised", "Willing to take risk"],
       "question": "Elon Musk is an entrepreneur (Tesla, PayPal, SpaceX) who often works 100 hours a week. This is an example of entrepreneurs being: ",
       "correctAnswer": "Hardworking",
       "imageURL": "https://media.giphy.com/media/ngLbjnisjn28g/giphy.mp4"
@@ -5883,11 +4980,7 @@
     "content": {
       "question": "Which of the following is not a good quality for an entrepreneur?",
       "correctAnswer": "Risk averse",
-      "wrongAnswers": [
-        "Hardworking",
-        "Organised",
-        "Innovative"
-      ]
+      "wrongAnswers": ["Hardworking", "Organised", "Innovative"]
     },
     "parentId": "bfe7d810-32b2-11e8-84d9-f7b314e82c3a",
     "id": "bfe7d814-32b2-11e8-84d9-f7b314e82c3a",
@@ -5899,10 +4992,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "The farmer (in the UK) was paid fairly",
-        "The supermarket got a good deal on the product"
-      ],
+      "wrongAnswers": ["The farmer (in the UK) was paid fairly", "The supermarket got a good deal on the product"],
       "question": "What does it mean if a product is 'Fairtrade'?",
       "correctAnswer": "The farmer (in a developing country) was paid fairly",
       "imageURL": "https://media.giphy.com/media/EfUf1jrN9CyFa/giphy.mp4"
@@ -5916,11 +5006,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Employees",
-        "International labour",
-        "Suppliers"
-      ],
+      "wrongAnswers": ["Employees", "International labour", "Suppliers"],
       "question": "Lush doesn't test its products on animals. In which area of their business are they paying attention to ethical considerations?",
       "correctAnswer": "Product development",
       "imageURL": "https://media.giphy.com/media/3oGRFdpBzAsOle1212/giphy.mp4"
@@ -5995,11 +5081,7 @@
     "content": {
       "question": "What can businesses avoid by forecasting cash flow accurately?",
       "correctAnswer": "Liquidity problems",
-      "wrongAnswers": [
-        "Fluidity problems",
-        "Fluency problems",
-        "Lucidity problems"
-      ]
+      "wrongAnswers": ["Fluidity problems", "Fluency problems", "Lucidity problems"]
     },
     "parentId": "c1923a00-3331-11e8-84d9-f7b314e82c3a",
     "id": "c1923a06-3331-11e8-84d9-f7b314e82c3a",
@@ -6012,9 +5094,7 @@
     "content": {
       "question": "How many raw materials inventories are kept in a Just in time production system?",
       "correctAnswer": "Not many",
-      "wrongAnswers": [
-        "Lots"
-      ]
+      "wrongAnswers": ["Lots"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "9458d3e0-f367-4934-b0bf-a078c4fc4cae",
@@ -6029,9 +5109,7 @@
     "content": {
       "question": "Will more units of output be produced in a single production run using batch or job production?",
       "correctAnswer": "Batch production",
-      "wrongAnswers": [
-        "Job production"
-      ]
+      "wrongAnswers": ["Job production"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "9458d3e0-f367-4934-b0bf-a078c4fc4cae",
@@ -6051,11 +5129,7 @@
     "content": {
       "question": "What do we call organisations that loan businesses money?",
       "correctAnswer": "Creditors",
-      "wrongAnswers": [
-        "Creators",
-        "Convenors",
-        "Contributors"
-      ]
+      "wrongAnswers": ["Creators", "Convenors", "Contributors"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "c51657b0-3331-11e8-84d9-f7b314e82c3a",
@@ -6074,10 +5148,7 @@
     "content": {
       "question": "If a business has a negative gross profit margin, is this good or bad news for the business?",
       "correctAnswer": "Bad",
-      "wrongAnswers": [
-        "Ok",
-        "Good"
-      ]
+      "wrongAnswers": ["Ok", "Good"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "b1296ada-8374-4a3e-a019-7f1f335c44a0",
@@ -6091,11 +5162,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "2",
-        "100",
-        "4"
-      ],
+      "wrongAnswers": ["2", "100", "4"],
       "question": "How many different car brands was GM selling for between $20,000 and $30,000 when it went bankrupt in 2009?",
       "correctAnswer": "9",
       "imageURL": "https://media.giphy.com/media/8HHIvBCrQRlTy/giphy.mp4"
@@ -6111,11 +5178,7 @@
     "content": {
       "question": "Which of these is true at a break-even level of output?",
       "correctAnswer": "Total revenue = total cost",
-      "wrongAnswers": [
-        "Total revenue = unit cost",
-        "Unit cost = variable cost",
-        "Variable cost = fixed cost"
-      ]
+      "wrongAnswers": ["Total revenue = unit cost", "Unit cost = variable cost", "Variable cost = fixed cost"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "5461d7f1-a34a-4b58-a27f-b2804d017390",
@@ -6128,11 +5191,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Nationwide",
-        "The Guardian",
-        "Spotify"
-      ],
+      "wrongAnswers": ["Nationwide", "The Guardian", "Spotify"],
       "question": "Which business will have the greatest impact on traffic congestion?",
       "correctAnswer": "Jaguar Land Rover",
       "imageURL": "https://media.giphy.com/media/l6mxLLvfadIQw/giphy.mp4"
@@ -6155,11 +5214,7 @@
     "content": {
       "question": "Which energy source could a business use to be more sustainable?",
       "correctAnswer": "Wind",
-      "wrongAnswers": [
-        "Gas",
-        "Coal",
-        "Oil"
-      ]
+      "wrongAnswers": ["Gas", "Coal", "Oil"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "c7614c60-3321-11e8-84d9-f7b314e82c3a",
@@ -6200,11 +5255,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Rescheduling cash payments",
-        "Getting an overdraft",
-        "Finding new sources of finance"
-      ],
+      "wrongAnswers": ["Rescheduling cash payments", "Getting an overdraft", "Finding new sources of finance"],
       "question": "Which of these is not a way businesses can improve their cash flow?",
       "correctAnswer": "Increasing cash outflows",
       "imageURL": "https://media.giphy.com/media/3osxYamKD88c6pXdfO/giphy.mp4"
@@ -6225,11 +5276,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Increasing sales",
-        "Chasing customers that owe money",
-        "Selling assets"
-      ],
+      "wrongAnswers": ["Increasing sales", "Chasing customers that owe money", "Selling assets"],
       "question": "Which of the following will not increase cash inflows?",
       "correctAnswer": "Lending more credit to customers",
       "imageURL": "https://media.giphy.com/media/l0OXXpl20sY9G0uJy/giphy.mp4"
@@ -6273,11 +5320,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "1%",
-        "100%",
-        "1000%"
-      ],
+      "wrongAnswers": ["1%", "100%", "1000%"],
       "question": "If Budweiser sells £10m of beer in the UK and £100m of beer is sold in total, what is Budweiser's market share?",
       "correctAnswer": "10%",
       "imageURL": "https://media.giphy.com/media/26AHKESympDDgNG24/giphy.mp4"
@@ -6292,11 +5335,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "75%",
-        "5%",
-        "7.5%"
-      ],
+      "wrongAnswers": ["75%", "5%", "7.5%"],
       "question": "If Shake Shack sells £75m of chicken burgers in the UK and £500m are sold in total. What is Shake Shack's market share of the UK chicken burger market?",
       "correctAnswer": "15%",
       "imageURL": "https://media.giphy.com/media/IUCdmXpzTbZeM/giphy.mp4"
@@ -6312,10 +5351,7 @@
     "content": {
       "question": "Which of the following is a business aim?",
       "correctAnswer": "Profit maximisation",
-      "wrongAnswers": [
-        "Increase market share",
-        "Growth"
-      ]
+      "wrongAnswers": ["Increase market share", "Growth"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "c79fc980-32b4-11e8-84d9-f7b314e82c3a",
@@ -6373,11 +5409,7 @@
     "content": {
       "question": "Lush use only vegan ingredients in their cosmetics. What type of objective is this linked to?",
       "correctAnswer": "Social/ethical",
-      "wrongAnswers": [
-        "Maximise shareholder value",
-        "Growth",
-        "Increase market share"
-      ]
+      "wrongAnswers": ["Maximise shareholder value", "Growth", "Increase market share"]
     },
     "parentId": "c80457b0-32b4-11e8-84d9-f7b314e82c3a",
     "id": "c80457b3-32b4-11e8-84d9-f7b314e82c3a",
@@ -6391,10 +5423,7 @@
     "content": {
       "question": "Which of the following is a business aim?",
       "correctAnswer": "Profit maximisation",
-      "wrongAnswers": [
-        "10% revenue growth",
-        "Enter the German market"
-      ]
+      "wrongAnswers": ["10% revenue growth", "Enter the German market"]
     },
     "parentId": "c80457b0-32b4-11e8-84d9-f7b314e82c3a",
     "id": "c80457b5-32b4-11e8-84d9-f7b314e82c3a",
@@ -6408,11 +5437,7 @@
     "content": {
       "question": "Maximising value for shareholders is a key objective for which type of company?",
       "correctAnswer": "Limited (private and public)",
-      "wrongAnswers": [
-        "Limited (private only)",
-        "Unlimited",
-        "Limited (public only)"
-      ]
+      "wrongAnswers": ["Limited (private only)", "Unlimited", "Limited (public only)"]
     },
     "parentId": "c80457b0-32b4-11e8-84d9-f7b314e82c3a",
     "id": "c80457b6-32b4-11e8-84d9-f7b314e82c3a",
@@ -6426,10 +5451,7 @@
     "content": {
       "question": "Which of these is true?",
       "correctAnswer": "An objective is more specific than an aim",
-      "wrongAnswers": [
-        "An objective is less specific than an aim",
-        "An objective is just as specific as an aim"
-      ]
+      "wrongAnswers": ["An objective is less specific than an aim", "An objective is just as specific as an aim"]
     },
     "parentId": "c8793990-32b4-11e8-84d9-f7b314e82c3a",
     "id": "c8793992-32b4-11e8-84d9-f7b314e82c3a",
@@ -6441,10 +5463,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "To earn over £10000 in revenue",
-        "To minimise ingredients costs to less than £8000"
-      ],
+      "wrongAnswers": ["To earn over £10000 in revenue", "To minimise ingredients costs to less than £8000"],
       "question": "If profit maximisation is a new biscuit business' aim, which of the following could not be one of their key objectives?",
       "correctAnswer": "To spend any amount of money on ethical ingredients",
       "imageURL": "https://media.giphy.com/media/nAErqE3k2C3fy/giphy.mp4"
@@ -6461,11 +5480,7 @@
     "content": {
       "question": "How many fewer car brands was Toyota selling relative to GM for between $20,000 and $30,000 in 2009?",
       "correctAnswer": "7",
-      "wrongAnswers": [
-        "2",
-        "100",
-        "9"
-      ]
+      "wrongAnswers": ["2", "100", "9"]
     },
     "parentId": "b5458590-332c-11e8-84d9-f7b314e82c3a",
     "id": "c94e9550-4889-11e8-9fe5-0d23b7c20ddc",
@@ -6478,11 +5493,7 @@
     "content": {
       "question": "Which of these is true at a break-even level of output?",
       "correctAnswer": "Total revenue = total cost",
-      "wrongAnswers": [
-        "Total revenue = unit cost",
-        "Unit cost = variable cost",
-        "Variable cost = fixed cost"
-      ]
+      "wrongAnswers": ["Total revenue = unit cost", "Unit cost = variable cost", "Variable cost = fixed cost"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "a3dccf65-aad5-4cc8-a6f7-8a0b7882988a",
@@ -6497,11 +5508,7 @@
     "content": {
       "question": "Which of the following is not an example of a retailer?",
       "correctAnswer": "MX Wholesale",
-      "wrongAnswers": [
-        "Tesco",
-        "Londis",
-        "Debenhams"
-      ]
+      "wrongAnswers": ["Tesco", "Londis", "Debenhams"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "2508d232-f91f-4223-a6f4-f8d9992746ef",
@@ -6515,11 +5522,7 @@
     "content": {
       "question": "Which of these strategies usually delivers faster sales growth?",
       "correctAnswer": "Acquiring a competitor",
-      "wrongAnswers": [
-        "Building new production facilities",
-        "Launching new product lines",
-        "Opening new stores"
-      ]
+      "wrongAnswers": ["Building new production facilities", "Launching new product lines", "Opening new stores"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "a9358ca3-f36a-4b63-94a4-d458797e24a8",
@@ -6534,10 +5537,7 @@
     "content": {
       "question": "Which of these is not a characteristic of people at the top of an organisational hierarchy?",
       "correctAnswer": "Always have the most knowledge of day-to-day operations",
-      "wrongAnswers": [
-        "Most experienced",
-        "Have the most expertise"
-      ]
+      "wrongAnswers": ["Most experienced", "Have the most expertise"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "676a721d-dc88-4b73-af62-c432c7f79b07",
@@ -6551,9 +5551,7 @@
     "content": {
       "question": "If revenues are higher next year than this year, is this usually good or bad?",
       "correctAnswer": "Usually good",
-      "wrongAnswers": [
-        "Usually bad"
-      ]
+      "wrongAnswers": ["Usually bad"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "253c9ce0-3336-11e8-84d9-f7b314e82c3a",
@@ -6570,9 +5568,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Bad"
-      ],
+      "wrongAnswers": ["Bad"],
       "question": "Is a weak pound good or bad for UK exporters?",
       "correctAnswer": "Good",
       "imageURL": "https://media.giphy.com/media/3o85gbx2ISZReby90Y/giphy.mp4"
@@ -6596,11 +5592,7 @@
     "content": {
       "question": "Which of these businesses sells luxury goods?",
       "correctAnswer": "Gucci (Kering)",
-      "wrongAnswers": [
-        "Primark",
-        "H&M",
-        "Uniqlo"
-      ]
+      "wrongAnswers": ["Primark", "H&M", "Uniqlo"]
     },
     "parentId": "ccbb7e10-332b-11e8-84d9-f7b314e82c3a",
     "id": "ccbb7e13-332b-11e8-84d9-f7b314e82c3a",
@@ -6612,11 +5604,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Hamley's",
-        "Toys R Us",
-        "Early Learning Centre"
-      ],
+      "wrongAnswers": ["Hamley's", "Toys R Us", "Early Learning Centre"],
       "question": "Where would be the best place for Dell to sell their computers?",
       "correctAnswer": "Amazon",
       "imageURL": "https://media.giphy.com/media/xTk9ZzHknhfZCcTDi0/giphy.gif"
@@ -6633,11 +5621,7 @@
     "content": {
       "question": "If a customer chooses to buy a dress online because it is cheaper, which of the 4 P's had the greatest influence on their purchase?",
       "correctAnswer": "Price",
-      "wrongAnswers": [
-        "Promotion",
-        "Place",
-        "Product"
-      ]
+      "wrongAnswers": ["Promotion", "Place", "Product"]
     },
     "parentId": "ccbb7e10-332b-11e8-84d9-f7b314e82c3a",
     "id": "ccbb7e16-332b-11e8-84d9-f7b314e82c3a",
@@ -6650,11 +5634,7 @@
     "content": {
       "question": "Which of the following is not a key part of a business plan?",
       "correctAnswer": "Names of the most junior workers",
-      "wrongAnswers": [
-        "Market analysis",
-        "Mission statement",
-        "Executive summary"
-      ]
+      "wrongAnswers": ["Market analysis", "Mission statement", "Executive summary"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "b1466490-32b5-11e8-84d9-f7b314e82c3a",
@@ -6717,9 +5697,7 @@
     "content": {
       "question": "\"This is when larger companies get discounts from their suppliers because they are buying lots of units in bulk.\" Which type of economies of scale is this?",
       "correctAnswer": "Purchasing economies of scale",
-      "wrongAnswers": [
-        "Technical economies of scale"
-      ]
+      "wrongAnswers": ["Technical economies of scale"]
     },
     "parentId": "cda48220-32b5-11e8-84d9-f7b314e82c3a",
     "id": "cfb05970-333e-11e8-84d9-f7b314e82c3a",
@@ -6730,10 +5708,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Secondary sector",
-        "Tertiary sector"
-      ],
+      "wrongAnswers": ["Secondary sector", "Tertiary sector"],
       "question": "Which sector would forestry be classified as?",
       "correctAnswer": "Primary sector",
       "imageURL": "https://media.giphy.com/media/xT9KVonN0PEqGHXpqU/giphy.mp4"
@@ -6750,9 +5725,7 @@
     "content": {
       "question": "Is facing competition from all countries globally an advantage or disadvantage of e-commerce?",
       "correctAnswer": "Disadvantage",
-      "wrongAnswers": [
-        "Advantage"
-      ]
+      "wrongAnswers": ["Advantage"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "7302055d-a614-48b2-9a1e-1ab9be178217",
@@ -6767,11 +5740,7 @@
     "content": {
       "question": "The supermarket Iceland promised not to use plastic packaging in their supermarkets by 2023. What has this business been influenced by?",
       "correctAnswer": "Environmental expectations",
-      "wrongAnswers": [
-        "Technology",
-        "Economy",
-        "Legislation"
-      ]
+      "wrongAnswers": ["Technology", "Economy", "Legislation"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "d3961df0-3324-11e8-84d9-f7b314e82c3a",
@@ -6790,11 +5759,7 @@
     "content": {
       "question": "What do we call it when a company gives someone the right to to sell its products and use its trademarks?",
       "correctAnswer": "Franchising",
-      "wrongAnswers": [
-        "Employing",
-        "Outsourcing",
-        "Diversifying"
-      ]
+      "wrongAnswers": ["Employing", "Outsourcing", "Diversifying"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "b8c53883-d074-4626-9b12-562b57d0d7af",
@@ -6808,9 +5773,7 @@
     "content": {
       "question": "How many finished inventories are kept in a Just in time production system?",
       "correctAnswer": "Not many",
-      "wrongAnswers": [
-        "Lots"
-      ]
+      "wrongAnswers": ["Lots"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "9458d3e0-f367-4934-b0bf-a078c4fc4cae",
@@ -6823,11 +5786,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Price skimming",
-        "Price inflation",
-        "Price propping"
-      ],
+      "wrongAnswers": ["Price skimming", "Price inflation", "Price propping"],
       "question": "When Apple first released their Apple watch it was sold at a low price to compete with products from companies like Fitbit. What is this an example of?",
       "correctAnswer": "Price penetration",
       "imageURL": "https://media.giphy.com/media/8rljBufM9xKkE/giphy.mp4"
@@ -6844,11 +5803,7 @@
     "content": {
       "question": "Which of the following is not an example of a retailer?",
       "correctAnswer": "MX Wholesale",
-      "wrongAnswers": [
-        "Tesco",
-        "Londis",
-        "Debenhams"
-      ]
+      "wrongAnswers": ["Tesco", "Londis", "Debenhams"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "d94b07e0-3330-11e8-84d9-f7b314e82c3a",
@@ -6867,10 +5822,7 @@
     "content": {
       "question": "Why might a start-up use a wholesaler to sell their products?",
       "correctAnswer": "It's hard for them to get retailers to stock their products",
-      "wrongAnswers": [
-        "They don't know any other way",
-        "Shareholders often demand it"
-      ]
+      "wrongAnswers": ["They don't know any other way", "Shareholders often demand it"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "d94b07e0-3330-11e8-84d9-f7b314e82c3a",
@@ -6932,11 +5884,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Public relations",
-        "Advertising",
-        "Sponsorship"
-      ],
+      "wrongAnswers": ["Public relations", "Advertising", "Sponsorship"],
       "question": "What is a competition by Nando's on social media to win a free meal for two an example of?",
       "correctAnswer": "Sales promotion",
       "imageURL": "https://media.giphy.com/media/3oxQNp0SiNeaYQ51Vm/giphy.mp4"
@@ -6951,10 +5899,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Primary sector",
-        "Secondary sector"
-      ],
+      "wrongAnswers": ["Primary sector", "Secondary sector"],
       "question": "Which sector is healthcare usually in?",
       "correctAnswer": "Tertiary sector",
       "imageURL": "https://media.giphy.com/media/KLS4Bsn2o42xq/giphy.mp4"
@@ -6976,10 +5921,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "1 hour of tennis",
-        "£10/hour"
-      ],
+      "wrongAnswers": ["1 hour of tennis", "£10/hour"],
       "question": "If I'm playing tennis for an hour, but I could be playing football at the same time, what is the opportunity cost of my time?",
       "correctAnswer": "1 hour of football",
       "imageURL": "https://media.giphy.com/media/QsOrQdfBA7FrG/giphy.mp4"
@@ -6993,11 +5935,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Labour",
-        "Capital",
-        "Enterprise"
-      ],
+      "wrongAnswers": ["Labour", "Capital", "Enterprise"],
       "question": "Which factor of production do the fields here show?",
       "correctAnswer": "Land",
       "imageURL": "https://media.giphy.com/media/djRMzJV9BspTW/giphy.mp4"
@@ -7014,10 +5952,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "They may make too much lemonade",
-        "The price of lemons may fall"
-      ],
+      "wrongAnswers": ["They may make too much lemonade", "The price of lemons may fall"],
       "question": "For a lemonade business using JIT, what may happen in a heatwave?",
       "correctAnswer": "They may not be able to make enough lemonade",
       "imageURL": "https://media.giphy.com/media/H8mHrjPswQ0Zq/giphy.mp4"
@@ -7050,11 +5985,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Land",
-        "Capital",
-        "Enterprise"
-      ],
+      "wrongAnswers": ["Land", "Capital", "Enterprise"],
       "question": "Which factor of production is this man cutting metal an example of?",
       "correctAnswer": "Labour",
       "imageURL": "https://media.giphy.com/media/bE39edLjthYKtA29cF/giphy.mp4"
@@ -7073,10 +6004,7 @@
     "content": {
       "question": "Which of these is unlikely to be an effect of increased staff productivity in service industries?",
       "correctAnswer": "Reduced holiday leave",
-      "wrongAnswers": [
-        "Reduced costs",
-        "Increased output"
-      ]
+      "wrongAnswers": ["Reduced costs", "Increased output"]
     },
     "parentId": "e0319930-332a-11e8-84d9-f7b314e82c3a",
     "id": "e0319934-332a-11e8-84d9-f7b314e82c3a",
@@ -7088,11 +6016,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Output quality",
-        "Productivity",
-        "Staff motivation"
-      ],
+      "wrongAnswers": ["Output quality", "Productivity", "Staff motivation"],
       "question": "Which of these does not increase when employee training increases?",
       "correctAnswer": "Fear of technology",
       "imageURL": "https://media.giphy.com/media/HteV6g0QTNxp6/giphy.mp4"
@@ -7126,9 +6050,7 @@
     "content": {
       "question": "Which profit number is usually higher?",
       "correctAnswer": "Gross profit",
-      "wrongAnswers": [
-        "Net profit"
-      ]
+      "wrongAnswers": ["Net profit"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "b8c5eb8c-8101-4c34-ac2b-deba76cadc38",
@@ -7144,10 +6066,7 @@
     "content": {
       "question": "Which type of training is often done by a specialist instructor and tends to be more expensive?",
       "correctAnswer": "Off-the-job training",
-      "wrongAnswers": [
-        "Induction training",
-        "On-the-job training"
-      ]
+      "wrongAnswers": ["Induction training", "On-the-job training"]
     },
     "parentId": "e3135c60-332a-11e8-84d9-f7b314e82c3a",
     "id": "e3135c64-332a-11e8-84d9-f7b314e82c3a",
@@ -7159,10 +6078,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "They may make too much lemonade",
-        "The price of lemons may fall"
-      ],
+      "wrongAnswers": ["They may make too much lemonade", "The price of lemons may fall"],
       "question": "For a lemonade business using JIT, what may happen in a heatwave?",
       "correctAnswer": "They may not be able to make enough lemonade",
       "imageURL": "https://media.giphy.com/media/H8mHrjPswQ0Zq/giphy.mp4"
@@ -7197,11 +6113,7 @@
     "content": {
       "question": "What type of products is job production best for?",
       "correctAnswer": "Customised products",
-      "wrongAnswers": [
-        "Mass market products",
-        "Standardised products",
-        "Everyday objects"
-      ]
+      "wrongAnswers": ["Mass market products", "Standardised products", "Everyday objects"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "9458d3e0-f367-4934-b0bf-a078c4fc4cae",
@@ -7214,11 +6126,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Only benefit society",
-        "Only distribute goods",
-        "Only to make profit"
-      ],
+      "wrongAnswers": ["Only benefit society", "Only distribute goods", "Only to make profit"],
       "question": "Why is a company selling malaria nets in Africa likely to have been set up?",
       "correctAnswer": "Benefit society & distribute goods",
       "imageURL": "https://media.giphy.com/media/e4He2jOnL7bB6/giphy.mp4"
@@ -7280,11 +6188,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "B2B",
-        "C2B",
-        "C2C"
-      ],
+      "wrongAnswers": ["B2B", "C2B", "C2C"],
       "question": "What type of business sells to consumers?",
       "correctAnswer": "B2C",
       "imageURL": "https://media.giphy.com/media/cci0gIirG1Wi4/giphy.mp4"
@@ -7302,10 +6206,7 @@
     "content": {
       "question": "Why might a start-up use a wholesaler to sell their products?",
       "correctAnswer": "It's hard for them to get retailers to stock their products",
-      "wrongAnswers": [
-        "They don't know any other way",
-        "Shareholders often demand it"
-      ]
+      "wrongAnswers": ["They don't know any other way", "Shareholders often demand it"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "2508d232-f91f-4223-a6f4-f8d9992746ef",
@@ -7319,10 +6220,7 @@
     "content": {
       "question": "If a new legislation results in an increase in the national minimum wage, what will happen to the costs of a business with many minimum wage workers?",
       "correctAnswer": "Increase",
-      "wrongAnswers": [
-        "Decrease",
-        "Stay the same"
-      ]
+      "wrongAnswers": ["Decrease", "Stay the same"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "049bbd24-e75e-49fd-a502-b727a67f585f",
@@ -7334,10 +6232,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Coordination issues",
-        "Lower employee motivation"
-      ],
+      "wrongAnswers": ["Coordination issues", "Lower employee motivation"],
       "question": "In the video, which cause of diseconomy of scale is demonstrated?",
       "correctAnswer": "Communication issues",
       "imageURL": "https://media.giphy.com/media/3o6Mb7FhmyNHrC63Vm/giphy.mp4"
@@ -7373,11 +6268,7 @@
     "content": {
       "question": "A company chooses to create a Snapchat filter to promote their sunglasses. Which of the 4 Ps does this involve?",
       "correctAnswer": "Promotion",
-      "wrongAnswers": [
-        "Price",
-        "Product",
-        "Place"
-      ]
+      "wrongAnswers": ["Price", "Product", "Place"]
     },
     "parentId": "f3eb1400-332b-11e8-84d9-f7b314e82c3a",
     "id": "f3eb1402-332b-11e8-84d9-f7b314e82c3a",
@@ -7391,11 +6282,7 @@
     "content": {
       "question": "Which aspects of the marketing mix does promotion influence?",
       "correctAnswer": "Price  + place + product (all the other ones)",
-      "wrongAnswers": [
-        "Price",
-        "Price + place",
-        "Product + place"
-      ]
+      "wrongAnswers": ["Price", "Price + place", "Product + place"]
     },
     "parentId": "f3eb1400-332b-11e8-84d9-f7b314e82c3a",
     "id": "f3eb1405-332b-11e8-84d9-f7b314e82c3a",
@@ -7409,12 +6296,7 @@
     "content": {
       "question": "Which of the 4 P's matters the most?",
       "correctAnswer": "It depends on the business",
-      "wrongAnswers": [
-        "Price",
-        "Promotion",
-        "Place",
-        "Product"
-      ]
+      "wrongAnswers": ["Price", "Promotion", "Place", "Product"]
     },
     "parentId": "f4be4280-332b-11e8-84d9-f7b314e82c3a",
     "id": "f4be4283-332b-11e8-84d9-f7b314e82c3a",
@@ -7426,11 +6308,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Easier to get to",
-        "Better customer service",
-        "Better duty free selection"
-      ],
+      "wrongAnswers": ["Easier to get to", "Better customer service", "Better duty free selection"],
       "question": "Why do Ryanair only fly from secondary airports?",
       "correctAnswer": "Cheaper fees",
       "imageURL": "https://media.giphy.com/media/10qIE0w0P6s0so/giphy.mp4"
@@ -7444,12 +6322,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Price",
-        "Place",
-        "Product",
-        "Promotion"
-      ],
+      "wrongAnswers": ["Price", "Place", "Product", "Promotion"],
       "question": "Aston Martin’s showroom in Derby is within 100m of Derbyshire County Cricket ground and an upmarket Nuffield Health Club. Which element of the marketing mix is this due to?",
       "correctAnswer": "All of them",
       "imageURL": "https://media.giphy.com/media/oHx98dt342b9m/giphy.mp4"
@@ -7473,10 +6346,7 @@
     "content": {
       "question": "What is E-commerce?",
       "correctAnswer": "Buying goods electronically over the internet",
-      "wrongAnswers": [
-        "Buying goods over fax",
-        "Buying goods online using a mobile phone"
-      ]
+      "wrongAnswers": ["Buying goods over fax", "Buying goods online using a mobile phone"]
     },
     "parentId": "f522b760-3330-11e8-84d9-f7b314e82c3a",
     "id": "f522b764-3330-11e8-84d9-f7b314e82c3a",
@@ -7488,11 +6358,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Only E-commerce",
-        "Only M-commerce",
-        "S-commerce"
-      ],
+      "wrongAnswers": ["Only E-commerce", "Only M-commerce", "S-commerce"],
       "question": "Trainline sell train tickets via their mobile app and website. What type of commerce are they taking advantage of?",
       "correctAnswer": "E-commerce and M-commerce",
       "imageURL": "https://media.giphy.com/media/NGSbD5vI6lUvC/giphy.mp4"
@@ -7545,10 +6411,7 @@
     "content": {
       "question": "AussieBum sells men’s underwear and sportswear directly to customers in the UK from its production plant in Sydney. Which drawback of e-commerce is this representative of? ",
       "correctAnswer": "Increased competition",
-      "wrongAnswers": [
-        "Investment needed",
-        "Consumers struggling to judge goods from online information"
-      ]
+      "wrongAnswers": ["Investment needed", "Consumers struggling to judge goods from online information"]
     },
     "parentId": "f6061280-3330-11e8-84d9-f7b314e82c3a",
     "id": "f6061284-3330-11e8-84d9-f7b314e82c3a",
@@ -7561,11 +6424,7 @@
     "content": {
       "question": "Which of the following necessarily has 1 owner?",
       "correctAnswer": "Sole trader",
-      "wrongAnswers": [
-        "Partnership",
-        "Public limited company",
-        "Limited liability company"
-      ]
+      "wrongAnswers": ["Partnership", "Public limited company", "Limited liability company"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "262243fd-1c4f-40c3-9283-41d7340fe962",
@@ -7579,10 +6438,7 @@
     "moduleType": "multiple-choice",
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "content": {
-      "wrongAnswers": [
-        "Ethical objectives",
-        "Maximising short-term profits"
-      ],
+      "wrongAnswers": ["Ethical objectives", "Maximising short-term profits"],
       "question": "Smaller companies like Revolut or Monzo (banking apps) rely heavily on word of mouth. Which is most likely a key objective for them?",
       "correctAnswer": "Customer satisfaction",
       "imageURL": "https://media.giphy.com/media/3o6wNTC6U7EmChEapW/giphy.mp4"
@@ -7599,11 +6455,7 @@
     "content": {
       "question": "Which objectives do not-for-profit businesses usually focus more on compared to for-profit firms?",
       "correctAnswer": "Social and ethical objectives",
-      "wrongAnswers": [
-        "Growth",
-        "Customer Satisfaction",
-        "Increasing market share"
-      ]
+      "wrongAnswers": ["Growth", "Customer Satisfaction", "Increasing market share"]
     },
     "parentId": "f9feaf40-32b4-11e8-84d9-f7b314e82c3a",
     "id": "f9feaf44-32b4-11e8-84d9-f7b314e82c3a",
@@ -7617,10 +6469,7 @@
     "content": {
       "question": "How is brand image or product image important to a business?",
       "correctAnswer": "It can differentiate products from competitors' products",
-      "wrongAnswers": [
-        "They aren't important",
-        "They can let firms charge lower prices"
-      ]
+      "wrongAnswers": ["They aren't important", "They can let firms charge lower prices"]
     },
     "parentId": "3a4e55b0-332c-11e8-84d9-f7b314e82c3a",
     "id": "fb0163b0-332c-11e8-84d9-f7b314e82c3a",
@@ -7633,11 +6482,7 @@
     "content": {
       "question": "PR involves maintaining a good public image. What does PR stand for?",
       "correctAnswer": "Public Relations",
-      "wrongAnswers": [
-        "Private Relations",
-        "Public Relationship",
-        "Private Relationship"
-      ]
+      "wrongAnswers": ["Private Relations", "Public Relationship", "Private Relationship"]
     },
     "courseId": "154d6ec0-32ac-11e8-84d9-f7b314e82c3a",
     "parentId": "ffd3fdd7-6e33-4da5-b522-97b0b6ad1bf8",
@@ -7652,11 +6497,7 @@
     "content": {
       "question": "Which of these is a business/product with a low market share in a fast growing market?",
       "correctAnswer": "Problem child",
-      "wrongAnswers": [
-        "Star",
-        "Cash cow",
-        "Dog"
-      ]
+      "wrongAnswers": ["Star", "Cash cow", "Dog"]
     },
     "parentId": "02bb89f0-332d-11e8-84d9-f7b314e82c3a",
     "id": "ffdac880-4872-11e8-a882-43c135924cd1",

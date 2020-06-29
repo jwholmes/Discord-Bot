@@ -4,9 +4,7 @@
     "content": {
       "question": "A client has asked you to develop a self-checkout machine for his small supermarket which allows customers to scan their shopping and pay for it without him having to oversee the process. \n\nWhat type of computer system would you be developing?",
       "correctAnswer": "Embedded system",
-      "wrongAnswers": [
-        "General purpose system"
-      ]
+      "wrongAnswers": ["General purpose system"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "bda33da9-6410-4856-a221-10a32d9313ea",
@@ -21,10 +19,7 @@
     "content": {
       "question": "How can technology help to improve the efficiency of wind turbines?",
       "correctAnswer": "By creating simulations to optimise the system",
-      "wrongAnswers": [
-        "By being able to move them remotely",
-        "By using the Internet"
-      ]
+      "wrongAnswers": ["By being able to move them remotely", "By using the Internet"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "676e468c-6fca-4606-8fe3-703c2d6c1655",
@@ -39,9 +34,7 @@
     "content": {
       "question": "True or false: Merge sort is more efficient than bubble sort?",
       "correctAnswer": "True",
-      "wrongAnswers": [
-        "False"
-      ]
+      "wrongAnswers": ["False"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "e7074ae7-3a14-4de6-a124-459d86924fd2",
@@ -56,10 +49,7 @@
     "content": {
       "question": "What is the main advantage of binary search?",
       "correctAnswer": "It is efficient",
-      "wrongAnswers": [
-        "It is effective",
-        "It is easy to implement"
-      ]
+      "wrongAnswers": ["It is effective", "It is easy to implement"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "4cac77d3-784b-45a8-8651-144173d625d1",
@@ -74,10 +64,7 @@
     "content": {
       "question": "Why is compilation bad for small changes?",
       "correctAnswer": "The compilation process is slow",
-      "wrongAnswers": [
-        "Compilation does not allow small changes",
-        "It makes the software run slower"
-      ]
+      "wrongAnswers": ["Compilation does not allow small changes", "It makes the software run slower"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "38a86285-ba18-4ba0-9bd5-831b76725a7e",
@@ -92,10 +79,7 @@
     "content": {
       "question": "What kind of devices give employees the freedom to work from anywhere?",
       "correctAnswer": "Mobile",
-      "wrongAnswers": [
-        "Embedded",
-        "Expensive"
-      ]
+      "wrongAnswers": ["Embedded", "Expensive"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "4444c08b-e485-4e6f-935d-3d48830c0b47",
@@ -110,10 +94,7 @@
     "content": {
       "question": "What is the main disadvantage of linear search?",
       "correctAnswer": "It is slow",
-      "wrongAnswers": [
-        "It is hard to implement",
-        "It is not effective"
-      ]
+      "wrongAnswers": ["It is hard to implement", "It is not effective"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "37480362-bca9-47d6-8b68-8a5e1c4c0d33",
@@ -128,9 +109,7 @@
     "content": {
       "question": "What is a distributed denial of service attack?",
       "correctAnswer": "Where multiple devices all send a DoS attack at the same time to a certain server",
-      "wrongAnswers": [
-        "Where a single device sends DoS attacks to multiple servers at the same time"
-      ]
+      "wrongAnswers": ["Where a single device sends DoS attacks to multiple servers at the same time"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "4535a4a8-6360-407b-b903-619b0e9f55b4",
@@ -144,14 +123,10 @@
     "moduleType": "multiple-choice",
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "content": {
-      "wrongAnswers": [
-        "Compression",
-        "Backup",
-        "Encryption"
-      ],
+      "wrongAnswers": ["Compression", "Backup", "Encryption"],
       "question": "Which type of utility software improves hard disk performance by applying an algorithm to reorganise data?",
       "correctAnswer": "Defragmentation",
-      "imageURL": "seneca-image-cdn:///2018-06/38cfa5ea-ebbc-4e43-909f-1da812e62725/shutterstock_581985661.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-06/38cfa5ea-ebbc-4e43-909f-1da812e62725/shutterstock_581985661.jpg"
     },
     "parentId": "f7ff6c32-eae6-4e49-b560-98f2a0721096",
     "id": "0b746499-91ab-4c8e-aee6-0563f1c74ee9",
@@ -164,10 +139,7 @@
     "content": {
       "question": "What is a lot of activity data used for?",
       "correctAnswer": "Advertising",
-      "wrongAnswers": [
-        "Knowing where you are",
-        "Checking against other records"
-      ]
+      "wrongAnswers": ["Knowing where you are", "Checking against other records"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "7f03eec1-5f9b-45dd-b0eb-ba67e1971527",
@@ -182,10 +154,7 @@
     "content": {
       "question": "Why might a manufacturer distribute media on a compact disk (CD) rather than a digital versatile disk (DVD)?",
       "correctAnswer": "CDs are cheaper",
-      "wrongAnswers": [
-        "CDs store more content",
-        "CDs provide better quality"
-      ]
+      "wrongAnswers": ["CDs store more content", "CDs provide better quality"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "41c5fe20-dd89-4423-aaa1-44c47d2d7f2a",
@@ -218,10 +187,7 @@
     "content": {
       "question": "Why must we close a file?",
       "correctAnswer": "So that it is free for other programs to access",
-      "wrongAnswers": [
-        "So that it is not corrupted",
-        "So that it does not duplicate the file"
-      ]
+      "wrongAnswers": ["So that it is not corrupted", "So that it does not duplicate the file"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "aa452597-9ccb-4531-8379-1fa0b6d225c0",
@@ -236,11 +202,7 @@
     "content": {
       "question": "What is one of the most common reasons for casting?",
       "correctAnswer": "Input / Output",
-      "wrongAnswers": [
-        "Passing parameters",
-        "Global variables",
-        "Poor planning"
-      ]
+      "wrongAnswers": ["Passing parameters", "Global variables", "Poor planning"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "6e789f82-b7e8-4496-b9d2-15f602542a8d",
@@ -255,10 +217,7 @@
     "content": {
       "question": "What is often the best way to identify an algorithm?",
       "correctAnswer": "Looking for comments",
-      "wrongAnswers": [
-        "Examining identifiers",
-        "Examining output statements"
-      ]
+      "wrongAnswers": ["Examining identifiers", "Examining output statements"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "b83e80fb-1063-443a-98e1-45d84e61b584",
@@ -273,9 +232,7 @@
     "content": {
       "question": "In the following code, is x a parameter or an argument?<br/><br/>\n\nSUBROUTINE name(x, y)&emsp;&emsp;<br/>\nreturn x + y&emsp;&emsp;<br/>\nENDSUBROUTINE&emsp;&emsp;&emsp;&emsp;&emsp;<br/>",
       "correctAnswer": "Parameter",
-      "wrongAnswers": [
-        "Argument"
-      ]
+      "wrongAnswers": ["Argument"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "d4da9b50-5e72-41b7-9b76-2eb7576019ef",
@@ -308,9 +265,7 @@
     "content": {
       "question": "Application software is a type of utility software. True or false?",
       "correctAnswer": "False",
-      "wrongAnswers": [
-        "True"
-      ]
+      "wrongAnswers": ["True"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "3df0cd72-2885-43b1-a227-3dbe8d99e0a3",
@@ -349,11 +304,7 @@
     "content": {
       "question": "What is an application programming interface?",
       "correctAnswer": "A set of code libraries",
-      "wrongAnswers": [
-        "A programming tutorial",
-        "A way of writing new code",
-        "A special purpose operating system"
-      ]
+      "wrongAnswers": ["A programming tutorial", "A way of writing new code", "A special purpose operating system"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "1e7f1b7c-d0e0-46df-9a65-b7609d895421",
@@ -368,9 +319,7 @@
     "content": {
       "question": "Which compression method results in the best size reduction?",
       "correctAnswer": "Lossy compression",
-      "wrongAnswers": [
-        "Lossless compression"
-      ]
+      "wrongAnswers": ["Lossless compression"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "328a3d66-c2cb-4c40-991d-f967b57f86cc",
@@ -385,11 +334,7 @@
     "content": {
       "question": "What is important to check when assigning a value to a variable?",
       "correctAnswer": "That it is of the correct data type",
-      "wrongAnswers": [
-        "That the data is correct",
-        "That the variable exists",
-        "That the variable can be changed"
-      ]
+      "wrongAnswers": ["That the data is correct", "That the variable exists", "That the variable can be changed"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "25f753f9-0f58-4719-8b9c-bd6dfcdb7183",
@@ -404,11 +349,7 @@
     "content": {
       "question": "What is the weakest point in most networks?",
       "correctAnswer": "People",
-      "wrongAnswers": [
-        "Servers",
-        "Clients",
-        "Cabling"
-      ]
+      "wrongAnswers": ["Servers", "Clients", "Cabling"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "2db24cc5-5fd0-4331-9c5a-5ca9efa84e08",
@@ -442,10 +383,7 @@
     "content": {
       "question": "What are Digital Versatile Disks (DVDs) often used to store?",
       "correctAnswer": "Standard-definition movies",
-      "wrongAnswers": [
-        "High-definition movies",
-        "Ultra high-definition movies"
-      ]
+      "wrongAnswers": ["High-definition movies", "Ultra high-definition movies"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "f7859dbd-5344-4dbd-bee6-04a365e53608",
@@ -465,10 +403,7 @@
     "content": {
       "question": "Why might a user choose to use cloud-based applications?",
       "correctAnswer": "There is no need to install them on secondary storage",
-      "wrongAnswers": [
-        "They are always free",
-        "They are easier to use"
-      ]
+      "wrongAnswers": ["They are always free", "They are easier to use"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "aa5f7a33-3053-4357-88c4-67a852a121fc",
@@ -499,9 +434,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Secondary storage"
-      ],
+      "wrongAnswers": ["Secondary storage"],
       "question": "Which of these tends to be faster to access?",
       "correctAnswer": "Primary storage",
       "imageURL": "https://media.giphy.com/media/101IgDtwWFQKti/giphy.mp4"
@@ -519,11 +452,7 @@
     "content": {
       "question": "If you use an open source component within your software, your software must often have what kind of license?",
       "correctAnswer": "Open source",
-      "wrongAnswers": [
-        "Protected source",
-        "Prohibited source",
-        "Shared source"
-      ]
+      "wrongAnswers": ["Protected source", "Prohibited source", "Shared source"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "fbbd2778-a817-45a2-9735-853bc49605b7",
@@ -538,10 +467,7 @@
     "content": {
       "question": "Which of the following do you have to be able to do with AQA's style of pseudocode?",
       "correctAnswer": "Understand",
-      "wrongAnswers": [
-        "Write",
-        "Reproduce"
-      ]
+      "wrongAnswers": ["Write", "Reproduce"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "615372f2-3160-4230-8d45-888fa5231d97",
@@ -574,10 +500,7 @@
     "content": {
       "question": "Which of the following is a good method of protecting against social engineering attacks?",
       "correctAnswer": "Education",
-      "wrongAnswers": [
-        "Patching servers",
-        "Stronger password policy"
-      ]
+      "wrongAnswers": ["Patching servers", "Stronger password policy"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "2db24cc5-5fd0-4331-9c5a-5ca9efa84e08",
@@ -611,11 +534,7 @@
     "content": {
       "question": "Which of these activities would be a blagging attack?",
       "correctAnswer": "Pretending to be an employee",
-      "wrongAnswers": [
-        "Setting up a fake website",
-        "Hacking a DNS server",
-        "Watching someone enter a password"
-      ]
+      "wrongAnswers": ["Setting up a fake website", "Hacking a DNS server", "Watching someone enter a password"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "74d12392-f669-476b-aae9-1da6a01f053e",
@@ -630,10 +549,7 @@
     "content": {
       "question": "Why might a company prefer to use cloud based applications rather than their own local software?",
       "correctAnswer": "There is no need to employ specialist IT managers",
-      "wrongAnswers": [
-        "Cloud based applications are easier to use",
-        "Cloud based applications are faster"
-      ]
+      "wrongAnswers": ["Cloud based applications are easier to use", "Cloud based applications are faster"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "5f9a2e38-2884-489b-8f90-ede0539453e9",
@@ -648,10 +564,7 @@
     "content": {
       "question": "What is iterative testing?",
       "correctAnswer": "Testing done during the development process",
-      "wrongAnswers": [
-        "Testing done at the end of the project",
-        "Testing only the loops in a piece of software"
-      ]
+      "wrongAnswers": ["Testing done at the end of the project", "Testing only the loops in a piece of software"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "815fb45b-1059-44a3-95b1-09f04a009f3d",
@@ -664,10 +577,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Solid state storage",
-        "Magnetic storage"
-      ],
+      "wrongAnswers": ["Solid state storage", "Magnetic storage"],
       "question": "I live in an area prone to flooding and need to make a backup of important files. Should I make a backup using magnetic, solid state, or optical media?",
       "correctAnswer": "Optical media",
       "imageURL": "https://media.giphy.com/media/i9Fg9YcbOSNhe/giphy.mp4"
@@ -683,11 +593,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Primary storage",
-        "Random Access Memory",
-        "Read-Only Memory"
-      ],
+      "wrongAnswers": ["Primary storage", "Random Access Memory", "Read-Only Memory"],
       "question": "Where does the computer store data and instructions which are NOT currently in use?",
       "correctAnswer": "Secondary storage",
       "imageURL": "https://media.giphy.com/media/3Mj3Dssgl3eeI/giphy.mp4"
@@ -705,10 +611,7 @@
     "content": {
       "question": "Why do we subdivide frequencies into bands and channels?",
       "correctAnswer": "To reduce the effects of interference",
-      "wrongAnswers": [
-        "To make transfer speeds faster",
-        "To reduce costs"
-      ]
+      "wrongAnswers": ["To make transfer speeds faster", "To reduce costs"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "9598edf0-8ae6-442a-a02d-b2cfd9acf21b",
@@ -723,10 +626,7 @@
     "content": {
       "question": "When should a test plan be written?",
       "correctAnswer": "When designing the system",
-      "wrongAnswers": [
-        "When programming the system",
-        "When testing the system"
-      ]
+      "wrongAnswers": ["When programming the system", "When testing the system"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "23a3f8b0-00ca-4bd0-b406-631639670116",
@@ -741,10 +641,7 @@
     "content": {
       "question": "What is the weakest point in most networks?",
       "correctAnswer": "People",
-      "wrongAnswers": [
-        "Network hardware",
-        "Network configuration"
-      ]
+      "wrongAnswers": ["Network hardware", "Network configuration"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "d8226b3e-fb00-400f-bdba-feeff66c1e17",
@@ -757,9 +654,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Primary storage"
-      ],
+      "wrongAnswers": ["Primary storage"],
       "question": "Which of these tends to be cheaper per unit capacity?",
       "correctAnswer": "Secondary storage",
       "imageURL": "https://media.giphy.com/media/lZd4oyt1EzC3C/giphy.mp4"
@@ -776,14 +671,10 @@
     "moduleType": "multiple-choice",
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "content": {
-      "wrongAnswers": [
-        "Lateral Processing Unit",
-        "Peripheral Processing Unit",
-        "Core Processing Unit"
-      ],
+      "wrongAnswers": ["Lateral Processing Unit", "Peripheral Processing Unit", "Core Processing Unit"],
       "question": "This is the common architecture for what feature of computers?",
       "correctAnswer": "Central Processing Unit",
-      "imageURL": "seneca-image-cdn:///2018-06/8a02982b-4ff9-44b1-94b7-d3a64cbe2bb8/Copy%20of%20CPU.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-06/8a02982b-4ff9-44b1-94b7-d3a64cbe2bb8/Copy%20of%20CPU.png"
     },
     "parentId": "c44642c0-b598-4b26-b861-5dd01ab5f28d",
     "id": "2cc8af52-3eee-4701-80e1-afbfd63d5456",
@@ -796,10 +687,7 @@
     "content": {
       "question": "Which of these events will break the whole bus network?",
       "correctAnswer": "Main cable breaking",
-      "wrongAnswers": [
-        "Any device breaking",
-        "A cable to a device breaking"
-      ]
+      "wrongAnswers": ["Any device breaking", "A cable to a device breaking"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "69b152ce-024f-4600-8e7d-8af34ba0a22f",
@@ -814,9 +702,7 @@
     "content": {
       "question": "Does optical media tend to be cheap or expensive on a per-GB basis?",
       "correctAnswer": "Cheap",
-      "wrongAnswers": [
-        "Expensive"
-      ]
+      "wrongAnswers": ["Expensive"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "0a6e57ce-7f33-43aa-90ef-bf8e962a1989",
@@ -831,10 +717,7 @@
     "content": {
       "question": "What is the cause of the digital divide?",
       "correctAnswer": "Not everyone has access to technology",
-      "wrongAnswers": [
-        "Not everyone is well educated",
-        "Not everyone agrees with technological advances"
-      ]
+      "wrongAnswers": ["Not everyone is well educated", "Not everyone agrees with technological advances"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "8a0b6d3c-5e24-42d0-8eec-63975aae4141",
@@ -849,10 +732,7 @@
     "content": {
       "question": "What is the main drawback of ASCII?",
       "correctAnswer": "Lack of international language support",
-      "wrongAnswers": [
-        "It is slow on newer machines",
-        "It wastes a lot of data"
-      ]
+      "wrongAnswers": ["It is slow on newer machines", "It wastes a lot of data"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "9c264842-3237-466f-ac34-8b4f9fa88e42",
@@ -867,10 +747,7 @@
     "content": {
       "question": "Why is censorship sometimes considered to be negative?",
       "correctAnswer": "It can limit people's freedom of expression",
-      "wrongAnswers": [
-        "It can keep people safe online",
-        "It can make life harder for criminals"
-      ]
+      "wrongAnswers": ["It can keep people safe online", "It can make life harder for criminals"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "81a826b6-2c25-4574-90a1-c39b7c538e95",
@@ -904,10 +781,7 @@
     "content": {
       "question": "What is the main issue with Post Office Protocol compared to Internet Message Access Protocol?",
       "correctAnswer": "It does not sync inboxes",
-      "wrongAnswers": [
-        "It can lose emails",
-        "It lacks security"
-      ]
+      "wrongAnswers": ["It can lose emails", "It lacks security"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "5ac25778-d9a7-45f6-9bc5-e15f5227a55b",
@@ -922,11 +796,7 @@
     "content": {
       "question": "What is an algorithm?",
       "correctAnswer": "A series of steps to solve a given problem",
-      "wrongAnswers": [
-        "A computer program",
-        "A subroutine within a program",
-        "A piece of hardware"
-      ]
+      "wrongAnswers": ["A computer program", "A subroutine within a program", "A piece of hardware"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "882f780b-16a0-429d-9fe6-4929417ae295",
@@ -959,9 +829,7 @@
     "content": {
       "question": "Are MAC addresses unique globally or locally?",
       "correctAnswer": "Globally",
-      "wrongAnswers": [
-        "Locally"
-      ]
+      "wrongAnswers": ["Locally"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "571975eb-08c8-4d82-99e1-ed3f97986db0",
@@ -976,10 +844,7 @@
     "content": {
       "question": "Is it quicker to write data or read data on optical media?",
       "correctAnswer": "Read data",
-      "wrongAnswers": [
-        "Write data",
-        "You can't do either"
-      ]
+      "wrongAnswers": ["Write data", "You can't do either"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "0a6e57ce-7f33-43aa-90ef-bf8e962a1989",
@@ -994,11 +859,7 @@
     "content": {
       "question": "What is the weakest point in most networks?",
       "correctAnswer": "People",
-      "wrongAnswers": [
-        "Servers",
-        "Firewalls",
-        "Ports"
-      ]
+      "wrongAnswers": ["Servers", "Firewalls", "Ports"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "2db24cc5-5fd0-4331-9c5a-5ca9efa84e08",
@@ -1018,10 +879,7 @@
     "content": {
       "question": "Once a user is authenticated, what should they see?",
       "correctAnswer": "Data relevant to themselves but no one else",
-      "wrongAnswers": [
-        "Data relevant to everyone",
-        "General data that is not relevant to any user"
-      ]
+      "wrongAnswers": ["Data relevant to everyone", "General data that is not relevant to any user"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "0517696f-6e41-44b7-afd7-8df21bd40683",
@@ -1036,11 +894,7 @@
     "content": {
       "question": "If a single file takes up 20 MB and 10 of these files must be stored, what capacity is required on disk?",
       "correctAnswer": "200 MB",
-      "wrongAnswers": [
-        "2 MB",
-        "30 MB",
-        "100 MB"
-      ]
+      "wrongAnswers": ["2 MB", "30 MB", "100 MB"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "3406a010-497f-492c-bb26-8eda5263f875",
@@ -1055,11 +909,7 @@
     "content": {
       "question": "Which of the following is not the name of a programming error?",
       "correctAnswer": "Typing",
-      "wrongAnswers": [
-        "Syntax",
-        "Runtime",
-        "Logic"
-      ]
+      "wrongAnswers": ["Syntax", "Runtime", "Logic"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "61275213-3a75-4548-8b28-d7dec94289a8",
@@ -1074,9 +924,7 @@
     "content": {
       "question": "What is usually represented by the presence of charge in a computer system?",
       "correctAnswer": "1",
-      "wrongAnswers": [
-        "0"
-      ]
+      "wrongAnswers": ["0"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "3d5649b6-d592-4cc3-be18-a8dd61d51af0",
@@ -1091,9 +939,7 @@
     "content": {
       "question": "Read-Only Memory is:",
       "correctAnswer": "Non-volatile",
-      "wrongAnswers": [
-        "Volatile"
-      ]
+      "wrongAnswers": ["Volatile"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "3406a010-497f-492c-bb26-8eda5263f875",
@@ -1108,9 +954,7 @@
     "content": {
       "question": "Will increasing the bandwidth always make a network faster?",
       "correctAnswer": "No",
-      "wrongAnswers": [
-        "Yes"
-      ]
+      "wrongAnswers": ["Yes"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "f7f98f04-2d55-4294-82f5-8c58f1e3a3cb",
@@ -1125,11 +969,7 @@
     "content": {
       "question": "A black and white image uses how many bits per pixel?",
       "correctAnswer": "One",
-      "wrongAnswers": [
-        "Two",
-        "Three",
-        "Four"
-      ]
+      "wrongAnswers": ["Two", "Three", "Four"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "485d788f-1152-4e5a-b8d0-eb630d9ede5a",
@@ -1144,11 +984,7 @@
     "content": {
       "question": "Which character separated each values of a CSV file?",
       "correctAnswer": "Comma",
-      "wrongAnswers": [
-        "Semi-colon",
-        "Colon",
-        "Full stop"
-      ]
+      "wrongAnswers": ["Semi-colon", "Colon", "Full stop"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "fa091ae0-0ce1-46df-a46f-2525dfa4ce6e",
@@ -1163,11 +999,7 @@
     "content": {
       "question": "Which of these is an example of a public body?",
       "correctAnswer": "A school",
-      "wrongAnswers": [
-        "A startup company",
-        "A large commercial organisation",
-        "A high street bank"
-      ]
+      "wrongAnswers": ["A startup company", "A large commercial organisation", "A high street bank"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "b7d871a0-98f3-4d31-96d3-edd65b0394f1",
@@ -1182,11 +1014,7 @@
     "content": {
       "question": "Records are made up of:",
       "correctAnswer": "Fields",
-      "wrongAnswers": [
-        "Farms",
-        "Boxes",
-        "Entries"
-      ]
+      "wrongAnswers": ["Farms", "Boxes", "Entries"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "fa091ae0-0ce1-46df-a46f-2525dfa4ce6e",
@@ -1201,9 +1029,7 @@
     "content": {
       "question": "What is the value of True AND NOT(False)?",
       "correctAnswer": "True",
-      "wrongAnswers": [
-        "False"
-      ]
+      "wrongAnswers": ["False"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "12c15157-0f7f-44be-bb7f-ed7e87a43390",
@@ -1218,9 +1044,7 @@
     "content": {
       "question": "Are hackers more likely to target data in the cloud or on local storage?",
       "correctAnswer": "The cloud",
-      "wrongAnswers": [
-        "Local storage"
-      ]
+      "wrongAnswers": ["Local storage"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "1eb78e73-168f-4983-915e-b94fbf87bc0f",
@@ -1240,10 +1064,7 @@
     "content": {
       "question": "What are some of the worst offenders for energy consumption within technology?",
       "correctAnswer": "Data centres",
-      "wrongAnswers": [
-        "Home computers",
-        "Mobile phones"
-      ]
+      "wrongAnswers": ["Home computers", "Mobile phones"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "9a328fe4-278f-4644-9145-65cc5aa2a9c8",
@@ -1263,11 +1084,7 @@
     "content": {
       "question": "How do you start a single-line comment in pseudocode?",
       "correctAnswer": "#",
-      "wrongAnswers": [
-        "//",
-        "/*",
-        "<>"
-      ]
+      "wrongAnswers": ["//", "/*", "<>"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "c0adcc64-d743-4cb1-9968-64f40492a33e",
@@ -1282,9 +1099,7 @@
     "content": {
       "question": "What is the value of NOT(False AND NOT(False))?",
       "correctAnswer": "True",
-      "wrongAnswers": [
-        "False"
-      ]
+      "wrongAnswers": ["False"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "12c15157-0f7f-44be-bb7f-ed7e87a43390",
@@ -1299,11 +1114,7 @@
     "content": {
       "question": "What is the weakest point in most networks?",
       "correctAnswer": "People",
-      "wrongAnswers": [
-        "Servers",
-        "Firewalls",
-        "Ports"
-      ]
+      "wrongAnswers": ["Servers", "Firewalls", "Ports"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "bf7e6308-db26-4ae4-8aca-b6a89cf9a67f",
@@ -1337,10 +1148,7 @@
     "content": {
       "question": "Why is run length encoding difficult in images?",
       "correctAnswer": "Adjacent pixels have similar colours",
-      "wrongAnswers": [
-        "Images are too large to start with",
-        "Their file size cannot be reduced further"
-      ]
+      "wrongAnswers": ["Images are too large to start with", "Their file size cannot be reduced further"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "d9bf0125-9f3d-4422-8116-8d178399face",
@@ -1355,11 +1163,7 @@
     "content": {
       "question": "What would be the most suitable type to store the number 2.5?",
       "correctAnswer": "Real",
-      "wrongAnswers": [
-        "Integer",
-        "Boolean",
-        "String"
-      ]
+      "wrongAnswers": ["Integer", "Boolean", "String"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "8727870f-7f50-47f0-9544-a229bb5f26fb",
@@ -1374,11 +1178,7 @@
     "content": {
       "question": "What is the result of 17 MOD 5?",
       "correctAnswer": "2",
-      "wrongAnswers": [
-        "3",
-        "1",
-        "4"
-      ]
+      "wrongAnswers": ["3", "1", "4"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "0859dd4e-2480-4417-83ac-67d0734de4e3",
@@ -1393,10 +1193,7 @@
     "content": {
       "question": "If we don't use the correct methods to access files, what might happen?",
       "correctAnswer": "Files may get corrupted",
-      "wrongAnswers": [
-        "Files may duplicate",
-        "Files may display sensitive information"
-      ]
+      "wrongAnswers": ["Files may duplicate", "Files may display sensitive information"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "aa452597-9ccb-4531-8379-1fa0b6d225c0",
@@ -1411,9 +1208,7 @@
     "content": {
       "question": "What is a DDoS (Distributed Denial of Service) attack?",
       "correctAnswer": "Where multiple devices send DoS attacks to a single server at the same time",
-      "wrongAnswers": [
-        "Where a single device sends DoS attacks to multiple servers at the same time"
-      ]
+      "wrongAnswers": ["Where a single device sends DoS attacks to multiple servers at the same time"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "2db24cc5-5fd0-4331-9c5a-5ca9efa84e08",
@@ -1451,10 +1246,7 @@
     "content": {
       "question": "How can the Internet of Things know what you look like?",
       "correctAnswer": "Storing data from facial recognition",
-      "wrongAnswers": [
-        "With hidden cameras",
-        "By finding your social media photos"
-      ]
+      "wrongAnswers": ["With hidden cameras", "By finding your social media photos"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "4a4375ea-35f0-47f2-a936-98c89cd5b495",
@@ -1487,9 +1279,7 @@
     "content": {
       "question": "What do operating systems control?",
       "correctAnswer": "Hardware",
-      "wrongAnswers": [
-        "Software"
-      ]
+      "wrongAnswers": ["Software"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "cfb55d6a-eba2-4838-a76f-a9ebc2d0abca",
@@ -1504,11 +1294,7 @@
     "content": {
       "question": "Which of these is a common error-recovery route?",
       "correctAnswer": "Undo feature",
-      "wrongAnswers": [
-        "Save feature",
-        "Edit feature",
-        "Open feature"
-      ]
+      "wrongAnswers": ["Save feature", "Edit feature", "Open feature"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "0517696f-6e41-44b7-afd7-8df21bd40683",
@@ -1523,11 +1309,7 @@
     "content": {
       "question": "Which piece of networking hardware uses IP addresses?",
       "correctAnswer": "Router",
-      "wrongAnswers": [
-        "Switch",
-        "Hub",
-        "Twisted-pair cable"
-      ]
+      "wrongAnswers": ["Switch", "Hub", "Twisted-pair cable"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "080cd705-8a29-4daf-bec1-2b8998def0db",
@@ -1560,9 +1342,7 @@
     "content": {
       "question": "Are layers used only in networking?",
       "correctAnswer": "No",
-      "wrongAnswers": [
-        "Yes"
-      ]
+      "wrongAnswers": ["Yes"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "efb15033-75a1-44b7-b957-0658344cad19",
@@ -1577,11 +1357,7 @@
     "content": {
       "question": "How many bits represent each character in ASCII?",
       "correctAnswer": "7",
-      "wrongAnswers": [
-        "8",
-        "4",
-        "15"
-      ]
+      "wrongAnswers": ["8", "4", "15"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "3d5649b6-d592-4cc3-be18-a8dd61d51af0",
@@ -1596,11 +1372,7 @@
     "content": {
       "question": "What is the 'hidden' energy cost of running computer systems?",
       "correctAnswer": "Cooling systems",
-      "wrongAnswers": [
-        "Data storage",
-        "Warming systems",
-        "Warning systems"
-      ]
+      "wrongAnswers": ["Data storage", "Warming systems", "Warning systems"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "8a06d06c-0c8b-4009-9ad3-54a9d632a08d",
@@ -1615,11 +1387,7 @@
     "content": {
       "question": "Which boolean operator takes only a single operand?",
       "correctAnswer": "NOT",
-      "wrongAnswers": [
-        "AND",
-        "OR",
-        "XOR"
-      ]
+      "wrongAnswers": ["AND", "OR", "XOR"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "6efabbae-e1ac-45cc-a5ea-0781ddb013b6",
@@ -1634,9 +1402,7 @@
     "content": {
       "question": "Is censorship always a negative thing to do?",
       "correctAnswer": "No",
-      "wrongAnswers": [
-        "Yes"
-      ]
+      "wrongAnswers": ["Yes"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "802814be-9e30-4d78-8ece-90b0c0efcbf9",
@@ -1656,11 +1422,7 @@
     "content": {
       "question": "Which of these should a layer consider about other layers?",
       "correctAnswer": "Inputs and outputs",
-      "wrongAnswers": [
-        "Inputs and how it works",
-        "How it works and outputs",
-        "Inputs&#44; outputs and how it works"
-      ]
+      "wrongAnswers": ["Inputs and how it works", "How it works and outputs", "Inputs&#44; outputs and how it works"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "efb15033-75a1-44b7-b957-0658344cad19",
@@ -1675,10 +1437,7 @@
     "content": {
       "question": "Which type of language often have more optimised (faster) code?",
       "correctAnswer": "Low-level languages",
-      "wrongAnswers": [
-        "High-level languages",
-        "Mid-level languages"
-      ]
+      "wrongAnswers": ["High-level languages", "Mid-level languages"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "4896566a-3d64-4c88-8ea9-e8a5a92a23cb",
@@ -1693,11 +1452,7 @@
     "content": {
       "question": "What are logic circuits made from?",
       "correctAnswer": "Logic gates",
-      "wrongAnswers": [
-        "Capacitors",
-        "Cells",
-        "CPUs"
-      ]
+      "wrongAnswers": ["Capacitors", "Cells", "CPUs"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "5b4124de-64e3-49e3-80b2-fee1009abf73",
@@ -1712,11 +1467,7 @@
     "content": {
       "question": "What is the 'hidden' energy cost of running computer systems?",
       "correctAnswer": "Cooling systems",
-      "wrongAnswers": [
-        "Warming systems",
-        "Data storage",
-        "Warning systems"
-      ]
+      "wrongAnswers": ["Warming systems", "Data storage", "Warning systems"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "cfb55d6a-eba2-4838-a76f-a9ebc2d0abca",
@@ -1731,10 +1482,7 @@
     "content": {
       "question": "What does DVD-ROM mean?",
       "correctAnswer": "The disk is read only",
-      "wrongAnswers": [
-        "The disk can be re-written once",
-        "The disk can always be re-written"
-      ]
+      "wrongAnswers": ["The disk can be re-written once", "The disk can always be re-written"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "19f587d7-a37c-43ac-9999-17c26b580d02",
@@ -1749,11 +1497,7 @@
     "content": {
       "question": "How much data can a single compact disk (CD) store?",
       "correctAnswer": "700 MB",
-      "wrongAnswers": [
-        "4.7 GB",
-        "25 GB",
-        "500 MB"
-      ]
+      "wrongAnswers": ["4.7 GB", "25 GB", "500 MB"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "f7859dbd-5344-4dbd-bee6-04a365e53608",
@@ -1773,9 +1517,7 @@
     "content": {
       "question": "Is censorship always a negative thing to do?",
       "correctAnswer": "No",
-      "wrongAnswers": [
-        "Yes"
-      ]
+      "wrongAnswers": ["Yes"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "81a826b6-2c25-4574-90a1-c39b7c538e95",
@@ -1790,10 +1532,7 @@
     "content": {
       "question": "What is the drawback of increasing sample rate and sample size?",
       "correctAnswer": "Increased file size",
-      "wrongAnswers": [
-        "Decreased quality",
-        "Requires specialist hardware"
-      ]
+      "wrongAnswers": ["Decreased quality", "Requires specialist hardware"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "eeb35a4c-9125-4cf4-9d20-a9300d3d8eb3",
@@ -1808,9 +1547,7 @@
     "content": {
       "question": "Subroutines follow the same naming rules as:",
       "correctAnswer": "Variables",
-      "wrongAnswers": [
-        "Constants"
-      ]
+      "wrongAnswers": ["Constants"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "7f21720d-ccae-44c1-8e28-c3d0620a9fca",
@@ -1825,10 +1562,7 @@
     "content": {
       "question": "What does DVD-ROM mean?",
       "correctAnswer": "The disk is read only",
-      "wrongAnswers": [
-        "The disk can be re-written once",
-        "The disk can always be re-written"
-      ]
+      "wrongAnswers": ["The disk can be re-written once", "The disk can always be re-written"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "395e166e-0f14-4734-babb-176920fdcdc0",
@@ -1848,11 +1582,7 @@
     "content": {
       "question": "What is the main motivation for using assembly?",
       "correctAnswer": "It gives exact control of hardware",
-      "wrongAnswers": [
-        "It is easier to program in",
-        "It is easier to read the code",
-        "It is faster to write"
-      ]
+      "wrongAnswers": ["It is easier to program in", "It is easier to read the code", "It is faster to write"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "ec5ef4ab-8ce0-4100-91a9-1e8ced0a65fd",
@@ -1867,10 +1597,7 @@
     "content": {
       "question": "What is the main disadvantage of bubble sort?",
       "correctAnswer": "Poor efficiency",
-      "wrongAnswers": [
-        "Poor effectiveness",
-        "Only works for certain data types"
-      ]
+      "wrongAnswers": ["Poor effectiveness", "Only works for certain data types"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "8fab3ace-a431-4257-917b-b7ff9201934f",
@@ -1885,11 +1612,7 @@
     "content": {
       "question": "What character starts a comment in Python?",
       "correctAnswer": "#",
-      "wrongAnswers": [
-        "//",
-        "<!--",
-        "%"
-      ]
+      "wrongAnswers": ["//", "<!--", "%"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "61275213-3a75-4548-8b28-d7dec94289a8",
@@ -1904,11 +1627,7 @@
     "content": {
       "question": "Can blank lines be used within subroutines?",
       "correctAnswer": "Yes - to show sections of code",
-      "wrongAnswers": [
-        "Yes - at all times",
-        "No - never",
-        "No - unless it is necessary"
-      ]
+      "wrongAnswers": ["Yes - at all times", "No - never", "No - unless it is necessary"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "cb5e2ccc-db77-4fbf-9c55-292317ba0af1",
@@ -1939,11 +1658,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Rectangle",
-        "Oval",
-        "Parallelogram"
-      ],
+      "wrongAnswers": ["Rectangle", "Oval", "Parallelogram"],
       "question": "Which shape is used to show selection in a flow diagram?",
       "correctAnswer": "Diamond",
       "imageURL": "https://media.giphy.com/media/3o7buaucmSsxQf1pZK/giphy.mp4"
@@ -1961,11 +1676,7 @@
     "content": {
       "question": "What is the short name of the new data regulation, introduced in 2018?",
       "correctAnswer": "GDPR",
-      "wrongAnswers": [
-        "GPPI",
-        "RGPC",
-        "DPA2"
-      ]
+      "wrongAnswers": ["GPPI", "RGPC", "DPA2"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "60449e3c-91e2-4da7-80b6-2ef019f192a6",
@@ -1980,10 +1691,7 @@
     "content": {
       "question": "Abstraction is a technique that simplifies a problem by removing unnecessary:",
       "correctAnswer": "Details",
-      "wrongAnswers": [
-        "Variables",
-        "Subroutines"
-      ]
+      "wrongAnswers": ["Variables", "Subroutines"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "e7074ae7-3a14-4de6-a124-459d86924fd2",
@@ -1998,9 +1706,7 @@
     "content": {
       "question": "What is usually represented by the presence of charge in a computer system?",
       "correctAnswer": "1",
-      "wrongAnswers": [
-        "0"
-      ]
+      "wrongAnswers": ["0"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "5b4124de-64e3-49e3-80b2-fee1009abf73",
@@ -2015,11 +1721,7 @@
     "content": {
       "question": "How is a list created?",
       "correctAnswer": "myList = []",
-      "wrongAnswers": [
-        "myList = new List[]",
-        "myList = newlist()",
-        "list myList = []"
-      ]
+      "wrongAnswers": ["myList = new List[]", "myList = newlist()", "list myList = []"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "8e2354f3-b760-48c7-85d1-ad60b7f8c2cb",
@@ -2039,10 +1741,7 @@
     "content": {
       "question": "Why does layering allow people to specialise in one area?",
       "correctAnswer": "People can work with one layer without having knowledge of the others",
-      "wrongAnswers": [
-        "The workforce can be split up into layers",
-        "Employees will gain a knowledge of all layers"
-      ]
+      "wrongAnswers": ["The workforce can be split up into layers", "Employees will gain a knowledge of all layers"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "64f6f4fc-52a8-46d2-93b7-f7a81bdf0f1a",
@@ -2074,9 +1773,7 @@
     "content": {
       "question": "Where might we often see a star topology?",
       "correctAnswer": "In local area networks",
-      "wrongAnswers": [
-        "In wide area networks"
-      ]
+      "wrongAnswers": ["In wide area networks"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "7a14e262-c167-47d9-9c98-ba3e9263c5aa",
@@ -2110,11 +1807,7 @@
     "content": {
       "question": "The userinput method takes data from what device?",
       "correctAnswer": "The keyboard",
-      "wrongAnswers": [
-        "The mouse",
-        "The microphone",
-        "The camera"
-      ]
+      "wrongAnswers": ["The mouse", "The microphone", "The camera"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "0c0fde1f-d874-4b72-b037-f42e32e1634c",
@@ -2129,10 +1822,7 @@
     "content": {
       "question": "Which type of optical disk is usually used to distribute games or movies?",
       "correctAnswer": "ROM",
-      "wrongAnswers": [
-        "R",
-        "RW"
-      ]
+      "wrongAnswers": ["R", "RW"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "395e166e-0f14-4734-babb-176920fdcdc0",
@@ -2152,11 +1842,7 @@
     "content": {
       "question": "Which of the following is a well-known wireless communication encryption protocol?",
       "correctAnswer": "WPA2",
-      "wrongAnswers": [
-        "WiFiP",
-        "WFS",
-        "SecWiFi"
-      ]
+      "wrongAnswers": ["WiFiP", "WFS", "SecWiFi"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "bff93b21-321f-4c42-8564-9eb48dd5ff73",
@@ -2171,11 +1857,7 @@
     "content": {
       "question": "The main difference between a list and an array is that:",
       "correctAnswer": "Lists have a variable number of elements",
-      "wrongAnswers": [
-        "Lists can store larger data",
-        "Arrays can only store numbers",
-        "Lists cannot store floats"
-      ]
+      "wrongAnswers": ["Lists can store larger data", "Arrays can only store numbers", "Lists cannot store floats"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "35c9467a-8bd6-4a00-b94d-2fb5f053c9df",
@@ -2190,12 +1872,7 @@
     "content": {
       "question": "Which would be the most appropriate type to store a username?",
       "correctAnswer": "String",
-      "wrongAnswers": [
-        "Integer",
-        "Boolean",
-        "Real",
-        "Character"
-      ]
+      "wrongAnswers": ["Integer", "Boolean", "Real", "Character"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "8727870f-7f50-47f0-9544-a229bb5f26fb",
@@ -2234,10 +1911,7 @@
     "content": {
       "question": "What is often the best way to identify an algorithm?",
       "correctAnswer": "Looking for comments",
-      "wrongAnswers": [
-        "Examining identifiers",
-        "Examining output statements"
-      ]
+      "wrongAnswers": ["Examining identifiers", "Examining output statements"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "61275213-3a75-4548-8b28-d7dec94289a8",
@@ -2270,10 +1944,7 @@
     "content": {
       "question": "What is FTP commonly used for?",
       "correctAnswer": "File downloads and transfers",
-      "wrongAnswers": [
-        "Loading webpages",
-        "Encrypting sent data"
-      ]
+      "wrongAnswers": ["Loading webpages", "Encrypting sent data"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "63433fb9-b491-4c7d-8c8d-6d833204f686",
@@ -2288,11 +1959,7 @@
     "content": {
       "question": "What does a server send when it receives a client's request?",
       "correctAnswer": "Response",
-      "wrongAnswers": [
-        "Answer",
-        "Return",
-        "Shout"
-      ]
+      "wrongAnswers": ["Answer", "Return", "Shout"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "bf7e6308-db26-4ae4-8aca-b6a89cf9a67f",
@@ -2307,11 +1974,7 @@
     "content": {
       "question": "Which type of penetration testing is more likely to protect against insider attacks?",
       "correctAnswer": "White box",
-      "wrongAnswers": [
-        "Black box",
-        "Red box",
-        "Blue box"
-      ]
+      "wrongAnswers": ["Black box", "Red box", "Blue box"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "b2a049e0-b405-4344-a1a5-cea2220b3b9b",
@@ -2324,9 +1987,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Secondary storage"
-      ],
+      "wrongAnswers": ["Secondary storage"],
       "question": "What's Random Access Memory an example of?",
       "correctAnswer": "Primary storage",
       "imageURL": "https://media.giphy.com/media/3oKIPmHmREIV18Xtbq/giphy.mp4"
@@ -2344,10 +2005,7 @@
     "content": {
       "question": "What is the benefit of increasing sample rate and sample size?",
       "correctAnswer": "Increased quality",
-      "wrongAnswers": [
-        "Decreased file size",
-        "Requires specialist hardware"
-      ]
+      "wrongAnswers": ["Decreased file size", "Requires specialist hardware"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "3d5649b6-d592-4cc3-be18-a8dd61d51af0",
@@ -2381,10 +2039,7 @@
     "content": {
       "question": "You want to find some content that you can remix and sell for profit. Which creative commons license should you AVOID?",
       "correctAnswer": "Non-commercial",
-      "wrongAnswers": [
-        "Attribution",
-        "Share-alike"
-      ]
+      "wrongAnswers": ["Attribution", "Share-alike"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "f24663a6-1eea-41e3-80c8-a1deb2dff27d",
@@ -2399,11 +2054,7 @@
     "content": {
       "question": "Using AQA pseudocode, which of these statements will output the text, 'Hello world!'?",
       "correctAnswer": "OUTPUT \"Hello world!\"",
-      "wrongAnswers": [
-        "PRINT(Hello world!)",
-        "OUTPUT Hello world!",
-        "PRINT(\"Hello world!\")"
-      ]
+      "wrongAnswers": ["PRINT(Hello world!)", "OUTPUT Hello world!", "PRINT(\"Hello world!\")"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "0c0fde1f-d874-4b72-b037-f42e32e1634c",
@@ -2418,9 +2069,7 @@
     "content": {
       "question": "Can a single-user operating system have two user accounts?",
       "correctAnswer": "Yes",
-      "wrongAnswers": [
-        "No"
-      ]
+      "wrongAnswers": ["No"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "da2350fc-21bc-41f6-afef-e22e35280141",
@@ -2435,11 +2084,7 @@
     "content": {
       "question": "Which of the following is a common colour depth?",
       "correctAnswer": "24-bit",
-      "wrongAnswers": [
-        "10-bit",
-        "12-bit",
-        "256-bit"
-      ]
+      "wrongAnswers": ["10-bit", "12-bit", "256-bit"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "3d5649b6-d592-4cc3-be18-a8dd61d51af0",
@@ -2472,11 +2117,7 @@
     "content": {
       "question": "Logic gates are commonly created to perform what kind of function?",
       "correctAnswer": "Boolean",
-      "wrongAnswers": [
-        "Algebraic",
-        "Linear",
-        "Embedded"
-      ]
+      "wrongAnswers": ["Algebraic", "Linear", "Embedded"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "a98127c1-753f-4b19-b920-a35f10495735",
@@ -2491,10 +2132,7 @@
     "content": {
       "question": "What does a device driver do?",
       "correctAnswer": "Helps the operating system to understand data from devices",
-      "wrongAnswers": [
-        "Provides power to devices in the computer system",
-        "Allows the user to perform a specific task"
-      ]
+      "wrongAnswers": ["Provides power to devices in the computer system", "Allows the user to perform a specific task"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "cfb55d6a-eba2-4838-a76f-a9ebc2d0abca",
@@ -2509,11 +2147,7 @@
     "content": {
       "question": "A left branch of a Huffman tree should be labelled with which number?",
       "correctAnswer": "0",
-      "wrongAnswers": [
-        "1",
-        "2",
-        "3"
-      ]
+      "wrongAnswers": ["1", "2", "3"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "4e995244-a3a1-4dc9-9174-2a44ccf92d33",
@@ -2528,10 +2162,7 @@
     "content": {
       "question": "What are Digital Versatile Disks (DVDs) often used to store?",
       "correctAnswer": "Standard-definition movies",
-      "wrongAnswers": [
-        "High-definition movies",
-        "Ultra high-definition movies"
-      ]
+      "wrongAnswers": ["High-definition movies", "Ultra high-definition movies"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "41c5fe20-dd89-4423-aaa1-44c47d2d7f2a",
@@ -2546,10 +2177,7 @@
     "content": {
       "question": "What is the official name for WiFi?",
       "correctAnswer": "IEEE 802.11x",
-      "wrongAnswers": [
-        "IET 208.11x",
-        "WWW 196.16x"
-      ]
+      "wrongAnswers": ["IET 208.11x", "WWW 196.16x"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "4608c897-2aa4-4929-96e9-50403762d68a",
@@ -2562,9 +2190,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Read-Only Memory"
-      ],
+      "wrongAnswers": ["Read-Only Memory"],
       "question": "Which does a general purpose computer usually have more of?",
       "correctAnswer": "Random Access Memory",
       "imageURL": "https://media.giphy.com/media/XKSPsk67cnCw0/giphy.mp4"
@@ -2582,11 +2208,7 @@
     "content": {
       "question": "How many offences are covered by the computer misuse act?",
       "correctAnswer": "Three",
-      "wrongAnswers": [
-        "One",
-        "Two",
-        "Four"
-      ]
+      "wrongAnswers": ["One", "Two", "Four"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "7dce4ed2-7f16-4aa5-96b9-6d2c331d9200",
@@ -2619,11 +2241,7 @@
     "content": {
       "question": "How can a number be multiplied by eight using binary shifts?",
       "correctAnswer": "Three shifts left",
-      "wrongAnswers": [
-        "Four shifts left",
-        "One shift right",
-        "Two shifts right"
-      ]
+      "wrongAnswers": ["Four shifts left", "One shift right", "Two shifts right"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "7cf9f3e0-aaf9-4fe8-9837-eb76d99b4b7a",
@@ -2656,11 +2274,7 @@
     "content": {
       "question": "The main difference between a list and an array is that:",
       "correctAnswer": "Lists have a variable number of elements",
-      "wrongAnswers": [
-        "Lists can store larger data",
-        "Arrays can only store numbers",
-        "Lists cannot store floats"
-      ]
+      "wrongAnswers": ["Lists can store larger data", "Arrays can only store numbers", "Lists cannot store floats"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "8e2354f3-b760-48c7-85d1-ad60b7f8c2cb",
@@ -2680,11 +2294,7 @@
     "content": {
       "question": "How can pseudocode be run on the computer?",
       "correctAnswer": "It can not be run",
-      "wrongAnswers": [
-        "By compiling it",
-        "By assembling it",
-        "It can already be run"
-      ]
+      "wrongAnswers": ["By compiling it", "By assembling it", "It can already be run"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "615372f2-3160-4230-8d45-888fa5231d97",
@@ -2736,10 +2346,7 @@
     "content": {
       "question": "What type of compression is Huffman coding?",
       "correctAnswer": "Lossless",
-      "wrongAnswers": [
-        "Lossy",
-        "Lossful"
-      ]
+      "wrongAnswers": ["Lossy", "Lossful"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "4e995244-a3a1-4dc9-9174-2a44ccf92d33",
@@ -2754,10 +2361,7 @@
     "content": {
       "question": "Which protocol is used to send emails?",
       "correctAnswer": "SMTP",
-      "wrongAnswers": [
-        "POP3",
-        "IMAP"
-      ]
+      "wrongAnswers": ["POP3", "IMAP"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "bf7e6308-db26-4ae4-8aca-b6a89cf9a67f",
@@ -2772,10 +2376,7 @@
     "content": {
       "question": "When grouping digits, you should group digits in which direction?",
       "correctAnswer": "Right-to-left",
-      "wrongAnswers": [
-        "Left-to-right",
-        "Top-to-bottom"
-      ]
+      "wrongAnswers": ["Left-to-right", "Top-to-bottom"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "d5b3c182-f76f-46c9-8342-a23b908b4d75",
@@ -2790,9 +2391,7 @@
     "content": {
       "question": "Can anyone view the source code of an open source project?",
       "correctAnswer": "Yes",
-      "wrongAnswers": [
-        "No"
-      ]
+      "wrongAnswers": ["No"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "3f469a49-2778-4e6b-bc25-b1b7c2a6c94a",
@@ -2807,10 +2406,7 @@
     "content": {
       "question": "What is the motivation to use hybrid drives?",
       "correctAnswer": "To get the benefits of multiple storage media",
-      "wrongAnswers": [
-        "They offer the fastest transfer times",
-        "They are the only persistent storage media"
-      ]
+      "wrongAnswers": ["They offer the fastest transfer times", "They are the only persistent storage media"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "d17193e9-ddca-48f2-a3ba-d93a8dda02ce",
@@ -2823,10 +2419,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Fetch",
-        "Decode"
-      ],
+      "wrongAnswers": ["Fetch", "Decode"],
       "question": "During a CPU cycle, the Arithmetic Logic Unit has been activated. During which stage of the FDE cycle was it activated?",
       "correctAnswer": "Execute",
       "imageURL": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.mp4"
@@ -2869,11 +2462,7 @@
     "content": {
       "question": "In a flow diagram, what does an oval represent?",
       "correctAnswer": "Start / Stop",
-      "wrongAnswers": [
-        "Input / Output",
-        "Process",
-        "Decision"
-      ]
+      "wrongAnswers": ["Input / Output", "Process", "Decision"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "e7074ae7-3a14-4de6-a124-459d86924fd2",
@@ -2888,10 +2477,7 @@
     "content": {
       "question": "Who performs penetration testing?",
       "correctAnswer": "The organisation itself",
-      "wrongAnswers": [
-        "Criminal hackers",
-        "Anyone"
-      ]
+      "wrongAnswers": ["Criminal hackers", "Anyone"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "e9bd95c1-78b7-4672-9300-5a46fd14c7d1",
@@ -2906,10 +2492,7 @@
     "content": {
       "question": "What happens if the central switch or server fails?",
       "correctAnswer": "The whole network is affected",
-      "wrongAnswers": [
-        "The rest of the network can continue as usual",
-        "One of the other devices will take its place"
-      ]
+      "wrongAnswers": ["The rest of the network can continue as usual", "One of the other devices will take its place"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "7a14e262-c167-47d9-9c98-ba3e9263c5aa",
@@ -2924,9 +2507,7 @@
     "content": {
       "question": "A white box penetration test is done by people:",
       "correctAnswer": "Inside the organisation",
-      "wrongAnswers": [
-        "Outside the organisation"
-      ]
+      "wrongAnswers": ["Outside the organisation"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "b2a049e0-b405-4344-a1a5-cea2220b3b9b",
@@ -2941,10 +2522,7 @@
     "content": {
       "question": "Why are the first 256 characters in Unicode identical to extended ASCII?",
       "correctAnswer": "For backwards compatability",
-      "wrongAnswers": [
-        "It was an easy place to start building the character set from",
-        "It was a coincidence"
-      ]
+      "wrongAnswers": ["It was an easy place to start building the character set from", "It was a coincidence"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "58ed90b1-f295-4a1c-8586-a50564af050e",
@@ -2959,11 +2537,7 @@
     "content": {
       "question": "What is the 'hidden' energy cost of running computer systems?",
       "correctAnswer": "Cooling systems",
-      "wrongAnswers": [
-        "Data storage",
-        "Warming systems",
-        "Warning systems"
-      ]
+      "wrongAnswers": ["Data storage", "Warming systems", "Warning systems"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "9a328fe4-278f-4644-9145-65cc5aa2a9c8",
@@ -2983,10 +2557,7 @@
     "content": {
       "question": "What is the name of the smallest unit of data that a computer can store?",
       "correctAnswer": "Bit",
-      "wrongAnswers": [
-        "Byte",
-        "Nibble"
-      ]
+      "wrongAnswers": ["Byte", "Nibble"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "2eac3dca-0af1-4125-aa09-d6671d3da4ab",
@@ -3001,10 +2572,7 @@
     "content": {
       "question": "Why is port 22 often blocked by the firewall?",
       "correctAnswer": "It allows remote access over the Internet",
-      "wrongAnswers": [
-        "It allows viruses to infect the system",
-        "It deactivates the anti-virus protection"
-      ]
+      "wrongAnswers": ["It allows viruses to infect the system", "It deactivates the anti-virus protection"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "e90ea661-6b87-459b-a6e5-338f867bd60e",
@@ -3019,9 +2587,7 @@
     "content": {
       "question": "Does a public body always have to release requested information?",
       "correctAnswer": "No",
-      "wrongAnswers": [
-        "Yes"
-      ]
+      "wrongAnswers": ["Yes"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "b7d871a0-98f3-4d31-96d3-edd65b0394f1",
@@ -3036,11 +2602,7 @@
     "content": {
       "question": "I need to download two videos, of average size 500 MB. What is the total amount of data that I will download?",
       "correctAnswer": "1 GB",
-      "wrongAnswers": [
-        "2 GB",
-        "256 MB",
-        "1 KB"
-      ]
+      "wrongAnswers": ["2 GB", "256 MB", "1 KB"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "a5fadd9d-db66-405c-bf72-8e9a8d51283f",
@@ -3055,11 +2617,7 @@
     "content": {
       "question": "Which of these characters gets most commonly confused in programming?",
       "correctAnswer": "0 and O",
-      "wrongAnswers": [
-        "M and N",
-        "L and J",
-        "W and E"
-      ]
+      "wrongAnswers": ["M and N", "L and J", "W and E"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "f59a7797-813f-483d-a782-05c8b757c047",
@@ -3074,11 +2632,7 @@
     "content": {
       "question": "How is a list created?",
       "correctAnswer": "myList = []",
-      "wrongAnswers": [
-        "myList = new List[]",
-        "myList = newlist()",
-        "list myList = []"
-      ]
+      "wrongAnswers": ["myList = new List[]", "myList = newlist()", "list myList = []"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "35c9467a-8bd6-4a00-b94d-2fb5f053c9df",
@@ -3093,9 +2647,7 @@
     "content": {
       "question": "Is it easier to intercept a wireless or a wired signal?",
       "correctAnswer": "Wireless",
-      "wrongAnswers": [
-        "Wired"
-      ]
+      "wrongAnswers": ["Wired"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "98d6cbc3-1b1f-4f0c-8539-a25781b75300",
@@ -3110,10 +2662,7 @@
     "content": {
       "question": "Which type of optical disk is usually used to distribute games or movies?",
       "correctAnswer": "ROM",
-      "wrongAnswers": [
-        "R",
-        "RW"
-      ]
+      "wrongAnswers": ["R", "RW"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "19f587d7-a37c-43ac-9999-17c26b580d02",
@@ -3128,11 +2677,7 @@
     "content": {
       "question": "What does a server send when it receives a client's request?",
       "correctAnswer": "Response",
-      "wrongAnswers": [
-        "Answer",
-        "Return",
-        "Shout"
-      ]
+      "wrongAnswers": ["Answer", "Return", "Shout"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "2db24cc5-5fd0-4331-9c5a-5ca9efa84e08",
@@ -3170,10 +2715,7 @@
     "content": {
       "question": "Is the digital divide getting better or worse?",
       "correctAnswer": "Worse",
-      "wrongAnswers": [
-        "Better",
-        "Neither"
-      ]
+      "wrongAnswers": ["Better", "Neither"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "8a0b6d3c-5e24-42d0-8eec-63975aae4141",
@@ -3188,11 +2730,7 @@
     "content": {
       "question": "What technology can help to recover data in a data centre?",
       "correctAnswer": "RAID",
-      "wrongAnswers": [
-        "RAM",
-        "ROM",
-        "RW"
-      ]
+      "wrongAnswers": ["RAM", "ROM", "RW"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "4d6cfdbe-9e58-4f84-93dc-cd32cc47384a",
@@ -3207,11 +2745,7 @@
     "content": {
       "question": "Which of these most accurately describes what a general-purpose computer does?",
       "correctAnswer": "Many different tasks",
-      "wrongAnswers": [
-        "One single task",
-        "Add numbers",
-        "Act as part of a larger system"
-      ]
+      "wrongAnswers": ["One single task", "Add numbers", "Act as part of a larger system"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "3406a010-497f-492c-bb26-8eda5263f875",
@@ -3226,10 +2760,7 @@
     "content": {
       "question": "Why might a manufacturer distribute media on a compact disk (CD) rather than a digital versatile disk (DVD)?",
       "correctAnswer": "CDs are cheaper",
-      "wrongAnswers": [
-        "CDs store more content",
-        "CDs provide better quality"
-      ]
+      "wrongAnswers": ["CDs store more content", "CDs provide better quality"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "f7859dbd-5344-4dbd-bee6-04a365e53608",
@@ -3249,11 +2780,7 @@
     "content": {
       "question": "What does an oval represent in a flow diagram?",
       "correctAnswer": "Start or end of a program",
-      "wrongAnswers": [
-        "A process",
-        "Input or output",
-        "A decision"
-      ]
+      "wrongAnswers": ["A process", "Input or output", "A decision"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "3742bb0f-a221-4422-ac08-750bacf3478e",
@@ -3266,10 +2793,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Yes",
-        "Sometimes"
-      ],
+      "wrongAnswers": ["Yes", "Sometimes"],
       "question": "Do bugs include deliberate attempts to bring down systems?",
       "correctAnswer": "No",
       "imageURL": "https://media.giphy.com/media/xT9IgNPVbGsa0Wd8li/giphy.mp4"
@@ -3324,9 +2848,7 @@
     "content": {
       "question": "If you wish to use a piece of proprietary software, which of these would you do?",
       "correctAnswer": "Buy a license to use the software",
-      "wrongAnswers": [
-        "Buy the software"
-      ]
+      "wrongAnswers": ["Buy the software"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "6abacbc2-b15f-4fe9-b286-ff7089e2077d",
@@ -3341,9 +2863,7 @@
     "content": {
       "question": "Are hackers more likely to target data in the cloud or on local storage?",
       "correctAnswer": "The cloud",
-      "wrongAnswers": [
-        "Local storage"
-      ]
+      "wrongAnswers": ["Local storage"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "48e53dfb-22b1-4ed1-9b93-9aa803da2401",
@@ -3358,9 +2878,7 @@
     "content": {
       "question": "Which of these is more cost effective?",
       "correctAnswer": "Wireless star",
-      "wrongAnswers": [
-        "Wired star"
-      ]
+      "wrongAnswers": ["Wired star"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "7a14e262-c167-47d9-9c98-ba3e9263c5aa",
@@ -3375,9 +2893,7 @@
     "content": {
       "question": "What represents a 1 in most modern computers?",
       "correctAnswer": "The presence of electricity",
-      "wrongAnswers": [
-        "The absence of electricity"
-      ]
+      "wrongAnswers": ["The absence of electricity"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "16fba324-25a7-4609-877a-ca59e416357b",
@@ -3392,11 +2908,7 @@
     "content": {
       "question": "What are logic gates made from?",
       "correctAnswer": "Transistors",
-      "wrongAnswers": [
-        "Capacitors",
-        "Cells",
-        "CPUs"
-      ]
+      "wrongAnswers": ["Capacitors", "Cells", "CPUs"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "5b4124de-64e3-49e3-80b2-fee1009abf73",
@@ -3411,10 +2923,7 @@
     "content": {
       "question": "A lot of encryption depends upon secret keys, what is a secret key?",
       "correctAnswer": "A shared secret",
-      "wrongAnswers": [
-        "The location of some data",
-        "The algorithm used to encrypt the data"
-      ]
+      "wrongAnswers": ["The location of some data", "The algorithm used to encrypt the data"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "bff93b21-321f-4c42-8564-9eb48dd5ff73",
@@ -3429,11 +2938,7 @@
     "content": {
       "question": "In which register is the output of the arithmetic and logic unit stored?",
       "correctAnswer": "Accumulator",
-      "wrongAnswers": [
-        "Program counter",
-        "Memory address register",
-        "Memory data register"
-      ]
+      "wrongAnswers": ["Program counter", "Memory address register", "Memory data register"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "e31a7417-71ec-4eb4-9e39-9975142c7bf1",
@@ -3513,11 +3018,7 @@
     "content": {
       "question": "What is 01011 + 00101 in binary?",
       "correctAnswer": "10000",
-      "wrongAnswers": [
-        "11111",
-        "10110",
-        "01011"
-      ]
+      "wrongAnswers": ["11111", "10110", "01011"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "3d5649b6-d592-4cc3-be18-a8dd61d51af0",
@@ -3532,11 +3033,7 @@
     "content": {
       "question": "What is the result of two left binary shifts on 00110100?",
       "correctAnswer": "11010000",
-      "wrongAnswers": [
-        "11010011",
-        "10110000",
-        "00110011"
-      ]
+      "wrongAnswers": ["11010011", "10110000", "00110011"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "7cf9f3e0-aaf9-4fe8-9837-eb76d99b4b7a",
@@ -3551,11 +3048,7 @@
     "content": {
       "question": "Binary search is an example of what type of algorithm?",
       "correctAnswer": "Divide and conquer",
-      "wrongAnswers": [
-        "Greedy",
-        "Monte Carlo",
-        "Decomposition"
-      ]
+      "wrongAnswers": ["Greedy", "Monte Carlo", "Decomposition"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "4cac77d3-784b-45a8-8651-144173d625d1",
@@ -3570,11 +3063,7 @@
     "content": {
       "question": "How do we access the first element of an array?",
       "correctAnswer": "myArray[0]",
-      "wrongAnswers": [
-        "myArray[1]",
-        "myArray[first]",
-        "myArray.first()"
-      ]
+      "wrongAnswers": ["myArray[1]", "myArray[first]", "myArray.first()"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "a3a08161-91b3-4828-b0c3-6b5107d7b58e",
@@ -3589,10 +3078,7 @@
     "content": {
       "question": "Why might we group users into user groups?",
       "correctAnswer": "It simplifies managing access rights",
-      "wrongAnswers": [
-        "It makes it easier to log in",
-        "It is easier to delete a user account"
-      ]
+      "wrongAnswers": ["It makes it easier to log in", "It is easier to delete a user account"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "21736d7e-1d3a-4698-9cc8-f746195a5d4c",
@@ -3605,11 +3091,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Central Programming Unit",
-        "Computer Processing Unit",
-        "Control Processing Unit"
-      ],
+      "wrongAnswers": ["Central Programming Unit", "Computer Processing Unit", "Control Processing Unit"],
       "question": "Modern CPUs are based on the Von Neumann architecture. What does CPU stand for?",
       "correctAnswer": "Central Processing Unit",
       "imageURL": "https://media.giphy.com/media/970Sr8vpwEbXG/giphy.mp4"
@@ -3627,10 +3109,7 @@
     "content": {
       "question": "What is the most common operator mistake?",
       "correctAnswer": "&gt; vs >=",
-      "wrongAnswers": [
-        "== vs !=",
-        "&plus; vs -"
-      ]
+      "wrongAnswers": ["== vs !=", "&plus; vs -"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "f59a7797-813f-483d-a782-05c8b757c047",
@@ -3645,10 +3124,7 @@
     "content": {
       "question": "What material are fibre-optic cables made out of?",
       "correctAnswer": "Glass",
-      "wrongAnswers": [
-        "Copper",
-        "Silicon"
-      ]
+      "wrongAnswers": ["Copper", "Silicon"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "1d56dc5f-e14a-489d-9464-0c2a0f831db6",
@@ -3663,9 +3139,7 @@
     "content": {
       "question": "What does BD-R mean?",
       "correctAnswer": "A Blu-Ray disk which can be written once at home",
-      "wrongAnswers": [
-        "A Blur-Ray disk which is read-only; A Blu-Ray disk which can always be re-written"
-      ]
+      "wrongAnswers": ["A Blur-Ray disk which is read-only; A Blu-Ray disk which can always be re-written"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "395e166e-0f14-4734-babb-176920fdcdc0",
@@ -3685,10 +3159,7 @@
     "content": {
       "question": "What is an example of a task that a network administrator might do to help a user?",
       "correctAnswer": "Reset their password",
-      "wrongAnswers": [
-        "Show them how to use a document editor",
-        "Correct their spelling mistakes in real time"
-      ]
+      "wrongAnswers": ["Show them how to use a document editor", "Correct their spelling mistakes in real time"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "856c0fa3-0ec7-4338-9453-dac4cc50bbb3",
@@ -3739,10 +3210,7 @@
     "content": {
       "question": "Which of these is an ethical use of censorship?",
       "correctAnswer": "Blocking illegal content",
-      "wrongAnswers": [
-        "Controlling the communication of citizens",
-        "Controlling the media to affect elections"
-      ]
+      "wrongAnswers": ["Controlling the communication of citizens", "Controlling the media to affect elections"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "cfb55d6a-eba2-4838-a76f-a9ebc2d0abca",
@@ -3757,11 +3225,7 @@
     "content": {
       "question": "The DIV operation performs which operation?",
       "correctAnswer": "Integer division",
-      "wrongAnswers": [
-        "Real division",
-        "Multiplication",
-        "Modulo"
-      ]
+      "wrongAnswers": ["Real division", "Multiplication", "Modulo"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "0859dd4e-2480-4417-83ac-67d0734de4e3",
@@ -3776,11 +3240,7 @@
     "content": {
       "question": "In reality, how many processes can be run on a single processor at once?",
       "correctAnswer": "One",
-      "wrongAnswers": [
-        "Four",
-        "Depends on the clock speed",
-        "Infinite"
-      ]
+      "wrongAnswers": ["Four", "Depends on the clock speed", "Infinite"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "ad93d17e-9ca9-4c95-a0ff-f0bd359b8709",
@@ -3795,11 +3255,7 @@
     "content": {
       "question": "Which devices have a public IP address?",
       "correctAnswer": "Routers",
-      "wrongAnswers": [
-        "Switches",
-        "Twisted-pair cabling",
-        "Network Interface Controllers"
-      ]
+      "wrongAnswers": ["Switches", "Twisted-pair cabling", "Network Interface Controllers"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "27bc5c62-f8bb-407b-96a6-8e1627a622c4",
@@ -3812,10 +3268,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "It shows basic information about economics",
-        "It is easy to carry around"
-      ],
+      "wrongAnswers": ["It shows basic information about economics", "It is easy to carry around"],
       "question": "Why is money an example of abstraction?",
       "correctAnswer": "It represents the value of goods and services",
       "imageURL": "https://media.giphy.com/media/VTxmwaCEwSlZm/giphy.mp4"
@@ -3833,10 +3286,7 @@
     "content": {
       "question": "What is an efficient sort algorithm?",
       "correctAnswer": "An algorithm that sorts a data set in a short time",
-      "wrongAnswers": [
-        "An algorithm that will work for any data set",
-        "An algorithm that accepts any data type"
-      ]
+      "wrongAnswers": ["An algorithm that will work for any data set", "An algorithm that accepts any data type"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "74b84aad-b99c-4b56-9f41-8604e45d10af",
@@ -3851,11 +3301,7 @@
     "content": {
       "question": "Why is it always a good idea to use indentation?",
       "correctAnswer": "It makes code more readable",
-      "wrongAnswers": [
-        "It makes code faster",
-        "It makes code quicker to write",
-        "You can't write code without it"
-      ]
+      "wrongAnswers": ["It makes code faster", "It makes code quicker to write", "You can't write code without it"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "cb5e2ccc-db77-4fbf-9c55-292317ba0af1",
@@ -3868,10 +3314,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Fetch",
-        "Decode"
-      ],
+      "wrongAnswers": ["Fetch", "Decode"],
       "question": "During a CPU cycle, the Arithmetic Logic Unit has been activated. During which stage of the FDE cycle was it activated?",
       "correctAnswer": "Execute",
       "imageURL": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.mp4"
@@ -3889,11 +3332,7 @@
     "content": {
       "question": "What is the difference between the TCP and OSI models?",
       "correctAnswer": "Nothing apart from the grouping",
-      "wrongAnswers": [
-        "The protocols used in transmission",
-        "The time taken to send data",
-        "The hardware used"
-      ]
+      "wrongAnswers": ["The protocols used in transmission", "The time taken to send data", "The hardware used"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "494a6deb-9794-438d-a694-9bb2c4825e56",
@@ -3908,10 +3347,7 @@
     "content": {
       "question": "The data protection act defines the rights of the individual over what?",
       "correctAnswer": "Any data that is stored about them",
-      "wrongAnswers": [
-        "Any data that is stored about anyone",
-        "Only the data that is publicly accessible"
-      ]
+      "wrongAnswers": ["Any data that is stored about anyone", "Only the data that is publicly accessible"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "60449e3c-91e2-4da7-80b6-2ef019f192a6",
@@ -3926,10 +3362,7 @@
     "content": {
       "question": "Why is the 5 GHz frequency band considered better than the 2.4 GHz band?",
       "correctAnswer": "It can support more networks at the same time",
-      "wrongAnswers": [
-        "It provides a much faster connection",
-        "It is a lot cheaper to run"
-      ]
+      "wrongAnswers": ["It provides a much faster connection", "It is a lot cheaper to run"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "9598edf0-8ae6-442a-a02d-b2cfd9acf21b",
@@ -3963,9 +3396,7 @@
     "content": {
       "question": "What does BD-R mean?",
       "correctAnswer": "A Blu-Ray disk which can be written once at home",
-      "wrongAnswers": [
-        "A Blur-Ray disk which is read-only; A Blu-Ray disk which can always be re-written"
-      ]
+      "wrongAnswers": ["A Blur-Ray disk which is read-only; A Blu-Ray disk which can always be re-written"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "19f587d7-a37c-43ac-9999-17c26b580d02",
@@ -3980,9 +3411,7 @@
     "content": {
       "question": "All languages require variables to be explicitly declared. True or false?",
       "correctAnswer": "False",
-      "wrongAnswers": [
-        "True"
-      ]
+      "wrongAnswers": ["True"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "25f753f9-0f58-4719-8b9c-bd6dfcdb7183",
@@ -3997,10 +3426,7 @@
     "content": {
       "question": "Why might a user choose to use a command line interface rather than a graphical user interface?",
       "correctAnswer": "CLIs use less memory compared to GUIs",
-      "wrongAnswers": [
-        "CLIs are easier to use than GUIs",
-        "CLIs are cheaper than GUIs"
-      ]
+      "wrongAnswers": ["CLIs are easier to use than GUIs", "CLIs are cheaper than GUIs"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "902ef82e-9662-4203-b86c-d66293d2b214",
@@ -4015,9 +3441,7 @@
     "content": {
       "question": "What type of compression is run length encoding when pixels have been grouped in an image?",
       "correctAnswer": "Lossy",
-      "wrongAnswers": [
-        "Lossless"
-      ]
+      "wrongAnswers": ["Lossless"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "d9bf0125-9f3d-4422-8116-8d178399face",
@@ -4037,10 +3461,7 @@
     "content": {
       "question": "How does online communication benefit the environment?",
       "correctAnswer": "It reduces the need to travel for meetings",
-      "wrongAnswers": [
-        "It allows people to discuss issues online",
-        "It allows people to learn"
-      ]
+      "wrongAnswers": ["It allows people to discuss issues online", "It allows people to learn"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "676e468c-6fca-4606-8fe3-703c2d6c1655",
@@ -4055,10 +3476,7 @@
     "content": {
       "question": "What effect has social media had on people's satisfaction with their lives?",
       "correctAnswer": "Satisfaction has decreased",
-      "wrongAnswers": [
-        "Satisfaction has increased",
-        "Satisfaction is the same"
-      ]
+      "wrongAnswers": ["Satisfaction has increased", "Satisfaction is the same"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "cb0e2522-6f0b-4d77-8a47-f8cd1cd089b4",
@@ -4073,10 +3491,7 @@
     "content": {
       "question": "Which of these is the main focus of pseudocode?",
       "correctAnswer": "Logic of an algorithm",
-      "wrongAnswers": [
-        "Syntax of the language",
-        "Specific API calls"
-      ]
+      "wrongAnswers": ["Syntax of the language", "Specific API calls"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "615372f2-3160-4230-8d45-888fa5231d97",
@@ -4091,9 +3506,7 @@
     "content": {
       "question": "There are only two sorting algorithms. True or false?",
       "correctAnswer": "False",
-      "wrongAnswers": [
-        "True"
-      ]
+      "wrongAnswers": ["True"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "74b84aad-b99c-4b56-9f41-8604e45d10af",
@@ -4108,9 +3521,7 @@
     "content": {
       "question": "A cleaner has found that a computer in an office has been left unlocked. The cleaner uses the computer to check their emails. Is this a breach of the computer misuse act?",
       "correctAnswer": "Yes - they were not authorised",
-      "wrongAnswers": [
-        "No - the computer was signed in"
-      ]
+      "wrongAnswers": ["No - the computer was signed in"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "7dce4ed2-7f16-4aa5-96b9-6d2c331d9200",
@@ -4125,10 +3536,7 @@
     "content": {
       "question": "A lot of encryption depends upon secret keys, what is a secret key?",
       "correctAnswer": "A shared secret",
-      "wrongAnswers": [
-        "The location of some data",
-        "The algorithm used to encrypt the data"
-      ]
+      "wrongAnswers": ["The location of some data", "The algorithm used to encrypt the data"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "011fb875-272e-4c67-88eb-d0247cae1c01",
@@ -4148,10 +3556,7 @@
     "content": {
       "question": "Encryption uses a shared secret known as what?",
       "correctAnswer": "Key",
-      "wrongAnswers": [
-        "Secret",
-        "Password"
-      ]
+      "wrongAnswers": ["Secret", "Password"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "2db24cc5-5fd0-4331-9c5a-5ca9efa84e08",
@@ -4166,10 +3571,7 @@
     "content": {
       "question": "What is the main reason to use files?",
       "correctAnswer": "To allow programs to pick up where they left off",
-      "wrongAnswers": [
-        "To free up space in the main memory",
-        "To reduce the amount of data sent over networks"
-      ]
+      "wrongAnswers": ["To free up space in the main memory", "To reduce the amount of data sent over networks"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "217acdf0-dadd-4602-a78e-84ad1fed5651",
@@ -4184,11 +3586,7 @@
     "content": {
       "question": "Which of the following is a well-known wireless communication encryption protocol?",
       "correctAnswer": "WPA2",
-      "wrongAnswers": [
-        "WiFiP",
-        "WFS",
-        "SecWiFi"
-      ]
+      "wrongAnswers": ["WiFiP", "WFS", "SecWiFi"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "011fb875-272e-4c67-88eb-d0247cae1c01",
@@ -4208,11 +3606,7 @@
     "content": {
       "question": "Which of these is the correct operator for 'not equal to'?",
       "correctAnswer": "&ne;",
-      "wrongAnswers": [
-        "<>",
-        "/=",
-        "-/-"
-      ]
+      "wrongAnswers": ["<>", "/=", "-/-"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "73dc1757-cc8b-4acf-a347-bf9d27e4ba94",
@@ -4227,10 +3621,7 @@
     "content": {
       "question": "What does it mean for a language to be portable?",
       "correctAnswer": "It can run on different types of hardware",
-      "wrongAnswers": [
-        "The computer it runs on can be moved",
-        "It can only be run on mobile devices"
-      ]
+      "wrongAnswers": ["The computer it runs on can be moved", "It can only be run on mobile devices"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "5423b1d6-bd6f-4f34-8d73-02cab89398aa",
@@ -4245,10 +3636,7 @@
     "content": {
       "question": "Why would Internet Message Access Protocol (IMAP) and Post Office Protocol (POP) not be used together in an email client?",
       "correctAnswer": "They both serve the same purpose",
-      "wrongAnswers": [
-        "It is too expensive to use both",
-        "Most computers would run out of memory"
-      ]
+      "wrongAnswers": ["It is too expensive to use both", "Most computers would run out of memory"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "5ac25778-d9a7-45f6-9bc5-e15f5227a55b",
@@ -4263,11 +3651,7 @@
     "content": {
       "question": "Patents can apply to:",
       "correctAnswer": "Hardware and software",
-      "wrongAnswers": [
-        "Hardware only",
-        "Software only",
-        "Neither"
-      ]
+      "wrongAnswers": ["Hardware only", "Software only", "Neither"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "a6adb1ff-56f4-42f7-8ebc-b0ea30760fec",
@@ -4282,11 +3666,7 @@
     "content": {
       "question": "What does a text file contain?",
       "correctAnswer": "Strings",
-      "wrongAnswers": [
-        "Integers",
-        "Floats",
-        "Booleans"
-      ]
+      "wrongAnswers": ["Integers", "Floats", "Booleans"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "217acdf0-dadd-4602-a78e-84ad1fed5651",
@@ -4301,11 +3681,7 @@
     "content": {
       "question": "How much data can a single compact disk (CD) store?",
       "correctAnswer": "700 MB",
-      "wrongAnswers": [
-        "4.7 GB",
-        "25 GB",
-        "500 MB"
-      ]
+      "wrongAnswers": ["4.7 GB", "25 GB", "500 MB"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "41c5fe20-dd89-4423-aaa1-44c47d2d7f2a",
@@ -4320,11 +3696,7 @@
     "content": {
       "question": "What does each box represent on a decomposition structure chart?",
       "correctAnswer": "A sub-problem",
-      "wrongAnswers": [
-        "A process",
-        "An employee",
-        "A frame"
-      ]
+      "wrongAnswers": ["A process", "An employee", "A frame"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "64cde446-90d9-4492-9f9d-48c10505909e",
@@ -4339,10 +3711,7 @@
     "content": {
       "question": "What is validation?",
       "correctAnswer": "Checking that data meets certain criteria",
-      "wrongAnswers": [
-        "Checking that data is correct",
-        "Removing certain symbols from the input data"
-      ]
+      "wrongAnswers": ["Checking that data is correct", "Removing certain symbols from the input data"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "1fb6aa60-dc83-4fa4-9ec3-fa058fdf57e7",
@@ -4357,11 +3726,7 @@
     "content": {
       "question": "5 &le; __ <br>\nWhat is the smallest integer which could make this statement True?\n",
       "correctAnswer": "5",
-      "wrongAnswers": [
-        "4",
-        "3",
-        "2"
-      ]
+      "wrongAnswers": ["4", "3", "2"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "73dc1757-cc8b-4acf-a347-bf9d27e4ba94",
@@ -4376,10 +3741,7 @@
     "content": {
       "question": "Why is censorship sometimes considered to be negative?",
       "correctAnswer": "It can limit people's freedom of expression",
-      "wrongAnswers": [
-        "It can keep people safe online",
-        "It can make life harder for criminals"
-      ]
+      "wrongAnswers": ["It can keep people safe online", "It can make life harder for criminals"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "802814be-9e30-4d78-8ece-90b0c0efcbf9",
@@ -4399,9 +3761,7 @@
     "content": {
       "question": "True or false: Some numbers can be represented in binary but not hexadecimal.",
       "correctAnswer": "False",
-      "wrongAnswers": [
-        "True"
-      ]
+      "wrongAnswers": ["True"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "d5b3c182-f76f-46c9-8342-a23b908b4d75",
@@ -4416,9 +3776,7 @@
     "content": {
       "question": "What does a 0 represent in a Huffman Tree?",
       "correctAnswer": "Left branch",
-      "wrongAnswers": [
-        "Right branch"
-      ]
+      "wrongAnswers": ["Right branch"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "3d5649b6-d592-4cc3-be18-a8dd61d51af0",
@@ -4433,11 +3791,7 @@
     "content": {
       "question": "What kind of components can cause licensing issues when used in commercial projects?",
       "correctAnswer": "Open source",
-      "wrongAnswers": [
-        "Untested",
-        "Depreciated",
-        "Proprietary"
-      ]
+      "wrongAnswers": ["Untested", "Depreciated", "Proprietary"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "fbbd2778-a817-45a2-9735-853bc49605b7",
@@ -4452,10 +3806,7 @@
     "content": {
       "question": "What are some of the worst offenders for energy consumption within technology?",
       "correctAnswer": "Data centres",
-      "wrongAnswers": [
-        "Home computers",
-        "Mobile phones"
-      ]
+      "wrongAnswers": ["Home computers", "Mobile phones"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "8a06d06c-0c8b-4009-9ad3-54a9d632a08d",
@@ -4470,11 +3821,7 @@
     "content": {
       "question": "What shape should be used to represent a decision in a flow diagram?",
       "correctAnswer": "Diamond",
-      "wrongAnswers": [
-        "Oval",
-        "Rectangle",
-        "Parallelagram"
-      ]
+      "wrongAnswers": ["Oval", "Rectangle", "Parallelagram"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "e7074ae7-3a14-4de6-a124-459d86924fd2",
@@ -4489,10 +3836,7 @@
     "content": {
       "question": "Which of the following suggests a phishing attack?",
       "correctAnswer": "Poor spelling",
-      "wrongAnswers": [
-        "Good grammar",
-        "Specific greetings"
-      ]
+      "wrongAnswers": ["Good grammar", "Specific greetings"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "0002ed7a-7c9d-45d4-a0a5-c3cb3c16c4ee",
@@ -4507,10 +3851,7 @@
     "content": {
       "question": "Why is optical media easy to transport?",
       "correctAnswer": "Optical media is not damaged by shocks",
-      "wrongAnswers": [
-        "Optical media is very light",
-        "Optical media is very small"
-      ]
+      "wrongAnswers": ["Optical media is very light", "Optical media is very small"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "0a6e57ce-7f33-43aa-90ef-bf8e962a1989",
@@ -4525,11 +3866,7 @@
     "content": {
       "question": "Which character should separate each word in variable and constant identifiers?",
       "correctAnswer": "_",
-      "wrongAnswers": [
-        "+",
-        ".",
-        "&"
-      ]
+      "wrongAnswers": ["+", ".", "&"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "7f21720d-ccae-44c1-8e28-c3d0620a9fca",
@@ -4580,10 +3917,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "How data should be structured",
-        "How to check if received data is correct"
-      ],
+      "wrongAnswers": ["How data should be structured", "How to check if received data is correct"],
       "question": "What is agreed during handshaking?",
       "correctAnswer": "How communication will start and end",
       "imageURL": "https://media.giphy.com/media/3oz8xDV1AStIMFJ0uk/giphy.mp4"
@@ -4601,10 +3935,7 @@
     "content": {
       "question": "Why might a company choose to use magnetic media to make backups of large files?",
       "correctAnswer": "Magnetic media is low cost per unit capacity",
-      "wrongAnswers": [
-        "Magnetic media is robust",
-        "Magnetic media is fast to access"
-      ]
+      "wrongAnswers": ["Magnetic media is robust", "Magnetic media is fast to access"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "0142d5a3-3bd1-4167-b4be-64dba0f3de39",
@@ -4619,11 +3950,7 @@
     "content": {
       "question": "The number of bits used to store the colour of each pixel is known as:",
       "correctAnswer": "Colour depth",
-      "wrongAnswers": [
-        "Bit rate",
-        "Resolution",
-        "Encoding"
-      ]
+      "wrongAnswers": ["Bit rate", "Resolution", "Encoding"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "e8f3d2fa-9c36-463a-a593-ab9a26446ec4",
@@ -4638,11 +3965,7 @@
     "content": {
       "question": "An online video streaming service sends data at 4 MB per second. I only have 180 MB of data left. How long will I be able to watch the stream for?",
       "correctAnswer": "45 seconds",
-      "wrongAnswers": [
-        "1 minute",
-        "30 seconds",
-        "15 seconds"
-      ]
+      "wrongAnswers": ["1 minute", "30 seconds", "15 seconds"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "a5fadd9d-db66-405c-bf72-8e9a8d51283f",
@@ -4657,11 +3980,7 @@
     "content": {
       "question": "How many wires are inside twisted-pair copper cable?",
       "correctAnswer": "Eight",
-      "wrongAnswers": [
-        "Four",
-        "Six",
-        "Ten"
-      ]
+      "wrongAnswers": ["Four", "Six", "Ten"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "1d56dc5f-e14a-489d-9464-0c2a0f831db6",
@@ -4676,10 +3995,7 @@
     "content": {
       "question": "Columns in a trace table represent:",
       "correctAnswer": "Variables",
-      "wrongAnswers": [
-        "Statements",
-        "Decisions"
-      ]
+      "wrongAnswers": ["Statements", "Decisions"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "d132cd06-dc62-4432-95fb-08cfc4453a0b",
@@ -4694,10 +4010,7 @@
     "content": {
       "question": "Which protocol is used to send emails?",
       "correctAnswer": "SMTP",
-      "wrongAnswers": [
-        "POP3",
-        "IMAP"
-      ]
+      "wrongAnswers": ["POP3", "IMAP"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "2db24cc5-5fd0-4331-9c5a-5ca9efa84e08",
@@ -4717,11 +4030,7 @@
     "content": {
       "question": "Which of these activities would be a blagging attack?",
       "correctAnswer": "Pretending to be an employee",
-      "wrongAnswers": [
-        "Setting up a fake website",
-        "Hacking a DNS server",
-        "Watching someone enter a password"
-      ]
+      "wrongAnswers": ["Setting up a fake website", "Hacking a DNS server", "Watching someone enter a password"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "9e004c88-fe94-406c-b074-b4394e6e756c",
@@ -4741,9 +4050,7 @@
     "content": {
       "question": "Do we always need a protocol when two devices exchange data?",
       "correctAnswer": "Yes",
-      "wrongAnswers": [
-        "No"
-      ]
+      "wrongAnswers": ["No"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "a2857aed-9ae0-4ee6-822f-578df0a6d80f",
@@ -4758,11 +4065,7 @@
     "content": {
       "question": "What is the main news source for young adults?",
       "correctAnswer": "Social media",
-      "wrongAnswers": [
-        "Tabloid papers",
-        "Broadsheet papers",
-        "Online newspapers"
-      ]
+      "wrongAnswers": ["Tabloid papers", "Broadsheet papers", "Online newspapers"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "cb0e2522-6f0b-4d77-8a47-f8cd1cd089b4",
@@ -4777,9 +4080,7 @@
     "content": {
       "question": "False OR True<br/>\nIs the above statement True or False?",
       "correctAnswer": "True",
-      "wrongAnswers": [
-        "False"
-      ]
+      "wrongAnswers": ["False"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "6efabbae-e1ac-45cc-a5ea-0781ddb013b6",
@@ -4812,11 +4113,7 @@
     "content": {
       "question": "In which country is net neutrality particularly threatened?",
       "correctAnswer": "United States of America",
-      "wrongAnswers": [
-        "United Kingdom",
-        "France",
-        "China"
-      ]
+      "wrongAnswers": ["United Kingdom", "France", "China"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "5ec35c8e-9084-4aa5-82c5-d7c33028c33f",
@@ -4831,11 +4128,7 @@
     "content": {
       "question": "An overflow error occurs if a number is carried past which place column?",
       "correctAnswer": "Last",
-      "wrongAnswers": [
-        "First",
-        "Second",
-        "Second from last"
-      ]
+      "wrongAnswers": ["First", "Second", "Second from last"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "6876070e-bf3c-449a-ba88-70966cf4976c",
@@ -4850,10 +4143,7 @@
     "content": {
       "question": "Why are Hard Disk Drives subject to wear-and-tear?",
       "correctAnswer": "They contain moving parts",
-      "wrongAnswers": [
-        "They use old technology",
-        "The platter is damaged when data is written"
-      ]
+      "wrongAnswers": ["They use old technology", "The platter is damaged when data is written"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "062662e1-5cd4-4b67-9884-12806738d218",
@@ -4868,9 +4158,7 @@
     "content": {
       "question": "What is a distributed denial of service attack?",
       "correctAnswer": "Where multiple devices all send a DoS attack at the same time to a certain server",
-      "wrongAnswers": [
-        "Where a single device sends DoS attacks to multiple servers at the same time"
-      ]
+      "wrongAnswers": ["Where a single device sends DoS attacks to multiple servers at the same time"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "0c0efc0d-80c4-4838-a50d-ea30e72a9eef",
@@ -4890,9 +4178,7 @@
     "content": {
       "question": "Algorithms are only found in computing. True or false?",
       "correctAnswer": "False",
-      "wrongAnswers": [
-        "True"
-      ]
+      "wrongAnswers": ["True"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "882f780b-16a0-429d-9fe6-4929417ae295",
@@ -4925,10 +4211,7 @@
     "content": {
       "question": "What is net neutrality?",
       "correctAnswer": "How bandwidth is controlled on the Internet",
-      "wrongAnswers": [
-        "How people voice opinions online",
-        "The types of content presented online"
-      ]
+      "wrongAnswers": ["How people voice opinions online", "The types of content presented online"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "5ec35c8e-9084-4aa5-82c5-d7c33028c33f",
@@ -4941,11 +4224,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Ants",
-        "Insects",
-        "Birds"
-      ],
+      "wrongAnswers": ["Ants", "Insects", "Birds"],
       "question": "What are errors in software often called?",
       "correctAnswer": "Bugs",
       "imageURL": "https://media.giphy.com/media/TqiwHbFBaZ4ti/giphy.mp4"
@@ -4999,10 +4278,7 @@
     "content": {
       "question": "Why might a company prefer to use cloud based applications rather than their own local software?",
       "correctAnswer": "There is no need to employ specialist IT managers",
-      "wrongAnswers": [
-        "Cloud based applications are easier to use",
-        "Cloud based applications are faster"
-      ]
+      "wrongAnswers": ["Cloud based applications are easier to use", "Cloud based applications are faster"]
     },
     "courseId": "90cb1d71-3c44-4a2d-a07e-d76a5f54cd05",
     "parentId": "580f54a3-679d-4f31-ba11-44c5820f73cd",

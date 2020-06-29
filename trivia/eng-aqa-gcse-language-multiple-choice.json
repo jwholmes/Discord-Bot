@@ -4,11 +4,7 @@
     "content": {
       "question": "What should you NOT do when writing to inform?",
       "correctAnswer": "Include your opinion",
-      "wrongAnswers": [
-        "Support your answer with facts",
-        "Write in an unbiased style",
-        "Answer the four questions"
-      ]
+      "wrongAnswers": ["Support your answer with facts", "Write in an unbiased style", "Answer the four questions"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "442f20fb-1ea9-46ca-94e3-62a092bdfb70",
@@ -28,7 +24,7 @@
       ],
       "question": "You are given this extract for Question 1. Which answer would you receive NO marks for?<br><br><b>__'He smiled understandingly-much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it, that you may come across four or five times in life.'__",
       "correctAnswer": "Gatsby had a rare smile with a quality of reassurance to it",
-      "imageURL": "seneca-image-cdn:///2018-11/d74d3d84-f3ed-4893-9a97-737391567f3a/smile-mouth-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-11/d74d3d84-f3ed-4893-9a97-737391567f3a/smile-mouth-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "0f073d55-8e20-4f16-8a8c-2b6ba293d7af",
@@ -43,11 +39,7 @@
     "content": {
       "question": "Does this sentence contain a fact or opinion?<br><br>\"It's shocking that over 1.3 billion people live in dire poverty\"",
       "correctAnswer": "Both",
-      "wrongAnswers": [
-        "Fact",
-        "Opinion",
-        "Neither"
-      ]
+      "wrongAnswers": ["Fact", "Opinion", "Neither"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "5a02e413-fc7c-418c-8cbd-1e5ea47f5787",
@@ -60,15 +52,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Homework",
-        "Got",
-        "Tonight",
-        "I've"
-      ],
+      "wrongAnswers": ["Homework", "Got", "Tonight", "I've"],
       "question": "Which word turns this sentence into an exaggeration?<br><br><b>I've got a ton of homework to do tonight!</b>",
       "correctAnswer": "Ton",
-      "imageURL": "seneca-image-cdn:///2018-08/46f35257-bbd2-4ca0-8087-372ac5cebf8c/child-homework-thinking-memory.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/46f35257-bbd2-4ca0-8087-372ac5cebf8c/child-homework-thinking-memory.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "f58e7dd9-d1eb-43a9-ad45-273ec4e52273",
@@ -83,11 +70,7 @@
     "content": {
       "question": "What's a strapline? ",
       "correctAnswer": "A statement that builds on the title",
-      "wrongAnswers": [
-        "An introductory sentence",
-        "A concluding point",
-        "A summary of your argument"
-      ]
+      "wrongAnswers": ["An introductory sentence", "A concluding point", "A summary of your argument"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "6d54445a-b3fa-45c1-870c-51f7d70bed64",
@@ -100,15 +83,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Adjectives",
-        "Adverbs",
-        "Verbs",
-        "Nouns"
-      ],
+      "wrongAnswers": ["Adjectives", "Adverbs", "Verbs", "Nouns"],
       "question": "What do we call words that have one syllable?",
       "correctAnswer": "Monosyllabic words",
-      "imageURL": "seneca-image-cdn:///2018-08/1421c690-6fb6-44ed-993f-bbc4d7436603/numbers-1487222_1280.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/1421c690-6fb6-44ed-993f-bbc4d7436603/numbers-1487222_1280.png"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c294ac6c-06c9-4d08-bb39-107cec26ff8f",
@@ -121,15 +99,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "A question mark",
-        "A question word",
-        "A subject",
-        "An object"
-      ],
+      "wrongAnswers": ["A question mark", "A question word", "A subject", "An object"],
       "question": "What does a rhetorical question NOT need?",
       "correctAnswer": "An answer",
-      "imageURL": "seneca-image-cdn:///courseImages/chemistry/2.3.4 Nanotechnology/question-mark-2492009_640-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/chemistry/2.3.4 Nanotechnology/question-mark-2492009_640-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "66d8fc0b-608b-4579-83f9-eaebfc494955",
@@ -144,10 +117,7 @@
     "content": {
       "question": "What does sibilance draw attention to in this phrase?<br><br>The <b>s</b>torm sma<b>sh</b>ed the hou<b>ses</b> to pie<b>ces</b>.",
       "correctAnswer": "The destruction caused by the storm",
-      "wrongAnswers": [
-        "Why the storm happened",
-        "The speed of the storm"
-      ]
+      "wrongAnswers": ["Why the storm happened", "The speed of the storm"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "0bafc7fc-6cb5-45c3-9cf9-04dc52316e24",
@@ -179,15 +149,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Statistic",
-        "Opinion",
-        "Fact",
-        "Exaggeration"
-      ],
+      "wrongAnswers": ["Statistic", "Opinion", "Fact", "Exaggeration"],
       "question": "What persuasive technique is being used in this paragraph?<br><br><b>Are you as exhausted as I am?",
       "correctAnswer": "Rhetorical question",
-      "imageURL": "seneca-image-cdn:///2018-09/e5540b8e-086b-485d-900c-be771465d1b9/bored-yawn-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/e5540b8e-086b-485d-900c-be771465d1b9/bored-yawn-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "590f9a99-63fd-42e8-a88a-6e1109cffc28",
@@ -195,7 +160,7 @@
       "wrongAnswers": "Statistic, Opinion, Fact, Exaggeration",
       "question": "What persuasive technique is being used in this paragraph?<br><br><b>Are you as exhausted as I am?",
       "correctAnswer": "Rhetorical question",
-      "imageURL": "seneca-image-cdn:///2018-09/e5540b8e-086b-485d-900c-be771465d1b9/bored-yawn-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/e5540b8e-086b-485d-900c-be771465d1b9/bored-yawn-.jpg"
     },
     "id": "0a76f12e-10f7-48c8-b42b-474453fd3f5f",
     "moduleDifficulty": 1,
@@ -213,7 +178,7 @@
       ],
       "question": "Why should this sentence NOT appear in informative writing?<br><br><b>Approximately 106,000 people are killed by smoking in the UK every year, which is shocking.</b>",
       "correctAnswer": "Contains an opinion",
-      "imageURL": "seneca-image-cdn:///courseImages/biology/2.4.1/cigarette-110849_640-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/biology/2.4.1/cigarette-110849_640-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "5cbc195e-a272-4eac-b03d-93558640723e",
@@ -226,14 +191,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Simile",
-        "Personification",
-        "Emotive language"
-      ],
+      "wrongAnswers": ["Simile", "Personification", "Emotive language"],
       "question": "What technique is being used in this sentence?<br><br><b>Jenny was a ghost in her paleness.</b>",
       "correctAnswer": "Metaphor",
-      "imageURL": "seneca-image-cdn:///2018-10/e32e8378-238b-4a54-85a3-c9a71d16da60/ghost-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-10/e32e8378-238b-4a54-85a3-c9a71d16da60/ghost-.png"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "d6b5c486-1afd-4f96-b91e-a0dadb9ea2d3",
@@ -246,15 +207,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Always 19th century",
-        "18th or 19th century",
-        "19th or 20th century",
-        "Always 20th century"
-      ],
+      "wrongAnswers": ["Always 19th century", "18th or 19th century", "19th or 20th century", "Always 20th century"],
       "question": "Which century or centuries will the text in Paper 1 be from?",
       "correctAnswer": "20th or 21st century",
-      "imageURL": "seneca-image-cdn:///2018-08/9b4b0345-f42a-45c7-8f85-22e4d2aca14d/calendar-january.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/9b4b0345-f42a-45c7-8f85-22e4d2aca14d/calendar-january.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2bdded4e-19dc-452e-bb9d-ac19edee44b0",
@@ -267,14 +223,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Boiled",
-        "Egg",
-        "Morning"
-      ],
+      "wrongAnswers": ["Boiled", "Egg", "Morning"],
       "question": "Which word in this pun has a double meaning? <br><br>__A boiled egg every morning is hard to beat.__",
       "correctAnswer": "Beat",
-      "imageURL": "seneca-image-cdn:///courseImages/chemistry/1.1.4 - Metals/egg-2580904_640-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/chemistry/1.1.4 - Metals/egg-2580904_640-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "49372685-5348-4ed6-a597-6d6c844c1fca",
@@ -289,12 +241,7 @@
     "content": {
       "question": "How many marks is Question 3 of the reading section (Section A) of Paper 2 worth?",
       "correctAnswer": "12",
-      "wrongAnswers": [
-        "23",
-        "13",
-        "16",
-        "8"
-      ]
+      "wrongAnswers": ["23", "13", "16", "8"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "56b3cfe7-45eb-48db-ac0d-43d9c797644e",
@@ -307,13 +254,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Present tense",
-        "Future tense"
-      ],
+      "wrongAnswers": ["Present tense", "Future tense"],
       "question": "What tense is the verb in this sentence?<br><br><b>I walked the dog yesterday.",
       "correctAnswer": "Past tense",
-      "imageURL": "seneca-image-cdn:///2018-09/dfc821d8-5038-440e-be03-b10b986cfa8d/dog-owner.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/dfc821d8-5038-440e-be03-b10b986cfa8d/dog-owner.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "0d1c6492-fc2f-4daa-b086-daee6dc78b96",
@@ -326,14 +270,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Statistics",
-        "Opinion",
-        "Imperative verb"
-      ],
+      "wrongAnswers": ["Statistics", "Opinion", "Imperative verb"],
       "question": "What advisatory technique has the writer used to support the advice she is giving?<br><br><b> If you don’t want a cold head, you could try a sponsored silence, a non-uniform day, or a cake sale.",
       "correctAnswer": "Choice of actions",
-      "imageURL": "seneca-image-cdn:///2018-10/aa47d9a1-722f-4cc4-a461-e7d15329bc70/icing-sugar-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-10/aa47d9a1-722f-4cc4-a461-e7d15329bc70/icing-sugar-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "9f15d08d-a87a-4fc4-bb3c-1dd7bb39a33f",
@@ -341,7 +281,7 @@
       "wrongAnswers": "Statistics, Opinion, Imperative verb",
       "question": "What advisatory technique has the writer used to support the advice she is giving?<br><br><b> If you don’t want a cold head, you could try a sponsored silence, a non-uniform day, or a cake sale.",
       "correctAnswer": "Choice of actions",
-      "imageURL": "seneca-image-cdn:///2018-10/aa47d9a1-722f-4cc4-a461-e7d15329bc70/icing-sugar-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-10/aa47d9a1-722f-4cc4-a461-e7d15329bc70/icing-sugar-.jpg"
     },
     "id": "10ce3b27-1aa9-477a-8f76-8ee1433c1264",
     "moduleDifficulty": 1,
@@ -359,7 +299,7 @@
       ],
       "question": "Which of these is a metaphor?",
       "correctAnswer": "James was a whale",
-      "imageURL": "seneca-image-cdn:///2018-05/8fd0c632-08cb-4626-b1c0-0e1b7b9c8ad9/shutterstock_745407220.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/8fd0c632-08cb-4626-b1c0-0e1b7b9c8ad9/shutterstock_745407220.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "6a25dcb8-b37e-4b44-900d-fff2a7921f9d",
@@ -372,13 +312,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Long and detailed paragraphs",
-        "They won't use paragraphs"
-      ],
+      "wrongAnswers": ["Long and detailed paragraphs", "They won't use paragraphs"],
       "question": "A writer wants to give a piece of writing a stop-start feel. Which of these are they more likely to use?",
       "correctAnswer": "Very short paragraphs",
-      "imageURL": "seneca-image-cdn:///2018-09/e3c8609f-7236-42a4-a382-a937041982bf/stop-sign-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/e3c8609f-7236-42a4-a382-a937041982bf/stop-sign-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "ea231daf-2f89-4f2b-81f3-7afc1060c7df",
@@ -393,12 +330,7 @@
     "content": {
       "question": "Which of these is a proper noun?",
       "correctAnswer": "Scotland",
-      "wrongAnswers": [
-        "Army",
-        "School",
-        "Love",
-        "Danger"
-      ]
+      "wrongAnswers": ["Army", "School", "Love", "Danger"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2bf44f94-20d6-4f9c-9871-a3dc6b1bf3eb",
@@ -418,7 +350,7 @@
       ],
       "question": "Which phrase uses the most sophisticated punctuation? ",
       "correctAnswer": "Henry was good at chess; he had been playing since he was six!",
-      "imageURL": "seneca-image-cdn:///2018-07/e701936f-fddd-42e5-b30b-808ec9ee271c/King-Chess-Game-Killingtheking-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/e701936f-fddd-42e5-b30b-808ec9ee271c/King-Chess-Game-Killingtheking-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "89d34b0d-e3a4-4fbd-863f-644fe1ebdb2f",
@@ -437,7 +369,7 @@
       ],
       "question": "Which phrase would be good to use if you are writing to inform your reader about young drivers?",
       "correctAnswer": "16-year-olds have higher crash rates than drivers of any other age",
-      "imageURL": "seneca-image-cdn:///2018-09/ea4a7bb2-8223-44ae-9e03-fdc55492e7d9/traffic-india-congestion-cars-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/ea4a7bb2-8223-44ae-9e03-fdc55492e7d9/traffic-india-congestion-cars-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "5cbc195e-a272-4eac-b03d-93558640723e",
@@ -452,11 +384,7 @@
     "content": {
       "question": "Which of these is an informal mode of address?",
       "correctAnswer": "To Henry",
-      "wrongAnswers": [
-        "Dear Mr Potter",
-        "Dear Sir",
-        "To whom it may concern"
-      ]
+      "wrongAnswers": ["Dear Mr Potter", "Dear Sir", "To whom it may concern"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "387d8f4f-a459-404f-bf38-739616220520",
@@ -471,9 +399,7 @@
     "content": {
       "question": "What does the first E in PETER stand for?",
       "correctAnswer": "Evidence",
-      "wrongAnswers": [
-        "Explanation"
-      ]
+      "wrongAnswers": ["Explanation"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c2c4f032-b849-45e7-9ef3-408678c37df5",
@@ -486,14 +412,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Exaggeration",
-        "Opinion",
-        "Emotive language"
-      ],
+      "wrongAnswers": ["Exaggeration", "Opinion", "Emotive language"],
       "question": "What part of DAFORESTER does this sentence use?<br><br><b>Research shows that 5 out of 6 teens suffers from anxiety, depression, and other mental health issues. ",
       "correctAnswer": "Fact",
-      "imageURL": "seneca-image-cdn:///2018-08/f0b47d9e-ffa5-4087-88bd-0666417e8793/patient-doctor-anxiety-psychiatric.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/f0b47d9e-ffa5-4087-88bd-0666417e8793/patient-doctor-anxiety-psychiatric.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "4f3e8c9c-b0b8-437f-87a7-2d902a11cd2b",
@@ -508,11 +430,7 @@
     "content": {
       "question": "What is sibilance a specific form of?",
       "correctAnswer": "Alliteration",
-      "wrongAnswers": [
-        "Personification",
-        "Onomatopoeia",
-        "Hyperbole"
-      ]
+      "wrongAnswers": ["Personification", "Onomatopoeia", "Hyperbole"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "4bcbca91-f065-42f4-a4d8-5edeb50b3ae9",
@@ -525,14 +443,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Anaphora",
-        "Connotation",
-        "Colloquialism"
-      ],
+      "wrongAnswers": ["Anaphora", "Connotation", "Colloquialism"],
       "question": "Which word should go in the gap?<br><br><b>War is the ____ of peace.",
       "correctAnswer": "Antithesis",
-      "imageURL": "seneca-image-cdn:///courseImages/biology/1.1 - Cell Structure nice imaefs/1.1.4 Inherited Disorder/war-2545307_640-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/biology/1.1 - Cell Structure nice imaefs/1.1.4 Inherited Disorder/war-2545307_640-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "836b5bc2-74d9-4929-ae9b-ea9006367221",
@@ -545,13 +459,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Opinion",
-        "Neither"
-      ],
+      "wrongAnswers": ["Opinion", "Neither"],
       "question": "Is this an opinion or fact?<br><br>Ballet began in Paris in 1661.",
       "correctAnswer": "Fact",
-      "imageURL": "seneca-image-cdn:///2018-03/7a5daa19-d290-4b2f-b5f3-1688b22f2c93/shutterstock_455034385.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/7a5daa19-d290-4b2f-b5f3-1688b22f2c93/shutterstock_455034385.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2573c4e6-cfc7-41f6-8392-f565026a4146",
@@ -564,14 +475,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Oxymoron",
-        "Juxtaposition",
-        "Foreshadowing"
-      ],
+      "wrongAnswers": ["Oxymoron", "Juxtaposition", "Foreshadowing"],
       "question": "What technique is used in this sentence?<br><br><b>I was so hungry I could die.</b>",
       "correctAnswer": "Hyperbole",
-      "imageURL": "seneca-image-cdn:///2018-09/6c93be05-db69-47c2-bf9a-5f44ccf230af/abdominal-pain-hunger-hungry-man-food-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/6c93be05-db69-47c2-bf9a-5f44ccf230af/abdominal-pain-hunger-hungry-man-food-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "102317f3-623e-4673-b8a3-1d42cda9e4b5",
@@ -609,11 +516,7 @@
     "content": {
       "question": "Which personified phrase could you use to create a tense atmosphere?",
       "correctAnswer": "The curtains quivered in fear",
-      "wrongAnswers": [
-        "The kettle hummed as it boiled",
-        "The TV laughed",
-        "The water tickled my fingertips"
-      ]
+      "wrongAnswers": ["The kettle hummed as it boiled", "The TV laughed", "The water tickled my fingertips"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "272cbbaa-2f14-4d70-bb6b-3b19f66e4702",
@@ -626,14 +529,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Adverbial phrase",
-        "Noun phrase",
-        "Simile"
-      ],
+      "wrongAnswers": ["Adverbial phrase", "Noun phrase", "Simile"],
       "question": "What technique does this sentence use?<br><br><b>I was struggling to figure out how lightning works then it struck me.</b>",
       "correctAnswer": "Pun",
-      "imageURL": "seneca-image-cdn:///2018-04/a6f2e9ce-d4fe-41b3-91fd-2f6bffcfe631/shutterstock_530282698.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-04/a6f2e9ce-d4fe-41b3-91fd-2f6bffcfe631/shutterstock_530282698.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "f347bd63-cca7-402f-91f5-e939a0b75ce3",
@@ -667,11 +566,7 @@
     "content": {
       "question": "What is sibilance a specific form of?",
       "correctAnswer": "Alliteration",
-      "wrongAnswers": [
-        "Personification",
-        "Pathetic fallacy",
-        "Onomatopoeia"
-      ]
+      "wrongAnswers": ["Personification", "Pathetic fallacy", "Onomatopoeia"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b61a5e83-f432-4c92-aac8-3edcc6605286",
@@ -689,14 +584,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Point",
-        "Explanation and Technique",
-        "Reference back to the question"
-      ],
+      "wrongAnswers": ["Point", "Explanation and Technique", "Reference back to the question"],
       "question": "Which component of a paragraph is the below sentence most likely to be?\n<br><br>\n\n<b>'In paragraph three, the author uses the quotation '... </b>\n\n\n",
       "correctAnswer": "Evidence",
-      "imageURL": "seneca-image-cdn:///2018-08/3c78757d-f4cb-4eb4-9613-78918c812f11/hawk-bird-flying.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/3c78757d-f4cb-4eb4-9613-78918c812f11/hawk-bird-flying.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "ca0a24a9-35ec-4146-a101-08c96ae021eb",
@@ -711,11 +602,7 @@
     "content": {
       "question": "What is the statistic in this sentence?<br><br><b>I think that it is appalling that around 100 people choke to death on ballpoint pens every year.",
       "correctAnswer": "Around 100 people choke to death",
-      "wrongAnswers": [
-        "I think that",
-        "It is appalling",
-        "Ballpoint pens"
-      ]
+      "wrongAnswers": ["I think that", "It is appalling", "Ballpoint pens"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b7415f8c-12ac-4b43-9075-28e2ea5af977",
@@ -730,11 +617,7 @@
     "content": {
       "question": "In which of these texts are you most likely to find a writer arguing a point?",
       "correctAnswer": "Speech",
-      "wrongAnswers": [
-        "Magazine cover",
-        "Textbook which explains a process",
-        "Biography"
-      ]
+      "wrongAnswers": ["Magazine cover", "Textbook which explains a process", "Biography"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "19c39dac-a943-4554-a077-ec031c74941e",
@@ -749,11 +632,7 @@
     "content": {
       "question": "Which literary technique is particularly effective in speech writing?",
       "correctAnswer": "Rhetorical questions ",
-      "wrongAnswers": [
-        "Foreshadowing",
-        "Pathetic fallacy",
-        "Oxymoron"
-      ]
+      "wrongAnswers": ["Foreshadowing", "Pathetic fallacy", "Oxymoron"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "6d54445a-b3fa-45c1-870c-51f7d70bed64",
@@ -787,11 +666,7 @@
     "content": {
       "question": "What is the word __bittersweet__ an example of?",
       "correctAnswer": "Oxymoron",
-      "wrongAnswers": [
-        "Antithesis",
-        "Foreshadowing",
-        "Juxtaposition"
-      ]
+      "wrongAnswers": ["Antithesis", "Foreshadowing", "Juxtaposition"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "ff94cc4b-0e4d-48fc-8bbb-8860f60c75c1",
@@ -811,7 +686,7 @@
       ],
       "question": "You are making the point that the writer has used foreshadowing to hint that a character will die later on in the extract. Which quotation would back up your point?",
       "correctAnswer": "'He slipped the pistol into his pocket as he left'",
-      "imageURL": "seneca-image-cdn:///2018-09/fc5a065f-defc-496d-a193-433ff95fa6ac/crime-scene-clue-murder-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/fc5a065f-defc-496d-a193-433ff95fa6ac/crime-scene-clue-murder-.png"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b9056e90-a720-4338-b146-051b4ba4c824",
@@ -824,15 +699,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Bought",
-        "Sold",
-        "Will sell",
-        "Will buy"
-      ],
+      "wrongAnswers": ["Bought", "Sold", "Will sell", "Will buy"],
       "question": "Which verb should go in the gap?<br><br><b>Kenji is a good friend. He always ____ me nice presents.",
       "correctAnswer": "Buys",
-      "imageURL": "seneca-image-cdn:///2018-09/36767e0d-5829-4ab3-9720-4d33f309d83e/present-1893642_1920.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/36767e0d-5829-4ab3-9720-4d33f309d83e/present-1893642_1920.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "9358386a-65ac-4c86-81fe-12cf23ab0f1e",
@@ -847,11 +717,7 @@
     "content": {
       "question": "What do we call ordering/bossy verbs?",
       "correctAnswer": "Imperative verbs",
-      "wrongAnswers": [
-        "Collective verbs",
-        "Dynamic verbs",
-        "Stative verbs"
-      ]
+      "wrongAnswers": ["Collective verbs", "Dynamic verbs", "Stative verbs"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "4a99286f-5abb-4d34-a9df-a76aba7177b5",
@@ -871,7 +737,7 @@
       ],
       "question": "How has the writer used language to inform in this paragraph?<br><br><b>Lots of students find it hard to revise – 74% of those taking GCSE exams in 2017 – but the majority found it easier once they had created a plan. ",
       "correctAnswer": "Used a fact to support their argument",
-      "imageURL": "seneca-image-cdn:///2018-08/d7a48672-5053-48a4-8796-ebcc16dfc3b8/exam-students.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/d7a48672-5053-48a4-8796-ebcc16dfc3b8/exam-students.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "e5ba80c8-39cb-4685-88aa-54e972489a10",
@@ -879,7 +745,7 @@
       "wrongAnswers": "Used an opinion to support their argument, Has used a triple to emphasise how difficult the students find revising, Has answered the four questions",
       "question": "How has the writer used language to inform in this paragraph?<br><br><b>Lots of students find it hard to revise – 74% of those taking GCSE exams in 2017 – but the majority found it easier once they had created a plan. ",
       "correctAnswer": "Used a fact to support their argument",
-      "imageURL": "seneca-image-cdn:///2018-08/d7a48672-5053-48a4-8796-ebcc16dfc3b8/exam-students.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/d7a48672-5053-48a4-8796-ebcc16dfc3b8/exam-students.jpg"
     },
     "id": "1ff47f00-62f0-4458-b287-47b40c2fc9b4",
     "moduleDifficulty": 1,
@@ -911,11 +777,7 @@
     "content": {
       "question": "What type of narrator does a journal or diary entry have?",
       "correctAnswer": "First-person narrator",
-      "wrongAnswers": [
-        "Second-person narrator",
-        "Third-person narrator",
-        "Omniscient narrator"
-      ]
+      "wrongAnswers": ["Second-person narrator", "Third-person narrator", "Omniscient narrator"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "20171582-9419-4a8f-a4af-baaa96cc8eb6",
@@ -935,7 +797,7 @@
       ],
       "question": "Which of these facts is NOT at all believable?",
       "correctAnswer": "110% of students dislike doing homework",
-      "imageURL": "seneca-image-cdn:///2018-08/46f35257-bbd2-4ca0-8087-372ac5cebf8c/child-homework-thinking-memory.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/46f35257-bbd2-4ca0-8087-372ac5cebf8c/child-homework-thinking-memory.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "be0999cd-75ba-4d76-86fd-1c7e438100d5",
@@ -948,16 +810,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Emotive language",
-        "Hyperbole",
-        "Simile",
-        "Onomatopoeia",
-        "Alliteration"
-      ],
+      "wrongAnswers": ["Emotive language", "Hyperbole", "Simile", "Onomatopoeia", "Alliteration"],
       "question": "What technique is used in this sentence?<br><br><b>The old man was awfully good at chess.</b>",
       "correctAnswer": "Oxymoron",
-      "imageURL": "seneca-image-cdn:///2018-09/a318dc7e-cd70-42c7-a544-f41b36c8ef18/coup.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/a318dc7e-cd70-42c7-a544-f41b36c8ef18/coup.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "43210a41-88cc-45c0-ad67-be2ed55bdb6f",
@@ -972,11 +828,7 @@
     "content": {
       "question": "What technique has the writer used to support the advice she is giving?<br><br><b>For my trip, my favourite fundraisers were a sponsored dance-a-thon and shaving my head.",
       "correctAnswer": "Personal examples and opinion",
-      "wrongAnswers": [
-        "First person",
-        "Repetition of 'my'",
-        "Sympathetic tone"
-      ]
+      "wrongAnswers": ["First person", "Repetition of 'my'", "Sympathetic tone"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "9f15d08d-a87a-4fc4-bb3c-1dd7bb39a33f",
@@ -994,13 +846,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Non-fiction",
-        "The text can be either"
-      ],
+      "wrongAnswers": ["Non-fiction", "The text can be either"],
       "question": "Will the text in Paper 1, Section A be fiction or non-fiction?",
       "correctAnswer": "Fiction",
-      "imageURL": "seneca-image-cdn:///2018-09/295829c4-da12-4fbb-b93c-6ceece59b39e/book.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/295829c4-da12-4fbb-b93c-6ceece59b39e/book.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2bdded4e-19dc-452e-bb9d-ac19edee44b0",
@@ -1013,15 +862,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Oxymoron",
-        "Emotive language",
-        "Hyperbole",
-        "Simile"
-      ],
+      "wrongAnswers": ["Oxymoron", "Emotive language", "Hyperbole", "Simile"],
       "question": "What technique is used in this sentence?<br><br><b>The storm spat in anger.</b>",
       "correctAnswer": "Pathetic fallacy",
-      "imageURL": "seneca-image-cdn:///2018-04/1e84519f-8f66-477d-baae-c30a9c618101/shutterstock_89026090.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-04/1e84519f-8f66-477d-baae-c30a9c618101/shutterstock_89026090.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "43210a41-88cc-45c0-ad67-be2ed55bdb6f",
@@ -1042,7 +886,7 @@
       ],
       "question": "What should you NOT do in the writing section (Section B) of Paper 1?",
       "correctAnswer": "Prepare a perfect answer beforehand and adapt it to the question",
-      "imageURL": "seneca-image-cdn:///courseImages/biology/1.1.1 - Types of cells/no-entry-706905_640-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/biology/1.1.1 - Types of cells/no-entry-706905_640-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "59927978-4c57-4f26-853e-f1a6721e873e",
@@ -1057,11 +901,7 @@
     "content": {
       "question": "Which phrase uses an oxymoron?",
       "correctAnswer": "She was clearly confused",
-      "wrongAnswers": [
-        "She was happily married",
-        "She was deafeningly attractive",
-        "She was extremely quiet"
-      ]
+      "wrongAnswers": ["She was happily married", "She was deafeningly attractive", "She was extremely quiet"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "e7f9cc86-a345-4b23-b6b3-08b380ed98e4",
@@ -1074,13 +914,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Short simple sentences",
-        "Fragmented sentences and short sentences"
-      ],
+      "wrongAnswers": ["Short simple sentences", "Fragmented sentences and short sentences"],
       "question": "You are describing a character's boredom during a long journey as part of a narrative piece. What kind of sentences should you use to create the right tone and mood?",
       "correctAnswer": "Long complex and/or complicated sentences",
-      "imageURL": "seneca-image-cdn:///2018-09/38ca088b-1c0e-43f8-ad21-e70e967ade9a/boy-child-bored-rain-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/38ca088b-1c0e-43f8-ad21-e70e967ade9a/boy-child-bored-rain-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "8fd42396-addd-4ad6-a361-ff949035a534",
@@ -1093,14 +930,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Evidence",
-        "Explanation and Technique",
-        "Reference back to the question"
-      ],
+      "wrongAnswers": ["Evidence", "Explanation and Technique", "Reference back to the question"],
       "question": "Which component of a paragraph is the below sentence most likely to be?\n<br><br>\n\n<b>'Throughout the text, the writer refers to the violence in the environment.' </b>\n\n\n",
       "correctAnswer": "Point",
-      "imageURL": "seneca-image-cdn:///2018-10/76604cd7-680d-4b49-9380-64dcd21daad8/battle-bosworth-field-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-10/76604cd7-680d-4b49-9380-64dcd21daad8/battle-bosworth-field-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "040280fd-87b9-4aad-9357-954d19fb4d64",
@@ -1134,11 +967,7 @@
     "content": {
       "question": "What do writers often end paragraphs with?",
       "correctAnswer": "Hooks",
-      "wrongAnswers": [
-        "Topic sentences",
-        "Their opinions",
-        "Foreshadowing"
-      ]
+      "wrongAnswers": ["Topic sentences", "Their opinions", "Foreshadowing"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b1333cd6-8200-471f-927d-c92b66689970",
@@ -1158,7 +987,7 @@
       ],
       "question": "What will you receive marks for doing in Section A, Question 1?",
       "correctAnswer": "Quoting or paraphrasing the text",
-      "imageURL": "seneca-image-cdn:///2018-05/d9abeb87-aa7a-42d6-adef-7e16a3f6dc59/tick-305245_960_720.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/d9abeb87-aa7a-42d6-adef-7e16a3f6dc59/tick-305245_960_720.png"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "0f073d55-8e20-4f16-8a8c-2b6ba293d7af",
@@ -1192,11 +1021,7 @@
     "content": {
       "question": "Which verb should go in the gap?<br><br><b>My brother will skateboard at this park this weekend. I ____ and watch him.",
       "correctAnswer": "Will go",
-      "wrongAnswers": [
-        "Goes",
-        "Go",
-        "Went"
-      ]
+      "wrongAnswers": ["Goes", "Go", "Went"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "f9bb3fe5-2d69-469c-ae19-b9ac952a7427",
@@ -1211,11 +1036,7 @@
     "content": {
       "question": "Which phrase uses hyperbole?",
       "correctAnswer": "Never-ending traffic",
-      "wrongAnswers": [
-        "A light meal",
-        "As small as a pin",
-        "A dangerous affair"
-      ]
+      "wrongAnswers": ["A light meal", "As small as a pin", "A dangerous affair"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "102317f3-623e-4673-b8a3-1d42cda9e4b5",
@@ -1235,7 +1056,7 @@
       ],
       "question": "Read the following extract. Which statement is NOT true?<br><br>__'Each year, blood clots affect about 900,000 people in the United States, and about half of all blood clots occur during a hospital stay or within three months of a hospital stay or surgery. Many blood clots occurring during or after hospitalisation can be prevented, but fewer than half of hospital patients receive proper prevention measures.'__\n",
       "correctAnswer": "Half of blood clots happen after three months of a hospital stay or surgery",
-      "imageURL": "seneca-image-cdn:///courseImages/biology/1.2.1 Chromosomes and mitosis/hospital stay-min - Edited-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/biology/1.2.1 Chromosomes and mitosis/hospital stay-min - Edited-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "4ffe991e-cb00-4593-ba6f-46ac3ce7e1ec",
@@ -1250,11 +1071,7 @@
     "content": {
       "question": "What is this sentence an example of?<br><br><b>Motorbikes are dangerous and a drain on the economy.",
       "correctAnswer": "Topic sentence",
-      "wrongAnswers": [
-        "Convincing evidence",
-        "Fact",
-        "Rhetorical question"
-      ]
+      "wrongAnswers": ["Convincing evidence", "Fact", "Rhetorical question"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "43c6b8b5-5906-4a9b-9600-875e884350fc",
@@ -1274,7 +1091,7 @@
       ],
       "question": "Which sentence uses vocabulary effectively to create a disapproving tone?",
       "correctAnswer": "The rat-like man snarled his yellow fangs as he gnawed his way through the measly sandwich ",
-      "imageURL": "seneca-image-cdn:///2018-09/27b953cf-9db4-4813-bf60-7fb7d47b02b2/words-letters-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/27b953cf-9db4-4813-bf60-7fb7d47b02b2/words-letters-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "8c741ba1-d412-4f8b-b477-d523697a6928",
@@ -1287,13 +1104,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Quotation",
-        "Statement"
-      ],
+      "wrongAnswers": ["Quotation", "Statement"],
       "question": "Which component of a paragraph is the below sentence most likely to be?\n<br><br>\n\n<b>This quotation shows that Sherlock Holmes is frustrated when he is not solving a mystery.</b>\n",
       "correctAnswer": "Inference",
-      "imageURL": "seneca-image-cdn:///2018-10/30f3b61b-e458-4805-8a67-fe5a53b12bb1/sherlock-holmes-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-10/30f3b61b-e458-4805-8a67-fe5a53b12bb1/sherlock-holmes-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "71c6e4c8-3ce8-4900-808c-904a3ba7c868",
@@ -1306,14 +1120,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Metaphor",
-        "Personification",
-        "Anthropomorphism"
-      ],
+      "wrongAnswers": ["Metaphor", "Personification", "Anthropomorphism"],
       "question": "What technique does this sentence use?<br><br><b>James was as silly as a clown.</b>",
       "correctAnswer": "Simile",
-      "imageURL": "seneca-image-cdn:///2018-08/6cc470d8-e93a-4894-bca3-ad0ae9c10e0e/clown-scary-phobia.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/6cc470d8-e93a-4894-bca3-ad0ae9c10e0e/clown-scary-phobia.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "0031c1ea-0310-4426-9e51-600f4a8c63b3",
@@ -1351,9 +1161,7 @@
     "content": {
       "question": "Which style of writing does NOT have a storyline?",
       "correctAnswer": "Descriptive writing",
-      "wrongAnswers": [
-        "Narrative writing"
-      ]
+      "wrongAnswers": ["Narrative writing"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "62ef9b0a-9711-4bde-8712-052d2ccb3353",
@@ -1387,12 +1195,7 @@
     "content": {
       "question": "How many key points does a paragraph tend to contain?",
       "correctAnswer": "1",
-      "wrongAnswers": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ]
+      "wrongAnswers": ["2", "3", "4", "5"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b1333cd6-8200-471f-927d-c92b66689970",
@@ -1405,14 +1208,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Triple",
-        "Exaggeration",
-        "Logical connective"
-      ],
+      "wrongAnswers": ["Triple", "Exaggeration", "Logical connective"],
       "question": "What technique is used in this opening sentence?<br><br><b>School uniform is outdated and old-fashioned.",
       "correctAnswer": "Clear topic sentence",
-      "imageURL": "seneca-image-cdn:///2018-07/f8c735b6-696f-4da0-bcfe-e2184ce6362c/school-children-learning.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/f8c735b6-696f-4da0-bcfe-e2184ce6362c/school-children-learning.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "cd991a7b-bb47-464b-9a06-db4caf14b942",
@@ -1420,7 +1219,7 @@
       "wrongAnswers": "Triple, Exaggeration, Logical connective",
       "question": "What technique is used in this opening sentence?<br><br><b>School uniform is outdated and old-fashioned.",
       "correctAnswer": "Clear topic sentence",
-      "imageURL": "seneca-image-cdn:///2018-07/f8c735b6-696f-4da0-bcfe-e2184ce6362c/school-children-learning.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/f8c735b6-696f-4da0-bcfe-e2184ce6362c/school-children-learning.jpg"
     },
     "id": "2e8cf3be-ac42-4009-9509-f76b703d4935",
     "moduleDifficulty": 1,
@@ -1451,11 +1250,7 @@
     "content": {
       "question": "What technique is the quote below an example of?<br><br><b>...surely I can't be the only one addicted to the Daily Mail's website?",
       "correctAnswer": "Rhetorical question",
-      "wrongAnswers": [
-        "Rule of 3",
-        "Semicolon",
-        "Quotation"
-      ]
+      "wrongAnswers": ["Rule of 3", "Semicolon", "Quotation"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "36e5a023-45e4-4434-b5d2-e62f9e35df4b",
@@ -1468,14 +1263,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Alliteration",
-        "Assonance",
-        "Onomatopoeia"
-      ],
+      "wrongAnswers": ["Alliteration", "Assonance", "Onomatopoeia"],
       "question": "What technique is being used in the following sentence?<br><br><b>The slippery snake slid through the shrub.</b>",
       "correctAnswer": "Sibilance",
-      "imageURL": "seneca-image-cdn:///2018-03/c01fb4b5-fb60-480d-9c8e-ff4f35c5fee6/shutterstock_547176661.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/c01fb4b5-fb60-480d-9c8e-ff4f35c5fee6/shutterstock_547176661.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c72cc54c-8da2-48bf-93c0-59be937dacc8",
@@ -1488,10 +1279,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "__'Yours faithfully'__",
-        "__'Yours sincerely'__"
-      ],
+      "wrongAnswers": ["__'Yours faithfully'__", "__'Yours sincerely'__"],
       "question": "If you start a letter with __‘Dear Rosie’__, what are you most likely to end with?",
       "correctAnswer": "__'Best wishes'__",
       "imageURL": "https://media.giphy.com/media/xieuDEXX78OYw/giphy.mp4"
@@ -1509,12 +1297,7 @@
     "content": {
       "question": "Which of these would be the best comparison for someone who is very thin?",
       "correctAnswer": "A matchstick",
-      "wrongAnswers": [
-        "A sunset",
-        "An elephant",
-        "A truck",
-        "A mountain"
-      ]
+      "wrongAnswers": ["A sunset", "An elephant", "A truck", "A mountain"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "926e36d0-350b-45c3-a5f1-0d3ae19cab78",
@@ -1529,11 +1312,7 @@
     "content": {
       "question": "How many marks is Question 2 of the reading section (Section A) of Paper 2 worth?",
       "correctAnswer": "8",
-      "wrongAnswers": [
-        "23",
-        "12",
-        "16"
-      ]
+      "wrongAnswers": ["23", "12", "16"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "56b3cfe7-45eb-48db-ac0d-43d9c797644e",
@@ -1546,10 +1325,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Persuade readers",
-        "Advise readers"
-      ],
+      "wrongAnswers": ["Persuade readers", "Advise readers"],
       "question": "What are leaflets NOT generally designed to do?",
       "correctAnswer": "Comment on how good or bad something is",
       "imageURL": "https://media.giphy.com/media/pDxUnvfqoor7y/giphy.mp4"
@@ -1565,14 +1341,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Triple",
-        "Exaggeration",
-        "Logical connective"
-      ],
+      "wrongAnswers": ["Triple", "Exaggeration", "Logical connective"],
       "question": "What technique is used in this opening sentence?<br><br><b>The Daily Mail is the greatest website in the world.",
       "correctAnswer": "Clear topic sentence",
-      "imageURL": "seneca-image-cdn:///2018-07/f8c735b6-696f-4da0-bcfe-e2184ce6362c/school-children-learning.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/f8c735b6-696f-4da0-bcfe-e2184ce6362c/school-children-learning.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "36e5a023-45e4-4434-b5d2-e62f9e35df4b",
@@ -1585,14 +1357,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Evidence",
-        "Explanation and Technique",
-        "Reference back to the question"
-      ],
+      "wrongAnswers": ["Evidence", "Explanation and Technique", "Reference back to the question"],
       "question": "Which component of a paragraph is the below sentence most likely to be?\n<br><br>\n\n<b>'Throughout the text, the writer refers to the violence in the environment.' </b>\n\n\n",
       "correctAnswer": "Point",
-      "imageURL": "seneca-image-cdn:///2018-10/76604cd7-680d-4b49-9380-64dcd21daad8/battle-bosworth-field-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-10/76604cd7-680d-4b49-9380-64dcd21daad8/battle-bosworth-field-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "ca0a24a9-35ec-4146-a101-08c96ae021eb",
@@ -1605,12 +1373,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Emotive"
-      ],
+      "wrongAnswers": ["Emotive"],
       "question": "What kind of language is used in this sentence?<br><br><b>The wind is a howling wolf chasing its prey.</b>",
       "correctAnswer": "Figurative",
-      "imageURL": "seneca-image-cdn:///2018-09/bc2deac7-37d2-448d-90c4-780c63cb21f6/wolf-snow-animal-forest-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/bc2deac7-37d2-448d-90c4-780c63cb21f6/wolf-snow-animal-forest-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b6e3444f-72b6-4636-b644-23e396ebc48d",
@@ -1625,11 +1391,7 @@
     "content": {
       "question": "Which of these is least likely to contain examples of writing to explain?",
       "correctAnswer": "A self-help book",
-      "wrongAnswers": [
-        "Leaflet",
-        "Chemistry textbook",
-        "A non-persuasive description"
-      ]
+      "wrongAnswers": ["Leaflet", "Chemistry textbook", "A non-persuasive description"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "815f50b1-afeb-444b-8e1a-2ab89137e5e0",
@@ -1642,16 +1404,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Personification",
-        "Simile",
-        "Alliteration",
-        "Pathetic fallacy",
-        "Oxymoron"
-      ],
+      "wrongAnswers": ["Personification", "Simile", "Alliteration", "Pathetic fallacy", "Oxymoron"],
       "question": "What technique is used in this sentence?<br><br><b>The ball made a plop sound as it fell into the toilet.",
       "correctAnswer": "Onomatopoeia",
-      "imageURL": "seneca-image-cdn:///2018-09/82b33d06-b9ec-441f-b219-130f4785de57/toilet-urinal-urine-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/82b33d06-b9ec-441f-b219-130f4785de57/toilet-urinal-urine-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "64854a75-c3f5-4347-bbcf-1f360254db23",
@@ -1683,14 +1439,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Fact",
-        "Opinion",
-        "Emotive language"
-      ],
+      "wrongAnswers": ["Fact", "Opinion", "Emotive language"],
       "question": "Which of these devices has the writer used in this sentence?<br><br><b>Furthermore, the comments section, although entertaining, generally contains a high ratio of mean comments to pleasant ones. ",
       "correctAnswer": "Strong connective",
-      "imageURL": "seneca-image-cdn:///2018-08/6489c03b-4491-411d-a81d-09bbf7360586/school-uniform-students.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/6489c03b-4491-411d-a81d-09bbf7360586/school-uniform-students.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "36e5a023-45e4-4434-b5d2-e62f9e35df4b",
@@ -1710,7 +1462,7 @@
       ],
       "question": "You want to paint a picture of an evil King. Which of the following would be a good extension for this metaphor?<br><br>__James was a cruel King...__",
       "correctAnswer": "Who loved to beat his subjects with his razor sharp whip",
-      "imageURL": "seneca-image-cdn:///2018-09/b06166d5-f3dd-485a-bc5f-b5154a069cc0/crown-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/b06166d5-f3dd-485a-bc5f-b5154a069cc0/crown-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "926e36d0-350b-45c3-a5f1-0d3ae19cab78",
@@ -1766,15 +1518,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Nice",
-        "Bought",
-        "Every day",
-        "Flowers"
-      ],
+      "wrongAnswers": ["Nice", "Bought", "Every day", "Flowers"],
       "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?<br><br><b>Julie was such a nice girl. She bought me flowers every day.",
       "correctAnswer": "Was",
-      "imageURL": "seneca-image-cdn:///2018-04/50e5dc89-7bd5-42b6-894f-960bd71c8395/shutterstock_731074915.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-04/50e5dc89-7bd5-42b6-894f-960bd71c8395/shutterstock_731074915.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2573c4e6-cfc7-41f6-8392-f565026a4146",
@@ -1782,7 +1529,7 @@
       "wrongAnswers": "Nice, Bought, Every day, Flowers",
       "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?<br><br><b>Julie was such a nice girl. She bought me flowers every day.",
       "correctAnswer": "Was",
-      "imageURL": "seneca-image-cdn:///2018-04/50e5dc89-7bd5-42b6-894f-960bd71c8395/shutterstock_731074915.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-04/50e5dc89-7bd5-42b6-894f-960bd71c8395/shutterstock_731074915.jpg"
     },
     "id": "3af0ed43-8f56-412c-a298-eee663a58b95",
     "moduleDifficulty": 1,
@@ -1793,14 +1540,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "13-15 minutes",
-        "18-20 minutes",
-        "4-5 minutes"
-      ],
+      "wrongAnswers": ["13-15 minutes", "18-20 minutes", "4-5 minutes"],
       "question": "How long should you spend answering Question 2 or Question 3?",
       "correctAnswer": "8-10 minutes",
-      "imageURL": "seneca-image-cdn:///courseImages/physics/5.2.3 Radioactive decay/time-430625_640.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/physics/5.2.3 Radioactive decay/time-430625_640.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c2c4f032-b849-45e7-9ef3-408678c37df5",
@@ -1821,7 +1564,7 @@
       ],
       "question": "You have chosen to answer the written scenario question in the writing section (Section B) of Paper 1. What should you NEVER use to answer the question?",
       "correctAnswer": "A general answer you prepared before entering the exam hall",
-      "imageURL": "seneca-image-cdn:///courseImages/biology/1.1.1 - Types of cells/no-entry-706905_640-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/biology/1.1.1 - Types of cells/no-entry-706905_640-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "59927978-4c57-4f26-853e-f1a6721e873e",
@@ -1834,13 +1577,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Short simple sentences",
-        "A series of fragmented sentences"
-      ],
+      "wrongAnswers": ["Short simple sentences", "A series of fragmented sentences"],
       "question": "You are describing a beautiful sunset over a beach. What kind of sentences should you use to create the right tone?",
       "correctAnswer": "Long complex or compound sentences",
-      "imageURL": "seneca-image-cdn:///2018-07/b401e8c1-d944-4e5f-aac7-2c912538c14e/bird-sunset-divine.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/b401e8c1-d944-4e5f-aac7-2c912538c14e/bird-sunset-divine.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "8c741ba1-d412-4f8b-b477-d523697a6928",
@@ -1853,14 +1593,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Simile",
-        "Emotive language",
-        "Hyperbole"
-      ],
+      "wrongAnswers": ["Simile", "Emotive language", "Hyperbole"],
       "question": "What technique is used in this sentence?<br><br><b>The car engine howled as it raced past the frightened children.</b>",
       "correctAnswer": "Personification",
-      "imageURL": "seneca-image-cdn:///2018-07/1db090a7-3860-405a-9bad-2c3ca7ff31c0/Fast-Car-Speed-Quick-Blur-Light.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/1db090a7-3860-405a-9bad-2c3ca7ff31c0/Fast-Car-Speed-Quick-Blur-Light.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c183f4de-666b-455a-8f3f-8ec2db289300",
@@ -1873,14 +1609,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Trudy",
-        "Smile",
-        "Had"
-      ],
+      "wrongAnswers": ["Trudy", "Smile", "Had"],
       "question": "Which word is an adjective in this sentence?<br><br><b>Trudy had a beautiful smile.</b>",
       "correctAnswer": "Beautiful",
-      "imageURL": "seneca-image-cdn:///2018-03/b3f17db6-f90b-4eff-8d4c-a017b6994aa0/shutterstock_134915318.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/b3f17db6-f90b-4eff-8d4c-a017b6994aa0/shutterstock_134915318.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c294ac6c-06c9-4d08-bb39-107cec26ff8f",
@@ -1900,7 +1632,7 @@
       ],
       "question": "Which phrase uses the most sophisticated punctuation? ",
       "correctAnswer": "Lucy was gorgeous: she had luscious hair - even when she did not wash it - and sky-blue eyes!",
-      "imageURL": "seneca-image-cdn:///2018-09/53231e1d-2848-484c-9316-05922cb0dfd4/beauty-1260975_1920.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/53231e1d-2848-484c-9316-05922cb0dfd4/beauty-1260975_1920.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "89d34b0d-e3a4-4fbd-863f-644fe1ebdb2f",
@@ -1915,10 +1647,7 @@
     "content": {
       "question": "Which phrase uses alliteration?",
       "correctAnswer": "Henry had a horrendous headache",
-      "wrongAnswers": [
-        "The plates crashed and banged to the floor",
-        "It started to rain as Lucy began to weep"
-      ]
+      "wrongAnswers": ["The plates crashed and banged to the floor", "It started to rain as Lucy began to weep"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c34841cb-98d7-440d-a7a9-dd57924f0dd1",
@@ -1931,13 +1660,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Aggressive",
-        "Jarring"
-      ],
+      "wrongAnswers": ["Aggressive", "Jarring"],
       "question": "What type of sound does this alliteration create?<br><br><b>Sophia slept soundly upon the silky sofa.",
       "correctAnswer": "Smooth",
-      "imageURL": "seneca-image-cdn:///2018-03/3f84c71f-7534-4468-8f9b-3e941927ed82/shutterstock_397886950.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/3f84c71f-7534-4468-8f9b-3e941927ed82/shutterstock_397886950.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "5315f332-3227-40c7-9717-389cb28c11bd",
@@ -1950,12 +1676,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Fiction"
-      ],
+      "wrongAnswers": ["Fiction"],
       "question": "What kind of writing do you produce for the writing section (Section B) of Paper 2?",
       "correctAnswer": "Non-fiction",
-      "imageURL": "seneca-image-cdn:///2018-09/48aebd73-4676-49b6-97f4-595e3345bb94/writing-write-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/48aebd73-4676-49b6-97f4-595e3345bb94/writing-write-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "214a9332-3d6e-45dd-8616-30a2e001a12b",
@@ -1970,11 +1694,7 @@
     "content": {
       "question": "Why is this a weak example to use in an explanatory account of the different parts of a museum?<br><br><b>The Boden room contains lots of artefacts.",
       "correctAnswer": "Unspecific example",
-      "wrongAnswers": [
-        "Not relevant to the topic",
-        "Contains an opinion",
-        "Uses over-repetition"
-      ]
+      "wrongAnswers": ["Not relevant to the topic", "Contains an opinion", "Uses over-repetition"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "1d1c140a-1fe1-4764-829d-fa35bba8fc60",
@@ -1989,11 +1709,7 @@
     "content": {
       "question": "What does Question 3 ask you to focus on?",
       "correctAnswer": "The structure of the text",
-      "wrongAnswers": [
-        "The language devices used in the text",
-        "The writer's tone",
-        "Summarising the extract"
-      ]
+      "wrongAnswers": ["The language devices used in the text", "The writer's tone", "Summarising the extract"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b9056e90-a720-4338-b146-051b4ba4c824",
@@ -2006,11 +1722,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Formal and informative",
-        "Satirical",
-        "Formal and persuasive"
-      ],
+      "wrongAnswers": ["Formal and informative", "Satirical", "Formal and persuasive"],
       "question": "What kind of tone should you use if you are asked to write a review of a Selena Gomez concert for Teen Vogue?",
       "correctAnswer": "Informal and entertaining",
       "imageURL": "https://media.giphy.com/media/abzlnES9fEcbm/giphy.mp4"
@@ -2026,13 +1738,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "First person narrator",
-        "Second person narrator"
-      ],
+      "wrongAnswers": ["First person narrator", "Second person narrator"],
       "question": "What type of narrator does Dickens use in _A Christmas Carol_?<br><br><b>'Marley was dead, to begin with. There is no doubt whatever about that. The register of his burial was signed by the clergyman, the clerk, the undertaker, and the chief mourner.'",
       "correctAnswer": "Third person narrator",
-      "imageURL": "seneca-image-cdn:///2018-09/3872c905-a305-464d-8ed1-00d4429c2417/scrooge-christmascarol.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/3872c905-a305-464d-8ed1-00d4429c2417/scrooge-christmascarol.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "7f5c3a37-3669-4b5b-95b3-00f6571e2bb0",
@@ -2052,7 +1761,7 @@
       ],
       "question": "A character puts a gun in their pocket before heading outside. What might this foreshadow? ",
       "correctAnswer": "The character will commit a crime later",
-      "imageURL": "seneca-image-cdn:///2018-09/a72973a8-2cbf-43df-a333-0f29235eae8c/gun-shoot.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/a72973a8-2cbf-43df-a333-0f29235eae8c/gun-shoot.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "284147b8-9181-4840-9c0d-120e82863a61",
@@ -2065,14 +1774,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Writing to persuade",
-        "Writing to argue",
-        "Writing to explain"
-      ],
+      "wrongAnswers": ["Writing to persuade", "Writing to argue", "Writing to explain"],
       "question": "You are asked to direct someone from the Tate Modern to the British Museum in London. What style of writing is this?",
       "correctAnswer": "Writing to inform",
-      "imageURL": "seneca-image-cdn:///memory-location-images/London, England-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/memory-location-images/London, England-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "bfad5e2d-b6e6-40a5-a477-11b519ce2ed9",
@@ -2087,12 +1792,7 @@
     "content": {
       "question": "Which word is repeated in this phrase?<br><br><b>Can't you see how hard I am trying? Can't we give this another go?",
       "correctAnswer": "Can't",
-      "wrongAnswers": [
-        "Hard",
-        "Trying",
-        "I",
-        "We"
-      ]
+      "wrongAnswers": ["Hard", "Trying", "I", "We"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "f74b5d0d-ef84-4258-9b85-37add9e17c41",
@@ -2105,15 +1805,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Informative",
-        "Formal",
-        "Satirical",
-        "Emotive"
-      ],
+      "wrongAnswers": ["Informative", "Formal", "Satirical", "Emotive"],
       "question": "What type of language is the writer using in this sentence?<br><br><b>Instead, I hear the lapping of the water against the old brick walls of the dock.",
       "correctAnswer": "Figurative",
-      "imageURL": "seneca-image-cdn:///2018-08/4d6856be-f35b-4ca6-a8ae-19b9e8df2630/breakwater-water-sea-barrier.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/4d6856be-f35b-4ca6-a8ae-19b9e8df2630/breakwater-water-sea-barrier.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "7c131bb5-56b8-4e77-a9a7-18caca2db4ce",
@@ -2121,7 +1816,7 @@
       "wrongAnswers": "Informative, Formal, Satirical, Emotive",
       "question": "What type of language is the writer using in this sentence?<br><br><b>Instead, I hear the lapping of the water against the old brick walls of the dock.",
       "correctAnswer": "Figurative",
-      "imageURL": "seneca-image-cdn:///2018-08/4d6856be-f35b-4ca6-a8ae-19b9e8df2630/breakwater-water-sea-barrier.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/4d6856be-f35b-4ca6-a8ae-19b9e8df2630/breakwater-water-sea-barrier.jpg"
     },
     "id": "4658c48d-4a77-49b7-b931-de2a10414f97",
     "moduleDifficulty": 1,
@@ -2134,10 +1829,7 @@
     "content": {
       "question": "What structure guide could you use for answering Question 4 of the reading section (Section A)?",
       "correctAnswer": "PETER ",
-      "wrongAnswers": [
-        "SQI",
-        "DAFORESTER"
-      ]
+      "wrongAnswers": ["SQI", "DAFORESTER"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "a61537ef-feff-404f-9957-6226fc010fce",
@@ -2157,7 +1849,7 @@
       ],
       "question": "What is an oxymoron?",
       "correctAnswer": "When two contrasting ideas are combined for dramatic effect ",
-      "imageURL": "seneca-image-cdn:///2019-01/4accd923-a34c-49ea-9e56-dcd9b469b3ad/rock-johnston-celebrity-muscle-strong-man-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-01/4accd923-a34c-49ea-9e56-dcd9b469b3ad/rock-johnston-celebrity-muscle-strong-man-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "e7f9cc86-a345-4b23-b6b3-08b380ed98e4",
@@ -2172,11 +1864,7 @@
     "content": {
       "question": "What does the T in PETER stand for?",
       "correctAnswer": "Technique",
-      "wrongAnswers": [
-        "Terms",
-        "Triadic structure",
-        "Teach"
-      ]
+      "wrongAnswers": ["Terms", "Triadic structure", "Teach"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c2c4f032-b849-45e7-9ef3-408678c37df5",
@@ -2213,13 +1901,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Aggressive",
-        "Jarring"
-      ],
+      "wrongAnswers": ["Aggressive", "Jarring"],
       "question": "What type of sound does this alliteration create?<br><br><b>Sophia slept soundly upon the silky sofa.",
       "correctAnswer": "Smooth",
-      "imageURL": "seneca-image-cdn:///2018-03/3f84c71f-7534-4468-8f9b-3e941927ed82/shutterstock_397886950.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/3f84c71f-7534-4468-8f9b-3e941927ed82/shutterstock_397886950.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b5bfc48c-d165-48d4-a3d0-824ee5ff6f24",
@@ -2234,10 +1919,7 @@
     "content": {
       "question": "Which phrase uses alliteration?",
       "correctAnswer": "Henry had a horrendous headache",
-      "wrongAnswers": [
-        "The plates crashed and banged to the floor",
-        "It started to rain as Lucy began to weep"
-      ]
+      "wrongAnswers": ["The plates crashed and banged to the floor", "It started to rain as Lucy began to weep"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "70319588-134d-4dd9-8981-7831b77a7760",
@@ -2250,14 +1932,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Simile",
-        "Oxymoron",
-        "Juxtaposition"
-      ],
+      "wrongAnswers": ["Simile", "Oxymoron", "Juxtaposition"],
       "question": "What technique does this sentence use?<br><br><b>I was struggling to figure out how lightning works then it struck me.</b>",
       "correctAnswer": "Pun",
-      "imageURL": "seneca-image-cdn:///courseImages/chemistry/2.3.1- Chemical properties/lightning-399853_640-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/chemistry/2.3.1- Chemical properties/lightning-399853_640-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "102317f3-623e-4673-b8a3-1d42cda9e4b5",
@@ -2270,14 +1948,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Exaggeration",
-        "Opinion",
-        "Emotive language"
-      ],
+      "wrongAnswers": ["Exaggeration", "Opinion", "Emotive language"],
       "question": "What part of DAFORESTER does this sentence use?<br><br><b>Research shows that 5 out of 6 teens suffers from anxiety, depression, and other mental health issues. ",
       "correctAnswer": "Fact",
-      "imageURL": "seneca-image-cdn:///2018-08/f0b47d9e-ffa5-4087-88bd-0666417e8793/patient-doctor-anxiety-psychiatric.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/f0b47d9e-ffa5-4087-88bd-0666417e8793/patient-doctor-anxiety-psychiatric.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "590f9a99-63fd-42e8-a88a-6e1109cffc28",
@@ -2285,7 +1959,7 @@
       "wrongAnswers": "Exaggeration, Opinion, Emotive language",
       "question": "What part of DAFORESTER does this sentence use?<br><br><b>Research shows that 5 out of 6 teens suffers from anxiety, depression, and other mental health issues. ",
       "correctAnswer": "Fact",
-      "imageURL": "seneca-image-cdn:///2018-08/f0b47d9e-ffa5-4087-88bd-0666417e8793/patient-doctor-anxiety-psychiatric.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/f0b47d9e-ffa5-4087-88bd-0666417e8793/patient-doctor-anxiety-psychiatric.jpg"
     },
     "id": "4da5ac8d-0296-4764-9c2c-ef54940bda13",
     "moduleDifficulty": 1,
@@ -2317,12 +1991,7 @@
     "content": {
       "question": "What MUST you focus on when answering Question 3?",
       "correctAnswer": "Structure",
-      "wrongAnswers": [
-        "Language devices",
-        "Narrative voice",
-        "Tone",
-        "Atmosphere"
-      ]
+      "wrongAnswers": ["Language devices", "Narrative voice", "Tone", "Atmosphere"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c2c4f032-b849-45e7-9ef3-408678c37df5",
@@ -2335,13 +2004,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Opinion",
-        "Neither"
-      ],
+      "wrongAnswers": ["Opinion", "Neither"],
       "question": "Is this an opinion or fact?<br><br>Natalie Portman starred in the film Black Swan.",
       "correctAnswer": "Fact",
-      "imageURL": "seneca-image-cdn:///2018-03/4fd2eaa3-03a3-49a1-946d-2bfde250dba2/shutterstock_639708628.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/4fd2eaa3-03a3-49a1-946d-2bfde250dba2/shutterstock_639708628.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2573c4e6-cfc7-41f6-8392-f565026a4146",
@@ -2354,14 +2020,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Imperative verb",
-        "Information to help the reader make a decision",
-        "Choice of options"
-      ],
+      "wrongAnswers": ["Imperative verb", "Information to help the reader make a decision", "Choice of options"],
       "question": "What technique does this advisatory sentence contain?<br><br><b>You should visit at least three museums while you are in Morocco.",
       "correctAnswer": "Modal verb",
-      "imageURL": "seneca-image-cdn:///memory-location-images/Marrakech, Morocco-min.jpeg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/memory-location-images/Marrakech, Morocco-min.jpeg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c0bf0e74-78d5-4c7b-83ad-aced7a99cf22",
@@ -2395,10 +2057,7 @@
     "content": {
       "question": "Which verb is in the past tense?",
       "correctAnswer": "I ran",
-      "wrongAnswers": [
-        "I run",
-        "I will run"
-      ]
+      "wrongAnswers": ["I run", "I will run"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b1333cd6-8200-471f-927d-c92b66689970",
@@ -2432,11 +2091,7 @@
     "content": {
       "question": "What technique is used in this sentence?<br><br><b>He was blinded by her beauty.</b>",
       "correctAnswer": "Hyperbole",
-      "wrongAnswers": [
-        "Oxymoron",
-        "Pathetic fallacy",
-        "Pun"
-      ]
+      "wrongAnswers": ["Oxymoron", "Pathetic fallacy", "Pun"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "43210a41-88cc-45c0-ad67-be2ed55bdb6f",
@@ -2456,7 +2111,7 @@
       ],
       "question": "Which triple best describes the picture?",
       "correctAnswer": "Dark, gooey and moist",
-      "imageURL": "seneca-image-cdn:///2019-08/ee6f2bb7-cbdc-4a22-82e6-19d22d0366e3/chocolate-cake-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-08/ee6f2bb7-cbdc-4a22-82e6-19d22d0366e3/chocolate-cake-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "f983264c-4fe4-4d2e-b65d-ecad379525e9",
@@ -2488,14 +2143,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Metaphor",
-        "Onomatopoeia",
-        "Personification"
-      ],
+      "wrongAnswers": ["Metaphor", "Onomatopoeia", "Personification"],
       "question": "What technique is the narrator using in this quotation about Scrooge?<br><br><b>'Secret, and self-contained, and solitary as an oyster.'</b>",
       "correctAnswer": "Simile",
-      "imageURL": "seneca-image-cdn:///2018-05/e03b9e7f-750a-407d-bf64-310671f2378c/shutterstock_612162488.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/e03b9e7f-750a-407d-bf64-310671f2378c/shutterstock_612162488.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2728e378-1fa6-4c84-8f84-27b60de51ec5",
@@ -2503,7 +2154,7 @@
       "wrongAnswers": "Metaphor, Onomatopoeia, Personification",
       "question": "What technique is the narrator using in this quotation about Scrooge?<br><br><b>'Secret, and self-contained, and solitary as an oyster.'</b>",
       "correctAnswer": "Simile",
-      "imageURL": "seneca-image-cdn:///2018-05/e03b9e7f-750a-407d-bf64-310671f2378c/shutterstock_612162488.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/e03b9e7f-750a-407d-bf64-310671f2378c/shutterstock_612162488.jpg"
     },
     "id": "574efff1-9b1b-4333-86e5-fe8b15222452",
     "moduleDifficulty": 1,
@@ -2514,14 +2165,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Rhetorical question",
-        "Alliteration",
-        "Metaphor"
-      ],
+      "wrongAnswers": ["Rhetorical question", "Alliteration", "Metaphor"],
       "question": "What technique is used to end this speech emphatically?<br><br><b>It's clear that going to the gym benefits all of us mentally, physically and socially. It's time to reap those benefits.",
       "correctAnswer": "Short statement",
-      "imageURL": "seneca-image-cdn:///2018-03/ed4082f5-8ae2-47a9-9c79-2efde4e6e24d/shutterstock_521986399.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/ed4082f5-8ae2-47a9-9c79-2efde4e6e24d/shutterstock_521986399.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "576a8a48-0205-44c6-8fb4-e3539566444b",
@@ -2536,11 +2183,7 @@
     "content": {
       "question": "What do we call this opening sentence of a paragraph?<br><br><b>'Harry had the best morning he'd had in a long time.'",
       "correctAnswer": "Topic sentence",
-      "wrongAnswers": [
-        "Hook",
-        "Tense",
-        "Narrative voice"
-      ]
+      "wrongAnswers": ["Hook", "Tense", "Narrative voice"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "6b73baff-7158-490f-a484-cdb4cb1da295",
@@ -2555,11 +2198,7 @@
     "content": {
       "question": "What technique does this sentence use?<br><br><b>I made the genius decision of quitting my job just before I was due a pay rise. ",
       "correctAnswer": "Sarcasm",
-      "wrongAnswers": [
-        "Antithesis",
-        "Foreshadowing",
-        "Oxymoron"
-      ]
+      "wrongAnswers": ["Antithesis", "Foreshadowing", "Oxymoron"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "d774c626-db3a-485d-bbb5-24c46d41423f",
@@ -2574,11 +2213,7 @@
     "content": {
       "question": "What is this sentence an example of?<br><br><b>Financially, uniforms cause a lot of problems for families because they must be purchased in specific shops and are often specialised products. ",
       "correctAnswer": "Convincing evidence",
-      "wrongAnswers": [
-        "Opinion",
-        "Triple",
-        "Exaggeration"
-      ]
+      "wrongAnswers": ["Opinion", "Triple", "Exaggeration"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "cd991a7b-bb47-464b-9a06-db4caf14b942",
@@ -2596,15 +2231,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Told",
-        "Got",
-        "Highest",
-        "Mark"
-      ],
+      "wrongAnswers": ["Told", "Got", "Highest", "Mark"],
       "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?<br><br><b>Ruby got the highest mark in the class. She told me her score at the beginning of the day, which was unfair of her.",
       "correctAnswer": "Was",
-      "imageURL": "seneca-image-cdn:///2018-08/eee6bab5-d6a7-493a-8fb2-39322a189cd0/exam-sheet-answers.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/eee6bab5-d6a7-493a-8fb2-39322a189cd0/exam-sheet-answers.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2573c4e6-cfc7-41f6-8392-f565026a4146",
@@ -2612,7 +2242,7 @@
       "wrongAnswers": "Told, Got, Highest, Mark",
       "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?<br><br><b>Ruby got the highest mark in the class. She told me her score at the beginning of the day, which was unfair of her.",
       "correctAnswer": "Was",
-      "imageURL": "seneca-image-cdn:///2018-08/eee6bab5-d6a7-493a-8fb2-39322a189cd0/exam-sheet-answers.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/eee6bab5-d6a7-493a-8fb2-39322a189cd0/exam-sheet-answers.jpg"
     },
     "id": "5acd42ce-84d3-4341-8a7a-74313020d144",
     "moduleDifficulty": 1,
@@ -2649,7 +2279,7 @@
       ],
       "question": "Which of these sentences is an opinion?",
       "correctAnswer": "Smoking makes you look cool",
-      "imageURL": "seneca-image-cdn:///courseImages/biology/2.4.1/cigarette-110849_640-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/biology/2.4.1/cigarette-110849_640-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "494b1fc1-9cab-4265-b829-5299f8934661",
@@ -2664,11 +2294,7 @@
     "content": {
       "question": "What sound device is used in this phrase?<br><br>\"Try to light the fire\"",
       "correctAnswer": "Assonance",
-      "wrongAnswers": [
-        "Sibilance",
-        "Onomatopoeia",
-        "Alliteration"
-      ]
+      "wrongAnswers": ["Sibilance", "Onomatopoeia", "Alliteration"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "43918e6d-009e-4305-990a-c6fc15c824d2",
@@ -2683,10 +2309,7 @@
     "content": {
       "question": "Why is it a good idea to include facts in your writing?",
       "correctAnswer": "Facts add credibility to your ideas",
-      "wrongAnswers": [
-        "Facts allow you to include your opinion",
-        "Facts allow your reader to question your content"
-      ]
+      "wrongAnswers": ["Facts allow you to include your opinion", "Facts allow your reader to question your content"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "fd195c6a-3514-4a90-a23a-b28a6a1c4d8c",
@@ -2701,11 +2324,7 @@
     "content": {
       "question": "About how long should you spend answering Question 3?",
       "correctAnswer": "16 minutes",
-      "wrongAnswers": [
-        "20 minutes",
-        "12 minutes",
-        "8 minutes"
-      ]
+      "wrongAnswers": ["20 minutes", "12 minutes", "8 minutes"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "329ceb73-a7c1-4d22-8f4f-674a9cc1b835",
@@ -2725,7 +2344,7 @@
       ],
       "question": "What should you NOT do when answering Question 2 of Section A?",
       "correctAnswer": "Analyse the writer's words",
-      "imageURL": "seneca-image-cdn:///courseImages/biology/1.1.1 - Types of cells/no-entry-706905_640-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/biology/1.1.1 - Types of cells/no-entry-706905_640-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "241b705f-dec9-4aa2-b2b8-26c0db9981a1",
@@ -2738,14 +2357,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Metaphor",
-        "Personification",
-        "Emotive language"
-      ],
+      "wrongAnswers": ["Metaphor", "Personification", "Emotive language"],
       "question": "What technique is used in this sentence?<br><br><b>The boy was as happy as a puppy with a bone.</b>",
       "correctAnswer": "Simile",
-      "imageURL": "seneca-image-cdn:///2018-08/5f18f5d7-554b-4b57-b264-4cd0eea679ba/dog-puppy.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/5f18f5d7-554b-4b57-b264-4cd0eea679ba/dog-puppy.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c183f4de-666b-455a-8f3f-8ec2db289300",
@@ -2760,11 +2375,7 @@
     "content": {
       "question": "In which question are you asked whether you agree or disagree with a statement?",
       "correctAnswer": "Question 4",
-      "wrongAnswers": [
-        "Question 1",
-        "Question 3",
-        "Question 2"
-      ]
+      "wrongAnswers": ["Question 1", "Question 3", "Question 2"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c2c4f032-b849-45e7-9ef3-408678c37df5",
@@ -2779,12 +2390,7 @@
     "content": {
       "question": "Which word uses onomatopoeia? ",
       "correctAnswer": "Splash",
-      "wrongAnswers": [
-        "Sing",
-        "Laugh",
-        "Walk",
-        "Move"
-      ]
+      "wrongAnswers": ["Sing", "Laugh", "Walk", "Move"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "327f89ed-89ed-4f06-be5d-99bcd341f35a",
@@ -2818,12 +2424,7 @@
     "content": {
       "question": "Which word best describes the narrator's tone here?<br><br>\"Jane was effortlessly kind, but her good deeds often went unnoticed by the masses.\"",
       "correctAnswer": "Pitiful ",
-      "wrongAnswers": [
-        "Regretful",
-        "Angry",
-        "Impassioned",
-        "Snide"
-      ]
+      "wrongAnswers": ["Regretful", "Angry", "Impassioned", "Snide"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b1333cd6-8200-471f-927d-c92b66689970",
@@ -2838,11 +2439,7 @@
     "content": {
       "question": "What technique is used in this phrase?<br><br>\"I told you to clean the house a million times!\"",
       "correctAnswer": "Hyperbole",
-      "wrongAnswers": [
-        "Pun",
-        "Oxymoron",
-        "Onomatopoeia"
-      ]
+      "wrongAnswers": ["Pun", "Oxymoron", "Onomatopoeia"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "91675ad7-420b-49e1-a19c-8373875d6248",
@@ -2874,14 +2471,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Paraphrasing the text",
-        "Quoting the text",
-        "Listing more than four things about the topic"
-      ],
+      "wrongAnswers": ["Paraphrasing the text", "Quoting the text", "Listing more than four things about the topic"],
       "question": "What will you receive NO marks for in Section A, Question 1?",
       "correctAnswer": "Quoting information from outside the specified lines",
-      "imageURL": "seneca-image-cdn:///2018-07/bbe834da-168d-4574-9f16-fde1649a1cca/Letter-X-Not-Allowed-No-Entry-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/bbe834da-168d-4574-9f16-fde1649a1cca/Letter-X-Not-Allowed-No-Entry-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "0f073d55-8e20-4f16-8a8c-2b6ba293d7af",
@@ -2913,15 +2506,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Ran",
-        "Harry",
-        "Friend's",
-        "House"
-      ],
+      "wrongAnswers": ["Ran", "Harry", "Friend's", "House"],
       "question": "Which word is an adverb in this sentence?<br><br><b>Harry ran swiftly to his friend's house.</b>",
       "correctAnswer": "Swiftly",
-      "imageURL": "seneca-image-cdn:///courseImages/physics/1.5.1 Energy Changes/kinetic-energy-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/physics/1.5.1 Energy Changes/kinetic-energy-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c294ac6c-06c9-4d08-bb39-107cec26ff8f",
@@ -2934,11 +2522,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Writing to argue",
-        "Writing to advise",
-        "Writing to inform"
-      ],
+      "wrongAnswers": ["Writing to argue", "Writing to advise", "Writing to inform"],
       "question": "You write a piece explaining why rollerblading is the best sport. You do not consider why others might disagree with you. What is this an example of?",
       "correctAnswer": "Writing to persuade",
       "imageURL": "https://media.giphy.com/media/Prixp6yme2LUA/giphy.mp4"
@@ -2956,10 +2540,7 @@
     "content": {
       "question": "Why is this a good conclusion to an argument?<br><br><b>Although a lot of the Daily Mail's content doesn't teach people anything, wastes a lot of my time, and invades people's privacy, it covers content that it knows people enjoy reading and looking at. It is the greatest website in the world. ",
       "correctAnswer": "Shows the writer has weighed up the argument and chosen one side",
-      "wrongAnswers": [
-        "The writer has argued one side emphatically",
-        "The writer has repeated the word 'uniforms'"
-      ]
+      "wrongAnswers": ["The writer has argued one side emphatically", "The writer has repeated the word 'uniforms'"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "36e5a023-45e4-4434-b5d2-e62f9e35df4b",
@@ -2974,14 +2555,7 @@
     "content": {
       "question": "Which of these is a second-person pronoun?",
       "correctAnswer": "You",
-      "wrongAnswers": [
-        "We",
-        "Us",
-        "He",
-        "She",
-        "They",
-        "It"
-      ]
+      "wrongAnswers": ["We", "Us", "He", "She", "They", "It"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "1f5b8a58-0689-42f7-95fa-691ea7b55072",
@@ -2996,11 +2570,7 @@
     "content": {
       "question": "Which of these is a common literary technique?",
       "correctAnswer": "Rule of three",
-      "wrongAnswers": [
-        "Rule of seven",
-        "Rule of four",
-        "Rule of thumb"
-      ]
+      "wrongAnswers": ["Rule of seven", "Rule of four", "Rule of thumb"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "d774c626-db3a-485d-bbb5-24c46d41423f",
@@ -3015,11 +2585,7 @@
     "content": {
       "question": "Which phrase uses hyperbole?",
       "correctAnswer": "Never-ending traffic",
-      "wrongAnswers": [
-        "A light meal",
-        "As small as a pin",
-        "A dangerous affair"
-      ]
+      "wrongAnswers": ["A light meal", "As small as a pin", "A dangerous affair"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "ff94cc4b-0e4d-48fc-8bbb-8860f60c75c1",
@@ -3034,10 +2600,7 @@
     "content": {
       "question": "What could we do instead of repeating the adjective 'nice' in this sentence?<br><br><b>Mary had a nice house on a nice estate with nice neighbours and nice gardens.",
       "correctAnswer": "Use different synonyms for nice",
-      "wrongAnswers": [
-        "Delete all the adjectives",
-        "Replace 'nice' with 'terrible'"
-      ]
+      "wrongAnswers": ["Delete all the adjectives", "Replace 'nice' with 'terrible'"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "7cea4c6b-e095-46e4-aed1-a21315cda266",
@@ -3052,11 +2615,7 @@
     "content": {
       "question": "What persuasive technique is used in this extract?<br><br><b>I am forced to revise seven nights a week. Consequently, my social life is suffering.",
       "correctAnswer": "Logical connective",
-      "wrongAnswers": [
-        "Direct address",
-        "First person",
-        "Exaggeration"
-      ]
+      "wrongAnswers": ["Direct address", "First person", "Exaggeration"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "576a8a48-0205-44c6-8fb4-e3539566444b",
@@ -3106,14 +2665,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Oxymoron",
-        "Juxtaposition",
-        "Foreshadowing"
-      ],
+      "wrongAnswers": ["Oxymoron", "Juxtaposition", "Foreshadowing"],
       "question": "What technique is used in this sentence?<br><br><b>I was so hungry I could die.</b>",
       "correctAnswer": "Hyperbole",
-      "imageURL": "seneca-image-cdn:///2018-09/6c93be05-db69-47c2-bf9a-5f44ccf230af/abdominal-pain-hunger-hungry-man-food-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/6c93be05-db69-47c2-bf9a-5f44ccf230af/abdominal-pain-hunger-hungry-man-food-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "ff94cc4b-0e4d-48fc-8bbb-8860f60c75c1",
@@ -3128,11 +2683,7 @@
     "content": {
       "question": "Which verb should go in the gap?<br><br><b>Molly always jumps to conclusions. She thought that I ____ my brother.",
       "correctAnswer": "Attacked",
-      "wrongAnswers": [
-        "Attacks",
-        "Attack",
-        "Will attack"
-      ]
+      "wrongAnswers": ["Attacks", "Attack", "Will attack"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "cb5fc89e-fba9-4330-87eb-b27b70c11af3",
@@ -3145,13 +2696,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Bullet points",
-        "Spider diagrams"
-      ],
+      "wrongAnswers": ["Bullet points", "Spider diagrams"],
       "question": "Which planning technique would be best for planning how your story should flow in the exam?",
       "correctAnswer": "Flow chart",
-      "imageURL": "seneca-image-cdn:///2018-09/4f30056e-a649-4336-ab08-8f618b345d9f/writing-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/4f30056e-a649-4336-ab08-8f618b345d9f/writing-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2a7f25c1-08cf-4133-99f7-13ae30934090",
@@ -3166,11 +2714,7 @@
     "content": {
       "question": "Which sentence contains a simple future tense verb?",
       "correctAnswer": "You will never make me happy",
-      "wrongAnswers": [
-        "You talked to so many people last night!",
-        "You sing like an angel",
-        "You can call me anytime"
-      ]
+      "wrongAnswers": ["You talked to so many people last night!", "You sing like an angel", "You can call me anytime"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "f9bb3fe5-2d69-469c-ae19-b9ac952a7427",
@@ -3185,11 +2729,7 @@
     "content": {
       "question": "Which word uses onomatopoeia? ",
       "correctAnswer": "Crash",
-      "wrongAnswers": [
-        "Dance",
-        "Procrastinate",
-        "Liver"
-      ]
+      "wrongAnswers": ["Dance", "Procrastinate", "Liver"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "327f89ed-89ed-4f06-be5d-99bcd341f35a",
@@ -3204,11 +2744,7 @@
     "content": {
       "question": "Which side of the argument should you give when writing to argue?",
       "correctAnswer": "Both sides",
-      "wrongAnswers": [
-        "Just the side you agree with",
-        "Only the side you don't agree with",
-        "Neither"
-      ]
+      "wrongAnswers": ["Just the side you agree with", "Only the side you don't agree with", "Neither"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "442f20fb-1ea9-46ca-94e3-62a092bdfb70",
@@ -3223,11 +2759,7 @@
     "content": {
       "question": "What should you do _before_ you start writing in your exam?",
       "correctAnswer": "Plan",
-      "wrongAnswers": [
-        "Edit",
-        "Review",
-        "Proof read"
-      ]
+      "wrongAnswers": ["Edit", "Review", "Proof read"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2a7f25c1-08cf-4133-99f7-13ae30934090",
@@ -3240,15 +2772,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Onomatopoeia",
-        "Pun",
-        "Emotive language",
-        "Pathetic fallacy"
-      ],
+      "wrongAnswers": ["Onomatopoeia", "Pun", "Emotive language", "Pathetic fallacy"],
       "question": "Which of these techniques is used in this sentence?<br><br><b>The sea is a snake, licking the sand with it's split tongue.</b>",
       "correctAnswer": "Metaphor",
-      "imageURL": "seneca-image-cdn:///2018-09/983b8d6c-b99f-4e7e-9d91-aa2a61d6a1de/beach-sea-coast-drone-ocean.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/983b8d6c-b99f-4e7e-9d91-aa2a61d6a1de/beach-sea-coast-drone-ocean.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c183f4de-666b-455a-8f3f-8ec2db289300",
@@ -3269,7 +2796,7 @@
       ],
       "question": "Which of these is a simile?",
       "correctAnswer": "Jonathan's house was like a grand hotel",
-      "imageURL": "seneca-image-cdn:///courseImages/chemistry/8.1.1 Purity, formulations and chromatography/house-2943878_640-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/chemistry/8.1.1 Purity, formulations and chromatography/house-2943878_640-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "f552b614-694a-4bb7-b7b7-c54ea2c48302",
@@ -3282,15 +2809,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "A piece of paper",
-        "A coarse sponge",
-        "A hard brick",
-        "A cat's fur"
-      ],
+      "wrongAnswers": ["A piece of paper", "A coarse sponge", "A hard brick", "A cat's fur"],
       "question": "Which of these would be the best comparison for wild, shaggy hair?",
       "correctAnswer": "A lion's mane",
-      "imageURL": "seneca-image-cdn:///2018-04/5c15c0bf-3648-4869-8974-5bd47678c698/shutterstock_92640187.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-04/5c15c0bf-3648-4869-8974-5bd47678c698/shutterstock_92640187.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "926e36d0-350b-45c3-a5f1-0d3ae19cab78",
@@ -3305,10 +2827,7 @@
     "content": {
       "question": "What kind of tone is the narrator using to describe Scrooge?<br><br><b>'A squeezing, wrenching, grasping, scraping, clutching, covetous, old sinner!'",
       "correctAnswer": "Negative tone",
-      "wrongAnswers": [
-        "Positive tone",
-        "Neutral tone"
-      ]
+      "wrongAnswers": ["Positive tone", "Neutral tone"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2728e378-1fa6-4c84-8f84-27b60de51ec5",
@@ -3345,17 +2864,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Harry",
-        "Mother",
-        "Brought",
-        "Piping",
-        "Pizza",
-        "Hot"
-      ],
+      "wrongAnswers": ["Harry", "Mother", "Brought", "Piping", "Pizza", "Hot"],
       "question": "Which word uses onomatopoeia in this sentence?<br><br><b>Harry dribbled as his mother brought out the piping hot pizza.",
       "correctAnswer": "Dribbled ",
-      "imageURL": "seneca-image-cdn:///2018-03/7e5d5c7b-c49b-4e1a-a814-e6a01e9d5726/shutterstock_719923828.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/7e5d5c7b-c49b-4e1a-a814-e6a01e9d5726/shutterstock_719923828.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "327f89ed-89ed-4f06-be5d-99bcd341f35a",
@@ -3370,12 +2882,7 @@
     "content": {
       "question": "You want to directly address your reader. What pronoun should you use if you want to talk at them (instead of being a 'team' with them)?",
       "correctAnswer": "You",
-      "wrongAnswers": [
-        "Us",
-        "They",
-        "I",
-        "Them"
-      ]
+      "wrongAnswers": ["Us", "They", "I", "Them"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "1f5b8a58-0689-42f7-95fa-691ea7b55072",
@@ -3390,12 +2897,7 @@
     "content": {
       "question": "Which of these is a collective pronoun?",
       "correctAnswer": "We",
-      "wrongAnswers": [
-        "I",
-        "He",
-        "She",
-        "It"
-      ]
+      "wrongAnswers": ["I", "He", "She", "It"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "1f5b8a58-0689-42f7-95fa-691ea7b55072",
@@ -3427,13 +2929,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Present tense",
-        "Past tense"
-      ],
+      "wrongAnswers": ["Present tense", "Past tense"],
       "question": "What tense is the verb in this sentence?<br><br><b>My sister, Josephine, will marry her fiancé in two weeks' time. ",
       "correctAnswer": "Future tense",
-      "imageURL": "seneca-image-cdn:///2018-09/a32e93da-2885-49d5-ae74-fe350943fb35/married-wedding.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/a32e93da-2885-49d5-ae74-fe350943fb35/married-wedding.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "456baca2-4ba9-4d21-ace7-ce42417a495d",
@@ -3441,7 +2940,7 @@
       "wrongAnswers": "Present tense, Past tense",
       "question": "What tense is the verb in this sentence?<br><br><b>My sister, Josephine, will marry her fiancé in two weeks' time. ",
       "correctAnswer": "Future tense",
-      "imageURL": "seneca-image-cdn:///2018-09/a32e93da-2885-49d5-ae74-fe350943fb35/married-wedding.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/a32e93da-2885-49d5-ae74-fe350943fb35/married-wedding.jpg"
     },
     "id": "797c74b9-1880-406f-b0c2-3a3b9467e9d7",
     "moduleDifficulty": 1,
@@ -3454,12 +2953,7 @@
     "content": {
       "question": "What is the phrase __'beat around the bush'__ an example of?",
       "correctAnswer": "Idiom",
-      "wrongAnswers": [
-        "Metaphor",
-        "Adverbial phrase",
-        "Noun phrase",
-        "Parenthetical remark"
-      ]
+      "wrongAnswers": ["Metaphor", "Adverbial phrase", "Noun phrase", "Parenthetical remark"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "f347bd63-cca7-402f-91f5-e939a0b75ce3",
@@ -3472,12 +2966,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Alliteration"
-      ],
+      "wrongAnswers": ["Alliteration"],
       "question": "What technique does the following sentence use?<br><br>__His satchel was soaking thanks to the storm.__",
       "correctAnswer": "Sibilance",
-      "imageURL": "seneca-image-cdn:///2018-08/0f656502-a10f-4a99-90fb-6c63ffb986e9/smoke.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/0f656502-a10f-4a99-90fb-6c63ffb986e9/smoke.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b61a5e83-f432-4c92-aac8-3edcc6605286",
@@ -3485,7 +2977,7 @@
       "wrongAnswers": "Alliteration ",
       "question": "What technique does the following sentence use?<br><br>__His satchel was soaking thanks to the storm.__",
       "correctAnswer": "Sibilance",
-      "imageURL": "seneca-image-cdn:///2018-08/0f656502-a10f-4a99-90fb-6c63ffb986e9/smoke.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/0f656502-a10f-4a99-90fb-6c63ffb986e9/smoke.jpg"
     },
     "id": "79db8969-b933-44e5-8dea-0cdcc8c9f731",
     "moduleDifficulty": 1,
@@ -3515,14 +3007,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Simile",
-        "Personification",
-        "Anthropomorphism"
-      ],
+      "wrongAnswers": ["Simile", "Personification", "Anthropomorphism"],
       "question": "What technique is being used in this sentence?<br><br><b>Jenny was a ghost in her paleness.</b>",
       "correctAnswer": "Metaphor",
-      "imageURL": "seneca-image-cdn:///2018-10/e32e8378-238b-4a54-85a3-c9a71d16da60/ghost-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-10/e32e8378-238b-4a54-85a3-c9a71d16da60/ghost-.png"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "0031c1ea-0310-4426-9e51-600f4a8c63b3",
@@ -3535,14 +3023,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Entertaining and informal",
-        "Satirical",
-        "Informal and conversational"
-      ],
+      "wrongAnswers": ["Entertaining and informal", "Satirical", "Informal and conversational"],
       "question": "What kind of tone should you use if you are asked to write a review of a Michelin-starred restaurant for The Times?",
       "correctAnswer": "Informative and formal",
-      "imageURL": "seneca-image-cdn:///2018-08/0ba99d29-9ed5-4b9d-b0c1-1e7654854a93/dinner-restaurant-food.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/0ba99d29-9ed5-4b9d-b0c1-1e7654854a93/dinner-restaurant-food.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c07c3999-f848-4d87-85bb-7569aff389e9",
@@ -3557,11 +3041,7 @@
     "content": {
       "question": "What should you NOT do when answering Question 2?",
       "correctAnswer": "Analyse the writer's use of language",
-      "wrongAnswers": [
-        "Quote from the source",
-        "Use information from both sources",
-        "Summarise information"
-      ]
+      "wrongAnswers": ["Quote from the source", "Use information from both sources", "Summarise information"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "329ceb73-a7c1-4d22-8f4f-674a9cc1b835",
@@ -3576,11 +3056,7 @@
     "content": {
       "question": "Which personified phrase could you use to create a sinister tone?",
       "correctAnswer": "The thunder cackled",
-      "wrongAnswers": [
-        "The night sky hummed",
-        "The stars danced across the sky",
-        "The sun beamed"
-      ]
+      "wrongAnswers": ["The night sky hummed", "The stars danced across the sky", "The sun beamed"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "272cbbaa-2f14-4d70-bb6b-3b19f66e4702",
@@ -3593,13 +3069,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Present tense",
-        "Past tense"
-      ],
+      "wrongAnswers": ["Present tense", "Past tense"],
       "question": "What tense is the verb in this sentence?<br><br><b>My sister, Josephine, will marry her fiancé in two weeks' time. ",
       "correctAnswer": "Future tense",
-      "imageURL": "seneca-image-cdn:///2018-09/a32e93da-2885-49d5-ae74-fe350943fb35/married-wedding.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/a32e93da-2885-49d5-ae74-fe350943fb35/married-wedding.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "0d1c6492-fc2f-4daa-b086-daee6dc78b96",
@@ -3638,7 +3111,7 @@
       ],
       "question": "You are explaining the dangers of drinking too much alcohol. Which of these would be the most persuasive fact to include?",
       "correctAnswer": "Alcohol causes 60% of fatal liver injuries",
-      "imageURL": "seneca-image-cdn:///2018-09/d12dbafe-51d4-49ed-8a86-cadf6080220b/bottles-alcohol-drinking-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/d12dbafe-51d4-49ed-8a86-cadf6080220b/bottles-alcohol-drinking-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "1d1c140a-1fe1-4764-829d-fa35bba8fc60",
@@ -3672,11 +3145,7 @@
     "content": {
       "question": "What kind of tone is the reader using in this example of writing to advise?<br><br><b> If you don’t want a cold head, you could try a sponsored silence, a non-uniform day, or a cake sale. ",
       "correctAnswer": "Friendly ",
-      "wrongAnswers": [
-        "Sinister",
-        "Formal",
-        "Informative"
-      ]
+      "wrongAnswers": ["Sinister", "Formal", "Informative"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c0bf0e74-78d5-4c7b-83ad-aced7a99cf22",
@@ -3691,11 +3160,7 @@
     "content": {
       "question": "Which phrase uses direct address?",
       "correctAnswer": "Surely you are tired by now?",
-      "wrongAnswers": [
-        "How is Jimmy so dumb?",
-        "What time is it?",
-        "What is the date?"
-      ]
+      "wrongAnswers": ["How is Jimmy so dumb?", "What time is it?", "What is the date?"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "91471d95-4e65-4ef5-8e23-439ce63b7dc8",
@@ -3708,15 +3173,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Statistic",
-        "Opinion",
-        "Fact",
-        "Exaggeration"
-      ],
+      "wrongAnswers": ["Statistic", "Opinion", "Fact", "Exaggeration"],
       "question": "What persuasive technique is being used in this paragraph?<br><br><b>Are you as exhausted as I am?",
       "correctAnswer": "Rhetorical question",
-      "imageURL": "seneca-image-cdn:///2018-09/e5540b8e-086b-485d-900c-be771465d1b9/bored-yawn-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/e5540b8e-086b-485d-900c-be771465d1b9/bored-yawn-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "4f3e8c9c-b0b8-437f-87a7-2d902a11cd2b",
@@ -3729,15 +3189,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Simile",
-        "Metaphor",
-        "Onomatopoeia",
-        "Hyperbole"
-      ],
+      "wrongAnswers": ["Simile", "Metaphor", "Onomatopoeia", "Hyperbole"],
       "question": "What technique is used in this sentence?<br><br><b>The starving child stared longingly at the luxurious banquet, so far out of reach.</b>",
       "correctAnswer": "Emotive language",
-      "imageURL": "seneca-image-cdn:///2018-07/95a68803-387c-4c50-9a0e-89800283fa55/Banquet-Tudor-Food-Feast-Table.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/95a68803-387c-4c50-9a0e-89800283fa55/Banquet-Tudor-Food-Feast-Table.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c183f4de-666b-455a-8f3f-8ec2db289300",
@@ -3750,15 +3205,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Informative",
-        "Formal",
-        "Satirical",
-        "Emotive"
-      ],
+      "wrongAnswers": ["Informative", "Formal", "Satirical", "Emotive"],
       "question": "What type of language is the writer using in this sentence?<br><br><b>Instead, I hear the lapping of the water against the old brick walls of the dock.",
       "correctAnswer": "Figurative",
-      "imageURL": "seneca-image-cdn:///2018-08/4d6856be-f35b-4ca6-a8ae-19b9e8df2630/breakwater-water-sea-barrier.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/4d6856be-f35b-4ca6-a8ae-19b9e8df2630/breakwater-water-sea-barrier.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c30e4617-f295-4254-a6a0-e2bc31b8be71",
@@ -3773,11 +3223,7 @@
     "content": {
       "question": "What kind of language is being used in these sentences?<br><br><b>Jack had no food. His body was weak and scrawny. He was tearful.</b>",
       "correctAnswer": "Emotive language",
-      "wrongAnswers": [
-        "Metaphors",
-        "Figurative language",
-        "Similes"
-      ]
+      "wrongAnswers": ["Metaphors", "Figurative language", "Similes"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b6e3444f-72b6-4636-b644-23e396ebc48d",
@@ -3792,11 +3238,7 @@
     "content": {
       "question": "What could we replace the repeated word 'Lucy' with in this phrase?<br><br><b>Lucy was a bright girl. Lucy could sing. Lucy could dance. Lucy was an all-rounder. ",
       "correctAnswer": "She",
-      "wrongAnswers": [
-        "It",
-        "Her",
-        "Girl"
-      ]
+      "wrongAnswers": ["It", "Her", "Girl"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "7cea4c6b-e095-46e4-aed1-a21315cda266",
@@ -3811,11 +3253,7 @@
     "content": {
       "question": "What technique does this sentence use?<br><br><b>She was moody. She was boring. She was downright awful.</b>",
       "correctAnswer": "Rule of three",
-      "wrongAnswers": [
-        "Sarcasm",
-        "Antithesis",
-        "Hyperbole"
-      ]
+      "wrongAnswers": ["Sarcasm", "Antithesis", "Hyperbole"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "d774c626-db3a-485d-bbb5-24c46d41423f",
@@ -3854,7 +3292,7 @@
       ],
       "question": "You want to argue that cars are bad for the environment. Which statistic would support your argument?",
       "correctAnswer": "Cars release 40% of the world's total pollution",
-      "imageURL": "seneca-image-cdn:///2018-04/a24320ff-0cff-49fa-a204-5638d2ab4703/shutterstock_473560435.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-04/a24320ff-0cff-49fa-a204-5638d2ab4703/shutterstock_473560435.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "1c4b7dac-7afc-444e-b721-edf0f3a6ed77",
@@ -3886,13 +3324,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Present tense",
-        "Future tense"
-      ],
+      "wrongAnswers": ["Present tense", "Future tense"],
       "question": "What tense is the verb in this sentence?<br><br><b>I walked the dog yesterday.",
       "correctAnswer": "Past tense",
-      "imageURL": "seneca-image-cdn:///2018-09/dfc821d8-5038-440e-be03-b10b986cfa8d/dog-owner.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/dfc821d8-5038-440e-be03-b10b986cfa8d/dog-owner.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "456baca2-4ba9-4d21-ace7-ce42417a495d",
@@ -3900,7 +3335,7 @@
       "wrongAnswers": "Present tense, Future tense",
       "question": "What tense is the verb in this sentence?<br><br><b>I walked the dog yesterday.",
       "correctAnswer": "Past tense",
-      "imageURL": "seneca-image-cdn:///2018-09/dfc821d8-5038-440e-be03-b10b986cfa8d/dog-owner.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/dfc821d8-5038-440e-be03-b10b986cfa8d/dog-owner.jpg"
     },
     "id": "90aa1e50-edab-4d4b-b71a-4b22ca67e30a",
     "moduleDifficulty": 1,
@@ -3913,12 +3348,7 @@
     "content": {
       "question": "What word directly addresses the reader in this phrase?<br><br><b>If we work on the problem together, we will get it done so much faster!",
       "correctAnswer": "We",
-      "wrongAnswers": [
-        "Together",
-        "Problem",
-        "Faster",
-        "Will"
-      ]
+      "wrongAnswers": ["Together", "Problem", "Faster", "Will"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "91471d95-4e65-4ef5-8e23-439ce63b7dc8",
@@ -3931,9 +3361,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Columnist"
-      ],
+      "wrongAnswers": ["Columnist"],
       "question": "Which writer will use a more informative style?",
       "correctAnswer": "News reporter",
       "imageURL": "https://media.giphy.com/media/3ofT5UqqOHwgA2Zvby/giphy.mp4"
@@ -3951,11 +3379,7 @@
     "content": {
       "question": "How many marks is Question 1 of the reading section (Section A) of Paper 2 worth?",
       "correctAnswer": "4",
-      "wrongAnswers": [
-        "8",
-        "12",
-        "16"
-      ]
+      "wrongAnswers": ["8", "12", "16"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "56b3cfe7-45eb-48db-ac0d-43d9c797644e",
@@ -3970,12 +3394,7 @@
     "content": {
       "question": "Which onomatopoeic word is most appropriate for creating a tense atmosphere?",
       "correctAnswer": "Rumble",
-      "wrongAnswers": [
-        "Jingle",
-        "Hum",
-        "Drip",
-        "Achoo"
-      ]
+      "wrongAnswers": ["Jingle", "Hum", "Drip", "Achoo"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "9e258a7d-0a3a-4930-81b5-d4f9b9949ace",
@@ -3990,12 +3409,7 @@
     "content": {
       "question": "What tone should you use when writing to advise?",
       "correctAnswer": "Friendly and sympathetic ",
-      "wrongAnswers": [
-        "Neutral",
-        "Aggressive",
-        "Argumentative",
-        "Highly persuasive"
-      ]
+      "wrongAnswers": ["Neutral", "Aggressive", "Argumentative", "Highly persuasive"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "442f20fb-1ea9-46ca-94e3-62a092bdfb70",
@@ -4010,11 +3424,7 @@
     "content": {
       "question": "What tone should you use if you're asked to write a review for a tabloid newspaper?",
       "correctAnswer": "Formal ",
-      "wrongAnswers": [
-        "Colloquial",
-        "Informal",
-        "Pessimistic"
-      ]
+      "wrongAnswers": ["Colloquial", "Informal", "Pessimistic"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "6d54445a-b3fa-45c1-870c-51f7d70bed64",
@@ -4034,7 +3444,7 @@
       ],
       "question": "Which statistic would NOT support your argument that homework should be abolished?",
       "correctAnswer": "80% of students found that homework improved their grades",
-      "imageURL": "seneca-image-cdn:///2018-08/46f35257-bbd2-4ca0-8087-372ac5cebf8c/child-homework-thinking-memory.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/46f35257-bbd2-4ca0-8087-372ac5cebf8c/child-homework-thinking-memory.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "1c4b7dac-7afc-444e-b721-edf0f3a6ed77",
@@ -4049,12 +3459,7 @@
     "content": {
       "question": "What should you do _before_ you start writing in your exam?",
       "correctAnswer": "Plan",
-      "wrongAnswers": [
-        "Edit",
-        "Proofread",
-        "Doodle",
-        "Write your introduction"
-      ]
+      "wrongAnswers": ["Edit", "Proofread", "Doodle", "Write your introduction"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "1292b44e-01c5-408f-8e18-288d94d2e638",
@@ -4088,11 +3493,7 @@
     "content": {
       "question": "What is this sentence an example of?<br><br><b>Financially, uniforms cause a lot of problems for families because they must be purchased in specific shops and are often specialised products. ",
       "correctAnswer": "Convincing evidence",
-      "wrongAnswers": [
-        "Opinion",
-        "Triple",
-        "Exaggeration"
-      ]
+      "wrongAnswers": ["Opinion", "Triple", "Exaggeration"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "36e5a023-45e4-4434-b5d2-e62f9e35df4b",
@@ -4110,14 +3511,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Smooth",
-        "Fluid",
-        "Airy"
-      ],
+      "wrongAnswers": ["Smooth", "Fluid", "Airy"],
       "question": "What type of sound does this alliteration create?<br><br><b>The monster murdered everyone in sight as he marched through the marshland.",
       "correctAnswer": "Aggressive",
-      "imageURL": "seneca-image-cdn:///2018-09/a14bc0c5-48ae-4a4a-8f01-28a6571873d4/eery-frankenstein-monster-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/a14bc0c5-48ae-4a4a-8f01-28a6571873d4/eery-frankenstein-monster-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b5bfc48c-d165-48d4-a3d0-824ee5ff6f24",
@@ -4151,13 +3548,7 @@
     "content": {
       "question": "What technique is used in this sentence?<br><br><b>Harry always hated hearing from his mother.",
       "correctAnswer": "Alliteration",
-      "wrongAnswers": [
-        "Personification",
-        "Simile",
-        "Pun",
-        "Pathetic fallacy",
-        "Hyperbole"
-      ]
+      "wrongAnswers": ["Personification", "Simile", "Pun", "Pathetic fallacy", "Hyperbole"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "64854a75-c3f5-4347-bbcf-1f360254db23",
@@ -4172,11 +3563,7 @@
     "content": {
       "question": "What is the emotive word in this sentence?<br><br><b>Timmy had a stick-like frame.</b>",
       "correctAnswer": "Stick-like",
-      "wrongAnswers": [
-        "Frame",
-        "Timmy",
-        "Had"
-      ]
+      "wrongAnswers": ["Frame", "Timmy", "Had"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "0a25bec3-748b-4e6e-8c44-31e444ac9fe4",
@@ -4191,13 +3578,7 @@
     "content": {
       "question": "What technique is the writer using in this sentence?<br><br><b>If you think the city centre is an odd place to find peace, there are others who seem to share my choice of special spot. ",
       "correctAnswer": "Direct address",
-      "wrongAnswers": [
-        "Exaggeration",
-        "Emotive language",
-        "Rhetorical question",
-        "Imperative verb",
-        "Modal verb"
-      ]
+      "wrongAnswers": ["Exaggeration", "Emotive language", "Rhetorical question", "Imperative verb", "Modal verb"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "7c131bb5-56b8-4e77-a9a7-18caca2db4ce",
@@ -4222,7 +3603,7 @@
       ],
       "question": "You want to paint a picture of a lazy person. Which of the following would be a good extension for this metaphor?<br><br>__Suzie is a sloth...__",
       "correctAnswer": "Crawling out of bed with her eyes still closed",
-      "imageURL": "seneca-image-cdn:///2018-03/fb906586-5dcf-43e5-bbcb-08809ef29e91/shutterstock_243273610.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/fb906586-5dcf-43e5-bbcb-08809ef29e91/shutterstock_243273610.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "926e36d0-350b-45c3-a5f1-0d3ae19cab78",
@@ -4237,11 +3618,7 @@
     "content": {
       "question": "Which of these is a formal mode of address?",
       "correctAnswer": "Dear Madam",
-      "wrongAnswers": [
-        "To Lesley",
-        "Hi Mum",
-        "What's up Sam?"
-      ]
+      "wrongAnswers": ["To Lesley", "Hi Mum", "What's up Sam?"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "387d8f4f-a459-404f-bf38-739616220520",
@@ -4254,14 +3631,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Flowchart",
-        "Bullet points",
-        "Timeline"
-      ],
+      "wrongAnswers": ["Flowchart", "Bullet points", "Timeline"],
       "question": "What planning technique does the picture show?",
       "correctAnswer": "Spider diagram",
-      "imageURL": "seneca-image-cdn:///2018-09/ec45b3a7-76a7-4149-8400-c8e18cc3ca24/mindmap-plan-planning-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/ec45b3a7-76a7-4149-8400-c8e18cc3ca24/mindmap-plan-planning-.png"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "1292b44e-01c5-408f-8e18-288d94d2e638",
@@ -4276,9 +3649,7 @@
     "content": {
       "question": "Does this description SHOW or TELL?<br><br>\"The man was so tall that he banged his head as he entered the room.\"",
       "correctAnswer": "Tell",
-      "wrongAnswers": [
-        "Show"
-      ]
+      "wrongAnswers": ["Show"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "62ef9b0a-9711-4bde-8712-052d2ccb3353",
@@ -4293,11 +3664,7 @@
     "content": {
       "question": "What technique is used in this phrase?<br><br>\"I swallowed some paint this morning. I felt like I had dyed inside\"",
       "correctAnswer": "Pun",
-      "wrongAnswers": [
-        "Onomatopoeia",
-        "Oxymoron",
-        "Metaphor"
-      ]
+      "wrongAnswers": ["Onomatopoeia", "Oxymoron", "Metaphor"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "91675ad7-420b-49e1-a19c-8373875d6248",
@@ -4312,11 +3679,7 @@
     "content": {
       "question": "What technique is used in this phrase?<br><br>\"Roger's performance was amazingly bad\"",
       "correctAnswer": "Oxymoron",
-      "wrongAnswers": [
-        "Pun",
-        "Emotive language",
-        "Onomatopoeia"
-      ]
+      "wrongAnswers": ["Pun", "Emotive language", "Onomatopoeia"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "91675ad7-420b-49e1-a19c-8373875d6248",
@@ -4329,16 +3692,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Phenomenal",
-        "Scored",
-        "20",
-        "Our",
-        "Basketball"
-      ],
+      "wrongAnswers": ["Phenomenal", "Scored", "20", "Our", "Basketball"],
       "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?<br><br><b>Patrick is phenomenal at basketball. He scored 20 goals in our last game.",
       "correctAnswer": "Is",
-      "imageURL": "seneca-image-cdn:///2018-03/2dc4672c-80d7-4b6c-a7eb-4f32c9d59682/shutterstock_525133843.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/2dc4672c-80d7-4b6c-a7eb-4f32c9d59682/shutterstock_525133843.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2573c4e6-cfc7-41f6-8392-f565026a4146",
@@ -4346,7 +3703,7 @@
       "wrongAnswers": "Phenomenal, Scored, 20, Our, Basketball",
       "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?<br><br><b>Patrick is phenomenal at basketball. He scored 20 goals in our last game.",
       "correctAnswer": "Is",
-      "imageURL": "seneca-image-cdn:///2018-03/2dc4672c-80d7-4b6c-a7eb-4f32c9d59682/shutterstock_525133843.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/2dc4672c-80d7-4b6c-a7eb-4f32c9d59682/shutterstock_525133843.jpg"
     },
     "id": "a3fdb75a-9021-4c36-9fd3-999733e2adf4",
     "moduleDifficulty": 1,
@@ -4359,10 +3716,7 @@
     "content": {
       "question": "What type of narrator is this?<br><br>\"James was a handsome man, but I knew I could never love him.\"",
       "correctAnswer": "First-person narrator",
-      "wrongAnswers": [
-        "Third-person narrator",
-        "Second-person narrator"
-      ]
+      "wrongAnswers": ["Third-person narrator", "Second-person narrator"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b1333cd6-8200-471f-927d-c92b66689970",
@@ -4377,9 +3731,7 @@
     "content": {
       "question": "Why is this a strong conclusion to an argument?<br><br><b>In conclusion, even though online shopping is convenient, the strain it brings on shopping outlets and individuals working in retail outweighs this pro. ",
       "correctAnswer": "Shows the writer has weighed up the argument and chosen one side",
-      "wrongAnswers": [
-        "Strongly presents one point of view"
-      ]
+      "wrongAnswers": ["Strongly presents one point of view"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "43c6b8b5-5906-4a9b-9600-875e884350fc",
@@ -4410,14 +3762,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Colloquialism",
-        "Antithesis",
-        "Connotation"
-      ],
+      "wrongAnswers": ["Colloquialism", "Antithesis", "Connotation"],
       "question": "What technique does this sentence use?<br><br><b>He knew... He knew all too well.</b>",
       "correctAnswer": "Ellipsis",
-      "imageURL": "seneca-image-cdn:///2018-08/517f300c-e208-4473-bce1-c646457752fe/man-thinking-forget.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/517f300c-e208-4473-bce1-c646457752fe/man-thinking-forget.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "836b5bc2-74d9-4929-ae9b-ea9006367221",
@@ -4430,14 +3778,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Who? Where? How? Why?",
-        "Who? Why? Where? When?",
-        "What? When? Where? How?"
-      ],
+      "wrongAnswers": ["Who? Where? How? Why?", "Who? Why? Where? When?", "What? When? Where? How?"],
       "question": "What are the four questions you should answer when you're writing to inform?",
       "correctAnswer": "Who? What? When? Where?",
-      "imageURL": "seneca-image-cdn:///courseImages/chemistry/2.3.4 Nanotechnology/question-mark-2492009_640-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/chemistry/2.3.4 Nanotechnology/question-mark-2492009_640-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "5cbc195e-a272-4eac-b03d-93558640723e",
@@ -4450,13 +3794,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Statement",
-        "Inference"
-      ],
+      "wrongAnswers": ["Statement", "Inference"],
       "question": "Which component of a paragraph is the below sentence most likely to be?\n<br><br>\n\n<b>In paragraph two, the author uses the metaphor 'the wolfish wind'... </b>\n",
       "correctAnswer": "Quotation",
-      "imageURL": "seneca-image-cdn:///2018-09/0cbaf7a2-c88c-4ac2-a1bf-5c8670e63c2f/wolf-howl-moon-animal-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/0cbaf7a2-c88c-4ac2-a1bf-5c8670e63c2f/wolf-howl-moon-animal-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "71c6e4c8-3ce8-4900-808c-904a3ba7c868",
@@ -4471,9 +3812,7 @@
     "content": {
       "question": "What type of clause does NOT make sense by itself?",
       "correctAnswer": "Subordinate",
-      "wrongAnswers": [
-        "Main"
-      ]
+      "wrongAnswers": ["Main"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "0f06bc7a-8ad4-4043-9d85-b0c41545a93b",
@@ -4488,11 +3827,7 @@
     "content": {
       "question": "What is the technical term for the phrase in bold?<br><br>She walked __as quickly as she could__.",
       "correctAnswer": "Adverbial phrase",
-      "wrongAnswers": [
-        "Noun phrase",
-        "Pun",
-        "Cliché"
-      ]
+      "wrongAnswers": ["Noun phrase", "Pun", "Cliché"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "f347bd63-cca7-402f-91f5-e939a0b75ce3",
@@ -4507,11 +3842,7 @@
     "content": {
       "question": "What should you ALWAYS include when writing a review?",
       "correctAnswer": "Your opinion ",
-      "wrongAnswers": [
-        "Direct address",
-        "Rhetorical questions",
-        "Hyperbole"
-      ]
+      "wrongAnswers": ["Direct address", "Rhetorical questions", "Hyperbole"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "6d54445a-b3fa-45c1-870c-51f7d70bed64",
@@ -4545,11 +3876,7 @@
     "content": {
       "question": "What tone should you use when writing a travel piece?",
       "correctAnswer": "Personal tone",
-      "wrongAnswers": [
-        "Impersonal tone",
-        "Argumentative tone",
-        "Rhetorical tone"
-      ]
+      "wrongAnswers": ["Impersonal tone", "Argumentative tone", "Rhetorical tone"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "6d54445a-b3fa-45c1-870c-51f7d70bed64",
@@ -4562,13 +3889,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "The bed was like a moaning child",
-        "The bed was a moaning child"
-      ],
+      "wrongAnswers": ["The bed was like a moaning child", "The bed was a moaning child"],
       "question": "Which phrase uses personification?",
       "correctAnswer": "The bed moaned under my weight",
-      "imageURL": "seneca-image-cdn:///2018-09/c0dae7ed-47ef-4561-b860-5a6de37e3294/wall-bed-bedroom-room-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/c0dae7ed-47ef-4561-b860-5a6de37e3294/wall-bed-bedroom-room-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "09d67b42-71c9-4f1e-a13a-0e08837f107b",
@@ -4581,15 +3905,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Oxymoron",
-        "Pathetic fallacy",
-        "Hyperbole",
-        "Simile"
-      ],
+      "wrongAnswers": ["Oxymoron", "Pathetic fallacy", "Hyperbole", "Simile"],
       "question": "What technique is used in this sentence?<br><br><b>No matter how much you push the envelope, it will still be stationery.</b>",
       "correctAnswer": "Pun",
-      "imageURL": "seneca-image-cdn:///2018-09/0013c8a8-e85c-4acd-a8de-79713db7ecab/post-403145_1280.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/0013c8a8-e85c-4acd-a8de-79713db7ecab/post-403145_1280.png"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "43210a41-88cc-45c0-ad67-be2ed55bdb6f",
@@ -4623,11 +3942,7 @@
     "content": {
       "question": "When writing to argue, what should you include in your topic sentence?",
       "correctAnswer": "Which side of the argument you agree with ",
-      "wrongAnswers": [
-        "Both sides of the argument",
-        "A summary of all possible counter-arguments",
-        "Relevant facts"
-      ]
+      "wrongAnswers": ["Both sides of the argument", "A summary of all possible counter-arguments", "Relevant facts"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "442f20fb-1ea9-46ca-94e3-62a092bdfb70",
@@ -4642,11 +3957,7 @@
     "content": {
       "question": "Which of these is a connective?",
       "correctAnswer": "Furthermore ",
-      "wrongAnswers": [
-        "At 10 am",
-        "Recently",
-        "Cannot"
-      ]
+      "wrongAnswers": ["At 10 am", "Recently", "Cannot"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "442f20fb-1ea9-46ca-94e3-62a092bdfb70",
@@ -4661,11 +3972,7 @@
     "content": {
       "question": "What should you show when writing to explain?",
       "correctAnswer": "Cause and effect",
-      "wrongAnswers": [
-        "Your opinion",
-        "Both sides of an argument",
-        "A choice of actions"
-      ]
+      "wrongAnswers": ["Your opinion", "Both sides of an argument", "A choice of actions"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "442f20fb-1ea9-46ca-94e3-62a092bdfb70",
@@ -4680,10 +3987,7 @@
     "content": {
       "question": "What are statistics?",
       "correctAnswer": "Facts expressed in numbers",
-      "wrongAnswers": [
-        "Facts expressed in words",
-        "Opinions stated as facts"
-      ]
+      "wrongAnswers": ["Facts expressed in words", "Opinions stated as facts"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b7415f8c-12ac-4b43-9075-28e2ea5af977",
@@ -4716,11 +4020,7 @@
     "content": {
       "question": "Which of these is a rhetorical question?",
       "correctAnswer": "Did you have to be so rude?",
-      "wrongAnswers": [
-        "What's the weather doing today?",
-        "Did you find your pencil case?",
-        "Shall we meet at 5 pm?"
-      ]
+      "wrongAnswers": ["What's the weather doing today?", "Did you find your pencil case?", "Shall we meet at 5 pm?"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "5a02e413-fc7c-418c-8cbd-1e5ea47f5787",
@@ -4733,15 +4033,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "16 marks",
-        "80 marks",
-        "95 marks",
-        "105 marks"
-      ],
+      "wrongAnswers": ["16 marks", "80 marks", "95 marks", "105 marks"],
       "question": "How many marks is Section B of Paper 1 worth?",
       "correctAnswer": "40 marks",
-      "imageURL": "seneca-image-cdn:///2018-05/d9abeb87-aa7a-42d6-adef-7e16a3f6dc59/tick-305245_960_720.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/d9abeb87-aa7a-42d6-adef-7e16a3f6dc59/tick-305245_960_720.png"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "8a28e628-5974-41ef-9608-b87e0c7a0136",
@@ -4754,13 +4049,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Fact",
-        "Neither"
-      ],
+      "wrongAnswers": ["Fact", "Neither"],
       "question": "Is this an opinion or fact?<br><br>David Beckham is a rubbish football player.",
       "correctAnswer": "Opinion",
-      "imageURL": "seneca-image-cdn:///2018-08/d8c75177-85e4-4edc-b568-4f2908872b83/football-soccer-player.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/d8c75177-85e4-4edc-b568-4f2908872b83/football-soccer-player.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2573c4e6-cfc7-41f6-8392-f565026a4146",
@@ -4775,12 +4067,7 @@
     "content": {
       "question": "What word does this pun play on?<br><br>__She wanted a camouflage shirt, but couldn't find one.__",
       "correctAnswer": "Camouflage",
-      "wrongAnswers": [
-        "Wanted",
-        "She",
-        "Couldn't",
-        "One"
-      ]
+      "wrongAnswers": ["Wanted", "She", "Couldn't", "One"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "49372685-5348-4ed6-a597-6d6c844c1fca",
@@ -4795,11 +4082,7 @@
     "content": {
       "question": "What kind of tone do these sentences create?<br><br>\"The twinkling stars beamed down on the sleeping child. Her soft, little snores lulled the animals around her to sleep.\"",
       "correctAnswer": "Positive tone",
-      "wrongAnswers": [
-        "Negative tone",
-        "Aggressive tone",
-        "Melancholy tone"
-      ]
+      "wrongAnswers": ["Negative tone", "Aggressive tone", "Melancholy tone"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "62ef9b0a-9711-4bde-8712-052d2ccb3353",
@@ -4814,11 +4097,7 @@
     "content": {
       "question": "Which of these is a common oxymoron?",
       "correctAnswer": "Passive aggressive",
-      "wrongAnswers": [
-        "Beautiful sun",
-        "Loving memory",
-        "Cold day"
-      ]
+      "wrongAnswers": ["Beautiful sun", "Loving memory", "Cold day"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "e7f9cc86-a345-4b23-b6b3-08b380ed98e4",
@@ -4833,11 +4112,7 @@
     "content": {
       "question": "Which of these is a common form of foreshadowing in literature?",
       "correctAnswer": "An omen",
-      "wrongAnswers": [
-        "A white mouse",
-        "A red rose",
-        "A white lily"
-      ]
+      "wrongAnswers": ["A white mouse", "A red rose", "A white lily"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "284147b8-9181-4840-9c0d-120e82863a61",
@@ -4850,14 +4125,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "1 hour 35 minutes",
-        "2 hours 15 minutes",
-        "1 hour 25 minutes"
-      ],
+      "wrongAnswers": ["1 hour 35 minutes", "2 hours 15 minutes", "1 hour 25 minutes"],
       "question": "How long is your Paper 1, English Language exam?",
       "correctAnswer": "1 hour 45 minutes",
-      "imageURL": "seneca-image-cdn:///2018-03/212594b0-e765-44a3-9a37-f493c70376b0/shutterstock_623344097.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/212594b0-e765-44a3-9a37-f493c70376b0/shutterstock_623344097.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2bdded4e-19dc-452e-bb9d-ac19edee44b0",
@@ -4870,14 +4141,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Assonance",
-        "Onomatopoeia",
-        "Simile"
-      ],
+      "wrongAnswers": ["Assonance", "Onomatopoeia", "Simile"],
       "question": "Which of these techniques is being used in the following sentence?<br><br><b>The slippery snake slid through the shrub.</b>",
       "correctAnswer": "Sibilance",
-      "imageURL": "seneca-image-cdn:///2018-03/c01fb4b5-fb60-480d-9c8e-ff4f35c5fee6/shutterstock_547176661.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/c01fb4b5-fb60-480d-9c8e-ff4f35c5fee6/shutterstock_547176661.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "67490202-d2c6-4bd9-9345-22e88e460bda",
@@ -4892,10 +4159,7 @@
     "content": {
       "question": "What do future tense verbs show?",
       "correctAnswer": "Something will happen in the future",
-      "wrongAnswers": [
-        "Something has already happened",
-        "Something is happening right now"
-      ]
+      "wrongAnswers": ["Something has already happened", "Something is happening right now"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "f9bb3fe5-2d69-469c-ae19-b9ac952a7427",
@@ -4910,11 +4174,7 @@
     "content": {
       "question": "What technique has the writer used to support the advice she is giving?<br><br><b>For my trip, my favourite fundraisers were a sponsored dance-a-thon and shaving my head.",
       "correctAnswer": "Personal examples and opinion",
-      "wrongAnswers": [
-        "First person",
-        "Repetition of 'my'",
-        "Sympathetic tone"
-      ]
+      "wrongAnswers": ["First person", "Repetition of 'my'", "Sympathetic tone"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c804e7ab-fab7-43fe-829e-4577227691ee",
@@ -4934,7 +4194,7 @@
       ],
       "question": "Which statistic would support your argument that doctors are underpaid? ",
       "correctAnswer": "60% of doctors struggle to pay their monthly rent",
-      "imageURL": "seneca-image-cdn:///2018-03/7b4f1c56-3113-4020-9408-faa19446254f/shutterstock_351216656.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/7b4f1c56-3113-4020-9408-faa19446254f/shutterstock_351216656.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "1c4b7dac-7afc-444e-b721-edf0f3a6ed77",
@@ -4947,12 +4207,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "No - facts are proven statements so you cannot invent them"
-      ],
+      "wrongAnswers": ["No - facts are proven statements so you cannot invent them"],
       "question": "Should you ever invent facts?",
       "correctAnswer": "Yes - just make your facts believable",
-      "imageURL": "seneca-image-cdn:///2018-09/f9807b1d-d6c5-408d-9db0-f0a36de76bb9/idea-innovation-bulb-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/f9807b1d-d6c5-408d-9db0-f0a36de76bb9/idea-innovation-bulb-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "be0999cd-75ba-4d76-86fd-1c7e438100d5",
@@ -4965,14 +4223,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Exaggeration",
-        "Opinion",
-        "Emotive language"
-      ],
+      "wrongAnswers": ["Exaggeration", "Opinion", "Emotive language"],
       "question": "What device has the writer used in this sentence?<br><br><b>Furthermore, school-aged children grow the most, so school uniforms constantly need to be replaced as pupils grow out of them so quickly.",
       "correctAnswer": "Strong connective",
-      "imageURL": "seneca-image-cdn:///2018-08/6489c03b-4491-411d-a81d-09bbf7360586/school-uniform-students.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/6489c03b-4491-411d-a81d-09bbf7360586/school-uniform-students.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "cd991a7b-bb47-464b-9a06-db4caf14b942",
@@ -4980,7 +4234,7 @@
       "wrongAnswers": "Exaggeration, Opinion, Emotive language",
       "question": "What device has the writer used in this sentence?<br><br><b>Furthermore, school-aged children grow the most, so school uniforms constantly need to be replaced as pupils grow out of them so quickly.",
       "correctAnswer": "Strong connective",
-      "imageURL": "seneca-image-cdn:///2018-08/6489c03b-4491-411d-a81d-09bbf7360586/school-uniform-students.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/6489c03b-4491-411d-a81d-09bbf7360586/school-uniform-students.jpg"
     },
     "id": "b896bea4-00f5-4779-8053-8a9867c4b297",
     "moduleDifficulty": 1,
@@ -4993,11 +4247,7 @@
     "content": {
       "question": "What could you use as a guide for which language techniques to comment on in Question 3 of Section A?",
       "correctAnswer": "The acronym DAFORESTER",
-      "wrongAnswers": [
-        "A dictionary",
-        "The acronym PETER",
-        "The acronym SQI"
-      ]
+      "wrongAnswers": ["A dictionary", "The acronym PETER", "The acronym SQI"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "1252bbeb-daad-40e3-ad8c-3f4e48832d6d",
@@ -5030,10 +4280,7 @@
     "content": {
       "question": "Is this a good example of repetition?<br><br><b>Henry was a good boy. Henry had nice clothes. Henry was a pleasant singer. Henry enjoyed dancing",
       "correctAnswer": "No - Henry is over-repeated so the sentence sounds jarring",
-      "wrongAnswers": [
-        "Yes - these are really interesting sentences",
-        "No - there is no repetition"
-      ]
+      "wrongAnswers": ["Yes - these are really interesting sentences", "No - there is no repetition"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "7cea4c6b-e095-46e4-aed1-a21315cda266",
@@ -5053,7 +4300,7 @@
       ],
       "question": "Which of the following personified phrases creates an image of a violent storm?",
       "correctAnswer": "The storm tore the trees from their roots",
-      "imageURL": "seneca-image-cdn:///2018-05/0b370228-9b1f-46c9-98f0-6c1265748da5/shutterstock_558656821.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/0b370228-9b1f-46c9-98f0-6c1265748da5/shutterstock_558656821.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "272cbbaa-2f14-4d70-bb6b-3b19f66e4702",
@@ -5068,13 +4315,7 @@
     "content": {
       "question": "This sentence contains 1 adjective.<br><br>What word does this adjective describe?<br><br>\"Young Henrietta fondly recalled her youth and her schoolyears.\"",
       "correctAnswer": "Henrietta",
-      "wrongAnswers": [
-        "Young",
-        "Fondly",
-        "Recalled",
-        "Youth",
-        "Schoolyears"
-      ]
+      "wrongAnswers": ["Young", "Fondly", "Recalled", "Youth", "Schoolyears"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "43918e6d-009e-4305-990a-c6fc15c824d2",
@@ -5087,14 +4328,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Figurative language",
-        "Emotive language",
-        "Persuasive language"
-      ],
+      "wrongAnswers": ["Figurative language", "Emotive language", "Persuasive language"],
       "question": "What kind of language should you use if you are asked to write a recipe for a prawn curry? ",
       "correctAnswer": "Clear language",
-      "imageURL": "seneca-image-cdn:///2018-05/cf986e65-7a7f-4cfa-b430-cda6c5c78af3/shutterstock_248363116.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/cf986e65-7a7f-4cfa-b430-cda6c5c78af3/shutterstock_248363116.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "bfad5e2d-b6e6-40a5-a477-11b519ce2ed9",
@@ -5109,11 +4346,7 @@
     "content": {
       "question": "You want to describe something as being bright and cheerful. Which of the following would be the best comparison?",
       "correctAnswer": "The first day of Spring",
-      "wrongAnswers": [
-        "A neon flashing sign",
-        "An evening in Paris",
-        "Watching rain from a window"
-      ]
+      "wrongAnswers": ["A neon flashing sign", "An evening in Paris", "Watching rain from a window"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "fea35dae-cee7-4760-a977-ff6bcdea127e",
@@ -5126,14 +4359,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "95 marks",
-        "45 marks",
-        "40 marks"
-      ],
+      "wrongAnswers": ["95 marks", "45 marks", "40 marks"],
       "question": "How many marks is Paper 1 worth?",
       "correctAnswer": "80 marks",
-      "imageURL": "seneca-image-cdn:///2018-05/d9abeb87-aa7a-42d6-adef-7e16a3f6dc59/tick-305245_960_720.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/d9abeb87-aa7a-42d6-adef-7e16a3f6dc59/tick-305245_960_720.png"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2bdded4e-19dc-452e-bb9d-ac19edee44b0",
@@ -5148,12 +4377,7 @@
     "content": {
       "question": "What technique is used in this phrase?<br><br>\"My bag weighs an absolute tonne.\"",
       "correctAnswer": "Hyperbole",
-      "wrongAnswers": [
-        "Juxtaposition",
-        "An oxymoron",
-        "Irony",
-        "A pun"
-      ]
+      "wrongAnswers": ["Juxtaposition", "An oxymoron", "Irony", "A pun"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "43918e6d-009e-4305-990a-c6fc15c824d2",
@@ -5168,11 +4392,7 @@
     "content": {
       "question": "What kind of tone should you use when writing an essay or report?",
       "correctAnswer": "Objective",
-      "wrongAnswers": [
-        "Subjective",
-        "Persuasive",
-        "Argumentative"
-      ]
+      "wrongAnswers": ["Subjective", "Persuasive", "Argumentative"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "6d54445a-b3fa-45c1-870c-51f7d70bed64",
@@ -5205,11 +4425,7 @@
     "content": {
       "question": "What type of sound does this alliteration create?<br><br><b>Yarvis yanked his ankle and Yolanda yelled out in shock.",
       "correctAnswer": "Jarring",
-      "wrongAnswers": [
-        "Smooth",
-        "Fluid",
-        "Airy"
-      ]
+      "wrongAnswers": ["Smooth", "Fluid", "Airy"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "5315f332-3227-40c7-9717-389cb28c11bd",
@@ -5229,7 +4445,7 @@
       ],
       "question": "Your character is feeling confused. How could you use pathetic fallacy to emphasise her feelings?",
       "correctAnswer": "By describing a foggy setting",
-      "imageURL": "seneca-image-cdn:///courseImages/chemistry/2.3.4 Nanotechnology/question-mark-2492009_640-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/chemistry/2.3.4 Nanotechnology/question-mark-2492009_640-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "4bea6921-25e5-4123-97f8-25f0b1488806",
@@ -5242,15 +4458,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "8",
-        "12",
-        "16",
-        "2"
-      ],
+      "wrongAnswers": ["8", "12", "16", "2"],
       "question": "How many marks is Question 1 of Section A (Paper 2) worth?",
       "correctAnswer": "4",
-      "imageURL": "seneca-image-cdn:///2018-05/d9abeb87-aa7a-42d6-adef-7e16a3f6dc59/tick-305245_960_720.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/d9abeb87-aa7a-42d6-adef-7e16a3f6dc59/tick-305245_960_720.png"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "4ffe991e-cb00-4593-ba6f-46ac3ce7e1ec",
@@ -5263,15 +4474,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Metaphor",
-        "Personification",
-        "Oxymoron",
-        "Emotive language"
-      ],
+      "wrongAnswers": ["Metaphor", "Personification", "Oxymoron", "Emotive language"],
       "question": "What technique does this sentence use?<br><br><b>James was as silly as a clown.</b>",
       "correctAnswer": "Simile",
-      "imageURL": "seneca-image-cdn:///2018-08/6cc470d8-e93a-4894-bca3-ad0ae9c10e0e/clown-scary-phobia.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/6cc470d8-e93a-4894-bca3-ad0ae9c10e0e/clown-scary-phobia.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "d6b5c486-1afd-4f96-b91e-a0dadb9ea2d3",
@@ -5286,9 +4492,7 @@
     "content": {
       "question": "What kind of texts will you be given in Paper 2?",
       "correctAnswer": "Non-fiction texts",
-      "wrongAnswers": [
-        "Fiction texts"
-      ]
+      "wrongAnswers": ["Fiction texts"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "56b3cfe7-45eb-48db-ac0d-43d9c797644e",
@@ -5344,7 +4548,7 @@
       ],
       "question": "You have been asked to write a newspaper article about a fire in a hospital. What should you NOT include in your answer?",
       "correctAnswer": "Your opinion on what caused the fire",
-      "imageURL": "seneca-image-cdn:///courseImages/chemistry/7.1.1 Crude oil/fire-2777580_640-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/chemistry/7.1.1 Crude oil/fire-2777580_640-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "bfad5e2d-b6e6-40a5-a477-11b519ce2ed9",
@@ -5363,7 +4567,7 @@
       ],
       "question": "Which of these would be an example of travel writing?",
       "correctAnswer": "A description of New York in Winter",
-      "imageURL": "seneca-image-cdn:///2018-08/78bd2c39-26ce-4edd-940d-6d6c4682f3e1/travel-job-suitcase.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/78bd2c39-26ce-4edd-940d-6d6c4682f3e1/travel-job-suitcase.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "5b09781e-fde4-4c49-b387-4a10b643d337",
@@ -5383,7 +4587,7 @@
       ],
       "question": "How has the writer used language to inform in this paragraph?<br><br><b>Lots of students find it hard to revise – 74% of those taking GCSE exams in 2017 – but the majority found it easier once they had created a plan. ",
       "correctAnswer": "Used a fact to support their argument",
-      "imageURL": "seneca-image-cdn:///2018-08/d7a48672-5053-48a4-8796-ebcc16dfc3b8/exam-students.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/d7a48672-5053-48a4-8796-ebcc16dfc3b8/exam-students.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "08a4b79e-7d1d-48ca-aa9b-2e06b28500fc",
@@ -5396,11 +4600,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "__'Yours sincerely'__",
-        "__'Best wishes'__",
-        "__'Lots of love'__"
-      ],
+      "wrongAnswers": ["__'Yours sincerely'__", "__'Best wishes'__", "__'Lots of love'__"],
       "question": "If you start a letter with __‘Dear Madam’__, what should you end with? ",
       "correctAnswer": "__'Yours faithfully'__",
       "imageURL": "https://media.giphy.com/media/xUn8UtFIcRItOz9mCu/giphy.mp4"
@@ -5418,11 +4618,7 @@
     "content": {
       "question": "What is the future tense of 'I dance'?",
       "correctAnswer": "I will dance",
-      "wrongAnswers": [
-        "I was dancing",
-        "I danced",
-        "I am dancing"
-      ]
+      "wrongAnswers": ["I was dancing", "I danced", "I am dancing"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "0d1c6492-fc2f-4daa-b086-daee6dc78b96",
@@ -5437,11 +4633,7 @@
     "content": {
       "question": "You want to describe something as being stressful. Which of the following would be a suitable comparison?",
       "correctAnswer": "Planning a wedding",
-      "wrongAnswers": [
-        "Going to the cinema",
-        "Holidaying in the Maldives",
-        "A magnificent building"
-      ]
+      "wrongAnswers": ["Going to the cinema", "Holidaying in the Maldives", "A magnificent building"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "fea35dae-cee7-4760-a977-ff6bcdea127e",
@@ -5454,14 +4646,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Hard news stories",
-        "Factual reports from scientists",
-        "Speeches from officials"
-      ],
+      "wrongAnswers": ["Hard news stories", "Factual reports from scientists", "Speeches from officials"],
       "question": "What are columns in newspapers? ",
       "correctAnswer": "Opinion pieces from writers",
-      "imageURL": "seneca-image-cdn:///2018-11/b27e48cf-f8d7-49a1-be6f-4af6874db1b1/the-times-newspaper-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-11/b27e48cf-f8d7-49a1-be6f-4af6874db1b1/the-times-newspaper-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "e80fe16b-ba3d-4366-aa44-36d9c59ddfce",
@@ -5476,11 +4664,7 @@
     "content": {
       "question": "What type of sound does this alliteration create?<br><br><b>Yarvis yanked his ankle and Yolanda yelled out in shock.",
       "correctAnswer": "Jarring",
-      "wrongAnswers": [
-        "Smooth",
-        "Fluid",
-        "Airy"
-      ]
+      "wrongAnswers": ["Smooth", "Fluid", "Airy"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b5bfc48c-d165-48d4-a3d0-824ee5ff6f24",
@@ -5514,10 +4698,7 @@
     "content": {
       "question": "Why is this a good conclusion to an argument?<br><br><b>In conclusion, school uniform does have its benefits – pupils look smart and feel like they are sharing a common goal and experiences. However, uniforms limit individuality and cause more problems than they solve. Uniforms are outdated and redundant. ",
       "correctAnswer": "Shows the writer has weighed up the argument and chosen one side",
-      "wrongAnswers": [
-        "The writer has argued one side emphatically",
-        "The writer has repeated the word 'uniforms'"
-      ]
+      "wrongAnswers": ["The writer has argued one side emphatically", "The writer has repeated the word 'uniforms'"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "cd991a7b-bb47-464b-9a06-db4caf14b942",
@@ -5537,11 +4718,7 @@
     "content": {
       "question": "Which of these is a core feature of a diary entry?",
       "correctAnswer": "The writer's feelings and thoughts",
-      "wrongAnswers": [
-        "Statistics",
-        "Third-person narrative voice",
-        "Objective tone"
-      ]
+      "wrongAnswers": ["Statistics", "Third-person narrative voice", "Objective tone"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "20171582-9419-4a8f-a4af-baaa96cc8eb6",
@@ -5556,11 +4733,7 @@
     "content": {
       "question": "What is the emotive word in this sentence?<br><br><b>Timmy had a stick-like frame.</b>",
       "correctAnswer": "Stick-like",
-      "wrongAnswers": [
-        "Frame",
-        "Timmy",
-        "Had"
-      ]
+      "wrongAnswers": ["Frame", "Timmy", "Had"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "6ebe89c7-2006-4dd7-8792-b420c3a062fe",
@@ -5575,12 +4748,7 @@
     "content": {
       "question": "What technique is used in this sentence?<br><br><b>The slippery slope was drenched with slush.</b>",
       "correctAnswer": "Sibilance",
-      "wrongAnswers": [
-        "Onomatopoeia",
-        "Simile",
-        "Hyperbole",
-        "Pun"
-      ]
+      "wrongAnswers": ["Onomatopoeia", "Simile", "Hyperbole", "Pun"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "64854a75-c3f5-4347-bbcf-1f360254db23",
@@ -5633,10 +4801,7 @@
     "content": {
       "question": "What do present tense verbs show?",
       "correctAnswer": "Something is happening now",
-      "wrongAnswers": [
-        "Something has already happened",
-        "Something will happen"
-      ]
+      "wrongAnswers": ["Something has already happened", "Something will happen"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "9358386a-65ac-4c86-81fe-12cf23ab0f1e",
@@ -5649,15 +4814,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "8",
-        "10",
-        "16",
-        "20"
-      ],
+      "wrongAnswers": ["8", "10", "16", "20"],
       "question": "How many marks is Question 3 of Section A worth?",
       "correctAnswer": "12",
-      "imageURL": "seneca-image-cdn:///2018-05/d9abeb87-aa7a-42d6-adef-7e16a3f6dc59/tick-305245_960_720.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/d9abeb87-aa7a-42d6-adef-7e16a3f6dc59/tick-305245_960_720.png"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "1252bbeb-daad-40e3-ad8c-3f4e48832d6d",
@@ -5677,7 +4837,7 @@
       ],
       "question": "Which of these is an opinion?",
       "correctAnswer": "Ben is great at football",
-      "imageURL": "seneca-image-cdn:///2018-08/d8c75177-85e4-4edc-b568-4f2908872b83/football-soccer-player.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/d8c75177-85e4-4edc-b568-4f2908872b83/football-soccer-player.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2573c4e6-cfc7-41f6-8392-f565026a4146",
@@ -5685,7 +4845,7 @@
       "wrongAnswers": "Ben scored three goals in our last match, Ben won player of the season, Ben's football boots cost him a whopping £90",
       "question": "Which of these is an opinion?",
       "correctAnswer": "Ben is great at football",
-      "imageURL": "seneca-image-cdn:///2018-08/d8c75177-85e4-4edc-b568-4f2908872b83/football-soccer-player.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/d8c75177-85e4-4edc-b568-4f2908872b83/football-soccer-player.jpg"
     },
     "id": "d140c944-c466-4d41-850c-c5a538d5bfe7",
     "moduleDifficulty": 1,
@@ -5717,11 +4877,7 @@
     "content": {
       "question": "What sound does sibilance focus on?",
       "correctAnswer": "'S' sounds",
-      "wrongAnswers": [
-        "Vowel sounds",
-        "Fricative sounds",
-        "Plosive sounds"
-      ]
+      "wrongAnswers": ["Vowel sounds", "Fricative sounds", "Plosive sounds"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "4bcbca91-f065-42f4-a4d8-5edeb50b3ae9",
@@ -5736,12 +4892,7 @@
     "content": {
       "question": "You want to directly address your reader. What pronoun should you use if you want to be a 'team' with them?",
       "correctAnswer": "We",
-      "wrongAnswers": [
-        "You",
-        "They",
-        "I",
-        "Them"
-      ]
+      "wrongAnswers": ["You", "They", "I", "Them"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "1f5b8a58-0689-42f7-95fa-691ea7b55072",
@@ -5756,11 +4907,7 @@
     "content": {
       "question": "You are writing to inform about food poisoning. What's wrong with the below paragraph?<br><br><b>If a person, who has eaten food, finds themself falling ill, it may be that they have food poisoning. Around one in three people suffers from food poisoning annually.",
       "correctAnswer": "Does not use clear language",
-      "wrongAnswers": [
-        "Contains a false fact",
-        "Contains an opinion",
-        "Not relevant to the topic of food poisoning"
-      ]
+      "wrongAnswers": ["Contains a false fact", "Contains an opinion", "Not relevant to the topic of food poisoning"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "5cbc195e-a272-4eac-b03d-93558640723e",
@@ -5775,12 +4922,7 @@
     "content": {
       "question": "How many questions are there in Paper 1, Section A (Reading)?",
       "correctAnswer": "4",
-      "wrongAnswers": [
-        "1",
-        "2",
-        "3",
-        "5"
-      ]
+      "wrongAnswers": ["1", "2", "3", "5"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2bdded4e-19dc-452e-bb9d-ac19edee44b0",
@@ -5795,11 +4937,7 @@
     "content": {
       "question": "Which text uses writing to explain?",
       "correctAnswer": "A textbook",
-      "wrongAnswers": [
-        "A speech",
-        "A biography",
-        "An agony aunt piece"
-      ]
+      "wrongAnswers": ["A speech", "A biography", "An agony aunt piece"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "442f20fb-1ea9-46ca-94e3-62a092bdfb70",
@@ -5814,11 +4952,7 @@
     "content": {
       "question": "You are asked to write the ending for a detective mystery. What should you focus on?",
       "correctAnswer": "Resolving the plot",
-      "wrongAnswers": [
-        "Introducing the characters",
-        "Introducing the main themes",
-        "Describing the main action"
-      ]
+      "wrongAnswers": ["Introducing the characters", "Introducing the main themes", "Describing the main action"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "62ef9b0a-9711-4bde-8712-052d2ccb3353",
@@ -5833,11 +4967,7 @@
     "content": {
       "question": "What technique does this explanatory sentence contain?<br><br><b>Last summer, for instance, the whole area was full of people standing and sitting, reading and chatting, quiet and laughing.",
       "correctAnswer": "Specific example",
-      "wrongAnswers": [
-        "Exaggeration",
-        "Hyperbole",
-        "Repetition"
-      ]
+      "wrongAnswers": ["Exaggeration", "Hyperbole", "Repetition"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c30e4617-f295-4254-a6a0-e2bc31b8be71",
@@ -5850,12 +4980,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Long complex sentences"
-      ],
+      "wrongAnswers": ["Long complex sentences"],
       "question": "You are describing a police chase. You want to quicken the pace of your narrative. What kind of sentences should you use?",
       "correctAnswer": "Short simple sentences",
-      "imageURL": "seneca-image-cdn:///2018-08/f793d920-cf70-49b8-892a-9e244af7da31/police-car.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/f793d920-cf70-49b8-892a-9e244af7da31/police-car.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "8c741ba1-d412-4f8b-b477-d523697a6928",
@@ -5894,7 +5022,7 @@
       ],
       "question": "Which of these symbols is likely to forewarn that a King is going to be murdered?",
       "correctAnswer": "Lightning strikes the King's castle",
-      "imageURL": "seneca-image-cdn:///2018-09/017e0f16-4adf-4d76-87b7-81a02e443667/knife-crime-murder-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/017e0f16-4adf-4d76-87b7-81a02e443667/knife-crime-murder-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "284147b8-9181-4840-9c0d-120e82863a61",
@@ -5909,11 +5037,7 @@
     "content": {
       "question": "What technique does this explanatory sentence contain?<br><br><b>Last summer, for instance, the whole area was full of people standing and sitting, reading and chatting, quiet and laughing.",
       "correctAnswer": "Specific example",
-      "wrongAnswers": [
-        "Exaggeration",
-        "Triples",
-        "Repetition"
-      ]
+      "wrongAnswers": ["Exaggeration", "Triples", "Repetition"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "7c131bb5-56b8-4e77-a9a7-18caca2db4ce",
@@ -5933,11 +5057,7 @@
     "content": {
       "question": "Which technique would be least effective when used in a speech?",
       "correctAnswer": "Ellipsis",
-      "wrongAnswers": [
-        "Alliteration",
-        "Rhyming",
-        "Rhetorical question"
-      ]
+      "wrongAnswers": ["Alliteration", "Rhyming", "Rhetorical question"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "4f69d258-dd7c-4157-953c-d39cd9a96bea",
@@ -5952,10 +5072,7 @@
     "content": {
       "question": "What are you comparing in Question 4 of Section A?",
       "correctAnswer": "How the two writers convey their ideas/attitudes about a place/person/event",
-      "wrongAnswers": [
-        "The different viewpoints of the two writers",
-        "The structures of the two sources"
-      ]
+      "wrongAnswers": ["The different viewpoints of the two writers", "The structures of the two sources"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "a61537ef-feff-404f-9957-6226fc010fce",
@@ -5987,14 +5104,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "40",
-        "24",
-        "18"
-      ],
+      "wrongAnswers": ["40", "24", "18"],
       "question": "How many marks are spelling, punctuation and grammar worth in Paper 1, Section B?",
       "correctAnswer": "16",
-      "imageURL": "seneca-image-cdn:///2018-05/d9abeb87-aa7a-42d6-adef-7e16a3f6dc59/tick-305245_960_720.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/d9abeb87-aa7a-42d6-adef-7e16a3f6dc59/tick-305245_960_720.png"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "8a28e628-5974-41ef-9608-b87e0c7a0136",
@@ -6007,15 +5120,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Evil",
-        "Witch",
-        "Threw",
-        "Scalding"
-      ],
+      "wrongAnswers": ["Evil", "Witch", "Threw", "Scalding"],
       "question": "Which word is the onomatopoeic word in this phrase?<br><br>\"The evil witch cackled as she threw fire into her scalding cauldron\"",
       "correctAnswer": "Cackled",
-      "imageURL": "seneca-image-cdn:///2018-07/4cbc7d49-9259-46b0-931d-eb86358d75e1/Witch-Witchcraft-Cauldron.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/4cbc7d49-9259-46b0-931d-eb86358d75e1/Witch-Witchcraft-Cauldron.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "91675ad7-420b-49e1-a19c-8373875d6248",
@@ -6048,14 +5156,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Assonance",
-        "Oxymoron",
-        "Pun"
-      ],
+      "wrongAnswers": ["Assonance", "Oxymoron", "Pun"],
       "question": "Apart from a simile, what technique is the narrator using in this quotation about Scrooge?<br><br><b>'Secret, and self-contained, and solitary as an oyster.'</b>",
       "correctAnswer": "Sibilance",
-      "imageURL": "seneca-image-cdn:///2018-05/e03b9e7f-750a-407d-bf64-310671f2378c/shutterstock_612162488.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/e03b9e7f-750a-407d-bf64-310671f2378c/shutterstock_612162488.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2728e378-1fa6-4c84-8f84-27b60de51ec5",
@@ -6063,7 +5167,7 @@
       "wrongAnswers": "Assonance, Oxymoron, Pun",
       "question": "Apart from a simile, what technique is the narrator using in this quotation about Scrooge?<br><br><b>'Secret, and self-contained, and solitary as an oyster.'</b>",
       "correctAnswer": "Sibilance",
-      "imageURL": "seneca-image-cdn:///2018-05/e03b9e7f-750a-407d-bf64-310671f2378c/shutterstock_612162488.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/e03b9e7f-750a-407d-bf64-310671f2378c/shutterstock_612162488.jpg"
     },
     "id": "dde0003c-6308-4cc7-98e3-fc9685c46ed8",
     "moduleDifficulty": 1,
@@ -6093,14 +5197,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Point",
-        "Explanation and Technique",
-        "Reference back to the question"
-      ],
+      "wrongAnswers": ["Point", "Explanation and Technique", "Reference back to the question"],
       "question": "Which component of a paragraph is the below sentence most likely to be?\n<br><br>\n\n<b>'In paragraph three, the author uses the quotation '... </b>\n\n\n",
       "correctAnswer": "Evidence",
-      "imageURL": "seneca-image-cdn:///2018-08/3c78757d-f4cb-4eb4-9613-78918c812f11/hawk-bird-flying.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/3c78757d-f4cb-4eb4-9613-78918c812f11/hawk-bird-flying.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "040280fd-87b9-4aad-9357-954d19fb4d64",
@@ -6115,10 +5215,7 @@
     "content": {
       "question": "Which component of a paragraph is the below sentence most likely to be?\n<br><br>\n\n<b>The writer draws our attention to Malfoy's evil nature.</b>\n",
       "correctAnswer": "Statement",
-      "wrongAnswers": [
-        "Quotation",
-        "Inference"
-      ]
+      "wrongAnswers": ["Quotation", "Inference"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "71c6e4c8-3ce8-4900-808c-904a3ba7c868",
@@ -6133,11 +5230,7 @@
     "content": {
       "question": "In the story you are reading, a boy leaves his house. His father starts to worry irrationally. What might this foreshadow?",
       "correctAnswer": "Something bad will happen to the boy",
-      "wrongAnswers": [
-        "The boy will win an award",
-        "The father hates his son",
-        "Something good may happen to the boy"
-      ]
+      "wrongAnswers": ["The boy will win an award", "The father hates his son", "Something good may happen to the boy"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "284147b8-9181-4840-9c0d-120e82863a61",
@@ -6150,14 +5243,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Figurative language",
-        "Colloquial language",
-        "Formal language"
-      ],
+      "wrongAnswers": ["Figurative language", "Colloquial language", "Formal language"],
       "question": "What kind of language is used in this sentence?<Br><br>\"The little dog whimpered as he struggled to lift his tired head\"",
       "correctAnswer": "Emotive language",
-      "imageURL": "seneca-image-cdn:///2018-09/06d2f9a9-87e5-4735-aa70-d1ee6cdf0e66/animals-2607704_1920.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/06d2f9a9-87e5-4735-aa70-d1ee6cdf0e66/animals-2607704_1920.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "62ef9b0a-9711-4bde-8712-052d2ccb3353",
@@ -6189,13 +5278,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "First person narrator",
-        "Second person narrator"
-      ],
+      "wrongAnswers": ["First person narrator", "Second person narrator"],
       "question": "What type of narrator does Dickens use in _A Christmas Carol_?<br><br><b>'Oh! But he was a tight-fisted hand at the grindstone, Scrooge!'",
       "correctAnswer": "Third person narrator",
-      "imageURL": "seneca-image-cdn:///2018-09/3872c905-a305-464d-8ed1-00d4429c2417/scrooge-christmascarol.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/3872c905-a305-464d-8ed1-00d4429c2417/scrooge-christmascarol.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2728e378-1fa6-4c84-8f84-27b60de51ec5",
@@ -6203,7 +5289,7 @@
       "wrongAnswers": "First person narrator, Second person narrator",
       "question": "What type of narrator does Dickens use in _A Christmas Carol_?<br><br><b>'Oh! But he was a tight-fisted hand at the grindstone, Scrooge!'",
       "correctAnswer": "Third person narrator",
-      "imageURL": "seneca-image-cdn:///2018-09/3872c905-a305-464d-8ed1-00d4429c2417/scrooge-christmascarol.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/3872c905-a305-464d-8ed1-00d4429c2417/scrooge-christmascarol.jpg"
     },
     "id": "e1993dfe-4495-4e6c-8b77-23d73ce0a553",
     "moduleDifficulty": 1,
@@ -6214,15 +5300,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Homework",
-        "Got",
-        "Tonight",
-        "I've"
-      ],
+      "wrongAnswers": ["Homework", "Got", "Tonight", "I've"],
       "question": "Which word turns this sentence into an exaggeration?<br><br><b>I've got a ton of homework to do tonight!</b>",
       "correctAnswer": "Ton",
-      "imageURL": "seneca-image-cdn:///2018-08/46f35257-bbd2-4ca0-8087-372ac5cebf8c/child-homework-thinking-memory.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/46f35257-bbd2-4ca0-8087-372ac5cebf8c/child-homework-thinking-memory.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "db52b267-852e-4d3c-aa91-27fee3a4849d",
@@ -6237,10 +5318,7 @@
     "content": {
       "question": "Which narrator tells things from a neutral perspective?",
       "correctAnswer": "Third-person narrator",
-      "wrongAnswers": [
-        "First-person narrator",
-        "Second-person narrator"
-      ]
+      "wrongAnswers": ["First-person narrator", "Second-person narrator"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "b1333cd6-8200-471f-927d-c92b66689970",
@@ -6274,10 +5352,7 @@
     "content": {
       "question": "What does a noun phrase NEVER contain?",
       "correctAnswer": "Verb",
-      "wrongAnswers": [
-        "Noun",
-        "Adjective"
-      ]
+      "wrongAnswers": ["Noun", "Adjective"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "f347bd63-cca7-402f-91f5-e939a0b75ce3",
@@ -6292,13 +5367,7 @@
     "content": {
       "question": "What technique is the writer using in this sentence?<br><br><b>If you think the city centre is an odd place to find peace, there are others who seem to share my choice of special spot. ",
       "correctAnswer": "Direct address",
-      "wrongAnswers": [
-        "Exaggeration",
-        "Emotive language",
-        "Rhetorical question",
-        "Imperative verb",
-        "Modal verb"
-      ]
+      "wrongAnswers": ["Exaggeration", "Emotive language", "Rhetorical question", "Imperative verb", "Modal verb"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c30e4617-f295-4254-a6a0-e2bc31b8be71",
@@ -6311,11 +5380,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Speech",
-        "Essay",
-        "Article"
-      ],
+      "wrongAnswers": ["Speech", "Essay", "Article"],
       "question": "In which of these texts are you NOT likely to find a writer arguing a point?",
       "correctAnswer": "Recipe",
       "imageURL": "https://media.giphy.com/media/tIwnz2GOw6FRQ205eY/giphy.mp4"
@@ -6338,7 +5403,7 @@
       ],
       "question": "Your character is feeling livid. How could you use pathetic fallacy to emphasise their feelings?",
       "correctAnswer": "By describing a thunder storm",
-      "imageURL": "seneca-image-cdn:///2018-07/637f08b1-6a1a-4a15-807d-0c7219b3eecb/Angry-Cry-Scream-Anger.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/637f08b1-6a1a-4a15-807d-0c7219b3eecb/Angry-Cry-Scream-Anger.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "4bea6921-25e5-4123-97f8-25f0b1488806",
@@ -6358,7 +5423,7 @@
       ],
       "question": "You are writing a persuasive piece about joining the army. Which sentence would be off topic? ",
       "correctAnswer": "The navy also offers a good pension scheme",
-      "imageURL": "seneca-image-cdn:///2018-03/7ef9f477-dc45-45bc-92d1-8ae410473c50/shutterstock_521222146.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/7ef9f477-dc45-45bc-92d1-8ae410473c50/shutterstock_521222146.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "576a8a48-0205-44c6-8fb4-e3539566444b",
@@ -6373,13 +5438,7 @@
     "content": {
       "question": "How many marks is Question 4 of the reading section (Section A) of Paper 2 worth?",
       "correctAnswer": "16",
-      "wrongAnswers": [
-        "24",
-        "30",
-        "40",
-        "12",
-        "18"
-      ]
+      "wrongAnswers": ["24", "30", "40", "12", "18"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "56b3cfe7-45eb-48db-ac0d-43d9c797644e",
@@ -6411,15 +5470,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "I",
-        "Cannot",
-        "Tell",
-        "How"
-      ],
+      "wrongAnswers": ["I", "Cannot", "Tell", "How"],
       "question": "What word directly addresses the reader in this phrase?<br><br><b>I cannot tell you how tired I am.",
       "correctAnswer": "You",
-      "imageURL": "seneca-image-cdn:///courseImages/physics/AQA New Modules/1.7.1/man yawning in car.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/physics/AQA New Modules/1.7.1/man yawning in car.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "91471d95-4e65-4ef5-8e23-439ce63b7dc8",
@@ -6432,14 +5486,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Statistics",
-        "Opinion",
-        "Imperative verb"
-      ],
+      "wrongAnswers": ["Statistics", "Opinion", "Imperative verb"],
       "question": "What advisatory technique has the writer used to support the advice she is giving?<br><br><b> If you don’t want a cold head, you could try a sponsored silence, a non-uniform day, or a cake sale.",
       "correctAnswer": "Choice of actions",
-      "imageURL": "seneca-image-cdn:///2018-10/aa47d9a1-722f-4cc4-a461-e7d15329bc70/icing-sugar-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-10/aa47d9a1-722f-4cc4-a461-e7d15329bc70/icing-sugar-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c804e7ab-fab7-43fe-829e-4577227691ee",
@@ -6478,12 +5528,7 @@
     "content": {
       "question": "What technique should you ALWAYS use when writing a speech?",
       "correctAnswer": "Direct address",
-      "wrongAnswers": [
-        "Similes",
-        "Personification",
-        "Opinions",
-        "Facts"
-      ]
+      "wrongAnswers": ["Similes", "Personification", "Opinions", "Facts"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "6d54445a-b3fa-45c1-870c-51f7d70bed64",
@@ -6516,11 +5561,7 @@
     "content": {
       "question": "What is the word __bittersweet__ an example of?",
       "correctAnswer": "Oxymoron",
-      "wrongAnswers": [
-        "Antithesis",
-        "Foreshadowing",
-        "Juxtaposition"
-      ]
+      "wrongAnswers": ["Antithesis", "Foreshadowing", "Juxtaposition"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "102317f3-623e-4673-b8a3-1d42cda9e4b5",
@@ -6533,14 +5574,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Antithesis",
-        "Connotation",
-        "Colloquialism"
-      ],
+      "wrongAnswers": ["Antithesis", "Connotation", "Colloquialism"],
       "question": "What technique does Elizabeth Barrett Browning's Sonnet 43 use?<br><br><b>I love thee to (...) I love thee to",
       "correctAnswer": "Anaphora",
-      "imageURL": "seneca-image-cdn:///2018-07/5800435d-96dc-4452-b614-fe6e5aac97a8/Love-Heart-Relationship.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/5800435d-96dc-4452-b614-fe6e5aac97a8/Love-Heart-Relationship.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "836b5bc2-74d9-4929-ae9b-ea9006367221",
@@ -6555,11 +5592,7 @@
     "content": {
       "question": "What is the future tense of 'I dance'?",
       "correctAnswer": "I will dance",
-      "wrongAnswers": [
-        "I was dancing",
-        "I danced",
-        "I am dancing"
-      ]
+      "wrongAnswers": ["I was dancing", "I danced", "I am dancing"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "456baca2-4ba9-4d21-ace7-ce42417a495d",
@@ -6598,11 +5631,7 @@
     "content": {
       "question": "What does the R in PETER stand for?",
       "correctAnswer": "Refer back to the question",
-      "wrongAnswers": [
-        "Right answer",
-        "Read the question again",
-        "Repeat the point"
-      ]
+      "wrongAnswers": ["Right answer", "Read the question again", "Repeat the point"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c2c4f032-b849-45e7-9ef3-408678c37df5",
@@ -6615,15 +5644,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Modal verb",
-        "Imperative verb",
-        "Fact",
-        "Opinion"
-      ],
+      "wrongAnswers": ["Modal verb", "Imperative verb", "Fact", "Opinion"],
       "question": "Which of these techniques is NOT used in the advisatory sentence below?<br><br><b>You must do the sunset cruise in Bangkok - it's truly stunning. It's also the number 1 rated thing to do on TripAdvisor. Believe me!",
       "correctAnswer": "A choice of actions",
-      "imageURL": "seneca-image-cdn:///memory-location-images/Bangkok, Thailand-min.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/memory-location-images/Bangkok, Thailand-min.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "c0bf0e74-78d5-4c7b-83ad-aced7a99cf22",
@@ -6638,11 +5662,7 @@
     "content": {
       "question": "Which of the following is a verb?",
       "correctAnswer": "Sing",
-      "wrongAnswers": [
-        "Mat",
-        "Thing",
-        "Dog"
-      ]
+      "wrongAnswers": ["Mat", "Thing", "Dog"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "4a99286f-5abb-4d34-a9df-a76aba7177b5",
@@ -6655,14 +5675,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Paraphrasing the text",
-        "Quoting the text",
-        "Listing more than four things about the topic"
-      ],
+      "wrongAnswers": ["Paraphrasing the text", "Quoting the text", "Listing more than four things about the topic"],
       "question": "What will you receive NO marks for in Section A, Question 1?",
       "correctAnswer": "Copying out the whole text",
-      "imageURL": "seneca-image-cdn:///2018-07/bbe834da-168d-4574-9f16-fde1649a1cca/Letter-X-Not-Allowed-No-Entry-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/bbe834da-168d-4574-9f16-fde1649a1cca/Letter-X-Not-Allowed-No-Entry-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "0f073d55-8e20-4f16-8a8c-2b6ba293d7af",
@@ -6677,10 +5693,7 @@
     "content": {
       "question": "What do past tense verbs show?",
       "correctAnswer": "Something has already happened",
-      "wrongAnswers": [
-        "Something is happening right now",
-        "Something will happen in the future"
-      ]
+      "wrongAnswers": ["Something is happening right now", "Something will happen in the future"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "cb5fc89e-fba9-4330-87eb-b27b70c11af3",
@@ -6693,11 +5706,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "__'Yours faithfully'__",
-        "__'Best wishes'__",
-        "__'Lots of love'__"
-      ],
+      "wrongAnswers": ["__'Yours faithfully'__", "__'Best wishes'__", "__'Lots of love'__"],
       "question": "If you start a letter with __‘Dear Mr Smith’__, what should you end with? ",
       "correctAnswer": "__'Yours sincerely'__",
       "imageURL": "https://media.giphy.com/media/ZBq598n1B8bh6/giphy.mp4"
@@ -6751,14 +5760,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Smooth",
-        "Fluid",
-        "Airy"
-      ],
+      "wrongAnswers": ["Smooth", "Fluid", "Airy"],
       "question": "What type of sound does this alliteration create?<br><br><b>The monster murdered everyone in sight as he marched through the marshland.",
       "correctAnswer": "Aggressive",
-      "imageURL": "seneca-image-cdn:///2018-09/a14bc0c5-48ae-4a4a-8f01-28a6571873d4/eery-frankenstein-monster-.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/a14bc0c5-48ae-4a4a-8f01-28a6571873d4/eery-frankenstein-monster-.jpg"
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "5315f332-3227-40c7-9717-389cb28c11bd",
@@ -6773,12 +5778,7 @@
     "content": {
       "question": "What technique is used in this phrase?<br><br>\"They were stuck in the room alone together\"",
       "correctAnswer": "An oxymoron",
-      "wrongAnswers": [
-        "Antithesis",
-        "Irony",
-        "Ellipsis",
-        "An idiom"
-      ]
+      "wrongAnswers": ["Antithesis", "Irony", "Ellipsis", "An idiom"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "43918e6d-009e-4305-990a-c6fc15c824d2",
@@ -6793,10 +5793,7 @@
     "content": {
       "question": "Which of your previous answers might you use for answering Question 4 of Section A?",
       "correctAnswer": "Your answer for Question 2",
-      "wrongAnswers": [
-        "Your answer for Question 1",
-        "Your answer for Question 3"
-      ]
+      "wrongAnswers": ["Your answer for Question 1", "Your answer for Question 3"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "a61537ef-feff-404f-9957-6226fc010fce",

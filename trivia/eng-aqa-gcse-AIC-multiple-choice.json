@@ -10,7 +10,7 @@
       ],
       "question": "Who is Inspector Goole?",
       "correctAnswer": "The police inspector who narrates the story of Eva Smith/Daisy Renton ",
-      "imageURL": "seneca-image-cdn:///2018-03/1564515a-4fff-4581-afbf-feff51d14ace/shutterstock_699567733.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/1564515a-4fff-4581-afbf-feff51d14ace/shutterstock_699567733.jpg"
     },
     "parentId": "e077dd50-2dc1-11e8-aca5-6f58cd924721",
     "id": "00fff5a0-2eab-11e8-8af4-a7b617d5ce5a",
@@ -23,11 +23,7 @@
     "content": {
       "question": "Which of the following best describes British society in 1912?",
       "correctAnswer": "Capitalist",
-      "wrongAnswers": [
-        "Socialist",
-        "Communist",
-        "Dictatorship"
-      ]
+      "wrongAnswers": ["Socialist", "Communist", "Dictatorship"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "0b47d4df-ae05-4a4b-8354-8716e15e02b9",
@@ -78,10 +74,7 @@
     "content": {
       "question": "What does this quote from Mrs Birling highlight about women in pre-war Britain?<br><b>_‘When you’re married you’ll realise that men with important work to do sometimes spend nearly all their time and energy on their business. You’ll have to get used to that, just as I had.’</b>_",
       "correctAnswer": "Women generally had much less power and place in society than men",
-      "wrongAnswers": [
-        "Most men were attentive and dutiful husbands",
-        "Women were the main breadwinners in families"
-      ]
+      "wrongAnswers": ["Most men were attentive and dutiful husbands", "Women were the main breadwinners in families"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "fec8ea00-2c3c-11e8-b18d-d1082cf88b6d",
@@ -100,11 +93,7 @@
     "content": {
       "question": "What is a name given to someone who brings about change?",
       "correctAnswer": "Agent of change",
-      "wrongAnswers": [
-        "Angel of change",
-        "Agent of shield",
-        "Arm of change"
-      ]
+      "wrongAnswers": ["Angel of change", "Agent of shield", "Arm of change"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "2c9be069-21e8-4446-a172-b3c6d293a7e0",
@@ -139,11 +128,7 @@
     "content": {
       "question": "<b>‘The time will soon come when, if men will not learn that lesson, then they will be taught it in =fire and blood and anguish=’.</b><br>What's Priestley referring to here?",
       "correctAnswer": "The World Wars",
-      "wrongAnswers": [
-        "Great Fire of London",
-        "The Cold War",
-        "Iraq War"
-      ]
+      "wrongAnswers": ["Great Fire of London", "The Cold War", "Iraq War"]
     },
     "parentId": "de97a440-2dc4-11e8-aca5-6f58cd924721",
     "id": "09e7a8f0-2eb7-11e8-8af4-a7b617d5ce5a",
@@ -157,12 +142,7 @@
     "content": {
       "question": "<b>‘Is there any reason why my wife should answer questions from you...?’</b><br>Who is Mr Birling speaking to condescendingly in this quote?",
       "correctAnswer": "Inspector Goole",
-      "wrongAnswers": [
-        "Gerald",
-        "Edna",
-        "Eva Smith",
-        "Eric"
-      ]
+      "wrongAnswers": ["Gerald", "Edna", "Eva Smith", "Eric"]
     },
     "parentId": "fc6b3a30-2c58-11e8-b18d-d1082cf88b6d",
     "id": "0c2481f0-2ea9-11e8-8af4-a7b617d5ce5a",
@@ -175,11 +155,7 @@
     "content": {
       "question": "Who or what does Eva turn to for financial help?",
       "correctAnswer": "Mrs Birling's charity ",
-      "wrongAnswers": [
-        "Her employer Mr Birling",
-        "Sheila",
-        "Mr Birling's charity"
-      ]
+      "wrongAnswers": ["Her employer Mr Birling", "Sheila", "Mr Birling's charity"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "52bd5390-2c2d-11e8-b18d-d1082cf88b6d",
@@ -194,11 +170,7 @@
     "content": {
       "question": "Why is Mrs Birling submissive to Mr Birling?",
       "correctAnswer": "She is female",
-      "wrongAnswers": [
-        "She greatly respects him",
-        "He is of a higher status than her",
-        "He is wealthier than her"
-      ]
+      "wrongAnswers": ["She greatly respects him", "He is of a higher status than her", "He is wealthier than her"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "2c9be069-21e8-4446-a172-b3c6d293a7e0",
@@ -232,11 +204,7 @@
     "content": {
       "question": "What is described as 'heavily comfortable' in _An Inspector Calls_?",
       "correctAnswer": "The Birlings' house",
-      "wrongAnswers": [
-        "The dinner table",
-        "The Birlings' bed",
-        "Eva's lodgings"
-      ]
+      "wrongAnswers": ["The dinner table", "The Birlings' bed", "Eva's lodgings"]
     },
     "parentId": "50909420-2dd0-11e8-be10-bfb69a5b26ca",
     "id": "14d5d780-2dfb-11e8-8af4-a7b617d5ce5a",
@@ -265,14 +233,10 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "wrongAnswers": [
-        "Forced himself on her",
-        "Refused to give her financial aid",
-        "Had her fired from Milward's"
-      ],
+      "wrongAnswers": ["Forced himself on her", "Refused to give her financial aid", "Had her fired from Milward's"],
       "question": "What's Mr Birling's connection to Eva?",
       "correctAnswer": "Fired her from his factory",
-      "imageURL": "seneca-image-cdn:///2018-03/6c3f53b1-050c-43a7-b903-ba7d25e757e0/shutterstock_2164828.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/6c3f53b1-050c-43a7-b903-ba7d25e757e0/shutterstock_2164828.jpg"
     },
     "parentId": "213a95d0-2c55-11e8-b18d-d1082cf88b6d",
     "id": "156dbf90-2e9c-11e8-8af4-a7b617d5ce5a",
@@ -305,12 +269,7 @@
     "content": {
       "question": "Who is Sheila expressing her annoyance at with this quote?<br><b>‘You don’t seem to have learnt anything’",
       "correctAnswer": "Mr and Mrs Birling",
-      "wrongAnswers": [
-        "Eric",
-        "Edna",
-        "Inspector Goole",
-        "Eva Smith"
-      ]
+      "wrongAnswers": ["Eric", "Edna", "Inspector Goole", "Eva Smith"]
     },
     "parentId": "1a674290-2c54-11e8-b18d-d1082cf88b6d",
     "id": "1a8c2d50-2e91-11e8-8af4-a7b617d5ce5a",
@@ -323,10 +282,7 @@
     "content": {
       "question": "What does this quote from Mrs Birling highlight about women in pre-war Britain?<br><b>_‘When you’re married you’ll realise that men with important work to do sometimes spend nearly all their time and energy on their business. You’ll have to get used to that, just as I had.’</b>_",
       "correctAnswer": "Women generally had much less power and place in society than men",
-      "wrongAnswers": [
-        "Most men were attentive and dutiful husbands",
-        "Women were the main breadwinners in families"
-      ]
+      "wrongAnswers": ["Most men were attentive and dutiful husbands", "Women were the main breadwinners in families"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "45aa632c-eaaf-470c-8eea-c06578cf2512",
@@ -374,14 +330,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Edna",
-        "Mrs Birling",
-        "Sheila"
-      ],
+      "wrongAnswers": ["Edna", "Mrs Birling", "Sheila"],
       "question": "Who do all the characters feel they can mistreat because of her class status?",
       "correctAnswer": "Eva Smith",
-      "imageURL": "seneca-image-cdn:///2018-03/a38f07af-e108-448b-9f30-f562535b5300/shutterstock_747184369.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/a38f07af-e108-448b-9f30-f562535b5300/shutterstock_747184369.jpg"
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "156b6fe5-285e-49ca-a26d-6f50bbc0619c",
@@ -395,11 +347,7 @@
     "content": {
       "question": "Which characters show they could stop the cycle of destruction in _An Inspector Calls_ by learning from their mistakes?",
       "correctAnswer": "Sheila and Eric",
-      "wrongAnswers": [
-        "Gerald and Edna",
-        "Mr and Mrs Birling",
-        "Eva Smith and Edna"
-      ]
+      "wrongAnswers": ["Gerald and Edna", "Mr and Mrs Birling", "Eva Smith and Edna"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "76f44730-2dd3-11e8-be10-bfb69a5b26ca",
@@ -419,10 +367,7 @@
     "content": {
       "question": "<b>‘I think my father would agree to that, too.’</b><br>Who says this quote in Act 1?",
       "correctAnswer": "Gerald",
-      "wrongAnswers": [
-        "Eric",
-        "Sheila"
-      ]
+      "wrongAnswers": ["Eric", "Sheila"]
     },
     "parentId": "19d9c3c0-2dc1-11e8-aca5-6f58cd924721",
     "id": "288224c0-30e2-11e8-9f86-a780b39dea3f",
@@ -460,7 +405,7 @@
       ],
       "question": "What's Mrs Birling's connection to Eva?",
       "correctAnswer": "She refused to give Eva financial help when she asked Brumley Women’s Charity Organisation for support",
-      "imageURL": "seneca-image-cdn:///2018-03/9aa591ab-5590-4870-a64b-f6d4638f393e/shutterstock_246432538.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/9aa591ab-5590-4870-a64b-f6d4638f393e/shutterstock_246432538.jpg"
     },
     "parentId": "ecdda710-2c5d-11e8-b18d-d1082cf88b6d",
     "id": "2b3c1c60-2eb8-11e8-b605-3947b8d93e1a",
@@ -474,10 +419,7 @@
     "content": {
       "question": "How do Gerald's parents show that they disapprove of his engagement to Sheila?",
       "correctAnswer": "Decline the invitation to dinner",
-      "wrongAnswers": [
-        "Openly scold Gerald in front of the Birlings",
-        "Steal Sheila's ring"
-      ]
+      "wrongAnswers": ["Openly scold Gerald in front of the Birlings", "Steal Sheila's ring"]
     },
     "parentId": "b87fcea0-2dbe-11e8-aca5-6f58cd924721",
     "id": "2ba1ed40-30e0-11e8-9f86-a780b39dea3f",
@@ -530,11 +472,7 @@
     "content": {
       "question": "Why did Eva decide not to see Eric again?",
       "correctAnswer": "She found out he gave her stolen money",
-      "wrongAnswers": [
-        "She became pregnant",
-        "He forced himself on her",
-        "He was an alcoholic"
-      ]
+      "wrongAnswers": ["She became pregnant", "He forced himself on her", "He was an alcoholic"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "e71e13b8-b2bd-4ab6-bec3-c7b08f197dc4",
@@ -549,12 +487,7 @@
     "content": {
       "question": "Who disapproves of Sheila and Gerald's engagement because of Sheila's social status?",
       "correctAnswer": "Lady Croft",
-      "wrongAnswers": [
-        "Eva Smith",
-        "Mr Birling",
-        "Mrs Birling",
-        "Eric"
-      ]
+      "wrongAnswers": ["Eva Smith", "Mr Birling", "Mrs Birling", "Eric"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "156b6fe5-285e-49ca-a26d-6f50bbc0619c",
@@ -583,11 +516,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Mr Birling",
-        "Gerald",
-        "Sheila"
-      ],
+      "wrongAnswers": ["Mr Birling", "Gerald", "Sheila"],
       "question": "Who is Eric furious at in this quote?<br><b>‘You killed her! She came to you to protect me – and you turned her away… your own grandchild – you killed them both – damn you’",
       "correctAnswer": "Mrs Birling",
       "imageURL": "https://media.giphy.com/media/3t7RAFhu75Wwg/giphy.mp4"
@@ -622,11 +551,7 @@
     "content": {
       "question": "Who does Gerald act like at the start of the play?",
       "correctAnswer": "Mr Birling",
-      "wrongAnswers": [
-        "Eric",
-        "Mrs Birling",
-        "Sheila"
-      ]
+      "wrongAnswers": ["Eric", "Mrs Birling", "Sheila"]
     },
     "parentId": "15518e70-2dbf-11e8-aca5-6f58cd924721",
     "id": "3b60fe60-30e0-11e8-9f86-a780b39dea3f",
@@ -639,10 +564,7 @@
     "content": {
       "question": "Which of these characters is NOT a lower-class character?",
       "correctAnswer": "Eric",
-      "wrongAnswers": [
-        "Eva Smith",
-        "Edna"
-      ]
+      "wrongAnswers": ["Eva Smith", "Edna"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "7a46e900-2c30-11e8-b18d-d1082cf88b6d",
@@ -658,11 +580,7 @@
     "content": {
       "question": "<b>‘It frightens me the way you talk.’</b> <br>Who is Sheila talking to and about in this quote?",
       "correctAnswer": "Mr and Mrs Birling",
-      "wrongAnswers": [
-        "Eric",
-        "Inspector Goole",
-        "Edna"
-      ]
+      "wrongAnswers": ["Eric", "Inspector Goole", "Edna"]
     },
     "parentId": "9a6429f0-2dbb-11e8-aca5-6f58cd924721",
     "id": "43c177c0-30d5-11e8-b833-b5e7429438ce",
@@ -693,11 +611,7 @@
     "content": {
       "question": "Before he leaves, Inspector Goole says<b> ‘fire and blood and anguish’</b> will follow if they do not change. What is this alluding to? ",
       "correctAnswer": "Two world wars",
-      "wrongAnswers": [
-        "The real death of Eva Smith",
-        "A death in the family",
-        "They will go to hell"
-      ]
+      "wrongAnswers": ["The real death of Eva Smith", "A death in the family", "They will go to hell"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "e71e13b8-b2bd-4ab6-bec3-c7b08f197dc4",
@@ -713,11 +627,7 @@
     "content": {
       "question": "<b>‘Well, it’s my duty to keep ??? costs down, and if I’d agreed to this demand for a new rate we’d have added about twelve per cent to our ??? costs'</b>.<br>Which word should replace the question marks in this quote?",
       "correctAnswer": "Labour",
-      "wrongAnswers": [
-        "Food",
-        "Agricultural",
-        "Heating"
-      ]
+      "wrongAnswers": ["Food", "Agricultural", "Heating"]
     },
     "parentId": "8aba00b0-2c58-11e8-b18d-d1082cf88b6d",
     "id": "4e1a9060-2ea7-11e8-8af4-a7b617d5ce5a",
@@ -767,11 +677,7 @@
     "content": {
       "question": "<b>‘Why shouldn’t they try for higher wages?’</b><br>What does this quote NOT suggest about Eric?",
       "correctAnswer": "Capitalist",
-      "wrongAnswers": [
-        "Socially aware",
-        "Socialist",
-        "Happy to go against social norms"
-      ]
+      "wrongAnswers": ["Socially aware", "Socialist", "Happy to go against social norms"]
     },
     "parentId": "a4e8a8e0-2dbd-11e8-aca5-6f58cd924721",
     "id": "56b94c10-30dd-11e8-9f86-a780b39dea3f",
@@ -785,11 +691,7 @@
     "content": {
       "question": "Which of these characters is not an upper-middle-class character?",
       "correctAnswer": "Edna",
-      "wrongAnswers": [
-        "Sheila",
-        "Eric",
-        "Mr Birling"
-      ]
+      "wrongAnswers": ["Sheila", "Eric", "Mr Birling"]
     },
     "parentId": "ad5468d0-2c31-11e8-b18d-d1082cf88b6d",
     "id": "5a929fb0-2ced-11e8-9398-853a8124f4ff",
@@ -803,11 +705,7 @@
     "content": {
       "question": "<b>‘What about this ring?’</b><br>Who says this quote in Act 3?",
       "correctAnswer": "Gerald",
-      "wrongAnswers": [
-        "Shelia",
-        "Eric",
-        "Mrs Birling"
-      ]
+      "wrongAnswers": ["Shelia", "Eric", "Mrs Birling"]
     },
     "parentId": "1a619160-2dc1-11e8-aca5-6f58cd924721",
     "id": "5cd5ce40-30e5-11e8-8fa9-17cc16e94172",
@@ -819,14 +717,10 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "wrongAnswers": [
-        "Edna",
-        "Inspector Goole",
-        "Mrs Birling"
-      ],
+      "wrongAnswers": ["Edna", "Inspector Goole", "Mrs Birling"],
       "question": "Which character do we never meet in _An Inspector Calls_?",
       "correctAnswer": "Eva Smith",
-      "imageURL": "seneca-image-cdn:///2018-03/b5b84723-e6bd-4c5b-9eea-08e740d13431/shutterstock_710550691.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/b5b84723-e6bd-4c5b-9eea-08e740d13431/shutterstock_710550691.jpg"
     },
     "parentId": "7a46e900-2c30-11e8-b18d-d1082cf88b6d",
     "id": "5d3104a0-2c66-11e8-b18d-d1082cf88b6d",
@@ -858,11 +752,7 @@
     "content": {
       "question": "<b>‘A chain of events’</b> - What act is this quote from?",
       "correctAnswer": "Act 1",
-      "wrongAnswers": [
-        "Act 2",
-        "Act 3",
-        "Act 4"
-      ]
+      "wrongAnswers": ["Act 2", "Act 3", "Act 4"]
     },
     "parentId": "de14b8a0-2dc4-11e8-aca5-6f58cd924721",
     "id": "63e28260-2eb4-11e8-8af4-a7b617d5ce5a",
@@ -898,11 +788,7 @@
     "content": {
       "question": "Where did Gerald meet Daisy?",
       "correctAnswer": "The Palace Bar",
-      "wrongAnswers": [
-        "The Police Station",
-        "The Post Office",
-        "The Pub"
-      ]
+      "wrongAnswers": ["The Police Station", "The Post Office", "The Pub"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "adfcce58-97f2-4095-9bf8-6cd6aa38aadc",
@@ -918,10 +804,7 @@
     "content": {
       "question": "Which of these is _not_ true about Mr Birling's relationship with Eric?",
       "correctAnswer": "Is proud of Eric's attitude to work",
-      "wrongAnswers": [
-        "Dismisses Eric in favour of Gerald",
-        "Doesn't realise Eric has a drinking problem"
-      ]
+      "wrongAnswers": ["Dismisses Eric in favour of Gerald", "Doesn't realise Eric has a drinking problem"]
     },
     "parentId": "60f0b750-2dbc-11e8-aca5-6f58cd924721",
     "id": "68e218f0-30d7-11e8-b833-b5e7429438ce",
@@ -938,7 +821,7 @@
       ],
       "question": "What's Sheila doing in this quote from Act 2?<br><b>_‘You and I aren’t the same people who sat down to dinner here’_",
       "correctAnswer": "Ending her engagement to Gerald",
-      "imageURL": "seneca-image-cdn:///2018-03/b75cdc8e-7631-49e0-91a3-dc84c19d83c7/shutterstock_278960453.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/b75cdc8e-7631-49e0-91a3-dc84c19d83c7/shutterstock_278960453.jpg"
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "73de8dc0-2c49-11e8-b18d-d1082cf88b6d",
@@ -946,7 +829,7 @@
       "wrongAnswers": "Telling her parents how different they are because they won't accept responsibility, Announcing that she has decided to become a vegetarian ",
       "question": "What's Sheila doing in this quote from Act 2?<br><b>_‘You and I aren’t the same people who sat down to dinner here’_",
       "correctAnswer": "Ending her engagement to Gerald",
-      "imageURL": "seneca-image-cdn:///2018-03/b75cdc8e-7631-49e0-91a3-dc84c19d83c7/shutterstock_278960453.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/b75cdc8e-7631-49e0-91a3-dc84c19d83c7/shutterstock_278960453.jpg"
     },
     "id": "6d9bfe50-2df4-11e8-8af4-a7b617d5ce5a",
     "type": "module",
@@ -976,13 +859,10 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "wrongAnswers": [
-        "Eric",
-        "Gerald"
-      ],
+      "wrongAnswers": ["Eric", "Gerald"],
       "question": "Which of these characters does _not_ force themselves on Eva or use her for sex?",
       "correctAnswer": "Mr Birling",
-      "imageURL": "seneca-image-cdn:///2018-03/a8352911-32ca-4c85-bd84-37b2e599df53/shutterstock_729142762.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/a8352911-32ca-4c85-bd84-37b2e599df53/shutterstock_729142762.jpg"
     },
     "parentId": "ab64a390-2c2d-11e8-b18d-d1082cf88b6d",
     "id": "77c107f0-2d21-11e8-8b7e-531bfd23b9f7",
@@ -993,14 +873,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Edna",
-        "Mrs Birling",
-        "Sheila"
-      ],
+      "wrongAnswers": ["Edna", "Mrs Birling", "Sheila"],
       "question": "Who do all the characters feel they can mistreat because of her class status?",
       "correctAnswer": "Eva Smith",
-      "imageURL": "seneca-image-cdn:///2018-03/a38f07af-e108-448b-9f30-f562535b5300/shutterstock_747184369.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/a38f07af-e108-448b-9f30-f562535b5300/shutterstock_747184369.jpg"
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "1812d5a0-2c30-11e8-b18d-d1082cf88b6d",
@@ -1008,7 +884,7 @@
       "wrongAnswers": "Edna, Mrs Birling, Sheila",
       "question": "Who do all the characters feel they can mistreat because of her class status?",
       "correctAnswer": "Eva Smith",
-      "imageURL": "seneca-image-cdn:///2018-03/a38f07af-e108-448b-9f30-f562535b5300/shutterstock_747184369.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/a38f07af-e108-448b-9f30-f562535b5300/shutterstock_747184369.jpg"
     },
     "id": "7bd981c0-2cf2-11e8-9398-853a8124f4ff",
     "type": "module",
@@ -1021,12 +897,7 @@
     "content": {
       "question": "Who says <b>'a chain of events’</b>?",
       "correctAnswer": "Inspector Goole",
-      "wrongAnswers": [
-        "Eva Smith",
-        "Mrs Birling",
-        "Gerald",
-        "Eric"
-      ]
+      "wrongAnswers": ["Eva Smith", "Mrs Birling", "Gerald", "Eric"]
     },
     "parentId": "de14b8a0-2dc4-11e8-aca5-6f58cd924721",
     "id": "7ce20ba0-2eb4-11e8-8af4-a7b617d5ce5a",
@@ -1058,12 +929,7 @@
     "content": {
       "question": "<b>‘I don’t give a damn’</b>.<br>Who says this in Act 3?",
       "correctAnswer": "Eric",
-      "wrongAnswers": [
-        "Mr Birling",
-        "Sheila",
-        "Inspector Goole",
-        "Mrs Birling"
-      ]
+      "wrongAnswers": ["Mr Birling", "Sheila", "Inspector Goole", "Mrs Birling"]
     },
     "parentId": "a536a1d0-2dbd-11e8-aca5-6f58cd924721",
     "id": "7fedbd40-30de-11e8-9f86-a780b39dea3f",
@@ -1077,10 +943,7 @@
     "content": {
       "question": "<b>‘Why shouldn’t they try for higher wages?’</b><br>How does Eric go against social norms in this quote?",
       "correctAnswer": "Openly contradicts his father",
-      "wrongAnswers": [
-        "Discusses business",
-        "Discusses money"
-      ]
+      "wrongAnswers": ["Discusses business", "Discusses money"]
     },
     "parentId": "a4e8a8e0-2dbd-11e8-aca5-6f58cd924721",
     "id": "810fc480-30dd-11e8-9f86-a780b39dea3f",
@@ -1131,11 +994,7 @@
     "content": {
       "question": "In Act 2, Gerald says: <b>‘I didn’t feel about her as she felt about me.’</b><br>Who is he talking about here?",
       "correctAnswer": "Eva Smith",
-      "wrongAnswers": [
-        "Sheila",
-        "Mrs Birling",
-        "Edna"
-      ]
+      "wrongAnswers": ["Sheila", "Mrs Birling", "Edna"]
     },
     "parentId": "1a1a7640-2dc1-11e8-aca5-6f58cd924721",
     "id": "897098c0-30e2-11e8-9f86-a780b39dea3f",
@@ -1148,11 +1007,7 @@
     "content": {
       "question": "Which character does Priestley use as a narrator?",
       "correctAnswer": "Inspector Goole",
-      "wrongAnswers": [
-        "Eva Smith",
-        "Mr Birling",
-        "Sheila"
-      ]
+      "wrongAnswers": ["Eva Smith", "Mr Birling", "Sheila"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "bd02f907-0d88-4946-9e8d-4508f69737a1",
@@ -1171,7 +1026,7 @@
       ],
       "question": "What's Sheila doing in this quote from Act 2?<br><b>_‘You and I aren’t the same people who sat down to dinner here’_",
       "correctAnswer": "Ending her engagement to Gerald",
-      "imageURL": "seneca-image-cdn:///2018-03/b75cdc8e-7631-49e0-91a3-dc84c19d83c7/shutterstock_278960453.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/b75cdc8e-7631-49e0-91a3-dc84c19d83c7/shutterstock_278960453.jpg"
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "38abf535-cf6c-40a0-9db3-f4600b6916d7",
@@ -1203,11 +1058,7 @@
     "content": {
       "question": "Which of the following does NOT reflect Mr Birling's views on women?",
       "correctAnswer": "More intelligent than men",
-      "wrongAnswers": [
-        "Less intelligent than men",
-        "More emotionally unstable than men",
-        "More fragile than men"
-      ]
+      "wrongAnswers": ["Less intelligent than men", "More emotionally unstable than men", "More fragile than men"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "3c1a5a1b-7bcb-492a-842e-60f2491b294e",
@@ -1220,11 +1071,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Mr Birling",
-        "Gerald",
-        "Sheila"
-      ],
+      "wrongAnswers": ["Mr Birling", "Gerald", "Sheila"],
       "question": "Who is Eric furious at in this quote?<br><b>‘You killed her! She came to you to protect me – and you turned her away… your own grandchild – you killed them both – damn you’",
       "correctAnswer": "Mrs Birling",
       "imageURL": "https://media.giphy.com/media/3t7RAFhu75Wwg/giphy.mp4"
@@ -1248,11 +1095,7 @@
     "content": {
       "question": "<b>'You! You don’t seem to care about anything. But I care. I was almost certain for a knighthood in the next Honours List.’</b><br>Which word emphasises Mr Birling's attack on Eric?",
       "correctAnswer": "Personal pronoun 'you'",
-      "wrongAnswers": [
-        "Personal pronoun 'I'",
-        "Verb 'care'",
-        "Noun 'knighthood'"
-      ]
+      "wrongAnswers": ["Personal pronoun 'I'", "Verb 'care'", "Noun 'knighthood'"]
     },
     "parentId": "53751160-2c5a-11e8-b18d-d1082cf88b6d",
     "id": "928b8d10-2ea9-11e8-8af4-a7b617d5ce5a",
@@ -1266,11 +1109,7 @@
     "content": {
       "question": "What technique does Priestley use to show that Mr Birling is foolish?",
       "correctAnswer": "Dramatic irony",
-      "wrongAnswers": [
-        "Personification",
-        "Metaphor",
-        "Alliteration"
-      ]
+      "wrongAnswers": ["Personification", "Metaphor", "Alliteration"]
     },
     "parentId": "711e3ed0-2c55-11e8-b18d-d1082cf88b6d",
     "id": "976d3ff0-2e9e-11e8-8af4-a7b617d5ce5a",
@@ -1284,11 +1123,7 @@
     "content": {
       "question": "<b>‘And you think young women ought to be protected against ??? things?’</b><br>Which word should replace the question marks in this key quote from Inspector Goole?",
       "correctAnswer": "Unpleasant",
-      "wrongAnswers": [
-        "Harmful",
-        "Immoral",
-        "Shameful"
-      ]
+      "wrongAnswers": ["Harmful", "Immoral", "Shameful"]
     },
     "parentId": "de559230-2dc4-11e8-aca5-6f58cd924721",
     "id": "982a08d0-2eb5-11e8-8af4-a7b617d5ce5a",
@@ -1380,11 +1215,7 @@
     "content": {
       "question": "Which character sees women as dispensable at work?",
       "correctAnswer": "Mr Birling",
-      "wrongAnswers": [
-        "Eric",
-        "Gerald",
-        "Mrs Birling"
-      ]
+      "wrongAnswers": ["Eric", "Gerald", "Mrs Birling"]
     },
     "parentId": "ab64a390-2c2d-11e8-b18d-d1082cf88b6d",
     "id": "9d1207f0-2d23-11e8-8b7e-531bfd23b9f7",
@@ -1398,11 +1229,7 @@
     "content": {
       "question": "Who is Gerald engaged to at the start of the play?",
       "correctAnswer": "Sheila",
-      "wrongAnswers": [
-        "Eva Smith",
-        "Edna",
-        "Mrs Birling"
-      ]
+      "wrongAnswers": ["Eva Smith", "Edna", "Mrs Birling"]
     },
     "parentId": "b87fcea0-2dbe-11e8-aca5-6f58cd924721",
     "id": "9ec68250-30df-11e8-9f86-a780b39dea3f",
@@ -1433,14 +1260,10 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "wrongAnswers": [
-        "Because she thinks he is smarter than her",
-        "Because she's lazy",
-        "Because she's indecisive"
-      ],
+      "wrongAnswers": ["Because she thinks he is smarter than her", "Because she's lazy", "Because she's indecisive"],
       "question": "Mrs Birling is of a higher class than Mr Birling. So why is she submissive to him?",
       "correctAnswer": "Because she's a woman",
-      "imageURL": "seneca-image-cdn:///2018-03/ae1914a8-0b75-4783-89c7-82aa22822e85/shutterstock_98906861.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/ae1914a8-0b75-4783-89c7-82aa22822e85/shutterstock_98906861.jpg"
     },
     "parentId": "794acb30-2c2f-11e8-b18d-d1082cf88b6d",
     "id": "a5a0aa50-2d25-11e8-8b7e-531bfd23b9f7",
@@ -1454,11 +1277,7 @@
     "content": {
       "question": "<b>‘It would be much better if ??? didn’t listen to this story at all’</b>.<br>Who is Mrs Birling talking about in this quote?",
       "correctAnswer": "Sheila",
-      "wrongAnswers": [
-        "Eric",
-        "Mr Birling",
-        "Gerald"
-      ]
+      "wrongAnswers": ["Eric", "Mr Birling", "Gerald"]
     },
     "parentId": "48261ce0-2c60-11e8-b18d-d1082cf88b6d",
     "id": "a6282690-3056-11e8-b605-3947b8d93e1a",
@@ -1472,12 +1291,7 @@
     "content": {
       "question": "<b>‘I don’t give a damn’</b>.<br>Who is Eric speaking to here?",
       "correctAnswer": "Mr Birling",
-      "wrongAnswers": [
-        "Mrs Birling",
-        "Gerald",
-        "Sheila",
-        "Inspector Goole"
-      ]
+      "wrongAnswers": ["Mrs Birling", "Gerald", "Sheila", "Inspector Goole"]
     },
     "parentId": "a536a1d0-2dbd-11e8-aca5-6f58cd924721",
     "id": "a6aef670-30dd-11e8-9f86-a780b39dea3f",
@@ -1491,11 +1305,7 @@
     "content": {
       "question": "<b>‘I don’t think you ought to talk ??? on an occasion like this’</b>.<br>Mrs Birling is telling off Mr Birling for discussing:",
       "correctAnswer": "Business",
-      "wrongAnswers": [
-        "Sports",
-        "Politics",
-        "The war"
-      ]
+      "wrongAnswers": ["Sports", "Politics", "The war"]
     },
     "parentId": "47972350-2c60-11e8-b18d-d1082cf88b6d",
     "id": "a935d460-3059-11e8-b605-3947b8d93e1a",
@@ -1545,10 +1355,7 @@
     "content": {
       "question": "<b>[Not quite at ease, half shy, half assertive]</b><br>What does this quote suggest about Eric's relationship with his family in Act 1?",
       "correctAnswer": "Seems to be uncomfortable around his family and separate from them",
-      "wrongAnswers": [
-        "Hates his family",
-        "Is estranged from his family"
-      ]
+      "wrongAnswers": ["Hates his family", "Is estranged from his family"]
     },
     "parentId": "a4a2c640-2dbd-11e8-aca5-6f58cd924721",
     "id": "ac136250-30dc-11e8-9f86-a780b39dea3f",
@@ -1561,11 +1368,7 @@
     "content": {
       "question": "How does Sheila feel about Mr & Mrs Birling's attitudes at the end of the play?",
       "correctAnswer": "They scare her",
-      "wrongAnswers": [
-        "They entertain her",
-        "She agrees with them",
-        "She thinks they are naive"
-      ]
+      "wrongAnswers": ["They entertain her", "She agrees with them", "She thinks they are naive"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "3c1a5a1b-7bcb-492a-842e-60f2491b294e",
@@ -1580,11 +1383,7 @@
     "content": {
       "question": "<b>‘But I didn’t know it was _you_’</b>. <br>Who says this in Act 3?",
       "correctAnswer": "Mrs Birling",
-      "wrongAnswers": [
-        "Mr Birling",
-        "Sheila",
-        "Eric"
-      ]
+      "wrongAnswers": ["Mr Birling", "Sheila", "Eric"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "ab03ed80-2c4f-11e8-b18d-d1082cf88b6d",
@@ -1622,12 +1421,7 @@
     "content": {
       "question": "Who disapproves of Sheila and Gerald's engagement because of Sheila's social status?",
       "correctAnswer": "Lady Croft",
-      "wrongAnswers": [
-        "Eva Smith",
-        "Mr Birling",
-        "Mrs Birling",
-        "Eric"
-      ]
+      "wrongAnswers": ["Eva Smith", "Mr Birling", "Mrs Birling", "Eric"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "1812d5a0-2c30-11e8-b18d-d1082cf88b6d",
@@ -1689,11 +1483,7 @@
     "content": {
       "question": "How does Inspector Goole promote social equality?",
       "correctAnswer": "He refuses to treat the upper classes differently",
-      "wrongAnswers": [
-        "He goes on strike",
-        "He has Mr Birling fired",
-        "He mistreats Eva Smith"
-      ]
+      "wrongAnswers": ["He goes on strike", "He has Mr Birling fired", "He mistreats Eva Smith"]
     },
     "parentId": "9c8964d0-2dc4-11e8-aca5-6f58cd924721",
     "id": "bab55a20-2eac-11e8-8af4-a7b617d5ce5a",
@@ -1725,11 +1515,7 @@
     "content": {
       "question": "Which characters show they could stop the cycle of destruction in _An Inspector Calls_ by learning from their mistakes?",
       "correctAnswer": "Sheila and Eric",
-      "wrongAnswers": [
-        "Gerald and Edna",
-        "Mr and Mrs Birling",
-        "Eva Smith and Edna"
-      ]
+      "wrongAnswers": ["Gerald and Edna", "Mr and Mrs Birling", "Eva Smith and Edna"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "7663d8c5-220f-4416-90e4-283dba9b7661",
@@ -1761,11 +1547,7 @@
     "content": {
       "question": "It's implied that Eva tries to make money through what after being fired from her job?",
       "correctAnswer": "Prostitution",
-      "wrongAnswers": [
-        "Selling drugs",
-        "Handing out leaflets",
-        "Stealing from the Birlings"
-      ]
+      "wrongAnswers": ["Selling drugs", "Handing out leaflets", "Stealing from the Birlings"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "52bd5390-2c2d-11e8-b18d-d1082cf88b6d",
@@ -1780,11 +1562,7 @@
     "content": {
       "question": "Which character says <b>‘I was the only one who didn’t give in to him’</b>?",
       "correctAnswer": "Mrs Birling",
-      "wrongAnswers": [
-        "Mr Birling",
-        "Sheila",
-        "Gerald"
-      ]
+      "wrongAnswers": ["Mr Birling", "Sheila", "Gerald"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "3c1a5a1b-7bcb-492a-842e-60f2491b294e",
@@ -1800,10 +1578,7 @@
     "content": {
       "question": "What's Inspector Goole referring to in the following quote from Act 2?<br><b>‘And you think young women ought to be protected against unpleasant things?’",
       "correctAnswer": "Gerald's mistreatment of Eva",
-      "wrongAnswers": [
-        "Mrs Birling treating Sheila like a child",
-        "Mr Birling's mistreatment of Mrs Birling"
-      ]
+      "wrongAnswers": ["Mrs Birling treating Sheila like a child", "Mr Birling's mistreatment of Mrs Birling"]
     },
     "parentId": "de559230-2dc4-11e8-aca5-6f58cd924721",
     "id": "cc60b140-2eb4-11e8-8af4-a7b617d5ce5a",
@@ -1836,11 +1611,7 @@
     "content": {
       "question": "How is Eric presented at the start of the play?",
       "correctAnswer": "Awkward and secretive",
-      "wrongAnswers": [
-        "Confident and respectable",
-        "Mature",
-        "Socially aware and likeable"
-      ]
+      "wrongAnswers": ["Confident and respectable", "Mature", "Socially aware and likeable"]
     },
     "parentId": "d7e8cd20-2dbc-11e8-aca5-6f58cd924721",
     "id": "ce12fc20-30d8-11e8-b833-b5e7429438ce",
@@ -1854,11 +1625,7 @@
     "content": {
       "question": "<b>‘Well, it’s my duty to keep labour costs down, and if I’d agreed to this demand for a new rate we’d have added about twelve per cent to our labour costs’</b>. <br>What's Priestley trying to show with this quote?",
       "correctAnswer": "Selfishness of capitalism",
-      "wrongAnswers": [
-        "Selfishness of socialism",
-        "Fairness of capitalism",
-        "Fairness of socialism"
-      ]
+      "wrongAnswers": ["Selfishness of socialism", "Fairness of capitalism", "Fairness of socialism"]
     },
     "parentId": "8aba00b0-2c58-11e8-b18d-d1082cf88b6d",
     "id": "cf43e6f0-2ea7-11e8-8af4-a7b617d5ce5a",
@@ -1894,10 +1661,7 @@
     "content": {
       "question": "What shocks the Birlings about Inspector Goole?",
       "correctAnswer": "He refuses to give them special treatment because of their social status",
-      "wrongAnswers": [
-        "He is abnormally tall",
-        "He is responsible for Eva Smith's death"
-      ]
+      "wrongAnswers": ["He is abnormally tall", "He is responsible for Eva Smith's death"]
     },
     "parentId": "084c65d0-2dc2-11e8-aca5-6f58cd924721",
     "id": "d4ecca50-2eb0-11e8-8af4-a7b617d5ce5a",
@@ -2017,12 +1781,7 @@
     "content": {
       "question": "Inspector Goole narrates the story of:",
       "correctAnswer": "Eva Smith",
-      "wrongAnswers": [
-        "Eric",
-        "Sheila",
-        "Mr Birling",
-        "Edna"
-      ]
+      "wrongAnswers": ["Eric", "Sheila", "Mr Birling", "Edna"]
     },
     "parentId": "e077dd50-2dc1-11e8-aca5-6f58cd924721",
     "id": "dd8caef0-2eab-11e8-8af4-a7b617d5ce5a",
@@ -2053,11 +1812,7 @@
     "content": {
       "question": "<b>‘But I didn’t know it was _you_’</b>. <br>Who says this in Act 3?",
       "correctAnswer": "Mrs Birling",
-      "wrongAnswers": [
-        "Mr Birling",
-        "Sheila",
-        "Eric"
-      ]
+      "wrongAnswers": ["Mr Birling", "Sheila", "Eric"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "15723b87-1589-4efe-a107-a7943f691137",
@@ -2070,14 +1825,10 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "wrongAnswers": [
-        "Suffering lower class",
-        "Promising future generation",
-        "Socialist revolutionaries"
-      ],
+      "wrongAnswers": ["Suffering lower class", "Promising future generation", "Socialist revolutionaries"],
       "question": "Mrs Birling represents:",
       "correctAnswer": "Uncaring upper class",
-      "imageURL": "seneca-image-cdn:///2018-03/b484b0cb-3399-4d12-9f91-da777cc80cd2/shutterstock_613296635.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/b484b0cb-3399-4d12-9f91-da777cc80cd2/shutterstock_613296635.jpg"
     },
     "parentId": "7868f5e0-2c5f-11e8-b18d-d1082cf88b6d",
     "id": "eaf13b00-2ebb-11e8-b605-3947b8d93e1a",
@@ -2091,11 +1842,7 @@
     "content": {
       "question": "Why don't Gerald's parents approve of his engagement to Sheila?",
       "correctAnswer": "Sheila is upper middle class",
-      "wrongAnswers": [
-        "Sheila is upper class",
-        "Sheila is ugly",
-        "Gerald does not love Sheila"
-      ]
+      "wrongAnswers": ["Sheila is upper class", "Sheila is ugly", "Gerald does not love Sheila"]
     },
     "parentId": "b87fcea0-2dbe-11e8-aca5-6f58cd924721",
     "id": "ecab9c30-30df-11e8-9f86-a780b39dea3f",
@@ -2128,11 +1875,7 @@
     "content": {
       "question": "How does Eric abuse his power and represent the abusive upper class?",
       "correctAnswer": "Forces himself on Eva",
-      "wrongAnswers": [
-        "Has Eva fired from Milward's",
-        "Fires Eva from his factory",
-        "Refuses to help Eva financially"
-      ]
+      "wrongAnswers": ["Has Eva fired from Milward's", "Fires Eva from his factory", "Refuses to help Eva financially"]
     },
     "parentId": "4e894d10-2dbd-11e8-aca5-6f58cd924721",
     "id": "f0121200-30da-11e8-b833-b5e7429438ce",
@@ -2198,11 +1941,7 @@
     "content": {
       "question": "What year is _An Inspector Calls_ set in?",
       "correctAnswer": "1912",
-      "wrongAnswers": [
-        "1914",
-        "1910",
-        "1920"
-      ]
+      "wrongAnswers": ["1914", "1910", "1920"]
     },
     "parentId": "ba859cc0-2c29-11e8-b18d-d1082cf88b6d",
     "id": "f4512720-2cfc-11e8-8b7e-531bfd23b9f7",
@@ -2232,11 +1971,7 @@
     "content": {
       "question": "What are foils in literature?",
       "correctAnswer": "Characters that act as contrasts to other characters",
-      "wrongAnswers": [
-        "Characters that murder other characters",
-        "Villains",
-        "Central characters"
-      ]
+      "wrongAnswers": ["Characters that murder other characters", "Villains", "Central characters"]
     },
     "parentId": "464cf410-2c34-11e8-b18d-d1082cf88b6d",
     "id": "f8e26e40-2d2c-11e8-8b7e-531bfd23b9f7",
@@ -2250,11 +1985,7 @@
     "content": {
       "question": "What does Inspector Goole say will follow if the Birlings don't make important changes to the way they live their lives?",
       "correctAnswer": "‘Fire and blood and anguish’ ",
-      "wrongAnswers": [
-        "'Wealth and prosperity'",
-        "'Dark clouds and uncertainty'",
-        "'A bloody war'"
-      ]
+      "wrongAnswers": ["'Wealth and prosperity'", "'Dark clouds and uncertainty'", "'A bloody war'"]
     },
     "parentId": "9c8964d0-2dc4-11e8-aca5-6f58cd924721",
     "id": "f8ed6440-2eac-11e8-8af4-a7b617d5ce5a",
@@ -2267,11 +1998,7 @@
     "content": {
       "question": "What is created through Inspector Goole knowing everything before the characters tell him?",
       "correctAnswer": "Tension",
-      "wrongAnswers": [
-        "Irony",
-        "Cliffhanger",
-        "Humour"
-      ]
+      "wrongAnswers": ["Irony", "Cliffhanger", "Humour"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "bd02f907-0d88-4946-9e8d-4508f69737a1",
@@ -2287,11 +2014,7 @@
     "content": {
       "question": "How did Gerald mistreat Eva?",
       "correctAnswer": "He kept her as a mistress and then discarded her",
-      "wrongAnswers": [
-        "He proposed to her",
-        "He murdered her",
-        "He got her fired from Milward's"
-      ]
+      "wrongAnswers": ["He proposed to her", "He murdered her", "He got her fired from Milward's"]
     },
     "parentId": "de559230-2dc4-11e8-aca5-6f58cd924721",
     "id": "fda1a3e0-2eb4-11e8-8af4-a7b617d5ce5a",

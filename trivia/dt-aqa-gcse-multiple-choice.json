@@ -4,11 +4,7 @@
     "content": {
       "question": "Which of the following is NOT a softwood tree?",
       "correctAnswer": "Balsa ",
-      "wrongAnswers": [
-        "Larch",
-        "Pine",
-        "Spruce"
-      ]
+      "wrongAnswers": ["Larch", "Pine", "Spruce"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "8983d116-ce7e-4c97-bbaa-92b6241096f1",
@@ -21,13 +17,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Snail cam",
-        "Circular cam"
-      ],
+      "wrongAnswers": ["Snail cam", "Circular cam"],
       "question": "Name the type of cam pictured below:",
       "correctAnswer": "Pear shaped cam",
-      "imageURL": "seneca-image-cdn:///2019-03/10561364-9605-4cbb-9349-06770c2b21e4/pear-cam-dt-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/10561364-9605-4cbb-9349-06770c2b21e4/pear-cam-dt-.png"
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d3084018-3b69-4771-9e19-61fad3027e0a",
@@ -42,11 +35,7 @@
     "content": {
       "question": "Select the example of an open looped system:",
       "correctAnswer": "A toaster",
-      "wrongAnswers": [
-        "House thermostat",
-        "Cruise control system (in cars)",
-        "A kettle"
-      ]
+      "wrongAnswers": ["House thermostat", "Cruise control system (in cars)", "A kettle"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "caca38a0-e6fd-4861-8353-b9b54a0ca7e2",
@@ -61,11 +50,7 @@
     "content": {
       "question": "Which wood is pink in appearance with a tight grain?",
       "correctAnswer": "Beech",
-      "wrongAnswers": [
-        "Ash",
-        "Mahogany",
-        "Balsa"
-      ]
+      "wrongAnswers": ["Ash", "Mahogany", "Balsa"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "0a6e778c-7abe-4f5b-9316-88dcd03f1d5a",
@@ -80,11 +65,7 @@
     "content": {
       "question": "Which of these products often uses embossing?",
       "correctAnswer": "Greetings cards",
-      "wrongAnswers": [
-        "Plastic bags",
-        "Wine bottles",
-        "Toasters"
-      ]
+      "wrongAnswers": ["Plastic bags", "Wine bottles", "Toasters"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "881baced-e340-4ef0-ac72-73d8b2fb8104",
@@ -99,11 +80,7 @@
     "content": {
       "question": "What is added to paper to make rag paper?",
       "correctAnswer": "Cotton",
-      "wrongAnswers": [
-        "Wool",
-        "Silk",
-        "Additives"
-      ]
+      "wrongAnswers": ["Wool", "Silk", "Additives"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "168da5d4-4013-45fd-bada-627ce702f14b",
@@ -118,11 +95,7 @@
     "content": {
       "question": "Which measuring unit do designers across the planet use for non-large pieces??",
       "correctAnswer": "Millimetres (mm)",
-      "wrongAnswers": [
-        "Centimetres (cm)",
-        "Metres (m)",
-        "Inches (in)"
-      ]
+      "wrongAnswers": ["Centimetres (cm)", "Metres (m)", "Inches (in)"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d9fc6b56-a097-4f97-94b7-4d0320dff6d6",
@@ -137,11 +110,7 @@
     "content": {
       "question": "Which designer designed the London Underground map in 1931?",
       "correctAnswer": "Harry Beck",
-      "wrongAnswers": [
-        "Henry Beckett",
-        "Harold Bennett",
-        "Harvey Bentley"
-      ]
+      "wrongAnswers": ["Henry Beckett", "Harold Bennett", "Harvey Bentley"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "9a8a7ee8-d4ba-4104-b265-0a90cb8c286e",
@@ -156,11 +125,7 @@
     "content": {
       "question": "Which of the following is an example of secondary data?",
       "correctAnswer": "Government statistics ",
-      "wrongAnswers": [
-        "Taking measurements",
-        "Questionnaires",
-        "Interviews"
-      ]
+      "wrongAnswers": ["Taking measurements", "Questionnaires", "Interviews"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "8b8a7944-6534-4873-95d8-a13a3234a092",
@@ -175,11 +140,7 @@
     "content": {
       "question": "What is CO2 the symbol for?",
       "correctAnswer": "Carbon dioxide ",
-      "wrongAnswers": [
-        "Chloride",
-        "Chromium",
-        "Chlorobenzene"
-      ]
+      "wrongAnswers": ["Chloride", "Chromium", "Chlorobenzene"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "539f9048-6edf-4084-8895-4f849099fc46",
@@ -194,11 +155,7 @@
     "content": {
       "question": "Which technical textile can be insect repelling?",
       "correctAnswer": "Microfibres",
-      "wrongAnswers": [
-        "Gore-Tex",
-        "Kevlar",
-        "Conductive fibres"
-      ]
+      "wrongAnswers": ["Gore-Tex", "Kevlar", "Conductive fibres"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "03271418-99ac-4918-9fb3-fef854d89b4a",
@@ -211,12 +168,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Closed looped system"
-      ],
+      "wrongAnswers": ["Closed looped system"],
       "question": "Is this an open or closed looped system?",
       "correctAnswer": "Open looped system",
-      "imageURL": "seneca-image-cdn:///2019-03/fa012f45-a8c4-4215-b8e6-2d92892c8166/open-looped-system-dt-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/fa012f45-a8c4-4215-b8e6-2d92892c8166/open-looped-system-dt-.png"
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "caca38a0-e6fd-4861-8353-b9b54a0ca7e2",
@@ -231,11 +186,7 @@
     "content": {
       "question": "Which thermosetting are commonly used for kitchenware, worktops and flat packed furniture? ",
       "correctAnswer": "Melamine Formaldehyde (MF) ",
-      "wrongAnswers": [
-        "Urea Formaldehyde (UF)",
-        "Polyester Resin (PR)",
-        "Epoxy Resin (ER)"
-      ]
+      "wrongAnswers": ["Urea Formaldehyde (UF)", "Polyester Resin (PR)", "Epoxy Resin (ER)"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "1c11c907-872e-4442-985e-8cfc806a34fb",
@@ -250,11 +201,7 @@
     "content": {
       "question": "Which non-ferrous metal is difficult to weld?",
       "correctAnswer": "Aluminium",
-      "wrongAnswers": [
-        "Zinc",
-        "Copper",
-        "Tin"
-      ]
+      "wrongAnswers": ["Zinc", "Copper", "Tin"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "aeb50f17-7239-4f1b-a253-5180ae6362b8",
@@ -269,11 +216,7 @@
     "content": {
       "question": "Select the example of a third order lever:",
       "correctAnswer": "Tweezers",
-      "wrongAnswers": [
-        "A see-saw",
-        "A wheelbarrow",
-        "A nut-cracker"
-      ]
+      "wrongAnswers": ["A see-saw", "A wheelbarrow", "A nut-cracker"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "66e831bd-e276-4d68-a1c4-92e52f4273e4",
@@ -288,11 +231,7 @@
     "content": {
       "question": "What does seasoning do to wood?",
       "correctAnswer": "Makes the wood less moist",
-      "wrongAnswers": [
-        "Makes the wood more moist",
-        "Makes the wood more malleable",
-        "Makes the wood a darker colour"
-      ]
+      "wrongAnswers": ["Makes the wood more moist", "Makes the wood more malleable", "Makes the wood a darker colour"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "535e7bd6-a8f9-409f-80bc-1097e9d0cbd6",
@@ -307,11 +246,7 @@
     "content": {
       "question": "What changes when stimulated by light?",
       "correctAnswer": "Photochromic pigments",
-      "wrongAnswers": [
-        "Thermochromic pigments",
-        "Shape Memory Alloys (SMA)",
-        "Polycaprolactone (PCL)"
-      ]
+      "wrongAnswers": ["Thermochromic pigments", "Shape Memory Alloys (SMA)", "Polycaprolactone (PCL)"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "2b74d6b3-2f48-4aae-8c43-5509bc3c1c30",
@@ -326,10 +261,7 @@
     "content": {
       "question": "Which size of paper is often used for envelopes?",
       "correctAnswer": "C series",
-      "wrongAnswers": [
-        "A series",
-        "B series"
-      ]
+      "wrongAnswers": ["A series", "B series"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d86c95e9-dfb8-4f67-969a-fd2cba5a1886",
@@ -344,11 +276,7 @@
     "content": {
       "question": "Who is NOT someone you should ensure you get regular feedback from?",
       "correctAnswer": "An AQA examiner ",
-      "wrongAnswers": [
-        "Your client",
-        "Your target market",
-        "Your teacher"
-      ]
+      "wrongAnswers": ["Your client", "Your target market", "Your teacher"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "52a68e75-7467-432a-9f5e-73ec55cc9158",
@@ -363,11 +291,7 @@
     "content": {
       "question": "What type of synthetic fibre is LYCRA?",
       "correctAnswer": "Elastane",
-      "wrongAnswers": [
-        "Nylon",
-        "Polyester",
-        "Polymide"
-      ]
+      "wrongAnswers": ["Nylon", "Polyester", "Polymide"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d001e919-1b8c-45be-96bb-19616eb0ea96",
@@ -382,11 +306,7 @@
     "content": {
       "question": "What is a major ecological problem caused by producing timber?",
       "correctAnswer": "Deforestation ",
-      "wrongAnswers": [
-        "Light pollution",
-        "Recycling plants",
-        "Pesticides"
-      ]
+      "wrongAnswers": ["Light pollution", "Recycling plants", "Pesticides"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "9eded8e3-f66d-4589-9f1d-c4c2dcdc5b50",
@@ -401,11 +321,7 @@
     "content": {
       "question": "What is NOT a type of polymer?",
       "correctAnswer": "Graphene",
-      "wrongAnswers": [
-        "Corn starch polymers",
-        "Polylactic acid (PLA)",
-        "Polyhydroxybutyrate (PHB&comma; Biopol)"
-      ]
+      "wrongAnswers": ["Corn starch polymers", "Polylactic acid (PLA)", "Polyhydroxybutyrate (PHB&comma; Biopol)"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "fb5867df-1d03-4464-aabb-84332d3371a0",
@@ -420,11 +336,7 @@
     "content": {
       "question": "Which stage of the design process is iterative design most important for?",
       "correctAnswer": "The designing and modelling stages",
-      "wrongAnswers": [
-        "The construction stages",
-        "The evaluation stages",
-        "The recycling stages"
-      ]
+      "wrongAnswers": ["The construction stages", "The evaluation stages", "The recycling stages"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "1bdead05-aab7-4198-ac68-d8763010b000",
@@ -439,11 +351,7 @@
     "content": {
       "question": "Which machine tool would be best for making a bannister?",
       "correctAnswer": "A lathe",
-      "wrongAnswers": [
-        "A pillar drill",
-        "A table saw",
-        "A planer thicknesser"
-      ]
+      "wrongAnswers": ["A pillar drill", "A table saw", "A planer thicknesser"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "535e7bd6-a8f9-409f-80bc-1097e9d0cbd6",
@@ -458,11 +366,7 @@
     "content": {
       "question": "What type of cutting instrument can cut accurate circles using the diameter?",
       "correctAnswer": "Circle cutters",
-      "wrongAnswers": [
-        "Perforation cutters",
-        "Guillotines and paper trimmers",
-        "Scissors"
-      ]
+      "wrongAnswers": ["Perforation cutters", "Guillotines and paper trimmers", "Scissors"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "060a884e-c8f0-4560-947e-46dd8a2dd51c",
@@ -477,11 +381,7 @@
     "content": {
       "question": "What is NOT something that stimulates Piezoelectrical materials to change? ",
       "correctAnswer": "Heat",
-      "wrongAnswers": [
-        "Movement",
-        "Electricity",
-        "Stress"
-      ]
+      "wrongAnswers": ["Movement", "Electricity", "Stress"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d22350ba-8245-4d45-a673-147532d02415",
@@ -494,13 +394,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Class 2 - Second order lever",
-        "Class 3 - Third order lever"
-      ],
+      "wrongAnswers": ["Class 2 - Second order lever", "Class 3 - Third order lever"],
       "question": "What class of lever is this an example of?",
       "correctAnswer": "Class 1 - First order lever",
-      "imageURL": "seneca-image-cdn:///2019-03/3b9f89ec-c598-4ff9-a427-71fe206957a3/class-1-lever-2-dt-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/3b9f89ec-c598-4ff9-a427-71fe206957a3/class-1-lever-2-dt-.png"
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "66e831bd-e276-4d68-a1c4-92e52f4273e4",
@@ -515,11 +412,7 @@
     "content": {
       "question": "What is polymide also known as?",
       "correctAnswer": "Nylon ",
-      "wrongAnswers": [
-        "Polyester",
-        "LYCRA",
-        "Elastane"
-      ]
+      "wrongAnswers": ["Polyester", "LYCRA", "Elastane"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d001e919-1b8c-45be-96bb-19616eb0ea96",
@@ -534,11 +427,7 @@
     "content": {
       "question": "Which part of the world has increased in trees and forestry in recent times?",
       "correctAnswer": "Asia",
-      "wrongAnswers": [
-        "South America",
-        "Europe",
-        "Africa"
-      ]
+      "wrongAnswers": ["South America", "Europe", "Africa"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "1b331751-f41d-410a-b2b4-19e6f06f3e7a",
@@ -551,11 +440,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "A motorbike accelerating",
-        "Boomerang",
-        "A car reversing"
-      ],
+      "wrongAnswers": ["A motorbike accelerating", "Boomerang", "A car reversing"],
       "question": "Which of the following is an example of reciprocating motion?",
       "correctAnswer": "Football pump",
       "imageURL": "https://media.giphy.com/media/3orif9pDvdG07dOhXi/giphy.mp4"
@@ -573,11 +458,7 @@
     "content": {
       "question": "Which of the following is an example of primary data?",
       "correctAnswer": "Taking measurements ",
-      "wrongAnswers": [
-        "Books and magazines",
-        "Government statistics",
-        "Media outlets (news/radio/TV)"
-      ]
+      "wrongAnswers": ["Books and magazines", "Government statistics", "Media outlets (news/radio/TV)"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "8b8a7944-6534-4873-95d8-a13a3234a092",
@@ -590,13 +471,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Lots of polystyrene",
-        "Corrugated boxes"
-      ],
+      "wrongAnswers": ["Lots of polystyrene", "Corrugated boxes"],
       "question": "What type of packaging helps reduce transport and energy costs as well as carbon dioxide emissions?",
       "correctAnswer": "Flat-pack packaging",
-      "imageURL": "seneca-image-cdn:///2018-03/afe4c760-d2af-4b33-be39-0ad6d607bec4/shutterstock_363108614.jpg"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/afe4c760-d2af-4b33-be39-0ad6d607bec4/shutterstock_363108614.jpg"
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "0f6bd33c-1733-4e5f-a8f1-d5b757e170d3",
@@ -611,11 +489,7 @@
     "content": {
       "question": "Which of these energy sources is NOT a fossil fuel?",
       "correctAnswer": "Wind",
-      "wrongAnswers": [
-        "Gas",
-        "Coal",
-        "Oil"
-      ]
+      "wrongAnswers": ["Gas", "Coal", "Oil"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "c1a6cceb-9a20-49d9-b37d-9eec77cee784",
@@ -630,11 +504,7 @@
     "content": {
       "question": "Select the example of a second order lever:",
       "correctAnswer": "A wheelbarrow",
-      "wrongAnswers": [
-        "Tweezers",
-        "A stapler",
-        "A see-saw"
-      ]
+      "wrongAnswers": ["Tweezers", "A stapler", "A see-saw"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "66e831bd-e276-4d68-a1c4-92e52f4273e4",
@@ -649,11 +519,7 @@
     "content": {
       "question": "Which of these companies use the iterative design approach?",
       "correctAnswer": "Dyson",
-      "wrongAnswers": [
-        "Zara",
-        "Farrow and Ball",
-        "Twinings"
-      ]
+      "wrongAnswers": ["Zara", "Farrow and Ball", "Twinings"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "3957a6c6-dfac-4fbe-a91c-a2fa6140cee4",
@@ -668,11 +534,7 @@
     "content": {
       "question": "What is NOT something new designs should do?",
       "correctAnswer": "Be offensive ",
-      "wrongAnswers": [
-        "Be accessible",
-        "Improve people’s lives",
-        "Be inclusive"
-      ]
+      "wrongAnswers": ["Be accessible", "Improve people’s lives", "Be inclusive"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "03d4daf4-b007-40a8-8ef4-808afcd7ff40",
@@ -687,11 +549,7 @@
     "content": {
       "question": "What did Harry Beck design in 1931?",
       "correctAnswer": "The London Underground map ",
-      "wrongAnswers": [
-        "The Hong Kong MTR",
-        "The Paris metro",
-        "The New York subway"
-      ]
+      "wrongAnswers": ["The Hong Kong MTR", "The Paris metro", "The New York subway"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "9a8a7ee8-d4ba-4104-b265-0a90cb8c286e",
@@ -706,11 +564,7 @@
     "content": {
       "question": "What type of material should you leave a seam allowance for?",
       "correctAnswer": "Fabric ",
-      "wrongAnswers": [
-        "Wood",
-        "Paper and board",
-        "Metals"
-      ]
+      "wrongAnswers": ["Wood", "Paper and board", "Metals"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "e475bf73-8a83-4dd4-80d0-e41cbea3003f",
@@ -725,11 +579,7 @@
     "content": {
       "question": "More technological advancements and automation mean machines are replacing:",
       "correctAnswer": "Low-skilled workers",
-      "wrongAnswers": [
-        "High-skilled workers",
-        "Pensioners",
-        "Young working professionals"
-      ]
+      "wrongAnswers": ["High-skilled workers", "Pensioners", "Young working professionals"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "7493e9db-58cc-4df8-adc9-079dec2d2c1a",
@@ -744,11 +594,7 @@
     "content": {
       "question": "Which company uses 'just in time' production? ",
       "correctAnswer": "Zara",
-      "wrongAnswers": [
-        "Under Armour",
-        "Primark",
-        "GAP"
-      ]
+      "wrongAnswers": ["Under Armour", "Primark", "GAP"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "030c6b2c-2409-47ea-91ba-f4cf3c3e2b3a",
@@ -782,11 +628,7 @@
     "content": {
       "question": "The Mini was the first car that was economic on fuel, cheap to buy and great to drive. Who was the designer behind the Mini?\n",
       "correctAnswer": "Sir Alec Issigonis",
-      "wrongAnswers": [
-        "Raymond Templier",
-        "Philippe Starck",
-        "Ettore Sottsass"
-      ]
+      "wrongAnswers": ["Raymond Templier", "Philippe Starck", "Ettore Sottsass"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "30b8ac2c-bb05-4d54-a8c9-8c4ab1c923ce",
@@ -801,11 +643,7 @@
     "content": {
       "question": "Which machine tool would be best for making a bannister?",
       "correctAnswer": "A lathe",
-      "wrongAnswers": [
-        "A pillar drill",
-        "A table saw",
-        "A planer thicknesser"
-      ]
+      "wrongAnswers": ["A pillar drill", "A table saw", "A planer thicknesser"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "ae1df6f2-3a53-4ee3-9831-811730b35720",
@@ -820,11 +658,7 @@
     "content": {
       "question": "What type of softwood is tough, water resistant, good to work with and machines well?",
       "correctAnswer": "Larch",
-      "wrongAnswers": [
-        "Spruce",
-        "Pine",
-        "Ash"
-      ]
+      "wrongAnswers": ["Spruce", "Pine", "Ash"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "8983d116-ce7e-4c97-bbaa-92b6241096f1",
@@ -839,11 +673,7 @@
     "content": {
       "question": "Which drawings need to be drawn in scale (e.g. 1:2)? ",
       "correctAnswer": "Working drawings",
-      "wrongAnswers": [
-        "Freehand sketching",
-        "Schematic drawings",
-        "Exploded drawing"
-      ]
+      "wrongAnswers": ["Freehand sketching", "Schematic drawings", "Exploded drawing"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "b044dfbb-c1a4-41c8-bfd8-ccfda844d078",
@@ -858,11 +688,7 @@
     "content": {
       "question": "What does MA stand for?",
       "correctAnswer": "Mechanical advantage ",
-      "wrongAnswers": [
-        "Machine advancement",
-        "Measurable advantage",
-        "Metier advancement"
-      ]
+      "wrongAnswers": ["Machine advancement", "Measurable advantage", "Metier advancement"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "6ff23f75-5356-41b4-ad33-99f2a4de7b41",
@@ -877,11 +703,7 @@
     "content": {
       "question": "Systems diagrams tend to be drawn using:",
       "correctAnswer": "Flow charts",
-      "wrongAnswers": [
-        "Bar charts",
-        "Histograms",
-        "Pie charts"
-      ]
+      "wrongAnswers": ["Bar charts", "Histograms", "Pie charts"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "8de2213b-755c-4a46-abdc-0b7e9713ee4f",
@@ -896,10 +718,7 @@
     "content": {
       "question": "Which of these metals is least prone to oxidisation (rust)?",
       "correctAnswer": "Cast iron ",
-      "wrongAnswers": [
-        "High carbon steel",
-        "Low carbon steel"
-      ]
+      "wrongAnswers": ["High carbon steel", "Low carbon steel"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "f932732d-061d-42c2-961d-3046ead11370",
@@ -914,11 +733,7 @@
     "content": {
       "question": "What is the most common type of quality control inspection used at most stages of production?",
       "correctAnswer": "Visual inspections ",
-      "wrongAnswers": [
-        "Machine inspections",
-        "Microscopic inspections",
-        "Psychic inspections"
-      ]
+      "wrongAnswers": ["Machine inspections", "Microscopic inspections", "Psychic inspections"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "aaaa1e50-45d4-40c8-ae2c-80071098b786",
@@ -933,11 +748,7 @@
     "content": {
       "question": "On average, how long does it take softwood trees to grow?",
       "correctAnswer": "Up to 25 years ",
-      "wrongAnswers": [
-        "Up to 100 years",
-        "Up to 50 years",
-        "Up to 75 years"
-      ]
+      "wrongAnswers": ["Up to 100 years", "Up to 50 years", "Up to 75 years"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d1b208da-deac-4f8c-9a06-e9d4045b8f51",
@@ -950,13 +761,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Pear shaped cam",
-        "Snail cam"
-      ],
+      "wrongAnswers": ["Pear shaped cam", "Snail cam"],
       "question": "Name the type of cam pictured below:",
       "correctAnswer": "Circular cam",
-      "imageURL": "seneca-image-cdn:///2019-03/12df27ed-e616-40a6-91bc-14e765d9ba0f/circular-cam-dt-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/12df27ed-e616-40a6-91bc-14e765d9ba0f/circular-cam-dt-.png"
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d3084018-3b69-4771-9e19-61fad3027e0a",
@@ -990,11 +798,7 @@
     "content": {
       "question": "Which is a use of carbon fibre reinforced plastic but not of glass reinforced plastic?",
       "correctAnswer": "Musical instruments ",
-      "wrongAnswers": [
-        "Boat hulls",
-        "Storage tanks",
-        "Seating"
-      ]
+      "wrongAnswers": ["Boat hulls", "Storage tanks", "Seating"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "e2bc2cdf-9921-45db-98f7-78d22a09ff8c",
@@ -1009,11 +813,7 @@
     "content": {
       "question": "Which softwood is commonly used in musical instruments?",
       "correctAnswer": "Spruce",
-      "wrongAnswers": [
-        "Pine",
-        "Larch",
-        "Oak"
-      ]
+      "wrongAnswers": ["Pine", "Larch", "Oak"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "8983d116-ce7e-4c97-bbaa-92b6241096f1",
@@ -1028,11 +828,7 @@
     "content": {
       "question": "If you design clothes to fit between the 5th and 95th percentile of your target market, what total percentage of your target market will you be accommodating?",
       "correctAnswer": "90%",
-      "wrongAnswers": [
-        "95%",
-        "5%",
-        "85%"
-      ]
+      "wrongAnswers": ["95%", "5%", "85%"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "1bdead05-aab7-4198-ac68-d8763010b000",
@@ -1047,11 +843,7 @@
     "content": {
       "question": "What is the name for workflow that is organised to make layout of the building efficient?",
       "correctAnswer": "Efficient workflow",
-      "wrongAnswers": [
-        "Improved workflow",
-        "Organised workflow",
-        "Neat workflow"
-      ]
+      "wrongAnswers": ["Improved workflow", "Organised workflow", "Neat workflow"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "9ca94578-fb8f-4e4e-963f-0fc7840d6e29",
@@ -1066,11 +858,7 @@
     "content": {
       "question": "Which of these woods is very lightweight, soft, thin, and prone to snapping?",
       "correctAnswer": "Balsa ",
-      "wrongAnswers": [
-        "Oak",
-        "Ash",
-        "Mahogany"
-      ]
+      "wrongAnswers": ["Oak", "Ash", "Mahogany"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "0a6e778c-7abe-4f5b-9316-88dcd03f1d5a",
@@ -1083,13 +871,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Pear shaped CAM",
-        "Circular CAM"
-      ],
+      "wrongAnswers": ["Pear shaped CAM", "Circular CAM"],
       "question": "Name the type of CAM pictured below:",
       "correctAnswer": "Snail CAM",
-      "imageURL": "seneca-image-cdn:///2019-03/6a1b4e8f-33fb-4f85-8e80-46fc250e5f98/snail-cam-dt-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/6a1b4e8f-33fb-4f85-8e80-46fc250e5f98/snail-cam-dt-.png"
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d3084018-3b69-4771-9e19-61fad3027e0a",
@@ -1097,7 +882,7 @@
       "wrongAnswers": "Pear shaped CAM, Circular CAM",
       "question": "Name the type of CAM pictured below:",
       "correctAnswer": "Snail CAM",
-      "imageURL": "seneca-image-cdn:///2019-03/6a1b4e8f-33fb-4f85-8e80-46fc250e5f98/snail-cam-dt-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/6a1b4e8f-33fb-4f85-8e80-46fc250e5f98/snail-cam-dt-.png"
     },
     "id": "4a1da3a4-adf4-4fbf-9dc6-a4e0c6dbf5fe",
     "moduleDifficulty": 1,
@@ -1110,11 +895,7 @@
     "content": {
       "question": "Masking and double-sided are both types of what? ",
       "correctAnswer": "Tape",
-      "wrongAnswers": [
-        "Staples",
-        "Ribbon",
-        "Stickers"
-      ]
+      "wrongAnswers": ["Staples", "Ribbon", "Stickers"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "a066ffcb-3098-4c3e-836c-a8bee9f7995a",
@@ -1127,13 +908,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Class 3 - Third order lever",
-        "Class 1 - First order lever"
-      ],
+      "wrongAnswers": ["Class 3 - Third order lever", "Class 1 - First order lever"],
       "question": "What class of lever is this an example of?",
       "correctAnswer": "Class 2 - Second order lever",
-      "imageURL": "seneca-image-cdn:///2019-03/1e28b202-c373-48ca-b9fa-aa4762168a25/class-2-lever-dt-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/1e28b202-c373-48ca-b9fa-aa4762168a25/class-2-lever-dt-.png"
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "66e831bd-e276-4d68-a1c4-92e52f4273e4",
@@ -1148,12 +926,7 @@
     "content": {
       "question": "Which product requires less sizing? ",
       "correctAnswer": "Kitchen paper towel ",
-      "wrongAnswers": [
-        "Cartridge paper",
-        "Food packaging",
-        "Photography paper",
-        "Bleed proof paper"
-      ]
+      "wrongAnswers": ["Cartridge paper", "Food packaging", "Photography paper", "Bleed proof paper"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "ec6403e8-8822-481a-a328-36a53201bbff",
@@ -1187,11 +960,7 @@
     "content": {
       "question": "What type of card is commonly used for high quality photo prints?",
       "correctAnswer": "Inkjet card",
-      "wrongAnswers": [
-        "Solid white board",
-        "Duplex board",
-        "Corrugated cardboard"
-      ]
+      "wrongAnswers": ["Solid white board", "Duplex board", "Corrugated cardboard"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "649ea091-940a-4fb3-a67e-0a9ae5cc93bc",
@@ -1206,11 +975,7 @@
     "content": {
       "question": "Which of these timbers can be produced from recycled wood?",
       "correctAnswer": "Composite boards",
-      "wrongAnswers": [
-        "Mahogany",
-        "Balsa",
-        "Bamboo"
-      ]
+      "wrongAnswers": ["Mahogany", "Balsa", "Bamboo"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "9a417de4-4314-484e-9cb8-7a8c27d0ee56",
@@ -1225,10 +990,7 @@
     "content": {
       "question": "What is NOT a product that might have a gloss finish?",
       "correctAnswer": "Egg boxes",
-      "wrongAnswers": [
-        "Easter chocolate eggs",
-        "Perfume packages"
-      ]
+      "wrongAnswers": ["Easter chocolate eggs", "Perfume packages"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "881baced-e340-4ef0-ac72-73d8b2fb8104",
@@ -1243,11 +1005,7 @@
     "content": {
       "question": "Which cutting tool offers better speed and precision than craft knives and paper trimmers?",
       "correctAnswer": "Die cutters",
-      "wrongAnswers": [
-        "Scissors",
-        "Rulers",
-        "Rotary blades"
-      ]
+      "wrongAnswers": ["Scissors", "Rulers", "Rotary blades"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d86c95e9-dfb8-4f67-969a-fd2cba5a1886",
@@ -1262,11 +1020,7 @@
     "content": {
       "question": "Where might you typically find hardwood trees?",
       "correctAnswer": "Tropical rainforest",
-      "wrongAnswers": [
-        "Desert",
-        "Tundra",
-        "Evergreen forest"
-      ]
+      "wrongAnswers": ["Desert", "Tundra", "Evergreen forest"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "fd6fb679-bf2c-4a5d-8943-2f23d34405c0",
@@ -1286,11 +1040,7 @@
     "content": {
       "question": "Which type of motion can be described as a swinging motion backwards and forwards?",
       "correctAnswer": "Oscillating motion",
-      "wrongAnswers": [
-        "Rotary motion",
-        "Reciprocating motion",
-        "Linear motion"
-      ]
+      "wrongAnswers": ["Rotary motion", "Reciprocating motion", "Linear motion"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "8de2213b-755c-4a46-abdc-0b7e9713ee4f",
@@ -1305,11 +1055,7 @@
     "content": {
       "question": "What is NOT a common use of knitted fabric?",
       "correctAnswer": "Dishcloths",
-      "wrongAnswers": [
-        "Jumpers",
-        "Toys",
-        "Socks"
-      ]
+      "wrongAnswers": ["Jumpers", "Toys", "Socks"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "e6b1804a-6bc2-4e0c-8e03-8b1f7538efa9",
@@ -1324,11 +1070,7 @@
     "content": {
       "question": "What is an example of a specialist process? ",
       "correctAnswer": "Metal welding",
-      "wrongAnswers": [
-        "Sanding wood",
-        "Drilling holes",
-        "Operating a table saw"
-      ]
+      "wrongAnswers": ["Sanding wood", "Drilling holes", "Operating a table saw"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "b3009e09-48d8-482a-af01-094c2dcd8cee",
@@ -1343,11 +1085,7 @@
     "content": {
       "question": "Which boards are made using lamination techniques?",
       "correctAnswer": "Plywood and blockboard",
-      "wrongAnswers": [
-        "MDF and chipboard",
-        "Chipboard and hardboard",
-        "MDF and hardboard"
-      ]
+      "wrongAnswers": ["MDF and chipboard", "Chipboard and hardboard", "MDF and hardboard"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "f05bdfd7-0d77-43f6-ac99-ed3a9a8dfd51",
@@ -1362,11 +1100,7 @@
     "content": {
       "question": "Which is NOT an example of a manufactured board?",
       "correctAnswer": "Hardwood",
-      "wrongAnswers": [
-        "MDF",
-        "Chipboard",
-        "Hardboard"
-      ]
+      "wrongAnswers": ["MDF", "Chipboard", "Hardboard"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "f05bdfd7-0d77-43f6-ac99-ed3a9a8dfd51",
@@ -1381,11 +1115,7 @@
     "content": {
       "question": "Which band on a resistor identifies how much tolerance it has?",
       "correctAnswer": "The fourth band",
-      "wrongAnswers": [
-        "The third band",
-        "The first band",
-        "The second band"
-      ]
+      "wrongAnswers": ["The third band", "The first band", "The second band"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "41551ba7-d4d7-4c73-bde3-8377c33cb503",
@@ -1400,11 +1130,7 @@
     "content": {
       "question": "What kind of production demands a higher price for the products as the labour skill level is so high?",
       "correctAnswer": "Job production ",
-      "wrongAnswers": [
-        "Mass production",
-        "Batch production",
-        "Continuous production"
-      ]
+      "wrongAnswers": ["Mass production", "Batch production", "Continuous production"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "b3b01c75-eae3-4bb0-a591-03e5ffb7324b",
@@ -1419,11 +1145,7 @@
     "content": {
       "question": "Which of the six R's helps to make a statement about wood sources nearing extinction? ",
       "correctAnswer": "Refusing ",
-      "wrongAnswers": [
-        "Reusing",
-        "Reducing",
-        "Recycling"
-      ]
+      "wrongAnswers": ["Reusing", "Reducing", "Recycling"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "898687a1-e0b3-4f7d-b784-9243c29ecc60",
@@ -1438,11 +1160,7 @@
     "content": {
       "question": "Which of the following is an example of a non-finite resource? ",
       "correctAnswer": "Cotton",
-      "wrongAnswers": [
-        "Oil",
-        "Gas",
-        "Coal"
-      ]
+      "wrongAnswers": ["Oil", "Gas", "Coal"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "68164ccc-c6ac-45be-8006-688b3c537736",
@@ -1476,11 +1194,7 @@
     "content": {
       "question": "Which resin is stronger than other adhesives, can join multiple materials and has a good chemical and heat resistance?",
       "correctAnswer": "Epoxy Resin (ER - Araldite) ",
-      "wrongAnswers": [
-        "Melamine Formaldehyde (MF)",
-        "Polyester Resin (PR)",
-        "Phenol Formaldehyde (PF)"
-      ]
+      "wrongAnswers": ["Melamine Formaldehyde (MF)", "Polyester Resin (PR)", "Phenol Formaldehyde (PF)"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "1c11c907-872e-4442-985e-8cfc806a34fb",
@@ -1495,11 +1209,7 @@
     "content": {
       "question": "Which of these timbers can be produced from recycled wood?",
       "correctAnswer": "Composite boards",
-      "wrongAnswers": [
-        "Mahogany",
-        "Balsa",
-        "Bamboo"
-      ]
+      "wrongAnswers": ["Mahogany", "Balsa", "Bamboo"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "9eded8e3-f66d-4589-9f1d-c4c2dcdc5b50",
@@ -1514,11 +1224,7 @@
     "content": {
       "question": "Which marking tool is used to measure 90 degree angles on wood?",
       "correctAnswer": "Try square",
-      "wrongAnswers": [
-        "Engineer square",
-        "Tape measure",
-        "Steel Rule"
-      ]
+      "wrongAnswers": ["Engineer square", "Tape measure", "Steel Rule"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "a55db558-24d2-4900-aa95-86bf0d3433d4",
@@ -1533,11 +1239,7 @@
     "content": {
       "question": "Which major furniture company is making efforts to be more sustainable? ",
       "correctAnswer": "IKEA",
-      "wrongAnswers": [
-        "Feather & Black",
-        "DFS",
-        "Sofa Workshop"
-      ]
+      "wrongAnswers": ["Feather & Black", "DFS", "Sofa Workshop"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "0d1a411e-a849-4198-bcfe-ef75584cd0a4",
@@ -1552,11 +1254,7 @@
     "content": {
       "question": "Which term is used to describe the process of drying wood so that the moisture content is reduced?",
       "correctAnswer": "Seasoning",
-      "wrongAnswers": [
-        "Drying",
-        "Heating",
-        "Roasting"
-      ]
+      "wrongAnswers": ["Drying", "Heating", "Roasting"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "9eded8e3-f66d-4589-9f1d-c4c2dcdc5b50",
@@ -1569,13 +1267,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Acrylic – Poly-methyl Meth Acrylate (PMMA)",
-        "Polypropylene (PP)"
-      ],
+      "wrongAnswers": ["Acrylic – Poly-methyl Meth Acrylate (PMMA)", "Polypropylene (PP)"],
       "question": "Which thermoforming plastic has recycle logo number 6?",
       "correctAnswer": "High Impact Polystyrene Sheet (HIPS)",
-      "imageURL": "seneca-image-cdn:///2019-03/ecd8ebf4-e8cf-406b-b4bc-cac2fe6715da/ps-dt-polymer-recycle-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/ecd8ebf4-e8cf-406b-b4bc-cac2fe6715da/ps-dt-polymer-recycle-.png"
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "c872c4ec-08e4-4338-8db5-3dcc98a461a7",
@@ -1590,10 +1285,7 @@
     "content": {
       "question": "Which type of battery is best for the environment?",
       "correctAnswer": "Rechargeable batteries  ",
-      "wrongAnswers": [
-        "Alkaline batteries",
-        "Acid batteries"
-      ]
+      "wrongAnswers": ["Alkaline batteries", "Acid batteries"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "fc8b941f-670d-422d-90a6-93d9dfe709a2",
@@ -1608,11 +1300,7 @@
     "content": {
       "question": "What did Harry Beck design in 1931?",
       "correctAnswer": "The London Underground map ",
-      "wrongAnswers": [
-        "The Hong Kong MTR",
-        "The Paris metro",
-        "The New York subway"
-      ]
+      "wrongAnswers": ["The Hong Kong MTR", "The Paris metro", "The New York subway"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "30b8ac2c-bb05-4d54-a8c9-8c4ab1c923ce",
@@ -1627,11 +1315,7 @@
     "content": {
       "question": "Which assessment is used to analyse all the stages in a product’s life and highlight the impact it will have on the environment?",
       "correctAnswer": "Life cycle assessment",
-      "wrongAnswers": [
-        "Product cycle assessment",
-        "Green cycle assessment",
-        "Environmental cycle assessment"
-      ]
+      "wrongAnswers": ["Product cycle assessment", "Green cycle assessment", "Environmental cycle assessment"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "7493e9db-58cc-4df8-adc9-079dec2d2c1a",
@@ -1646,11 +1330,7 @@
     "content": {
       "question": "What's a veneer?",
       "correctAnswer": "Covering of a small slice of more expensive wood",
-      "wrongAnswers": [
-        "Coat of varnish",
-        "Softwood slice on top of a hardwood",
-        "Type of hardwood"
-      ]
+      "wrongAnswers": ["Coat of varnish", "Softwood slice on top of a hardwood", "Type of hardwood"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "fd6fb679-bf2c-4a5d-8943-2f23d34405c0",
@@ -1670,11 +1350,7 @@
     "content": {
       "question": "What does FMS stand for?",
       "correctAnswer": "Flexible manufacturing systems ",
-      "wrongAnswers": [
-        "Feedback manufacturing systems",
-        "Feedback making systems",
-        "Flexible making system"
-      ]
+      "wrongAnswers": ["Feedback manufacturing systems", "Feedback making systems", "Flexible making system"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "7d4e0ccd-469e-4d77-9ba4-f90ac6b5bc6a",
@@ -1694,11 +1370,7 @@
     "content": {
       "question": "Which of these timbers can NOT be made from recycled wood?",
       "correctAnswer": "Balsa ",
-      "wrongAnswers": [
-        "Chipboard",
-        "MDF",
-        "Composite boards"
-      ]
+      "wrongAnswers": ["Chipboard", "MDF", "Composite boards"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "9a417de4-4314-484e-9cb8-7a8c27d0ee56",
@@ -1732,11 +1404,7 @@
     "content": {
       "question": "What type of paper is typically used for leaflets?",
       "correctAnswer": "Gloss paper",
-      "wrongAnswers": [
-        "Inkjet paper",
-        "Laser jet paper",
-        "Cartridge paper"
-      ]
+      "wrongAnswers": ["Inkjet paper", "Laser jet paper", "Cartridge paper"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "298cf7d8-35b7-4618-a7fb-e2a7c9fca9d4",
@@ -1751,11 +1419,7 @@
     "content": {
       "question": "Which of the following appliances is likely to have a thermistor?",
       "correctAnswer": "An oven ",
-      "wrongAnswers": [
-        "A street light",
-        "A shower",
-        "A table"
-      ]
+      "wrongAnswers": ["A street light", "A shower", "A table"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "8de2213b-755c-4a46-abdc-0b7e9713ee4f",
@@ -1770,11 +1434,7 @@
     "content": {
       "question": "What is NOT something piezoelectrical material is commonly used in?",
       "correctAnswer": "Chemical balance for swimming pools",
-      "wrongAnswers": [
-        "Mobile phone speakers",
-        "Gas lighters",
-        "Inkjet printers"
-      ]
+      "wrongAnswers": ["Mobile phone speakers", "Gas lighters", "Inkjet printers"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d22350ba-8245-4d45-a673-147532d02415",
@@ -1789,11 +1449,7 @@
     "content": {
       "question": "Which cutting tool offers better speed and precision than craft knives and paper trimmers?",
       "correctAnswer": "Die cutters",
-      "wrongAnswers": [
-        "Scissors",
-        "Rulers",
-        "Rotary blades"
-      ]
+      "wrongAnswers": ["Scissors", "Rulers", "Rotary blades"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "eb213e18-bc75-462a-a414-f73bb44cfe04",
@@ -1808,11 +1464,7 @@
     "content": {
       "question": "Which non-ferrous metal is bright reddish orange in appearance and when oxidised will turn to a mottled green shade?",
       "correctAnswer": "Copper ",
-      "wrongAnswers": [
-        "Zinc",
-        "Tin",
-        "Aluminium"
-      ]
+      "wrongAnswers": ["Zinc", "Tin", "Aluminium"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "aeb50f17-7239-4f1b-a253-5180ae6362b8",
@@ -1827,11 +1479,7 @@
     "content": {
       "question": "What often happens to timber that is not reused?",
       "correctAnswer": "It ends up on landfill",
-      "wrongAnswers": [
-        "It gets upcycled",
-        "It is recycled",
-        "It continues to be used"
-      ]
+      "wrongAnswers": ["It gets upcycled", "It is recycled", "It continues to be used"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "898687a1-e0b3-4f7d-b784-9243c29ecc60",
@@ -1846,10 +1494,7 @@
     "content": {
       "question": "What finish brings out the natural grain in the wood?",
       "correctAnswer": "Wax polish ",
-      "wrongAnswers": [
-        "Paint",
-        "Primer"
-      ]
+      "wrongAnswers": ["Paint", "Primer"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "c4b4abd3-ac8c-4905-8deb-045a2a8b18d9",
@@ -1864,11 +1509,7 @@
     "content": {
       "question": "When are gloss finishes generally applied?",
       "correctAnswer": "During offset lithography",
-      "wrongAnswers": [
-        "During die cutting",
-        "During UV varnishing",
-        "During printing"
-      ]
+      "wrongAnswers": ["During die cutting", "During UV varnishing", "During printing"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "881baced-e340-4ef0-ac72-73d8b2fb8104",
@@ -1883,11 +1524,7 @@
     "content": {
       "question": "What does FSC stand for?",
       "correctAnswer": "Forestry Stewardship Council ",
-      "wrongAnswers": [
-        "Fair Social Chances",
-        "Free Sustainability Council",
-        "Forest Sustainability Council"
-      ]
+      "wrongAnswers": ["Fair Social Chances", "Free Sustainability Council", "Forest Sustainability Council"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "9af0da9e-615d-4844-94ae-788bfce02463",
@@ -1902,11 +1539,7 @@
     "content": {
       "question": "Which company produces paper for nearly all continents including Europe?",
       "correctAnswer": "The International Paper Company",
-      "wrongAnswers": [
-        "The Consortium Group",
-        "The Global Paper Organisation",
-        "World Wide Paper Inc."
-      ]
+      "wrongAnswers": ["The Consortium Group", "The Global Paper Organisation", "World Wide Paper Inc."]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "dad06444-71a0-4986-bfd1-dd4ff82867c3",
@@ -1921,11 +1554,7 @@
     "content": {
       "question": "Select the example of a closed looped system:",
       "correctAnswer": "A kettle ",
-      "wrongAnswers": [
-        "TV remote control",
-        "A toaster",
-        "A tumble drier"
-      ]
+      "wrongAnswers": ["TV remote control", "A toaster", "A tumble drier"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "caca38a0-e6fd-4861-8353-b9b54a0ca7e2",
@@ -1940,11 +1569,7 @@
     "content": {
       "question": "Which of these fabrics is cheapest to produce? ",
       "correctAnswer": "Poly-cotton",
-      "wrongAnswers": [
-        "Cotton",
-        "Wool",
-        "Silk"
-      ]
+      "wrongAnswers": ["Cotton", "Wool", "Silk"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "759e208a-5b8b-4399-a308-cff0067288d3",
@@ -1959,11 +1584,7 @@
     "content": {
       "question": "Which of these products might one tanalise?",
       "correctAnswer": "A garden shed",
-      "wrongAnswers": [
-        "A dining room table",
-        "A bedroom shelf",
-        "A coffee table"
-      ]
+      "wrongAnswers": ["A dining room table", "A bedroom shelf", "A coffee table"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "a09a64c8-4fd4-4214-a888-47d4812077f8",
@@ -1978,11 +1599,7 @@
     "content": {
       "question": "Which rule should you remember before you cut your materials?",
       "correctAnswer": "CHECK - CHECK - CUT",
-      "wrongAnswers": [
-        "CHECK - CUT - CHECK",
-        "CUT - CUT - CHECK",
-        "CHECK - CUT"
-      ]
+      "wrongAnswers": ["CHECK - CUT - CHECK", "CUT - CUT - CHECK", "CHECK - CUT"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "39cf60ea-e6a8-4a6f-b101-866b322cdb59",
@@ -1997,11 +1614,7 @@
     "content": {
       "question": "Which saw has a TPI of 11?",
       "correctAnswer": "Tenon saw",
-      "wrongAnswers": [
-        "Dovetail saw",
-        "Coping saw",
-        "Jack saw"
-      ]
+      "wrongAnswers": ["Dovetail saw", "Coping saw", "Jack saw"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "a025dcd6-7dbb-45c8-8e14-940026317490",
@@ -2016,11 +1629,7 @@
     "content": {
       "question": "Which of these timbers can NOT be made from recycled wood?",
       "correctAnswer": "Balsa ",
-      "wrongAnswers": [
-        "Chipboard",
-        "MDF",
-        "Composite boards"
-      ]
+      "wrongAnswers": ["Chipboard", "MDF", "Composite boards"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "9eded8e3-f66d-4589-9f1d-c4c2dcdc5b50",
@@ -2054,11 +1663,7 @@
     "content": {
       "question": "What are dimmer switches on lights an example of?",
       "correctAnswer": "An oscillator",
-      "wrongAnswers": [
-        "A timer",
-        "A pulse generator",
-        "A counter"
-      ]
+      "wrongAnswers": ["A timer", "A pulse generator", "A counter"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "8de2213b-755c-4a46-abdc-0b7e9713ee4f",
@@ -2071,13 +1676,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Bell crank linkage",
-        "Reverse motion linkage"
-      ],
+      "wrongAnswers": ["Bell crank linkage", "Reverse motion linkage"],
       "question": "Name the linkage pictured below:",
       "correctAnswer": "Push/pull linkages",
-      "imageURL": "seneca-image-cdn:///2019-03/b897063e-b1a0-4c06-a33e-9f39b2ba3eb3/Screen%20Shot%202019-03-27%20at%2013.02.58.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/b897063e-b1a0-4c06-a33e-9f39b2ba3eb3/Screen%20Shot%202019-03-27%20at%2013.02.58.png"
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "7fcce9ca-2ceb-40dc-82ac-77c3c09d99cf",
@@ -2092,11 +1694,7 @@
     "content": {
       "question": "Which is NOT a common use of cast iron?",
       "correctAnswer": "Scissors",
-      "wrongAnswers": [
-        "Kitchen pots and pans",
-        "Manhole covers",
-        "Post boxes"
-      ]
+      "wrongAnswers": ["Kitchen pots and pans", "Manhole covers", "Post boxes"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "f932732d-061d-42c2-961d-3046ead11370",
@@ -2111,11 +1709,7 @@
     "content": {
       "question": "Which technical fibre is commonly used in body armour, helmets, and bulletproof vests?",
       "correctAnswer": "Kevlar ",
-      "wrongAnswers": [
-        "Gore-Tex",
-        "Microfibres",
-        "Conductive fibres"
-      ]
+      "wrongAnswers": ["Gore-Tex", "Microfibres", "Conductive fibres"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "03271418-99ac-4918-9fb3-fef854d89b4a",
@@ -2130,11 +1724,7 @@
     "content": {
       "question": "Which type of saw is used to cur curved lines?",
       "correctAnswer": "Coping saw",
-      "wrongAnswers": [
-        "JAck saw",
-        "Tenon saw",
-        "Dovetail saw"
-      ]
+      "wrongAnswers": ["JAck saw", "Tenon saw", "Dovetail saw"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "535e7bd6-a8f9-409f-80bc-1097e9d0cbd6",
@@ -2149,11 +1739,7 @@
     "content": {
       "question": "When was the fashion house of Chanel first founded? ",
       "correctAnswer": "1910",
-      "wrongAnswers": [
-        "1920",
-        "1930",
-        "1940"
-      ]
+      "wrongAnswers": ["1920", "1930", "1940"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "b79d43cb-c1ab-4240-9095-8e213c96ea5a",
@@ -2188,11 +1774,7 @@
     "content": {
       "question": "Which drawings need to be drawn in scale (e.g. 1:2)? ",
       "correctAnswer": "Working drawings",
-      "wrongAnswers": [
-        "Freehand sketching",
-        "Schematic drawings",
-        "Exploded drawing"
-      ]
+      "wrongAnswers": ["Freehand sketching", "Schematic drawings", "Exploded drawing"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d9fc6b56-a097-4f97-94b7-4d0320dff6d6",
@@ -2207,11 +1789,7 @@
     "content": {
       "question": "What does FMS stand for?",
       "correctAnswer": "Flexible manufacturing systems ",
-      "wrongAnswers": [
-        "Feedback manufacturing systems",
-        "Feedback making systems",
-        "Flexible making system"
-      ]
+      "wrongAnswers": ["Feedback manufacturing systems", "Feedback making systems", "Flexible making system"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "0743bd3d-cc21-45ae-a95d-57ef67cc1ee7",
@@ -2226,11 +1804,7 @@
     "content": {
       "question": "What is another name for Epoxy Resin (ER)?",
       "correctAnswer": "Araldite",
-      "wrongAnswers": [
-        "Chloride",
-        "Formaldehyde",
-        "Resin"
-      ]
+      "wrongAnswers": ["Chloride", "Formaldehyde", "Resin"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "1c11c907-872e-4442-985e-8cfc806a34fb",
@@ -2245,11 +1819,7 @@
     "content": {
       "question": "Gerrit Rietveld is a Dutch architect and furniture designer who joined the De Stijl design movement. What is one of his most famous designs?",
       "correctAnswer": "The Red and Blue chair",
-      "wrongAnswers": [
-        "The Red and Yellow chair",
-        "The Red and Green chair",
-        "The Red and Black chair"
-      ]
+      "wrongAnswers": ["The Red and Yellow chair", "The Red and Green chair", "The Red and Black chair"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "30b8ac2c-bb05-4d54-a8c9-8c4ab1c923ce",
@@ -2264,10 +1834,7 @@
     "content": {
       "question": "Which natural-fibre comes from sheep?",
       "correctAnswer": "Wool",
-      "wrongAnswers": [
-        "Silk",
-        "Cotton"
-      ]
+      "wrongAnswers": ["Silk", "Cotton"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "86ec3af5-1b36-456e-8697-4e327ab25e31",
@@ -2282,11 +1849,7 @@
     "content": {
       "question": "What common type of paper is uncoated which keeps the cost low?",
       "correctAnswer": "Newsprint paper",
-      "wrongAnswers": [
-        "Photocopy paper",
-        "Tissue paper",
-        "Photo quality paper"
-      ]
+      "wrongAnswers": ["Photocopy paper", "Tissue paper", "Photo quality paper"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "1fd47354-2029-4bf2-97aa-3b2cc8889abd",
@@ -2301,11 +1864,7 @@
     "content": {
       "question": "Which drives the turbine to create electricity in a nuclear power plant?",
       "correctAnswer": "Steam",
-      "wrongAnswers": [
-        "Water",
-        "Man power",
-        "Radioactive waste"
-      ]
+      "wrongAnswers": ["Water", "Man power", "Radioactive waste"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "b794c63c-788d-4c7a-998a-bf6d24641ddf",
@@ -2320,11 +1879,7 @@
     "content": {
       "question": "Which stage of the design process is iterative design most important for?",
       "correctAnswer": "The designing/modelling stages",
-      "wrongAnswers": [
-        "The construction stages",
-        "The evaluation stages",
-        "The recycling stages"
-      ]
+      "wrongAnswers": ["The construction stages", "The evaluation stages", "The recycling stages"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "6b5072c5-5bae-4f60-bcb2-585452de4479",
@@ -2339,11 +1894,7 @@
     "content": {
       "question": "Around how many times can some rechargeable batteries be recharged and used?",
       "correctAnswer": "Around 1000 times",
-      "wrongAnswers": [
-        "Around 100 times",
-        "Unlimited",
-        "Around 1 million"
-      ]
+      "wrongAnswers": ["Around 100 times", "Unlimited", "Around 1 million"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "fc8b941f-670d-422d-90a6-93d9dfe709a2",
@@ -2358,11 +1909,7 @@
     "content": {
       "question": "What can be used to fill holes or knots in the wood?",
       "correctAnswer": "Filler",
-      "wrongAnswers": [
-        "A sander",
-        "A scraper",
-        "A scourer"
-      ]
+      "wrongAnswers": ["A sander", "A scraper", "A scourer"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "b0949562-804b-4119-b9da-8ced473e01ae",
@@ -2377,12 +1924,7 @@
     "content": {
       "question": "Which company did Sir Alec Issigonis design for?",
       "correctAnswer": "Morris Minor",
-      "wrongAnswers": [
-        "Bentley",
-        "Ford",
-        "Aston Martin",
-        "Rolls Royce"
-      ]
+      "wrongAnswers": ["Bentley", "Ford", "Aston Martin", "Rolls Royce"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "ac5fefc4-389c-46ab-8c0d-de5770b25e10",
@@ -2416,12 +1958,7 @@
     "content": {
       "question": "Which is NOT a type of non-ferrous metal?",
       "correctAnswer": "Steel",
-      "wrongAnswers": [
-        "Copper",
-        "Gold",
-        "Silver",
-        "Platinum"
-      ]
+      "wrongAnswers": ["Copper", "Gold", "Silver", "Platinum"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "88fbd288-4c8e-4f48-a0f2-fbaf6f1a602c",
@@ -2436,11 +1973,7 @@
     "content": {
       "question": "What type of paper is typically used for leaflets?",
       "correctAnswer": "Gloss paper",
-      "wrongAnswers": [
-        "Inkjet paper",
-        "Laser jet paper",
-        "Cartridge paper"
-      ]
+      "wrongAnswers": ["Inkjet paper", "Laser jet paper", "Cartridge paper"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d86c95e9-dfb8-4f67-969a-fd2cba5a1886",
@@ -2474,10 +2007,7 @@
     "content": {
       "question": "Which polymer is quite brittle, stable, and strong?",
       "correctAnswer": "Polyhydroxybutyrate polymers ",
-      "wrongAnswers": [
-        "Corn starch polymers",
-        "Polylactic acid polymers"
-      ]
+      "wrongAnswers": ["Corn starch polymers", "Polylactic acid polymers"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "fb5867df-1d03-4464-aabb-84332d3371a0",
@@ -2492,12 +2022,7 @@
     "content": {
       "question": "Which is an example of a plant-based natural fibre?",
       "correctAnswer": "Cotton",
-      "wrongAnswers": [
-        "Wool",
-        "Silk",
-        "Polyester",
-        "Nylon"
-      ]
+      "wrongAnswers": ["Wool", "Silk", "Polyester", "Nylon"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "edfd35c6-e3a9-4148-84f5-d4b12dcb7dfe",
@@ -2531,12 +2056,7 @@
     "content": {
       "question": "Which of these is NOT a renewable source of energy? ",
       "correctAnswer": "Gas",
-      "wrongAnswers": [
-        "Wind",
-        "Solar",
-        "Biomass",
-        "Tidal"
-      ]
+      "wrongAnswers": ["Wind", "Solar", "Biomass", "Tidal"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "6629ad3b-7817-4a7b-8a1d-3d4048741987",
@@ -2551,11 +2071,7 @@
     "content": {
       "question": "Which smart materials changes when stimulated by pressure?",
       "correctAnswer": "Quantum tunnelling composite",
-      "wrongAnswers": [
-        "Piezoelectrical material",
-        "Litmus paper",
-        "Polycaprolactone"
-      ]
+      "wrongAnswers": ["Piezoelectrical material", "Litmus paper", "Polycaprolactone"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d22350ba-8245-4d45-a673-147532d02415",
@@ -2570,11 +2086,7 @@
     "content": {
       "question": "What type of paper is commonly used with marker pens for marker rendering design ideas? \n\n",
       "correctAnswer": "Bleed proof paper",
-      "wrongAnswers": [
-        "Cartridge paper",
-        "Grid paper",
-        "Tracing paper"
-      ]
+      "wrongAnswers": ["Cartridge paper", "Grid paper", "Tracing paper"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "a7624a61-42aa-4b78-8305-e68c42eac3b8",
@@ -2587,13 +2099,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Push/pull linkage",
-        "Bell crank linkage"
-      ],
+      "wrongAnswers": ["Push/pull linkage", "Bell crank linkage"],
       "question": "Name the linkage pictured below:",
       "correctAnswer": "Reverse motion linkage",
-      "imageURL": "seneca-image-cdn:///2019-03/6f69bc05-6d6a-4999-a5c1-53d725fa1014/Reverse-motion-linkages-dt-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/6f69bc05-6d6a-4999-a5c1-53d725fa1014/Reverse-motion-linkages-dt-.png"
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "7fcce9ca-2ceb-40dc-82ac-77c3c09d99cf",
@@ -2608,11 +2117,7 @@
     "content": {
       "question": "What does seasoning do to wood?",
       "correctAnswer": "Makes the wood less moist",
-      "wrongAnswers": [
-        "Makes the wood more moist",
-        "Makes the wood more malleable",
-        "Makes the wood a darker colour"
-      ]
+      "wrongAnswers": ["Makes the wood more moist", "Makes the wood more malleable", "Makes the wood a darker colour"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "8531ca85-77e9-4b93-965a-6e70b20daade",
@@ -2627,11 +2132,7 @@
     "content": {
       "question": "Why do companies create products with planned obsolescence?",
       "correctAnswer": "To maintain sales",
-      "wrongAnswers": [
-        "To reduce waste",
-        "To make consumers happy",
-        "Because they have no choice"
-      ]
+      "wrongAnswers": ["To reduce waste", "To make consumers happy", "Because they have no choice"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d6faf821-b659-45cc-8136-d20f13adbc97",
@@ -2646,11 +2147,7 @@
     "content": {
       "question": "What is NOT an example of bonded fabric?",
       "correctAnswer": "Soundproof insulation",
-      "wrongAnswers": [
-        "Tea bags",
-        "Dishcloths",
-        "Dusters"
-      ]
+      "wrongAnswers": ["Tea bags", "Dishcloths", "Dusters"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "5f50a95e-2cd7-4b86-9156-c28324cb1177",
@@ -2665,11 +2162,7 @@
     "content": {
       "question": "When was the company Braun first established? ",
       "correctAnswer": "1921",
-      "wrongAnswers": [
-        "1931",
-        "1941",
-        "1951"
-      ]
+      "wrongAnswers": ["1931", "1941", "1951"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "62ac77b2-5069-41c5-bb04-db75bf0d8df6",
@@ -2684,11 +2177,7 @@
     "content": {
       "question": "What type of switch is used for light switches?",
       "correctAnswer": "A toggle switch ",
-      "wrongAnswers": [
-        "A pressure switch",
-        "Push to make switch",
-        "Push to break switch"
-      ]
+      "wrongAnswers": ["A pressure switch", "Push to make switch", "Push to break switch"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "63859c05-dd67-40eb-a860-c0d77963a19d",
@@ -2703,12 +2192,7 @@
     "content": {
       "question": "What is Danish oil made from?",
       "correctAnswer": "Oil and varnish ",
-      "wrongAnswers": [
-        "Butter and oil",
-        "Varnish and sawdust",
-        "Wax and oil",
-        "Varnish and wax"
-      ]
+      "wrongAnswers": ["Butter and oil", "Varnish and sawdust", "Wax and oil", "Varnish and wax"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "c4b4abd3-ac8c-4905-8deb-045a2a8b18d9",
@@ -2723,11 +2207,7 @@
     "content": {
       "question": "What type of paper is commonly used for mathematics, graphs, diagrams and layout drawings?\n",
       "correctAnswer": "Grid paper",
-      "wrongAnswers": [
-        "Layout paper",
-        "Cartridge paper",
-        "Bleed proof paper"
-      ]
+      "wrongAnswers": ["Layout paper", "Cartridge paper", "Bleed proof paper"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "a7624a61-42aa-4b78-8305-e68c42eac3b8",
@@ -2742,10 +2222,7 @@
     "content": {
       "question": "Carbon, steel and cast iron are examples of which type of metal?",
       "correctAnswer": "Ferrous metals",
-      "wrongAnswers": [
-        "Non-ferrous metals",
-        "Alloys"
-      ]
+      "wrongAnswers": ["Non-ferrous metals", "Alloys"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "bb324e9a-d786-472c-9046-c9572d5d5cc7",
@@ -2760,12 +2237,7 @@
     "content": {
       "question": "Name the process of drying wood to reduce the moisture?",
       "correctAnswer": "Seasoning ",
-      "wrongAnswers": [
-        "Processing",
-        "Producing composites",
-        "Planing",
-        "Tessellating"
-      ]
+      "wrongAnswers": ["Processing", "Producing composites", "Planing", "Tessellating"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "8ce3b04e-5453-45da-bac7-6523b433d46a",
@@ -2780,11 +2252,7 @@
     "content": {
       "question": "Which type of polymer is difficult to recycle as when heated they generally burn rather than melt?",
       "correctAnswer": "Thermosetting polymers",
-      "wrongAnswers": [
-        "Thermoforming polymers",
-        "Both are easy to recycle",
-        "Neither can be recycled"
-      ]
+      "wrongAnswers": ["Thermoforming polymers", "Both are easy to recycle", "Neither can be recycled"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "e69f27c3-6ba8-4aee-9ff2-ba634f22d748",
@@ -2799,11 +2267,7 @@
     "content": {
       "question": "What can designers use to analyse all the stages in a product’s life and highlight the impact it will have on the environment?",
       "correctAnswer": "Life cycle assessment (LCA)",
-      "wrongAnswers": [
-        "Life time check (LTC)",
-        "Product timeline exam (PTE)",
-        "Product life span (PLS)"
-      ]
+      "wrongAnswers": ["Life time check (LTC)", "Product timeline exam (PTE)", "Product life span (PLS)"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d72c00bf-1713-4afe-a2e4-6fe9e1538cc6",
@@ -2818,11 +2282,7 @@
     "content": {
       "question": "What is a big health and safety concern in paper mills?",
       "correctAnswer": "Fire",
-      "wrongAnswers": [
-        "Floods",
-        "Landslides",
-        "Paper cuts"
-      ]
+      "wrongAnswers": ["Floods", "Landslides", "Paper cuts"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d986c0ee-c1a3-48ff-a931-b4b0ba552c9b",
@@ -2837,11 +2297,7 @@
     "content": {
       "question": "Which of the following is a softwood?",
       "correctAnswer": "Cedar",
-      "wrongAnswers": [
-        "Balsa",
-        "Ash",
-        "Plywood"
-      ]
+      "wrongAnswers": ["Balsa", "Ash", "Plywood"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "e5862462-3d72-494f-b76b-ab198f3c8df7",
@@ -2856,11 +2312,7 @@
     "content": {
       "question": "What is another name for Poly-methyl Meth Acrylate (PMMA)?",
       "correctAnswer": "Acrylic",
-      "wrongAnswers": [
-        "Polystyrene",
-        "Polypropylene",
-        "Chloride"
-      ]
+      "wrongAnswers": ["Polystyrene", "Polypropylene", "Chloride"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "c872c4ec-08e4-4338-8db5-3dcc98a461a7",
@@ -2875,11 +2327,7 @@
     "content": {
       "question": "What is NOT a common type of alloy?",
       "correctAnswer": "Cast iron",
-      "wrongAnswers": [
-        "Brass",
-        "Stainless steel",
-        "Steel"
-      ]
+      "wrongAnswers": ["Brass", "Stainless steel", "Steel"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "88fbd288-4c8e-4f48-a0f2-fbaf6f1a602c",
@@ -2894,11 +2342,7 @@
     "content": {
       "question": "What type of drawing is used for circuit boards to show the layout of the components?",
       "correctAnswer": "Schematic drawings",
-      "wrongAnswers": [
-        "Working drawings",
-        "Exploded drawing",
-        "Freehand sketching"
-      ]
+      "wrongAnswers": ["Working drawings", "Exploded drawing", "Freehand sketching"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d9fc6b56-a097-4f97-94b7-4d0320dff6d6",
@@ -2913,11 +2357,7 @@
     "content": {
       "question": "What does CMC stand for?",
       "correctAnswer": "Carboxymethyl cellulose",
-      "wrongAnswers": [
-        "Carbon monoxide",
-        "Cellulose Moxyprotein",
-        "Carbolic methane"
-      ]
+      "wrongAnswers": ["Carbon monoxide", "Cellulose Moxyprotein", "Carbolic methane"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "e5fd81f7-5ef8-4700-aa0b-cc0e0676ad23",
@@ -2932,10 +2372,7 @@
     "content": {
       "question": "Which type of follow is good for precision, not good for heavy loads, low friction however tip wears easily?\n",
       "correctAnswer": "Knife edge follower",
-      "wrongAnswers": [
-        "Flat follower",
-        "Roller follower"
-      ]
+      "wrongAnswers": ["Flat follower", "Roller follower"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d9a7ed8e-4f17-43a4-bf51-95ffe0fe61fc",
@@ -2950,12 +2387,7 @@
     "content": {
       "question": "Where is the forest that IKEA owns and runs?",
       "correctAnswer": "Romania ",
-      "wrongAnswers": [
-        "Sweden",
-        "Bulgaria",
-        "Latvia",
-        "Denmark"
-      ]
+      "wrongAnswers": ["Sweden", "Bulgaria", "Latvia", "Denmark"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "4ddc7e1e-37d6-4e65-9c3b-b168ce0aad57",
@@ -2970,11 +2402,7 @@
     "content": {
       "question": "What type of paper or board was made to take impact and hold a heavyweight?\n",
       "correctAnswer": "Corrugated cardboard",
-      "wrongAnswers": [
-        "Cartridge paper",
-        "Mount board",
-        "Photo quality paper"
-      ]
+      "wrongAnswers": ["Cartridge paper", "Mount board", "Photo quality paper"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "fbf8d2df-842c-477b-b4ee-a6efe99fb35c",
@@ -2989,11 +2417,7 @@
     "content": {
       "question": "What kind of trees does softwood come from?",
       "correctAnswer": "Coniferous trees",
-      "wrongAnswers": [
-        "Deciduous trees",
-        "Mahogany trees",
-        "Camphor trees"
-      ]
+      "wrongAnswers": ["Deciduous trees", "Mahogany trees", "Camphor trees"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "bb324e9a-d786-472c-9046-c9572d5d5cc7",
@@ -3008,11 +2432,7 @@
     "content": {
       "question": "Who of the following is NOT a textile designer? ",
       "correctAnswer": "Norman Foster",
-      "wrongAnswers": [
-        "Vivienne Westwood",
-        "Coco Chanel",
-        "Alexander McQueen"
-      ]
+      "wrongAnswers": ["Vivienne Westwood", "Coco Chanel", "Alexander McQueen"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "b79d43cb-c1ab-4240-9095-8e213c96ea5a",
@@ -3027,11 +2447,7 @@
     "content": {
       "question": "Which type of force is best described as a twisting force applied to both or one end of a material?",
       "correctAnswer": "Torsion",
-      "wrongAnswers": [
-        "Shear",
-        "Tension",
-        "Compression"
-      ]
+      "wrongAnswers": ["Shear", "Tension", "Compression"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "66705a15-3131-4895-93c3-ee3ecbbbf9ab",
@@ -3046,11 +2462,7 @@
     "content": {
       "question": "In 2002, what did Umbro call their new line of trainers that had to be withdrawn?",
       "correctAnswer": "Zyklon",
-      "wrongAnswers": [
-        "Dursban",
-        "Malathion",
-        "Diazinon"
-      ]
+      "wrongAnswers": ["Dursban", "Malathion", "Diazinon"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "03d4daf4-b007-40a8-8ef4-808afcd7ff40",
@@ -3065,11 +2477,7 @@
     "content": {
       "question": "Which of the following is an example of secondary data?",
       "correctAnswer": "Government statistics ",
-      "wrongAnswers": [
-        "Taking measurements",
-        "Conducting questionnaires",
-        "Conducting interviews"
-      ]
+      "wrongAnswers": ["Taking measurements", "Conducting questionnaires", "Conducting interviews"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "1bdead05-aab7-4198-ac68-d8763010b000",
@@ -3084,11 +2492,7 @@
     "content": {
       "question": "What are dimmer switches on lights an example of?",
       "correctAnswer": "An oscillator",
-      "wrongAnswers": [
-        "A timer",
-        "A pulse generator",
-        "A counter"
-      ]
+      "wrongAnswers": ["A timer", "A pulse generator", "A counter"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "1514f93f-db21-4b07-9aa1-aabc5ed365dd",
@@ -3103,11 +2507,7 @@
     "content": {
       "question": "What does FSC stand for?",
       "correctAnswer": "Forestry Stewardship Council ",
-      "wrongAnswers": [
-        "Fair Social Chances",
-        "Free Sustainability Council",
-        "Forest Sustainability Council"
-      ]
+      "wrongAnswers": ["Fair Social Chances", "Free Sustainability Council", "Forest Sustainability Council"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d9fc6b56-a097-4f97-94b7-4d0320dff6d6",
@@ -3122,11 +2522,7 @@
     "content": {
       "question": "What type of machines commonly use the datum point as a cutting reference point?",
       "correctAnswer": "Laser cutters ",
-      "wrongAnswers": [
-        "Rotary sanders",
-        "Drills",
-        "Table saws"
-      ]
+      "wrongAnswers": ["Rotary sanders", "Drills", "Table saws"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "455727fc-9cb4-4901-bb93-e7c019acb9c0",
@@ -3141,11 +2537,7 @@
     "content": {
       "question": "Which product designer is famous for the ‘Juicy Salif’ lemon squeezer?",
       "correctAnswer": "Philippe Starck ",
-      "wrongAnswers": [
-        "Raymond Templier",
-        "Louis Comfort Tiffany",
-        "Ettore Sottsass"
-      ]
+      "wrongAnswers": ["Raymond Templier", "Louis Comfort Tiffany", "Ettore Sottsass"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "f3d71249-766f-427e-a6a5-09f2d0b3ff73",
@@ -3160,11 +2552,7 @@
     "content": {
       "question": "What type of board is commonly used for displays, architectural models, model making and artwork?",
       "correctAnswer": "Foam core board",
-      "wrongAnswers": [
-        "Inkjet card",
-        "Foil lined board",
-        "Duplex board"
-      ]
+      "wrongAnswers": ["Inkjet card", "Foil lined board", "Duplex board"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "649ea091-940a-4fb3-a67e-0a9ae5cc93bc",
@@ -3179,10 +2567,7 @@
     "content": {
       "question": "Which thermoforming plastic gives off a toxic fumes when burnt?",
       "correctAnswer": "High Impact Polystyrene Sheet (HIPS)",
-      "wrongAnswers": [
-        "Acrylic – Poly-methyl Meth Acrylate (PMMA)",
-        "Polypropylene (PP)"
-      ]
+      "wrongAnswers": ["Acrylic – Poly-methyl Meth Acrylate (PMMA)", "Polypropylene (PP)"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "c872c4ec-08e4-4338-8db5-3dcc98a461a7",
@@ -3214,14 +2599,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Speaker",
-        "Lamp",
-        "LED"
-      ],
+      "wrongAnswers": ["Speaker", "Lamp", "LED"],
       "question": "What is this the component symbol pictured below? ",
       "correctAnswer": "Buzzer",
-      "imageURL": "seneca-image-cdn:///2019-03/6b282c77-1e20-4924-a0c6-bbc999f667aa/buzzer-symbol-dt-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/6b282c77-1e20-4924-a0c6-bbc999f667aa/buzzer-symbol-dt-.png"
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "956ad2bc-d14f-4464-9477-a059d2491231",
@@ -3236,11 +2617,7 @@
     "content": {
       "question": "Which of the following appliances is likely to have a thermistor?",
       "correctAnswer": "An oven ",
-      "wrongAnswers": [
-        "A street light",
-        "A shower",
-        "A bed"
-      ]
+      "wrongAnswers": ["A street light", "A shower", "A bed"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "4274a9bb-4797-4e27-a8f9-0f27243926d7",
@@ -3255,11 +2632,7 @@
     "content": {
       "question": "Which company produces paper for nearly all continents including Europe?",
       "correctAnswer": "The International Paper Company",
-      "wrongAnswers": [
-        "The Consortium Group",
-        "The Global Paper Organisation",
-        "World Wide Paper Inc."
-      ]
+      "wrongAnswers": ["The Consortium Group", "The Global Paper Organisation", "World Wide Paper Inc."]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "66705a15-3131-4895-93c3-ee3ecbbbf9ab",
@@ -3274,11 +2647,7 @@
     "content": {
       "question": "What is the name for workflow that is organised to make layout of the building efficient?",
       "correctAnswer": "Efficient workflow",
-      "wrongAnswers": [
-        "Improved workflow",
-        "Organised workflow",
-        "Neat workflow"
-      ]
+      "wrongAnswers": ["Improved workflow", "Organised workflow", "Neat workflow"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "7493e9db-58cc-4df8-adc9-079dec2d2c1a",
@@ -3312,11 +2681,7 @@
     "content": {
       "question": "What is commonly used for presentation boards as it retains a high quality and professional feel without being heavy?",
       "correctAnswer": "Foam board",
-      "wrongAnswers": [
-        "Cardboard",
-        "Cartridge paper",
-        "Laminated paper"
-      ]
+      "wrongAnswers": ["Cardboard", "Cartridge paper", "Laminated paper"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "da40f517-84e8-4094-8a44-239c790a940c",
@@ -3329,13 +2694,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Reverse motion linkage",
-        "Push/pull linkage"
-      ],
+      "wrongAnswers": ["Reverse motion linkage", "Push/pull linkage"],
       "question": "Name the linkage pictured below:",
       "correctAnswer": "Bell crank linkage",
-      "imageURL": "seneca-image-cdn:///2019-03/af5ab4d4-6f6c-402d-beff-37d25e422c65/bell-crank-linkage-dt-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/af5ab4d4-6f6c-402d-beff-37d25e422c65/bell-crank-linkage-dt-.png"
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "7fcce9ca-2ceb-40dc-82ac-77c3c09d99cf",
@@ -3348,13 +2710,10 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Class 2 - Second order lever",
-        "Class 1 - First order lever"
-      ],
+      "wrongAnswers": ["Class 2 - Second order lever", "Class 1 - First order lever"],
       "question": "What class of lever is this an example of?",
       "correctAnswer": "Class 3 - Third order lever",
-      "imageURL": "seneca-image-cdn:///2019-03/31e75d81-79dd-420e-ae9e-683946ebe558/class-3-lever-dt-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/31e75d81-79dd-420e-ae9e-683946ebe558/class-3-lever-dt-.png"
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "66e831bd-e276-4d68-a1c4-92e52f4273e4",
@@ -3369,11 +2728,7 @@
     "content": {
       "question": "What is NOT an example of PPE (personal protective equipment)?",
       "correctAnswer": "Jewellery ",
-      "wrongAnswers": [
-        "Goggles",
-        "High-visibility jacket",
-        "Steel toed boots"
-      ]
+      "wrongAnswers": ["Goggles", "High-visibility jacket", "Steel toed boots"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "960280ea-490a-4d2c-ab56-6719c5f016ca",
@@ -3388,11 +2743,7 @@
     "content": {
       "question": "How can you measure the impact of your design on the environment?",
       "correctAnswer": "The carbon footprint",
-      "wrongAnswers": [
-        "The hydrogen handprint",
-        "The atomic number",
-        "The oxygen outline"
-      ]
+      "wrongAnswers": ["The hydrogen handprint", "The atomic number", "The oxygen outline"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "539f9048-6edf-4084-8895-4f849099fc46",
@@ -3407,11 +2758,7 @@
     "content": {
       "question": "Which marking tool is used to mark out metal?",
       "correctAnswer": "Scribe",
-      "wrongAnswers": [
-        "Pencil",
-        "Marker pen",
-        "Tailor's chalk"
-      ]
+      "wrongAnswers": ["Pencil", "Marker pen", "Tailor's chalk"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "3374271e-8d68-4054-9247-12e46cc626ef",
@@ -3431,7 +2778,7 @@
       ],
       "question": "Which thermoforming polymer has triangular recycle logo number 3?",
       "correctAnswer": "Polyvinyl Chloride (PVC)",
-      "imageURL": "seneca-image-cdn:///2019-03/4342828c-349a-4aac-a544-36846d7b2ce2/pvc-dt-polymer-recycle-.png"
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/4342828c-349a-4aac-a544-36846d7b2ce2/pvc-dt-polymer-recycle-.png"
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "209839a7-af3e-4ff2-ab01-067a27a86b44",
@@ -3446,10 +2793,7 @@
     "content": {
       "question": "What type of wood can be used with no harm to the environment?",
       "correctAnswer": "Driftwood ",
-      "wrongAnswers": [
-        "Hardwood",
-        "Softwood"
-      ]
+      "wrongAnswers": ["Hardwood", "Softwood"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "1b331751-f41d-410a-b2b4-19e6f06f3e7a",
@@ -3464,11 +2808,7 @@
     "content": {
       "question": "Which of the following is a softwood?",
       "correctAnswer": "Cedar",
-      "wrongAnswers": [
-        "Balsa",
-        "Ash",
-        "Plywood"
-      ]
+      "wrongAnswers": ["Balsa", "Ash", "Plywood"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "535e7bd6-a8f9-409f-80bc-1097e9d0cbd6",
@@ -3502,11 +2842,7 @@
     "content": {
       "question": "Which hardwood is deep reddish brown in appearance?",
       "correctAnswer": "Mahogany",
-      "wrongAnswers": [
-        "Oak",
-        "Balsa",
-        "Ash"
-      ]
+      "wrongAnswers": ["Oak", "Balsa", "Ash"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "0a6e778c-7abe-4f5b-9316-88dcd03f1d5a",
@@ -3540,11 +2876,7 @@
     "content": {
       "question": "Which designer is famous for the Wassily Chair?",
       "correctAnswer": "Marcel Breuer ",
-      "wrongAnswers": [
-        "Norman Foster",
-        "Aldo Rossi",
-        "Harry Beck"
-      ]
+      "wrongAnswers": ["Norman Foster", "Aldo Rossi", "Harry Beck"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "51947baa-c966-44c4-8dd2-82943877b291",
@@ -3559,11 +2891,7 @@
     "content": {
       "question": "What is a major ecological problem caused by producing timber?",
       "correctAnswer": "Deforestation ",
-      "wrongAnswers": [
-        "Light pollution",
-        "Recycling plants",
-        "Pesticides"
-      ]
+      "wrongAnswers": ["Light pollution", "Recycling plants", "Pesticides"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "51251bfc-f6d3-4313-b790-76c08c1847f4",
@@ -3578,11 +2906,7 @@
     "content": {
       "question": "Which two non-ferrous metals mix as an alloy to create bronze?\n",
       "correctAnswer": "Tin and copper ",
-      "wrongAnswers": [
-        "Copper and zinc",
-        "Tin and aluminium",
-        "Aluminium and zinc"
-      ]
+      "wrongAnswers": ["Copper and zinc", "Tin and aluminium", "Aluminium and zinc"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "aeb50f17-7239-4f1b-a253-5180ae6362b8",
@@ -3597,11 +2921,7 @@
     "content": {
       "question": "What is the most common type of quality control inspection used at most stages of production?",
       "correctAnswer": "Visual inspections ",
-      "wrongAnswers": [
-        "Machine inspections",
-        "Microscopic inspections",
-        "Psychic inspections"
-      ]
+      "wrongAnswers": ["Machine inspections", "Microscopic inspections", "Psychic inspections"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d86c95e9-dfb8-4f67-969a-fd2cba5a1886",
@@ -3616,11 +2936,7 @@
     "content": {
       "question": "What is it important that your prototype links to? ",
       "correctAnswer": "Your chosen specialist area",
-      "wrongAnswers": [
-        "Your teacher's specialist area",
-        "The examiner's specialist area",
-        "Anything you like"
-      ]
+      "wrongAnswers": ["Your teacher's specialist area", "The examiner's specialist area", "Anything you like"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "bca94bc3-3c58-43ea-a0e7-c845cedbbc48",
@@ -3635,10 +2951,7 @@
     "content": {
       "question": "What shape of CAM only works in one direction?",
       "correctAnswer": "Snail CAM",
-      "wrongAnswers": [
-        "Pear shaped CAM",
-        "Circular CAM"
-      ]
+      "wrongAnswers": ["Pear shaped CAM", "Circular CAM"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d3084018-3b69-4771-9e19-61fad3027e0a",
@@ -3658,10 +2971,7 @@
     "content": {
       "question": "Which paper size is used for envelopes?",
       "correctAnswer": "C series",
-      "wrongAnswers": [
-        "B series",
-        "A series"
-      ]
+      "wrongAnswers": ["B series", "A series"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "eb4ca8f1-a800-4b70-a7c8-42a009a6626b",
@@ -3676,11 +2986,7 @@
     "content": {
       "question": "Which of these companies use the iterative design approach?",
       "correctAnswer": "Dyson",
-      "wrongAnswers": [
-        "Zara",
-        "Farrow and Ball",
-        "Twinings"
-      ]
+      "wrongAnswers": ["Zara", "Farrow and Ball", "Twinings"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d9fc6b56-a097-4f97-94b7-4d0320dff6d6",
@@ -3695,11 +3001,7 @@
     "content": {
       "question": "Which fabric is commonly used in outdoor clothing such as ski wear and mountain wear?",
       "correctAnswer": "Gore-Tex",
-      "wrongAnswers": [
-        "Kevlar",
-        "Microfiber",
-        "Conductive fibres"
-      ]
+      "wrongAnswers": ["Kevlar", "Microfiber", "Conductive fibres"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "03271418-99ac-4918-9fb3-fef854d89b4a",
@@ -3714,11 +3016,7 @@
     "content": {
       "question": "CMC is an additive used to aid in the bonding of fibres. What does CMC stand for?",
       "correctAnswer": "Carboxymethyl cellulose",
-      "wrongAnswers": [
-        "Carbon monoxide",
-        "Cellulose Moxyprotein",
-        "Carbolic methane"
-      ]
+      "wrongAnswers": ["Carbon monoxide", "Cellulose Moxyprotein", "Carbolic methane"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "d86c95e9-dfb8-4f67-969a-fd2cba5a1886",
@@ -3733,11 +3031,7 @@
     "content": {
       "question": "What is NOT an advantage of virtual workspaces?",
       "correctAnswer": "A good internet connection is needed",
-      "wrongAnswers": [
-        "There is no need to rent office space",
-        "Travel time is reduced",
-        "Expenses are reduced"
-      ]
+      "wrongAnswers": ["There is no need to rent office space", "Travel time is reduced", "Expenses are reduced"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "9ca94578-fb8f-4e4e-963f-0fc7840d6e29",
@@ -3771,10 +3065,7 @@
     "content": {
       "question": "Carbon, steel and cast iron are examples of which type of metal?",
       "correctAnswer": "Ferrous metals",
-      "wrongAnswers": [
-        "Non-ferrous metals",
-        "Alloys"
-      ]
+      "wrongAnswers": ["Non-ferrous metals", "Alloys"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "bb324e9a-d786-472c-9046-c9572d5d5cc7",
@@ -3789,11 +3080,7 @@
     "content": {
       "question": "What type of modelling is used a lot when designing cars to see how streamline the car is?",
       "correctAnswer": "Mathematical modelling",
-      "wrongAnswers": [
-        "Breadboards",
-        "Card modelling",
-        "Toiles"
-      ]
+      "wrongAnswers": ["Breadboards", "Card modelling", "Toiles"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "ca0612bd-e9ac-4ac4-8c76-8b2146b700ee",
@@ -3808,11 +3095,7 @@
     "content": {
       "question": "Who designed the famous Red and Blue chair?",
       "correctAnswer": "Gerrit Rietveld ",
-      "wrongAnswers": [
-        "Ettore Sottsass",
-        "Louis Comfort Tiffany",
-        "Raymond Templier"
-      ]
+      "wrongAnswers": ["Ettore Sottsass", "Louis Comfort Tiffany", "Raymond Templier"]
     },
     "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
     "parentId": "b038fcde-1ed4-40ef-8514-3a5e06cb295c",
