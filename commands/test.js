@@ -11,7 +11,7 @@ const historyGermany = require("../trivia/hist-aqa-gcse-germany-multiple-choice.
 const physics = require("../trivia/phys-aqa-gcse-multiple-choice.json");
 const spanish = require("../trivia/span-aqa-gcse-multiple-choice.json");
 
-const spanishTitles = [...new Set(spanish.map((x) => x.title))];
+// const spanishTitles = [...new Set(spanish.map((x) => x.title))];
 // console.log(spanishTitles);
 
 const emojiArray = ["🇦", "🇧", "🇨", "🇩", "🇪", "🇫"];
