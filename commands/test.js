@@ -11,8 +11,12 @@ const historyGermany = require("../trivia/hist-aqa-gcse-germany-multiple-choice.
 const physics = require("../trivia/phys-aqa-gcse-multiple-choice.json");
 const spanish = require("../trivia/span-aqa-gcse-multiple-choice.json");
 
-var emojiArray = ["🇦", "🇧", "🇨", "🇩", "🇪", "🇫"];
-var incorrectGIFArray = [
+const spanishTitles = [...new Set(spanish.map((x) => x.title))];
+// console.log(spanishTitles);
+
+const emojiArray = ["🇦", "🇧", "🇨", "🇩", "🇪", "🇫"];
+const numbersArray = ["1️.", "2.", "3️.", "4️.", "5️.", "6️.", "7️.", "8.", "9.", "10.", "11.", "12.", "13."];
+const incorrectGIFArray = [
   "https://tenor.com/view/jakeperalta-jake-peralta-b99-brooklynninenine-gif-8793716",
   "https://tenor.com/view/otter-relax-confidence-gif-5179813",
   "https://tenor.com/view/the-good-place-idk-idont-know-confused-sorry-gif-11820681",
@@ -28,7 +32,7 @@ var incorrectGIFArray = [
   "https://tenor.com/view/confused-whitepersanguardian-why-gif-10312546",
   "https://tenor.com/view/chouette-pet-animal-bird-nature-gif-12522544",
 ];
-var correctGIFArray = [
+const correctGIFArray = [
   "https://tenor.com/view/dancing-dance-zebra-moon-walk-shuffling-gif-7705463",
   "https://tenor.com/view/nice-gif-10653491",
   "https://tenor.com/view/well-done-despicable-me-minions-gif-4733480",
@@ -45,7 +49,7 @@ var correctGIFArray = [
   "https://tenor.com/view/genius-you-are-agenius-motivation-self-esteem-motivate-gif-6124403",
   "https://tenor.com/view/smart-hangover-alan-genius-zach-galifianakis-gif-5568438",
 ];
-var startGIFArray = [
+const startGIFArray = [
   "https://tenor.com/view/kevin-hart-its-about-to-go-down-calm-before-the-storm-gif-4420127",
   "https://tenor.com/view/fresh-prince-of-bel-air-carlton-carlton-dance-excited-lets-get-this-party-started-gif-15161860",
   "https://tenor.com/view/bugs-bunny-race-run-running-exercise-gif-4469250",
@@ -159,12 +163,23 @@ module.exports = {
     await subjectMessage.react("🔭");
     await subjectMessage.react("🇪🇸");
 
-    var filter = (reaction, user) => user.id === message.author.id;
+    const filter = (reaction, user) => user.id === message.author.id;
     const subjectReaction = await subjectMessage.awaitReactions(filter, { max: 1 });
+
+    // const filter = (reaction, user) => user.id === message.author.id;
+    // const subjectAnswer = await message.channel.awaitMessages(filter, { max: 1 }).then(console.log(subjectAnswer));
+
+    // if (subjectAnswer.first().content === "Biology") {
+    //   console.log("Bio test");
 
     await sleep(1000);
     await message.author.send(randomReadyGIF);
     await sleep(2000);
+
+    // for (let i = 0; i < 5; i++) {
+    //   await process(message, biology);
+    //   await sleep(3000);
+    // }
 
     if (subjectReaction.has("🧬")) {
       for (let i = 0; i < 5; i++) {
@@ -172,6 +187,19 @@ module.exports = {
         await sleep(3000);
       }
     } else if (subjectReaction.has("💰")) {
+      // const businessTitles = [...new Set(business.map((x) => x.title)), "All topics"];
+      // const newNumbersArray = numbersArray.slice(0, businessTitles.length + 1);
+      // const allTopicsString = businessTitles.map((i, idx) => numbersArray[idx] + " " + i).join("\n");
+      // const subjectMessage = await message.author.send(
+      //   new Discord.MessageEmbed().setColor("#FFD800").setTitle("QUIZ TIME!")
+      //     .setDescription(`**Choose your subject by typing the correct number 📚**
+      //     \n${allTopicsString}`)
+      // );
+      // const filter = (user) => user.id === message.author.id;
+      // const reply = await message.channel.awaitMessages(filter, { max: 1 }).then((collected) => {
+      //   console.log(collected);
+      // });
+      // console.log(reply);
       for (let i = 0; i < 5; i++) {
         await process(message, business);
         await sleep(3000);
