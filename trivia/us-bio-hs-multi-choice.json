@@ -2,11 +2,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "4",
-        "9",
-        "12"
-      ],
+      "wrongAnswers": ["4", "9", "12"],
       "question": "How many possible genotype combinations exist when two heterozygotes breed in a dihybrid cross?",
       "correctAnswer": "16",
       "imageURL": "https://media.giphy.com/media/3o7buj6wKChtrU9RiU/giphy.mp4"
@@ -26,11 +22,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "DNA polymerase",
-        "RNA helicase",
-        "DNA separase"
-      ],
+      "wrongAnswers": ["DNA polymerase", "RNA helicase", "DNA separase"],
       "question": "What enzyme is used to bind RNA nucleotides to the template strand?",
       "correctAnswer": "RNA polymerase",
       "imageURL": "https://media.giphy.com/media/6hhET7DBItQUE/giphy.mp4"
@@ -47,8 +39,8 @@
       "question": "Which of the following provides the best explanation as to why eating less meat could preserve the diversity of plant species on Earth? ",
       "correctAnswer": "Livestock farming causes deforestation, which reduces habitats for numerous species, leads to building up of greenhouse gases, soil erosion and decrease in rainfall",
       "wrongAnswers": [
-        "Livestock farming causes deforestation&comma; which reduces habitats for numerous species&comma; leads to building up of greenhouse gases&comma; and increase in rainfall",
-        "Livestock farming causes deforestation&comma; which leads to a breakdown of greenhouse gases&comma; and decrease in rainfall"
+        "Livestock farming causes deforestation, which reduces habitats for numerous species, leads to building up of greenhouse gases, and increase in rainfall",
+        "Livestock farming causes deforestation, which leads to a breakdown of greenhouse gases, and decrease in rainfall"
       ]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
@@ -62,11 +54,7 @@
     "content": {
       "question": "Which of the following is not a factor determining the likelihood of an individual to survive?",
       "correctAnswer": "Diet",
-      "wrongAnswers": [
-        "Predation",
-        "Competition",
-        "Disease"
-      ]
+      "wrongAnswers": ["Predation", "Competition", "Disease"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "66efe983-a80a-4e42-8e6e-4b0dbb137cbb",
@@ -79,11 +67,7 @@
     "content": {
       "question": "Which of the following is NOT an abiotic condition?",
       "correctAnswer": "Competition",
-      "wrongAnswers": [
-        "Sunlight",
-        "Water availability",
-        "Climate"
-      ]
+      "wrongAnswers": ["Sunlight", "Water availability", "Climate"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "2e3d835a-82fe-4df8-8df6-0ada6484943f",
@@ -96,9 +80,7 @@
     "content": {
       "question": "What effect does increasing light intensity have on rate of photosynthesis?",
       "correctAnswer": "Increases",
-      "wrongAnswers": [
-        "Decreases"
-      ]
+      "wrongAnswers": ["Decreases"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "aa9b2c66-eddb-48c3-a383-e82d6aafe6d9",
@@ -111,11 +93,7 @@
     "content": {
       "question": "How does ATP's inorganic phosphate make other compounds more reactive?",
       "correctAnswer": "Phosphorylation",
-      "wrongAnswers": [
-        "Ionization",
-        "Fusion",
-        "Condensation"
-      ]
+      "wrongAnswers": ["Ionization", "Fusion", "Condensation"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "7a9890cd-3ad5-44ed-a6e3-d329350f7302",
@@ -128,10 +106,7 @@
     "content": {
       "question": "Which cells would not burst if left in distilled (pure) water?",
       "correctAnswer": "Algae cells",
-      "wrongAnswers": [
-        "Red blood cells",
-        "Liver cells"
-      ]
+      "wrongAnswers": ["Red blood cells", "Liver cells"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "c4543a90-99e2-4891-b6d0-c98952c1561c",
@@ -141,10 +116,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "50",
-        "12"
-      ],
+      "wrongAnswers": ["50", "12"],
       "question": "How many pairs of chromosomes do human diploid cells have?",
       "correctAnswer": "23",
       "imageURL": "https://media.giphy.com/media/l2QZUkVr9DI8faKSk/giphy.mp4"
@@ -157,11 +129,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Arteries",
-        "Arterioles",
-        "Capillaries"
-      ],
+      "wrongAnswers": ["Arteries", "Arterioles", "Capillaries"],
       "question": "Which blood vessel contains valves?",
       "correctAnswer": "Veins",
       "imageURL": "https://media.giphy.com/media/jBqtOWZT1Ca6A/giphy.mp4"
@@ -193,11 +161,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "1",
-        "2",
-        "4"
-      ],
+      "wrongAnswers": ["1", "2", "4"],
       "question": "How many checkpoints are involved in the regulation of the cell cycle?",
       "correctAnswer": "3",
       "imageURL": "https://media.giphy.com/media/F8EMAfVWXdCvu/giphy.mp4"
@@ -228,11 +192,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Introns",
-        "Codons",
-        "Genomes"
-      ],
+      "wrongAnswers": ["Introns", "Codons", "Genomes"],
       "question": "What is the name given to coding genes?",
       "correctAnswer": "Exons",
       "imageURL": "https://media.giphy.com/media/Ro2MgOxH9iaVG/giphy.mp4"
@@ -248,12 +208,7 @@
     "content": {
       "question": "Which of the following properties of water explains why sweating helps with body temperature regulation?",
       "correctAnswer": "High heat of vaporization",
-      "wrongAnswers": [
-        "High heat capacity",
-        "Good metabolite",
-        "Good solvent",
-        "Cohesive properties"
-      ]
+      "wrongAnswers": ["High heat capacity", "Good metabolite", "Good solvent", "Cohesive properties"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "1f564e8c-239c-4a7e-a075-64c5309f8e04",
@@ -282,11 +237,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Food chains nearly always begin with a producer that produces its own food. This is usually a green plant or algae that can carry out photosynthesis.",
-      "wrongAnswers": [
-        "They can absorb sunlight",
-        "They are very small",
-        "They are green"
-      ],
+      "wrongAnswers": ["They can absorb sunlight", "They are very small", "They are green"],
       "question": "What process can producers carry out?",
       "correctAnswer": "They can make their own food"
     },
@@ -300,11 +251,7 @@
     "content": {
       "question": "Which enzyme catalyzes ATP hydrolysis?",
       "correctAnswer": "ATP hydrolase",
-      "wrongAnswers": [
-        "ATP phosphatase",
-        "ATP carboxylase",
-        "ATP reductase"
-      ]
+      "wrongAnswers": ["ATP phosphatase", "ATP carboxylase", "ATP reductase"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "7a9890cd-3ad5-44ed-a6e3-d329350f7302",
@@ -315,11 +262,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Nucleus",
-        "Ribosomes",
-        "Mitochondria"
-      ],
+      "wrongAnswers": ["Nucleus", "Ribosomes", "Mitochondria"],
       "question": "Where is DNA found in prokaryotes?",
       "correctAnswer": "Cytoplasm",
       "imageURL": "https://media.giphy.com/media/8lsNyZVWcpZ2o/giphy.mp4"
@@ -333,10 +276,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Stabilizing selection",
-        "Disruptive selection"
-      ],
+      "wrongAnswers": ["Stabilizing selection", "Disruptive selection"],
       "question": "What is the type of selection that favors an extreme phenotype?",
       "correctAnswer": "Directional selection",
       "imageURL": "https://media.giphy.com/media/uaOqWaZpebl8k/giphy.mp4"
@@ -350,11 +290,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Outside",
-        "Next to",
-        "Without"
-      ],
+      "wrongAnswers": ["Outside", "Next to", "Without"],
       "question": "What does \"endo-\" mean?",
       "correctAnswer": "Within",
       "imageURL": "https://media.giphy.com/media/l1Lc1Kn9hImgpx5Re/giphy.mp4"
@@ -370,11 +306,7 @@
     "content": {
       "question": "Globular proteins are soluble in:",
       "correctAnswer": "water",
-      "wrongAnswers": [
-        "acid",
-        "salt",
-        "chlorine"
-      ]
+      "wrongAnswers": ["acid", "salt", "chlorine"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "64623e90-e7b0-4561-8f55-efb7a824e8c2",
@@ -385,11 +317,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Homozygosity",
-        "Heterozygosity",
-        "Hyperzygosity"
-      ],
+      "wrongAnswers": ["Homozygosity", "Heterozygosity", "Hyperzygosity"],
       "question": "What is the term given to the fact there is no role of dominance and recessiveness in X-linked genes?",
       "correctAnswer": "Hemizygosity",
       "imageURL": "https://media.giphy.com/media/B1bMjDNIwe4T09fNai/giphy.mp4"
@@ -403,11 +331,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "DNA helicase",
-        "DNA polymerase",
-        "DNA connectase"
-      ],
+      "wrongAnswers": ["DNA helicase", "DNA polymerase", "DNA connectase"],
       "question": "Which enzyme attaches the sticky ends of DNA fragments and vector DNA together?",
       "correctAnswer": "DNA ligase",
       "imageURL": "https://media.giphy.com/media/5Gj5Hq8h7777q/giphy.mp4"
@@ -421,11 +345,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Chromosomes",
-        "Nuclei",
-        "Proteins"
-      ],
+      "wrongAnswers": ["Chromosomes", "Nuclei", "Proteins"],
       "question": "In Mendel's law of segregation, what are paired unit factors? ",
       "correctAnswer": "Genes",
       "imageURL": "seneca-image-cdn:///2019-07/bcacc662-6144-415e-9a74-1d89814a8b56/2-blue-two-jpg.jpg"
@@ -441,11 +361,7 @@
     "content": {
       "question": "A population of squirrles has a birth rate of 60 per year and a death rate of 15 per year. What is the population growth rate? ",
       "correctAnswer": "45 per year",
-      "wrongAnswers": [
-        "15 per year",
-        "60 per year",
-        "75 per year"
-      ]
+      "wrongAnswers": ["15 per year", "60 per year", "75 per year"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "4475cb4c-6ee1-4fc4-ac17-28aab7bb3d1e",
@@ -458,11 +374,7 @@
     "content": {
       "question": "How much energy do lipids contain per gram of carbohydrate? ",
       "correctAnswer": "About twice as much ",
-      "wrongAnswers": [
-        "About three times as much",
-        "About half as much",
-        "About the same"
-      ]
+      "wrongAnswers": ["About three times as much", "About half as much", "About the same"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "24002528-84fd-40e0-8bb5-cebe75526e60",
@@ -474,11 +386,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "More than half of climate scientists think that the greenhouse effect is causing global warming. ",
-      "wrongAnswers": [
-        "All",
-        "None",
-        "Less than half"
-      ],
+      "wrongAnswers": ["All", "None", "Less than half"],
       "question": "What proportion of climate scientists believe that the greenhouse effect is causing global warming?",
       "correctAnswer": "More than half"
     },
@@ -490,11 +398,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Allow osmosis",
-        "Provided immune response",
-        "Create cohesion between water molecules"
-      ],
+      "wrongAnswers": ["Allow osmosis", "Provided immune response", "Create cohesion between water molecules"],
       "question": "What is the role of sieve plates?",
       "correctAnswer": "Allow sap movement",
       "imageURL": "https://media.giphy.com/media/LMcTSdmuFellS/giphy.mp4"
@@ -508,9 +412,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Saturated fatty acid"
-      ],
+      "wrongAnswers": ["Saturated fatty acid"],
       "question": "What type of fatty acid is shown in this diagram?",
       "correctAnswer": "Unsaturated fatty acid",
       "imageURL": "seneca-image-cdn:///2018-08/f3fafed0-eba5-4695-9522-a45a1afed71b/6%20-%20unsaturated%20hydrocarbon.png"
@@ -524,11 +426,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Aiding digestion in the body",
-        "Converting glucose to glycogen",
-        "Keeping us fit and healthy"
-      ],
+      "wrongAnswers": ["Aiding digestion in the body", "Converting glucose to glycogen", "Keeping us fit and healthy"],
       "question": "What is the fight or flight response important for?",
       "correctAnswer": "Readying the body for a physical confrontation or running away from danger",
       "imageURL": "https://media.giphy.com/media/1esS53ETqgmGPlEsCp/giphy.mp4"
@@ -542,10 +440,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Liquids",
-        "Gases"
-      ],
+      "wrongAnswers": ["Liquids", "Gases"],
       "question": "In which state of substance does diffusion NOT happen?",
       "correctAnswer": "Solids",
       "imageURL": "seneca-image-cdn:///courseImages/biology/1.3.1 Diffusion of gases-min.png"
@@ -561,10 +456,7 @@
     "content": {
       "question": "Where is lactose found?",
       "correctAnswer": "In milk",
-      "wrongAnswers": [
-        "In table sugar",
-        "In corn syrup"
-      ]
+      "wrongAnswers": ["In table sugar", "In corn syrup"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "a88aa985-cc21-4496-898b-323939078bd7",
@@ -577,11 +469,7 @@
     "content": {
       "question": "Which term describes the study of the origin of life on Earth? ",
       "correctAnswer": "Abiogenesis ",
-      "wrongAnswers": [
-        "RNA world hypothesis",
-        "Neogenesis",
-        "Panspermia"
-      ]
+      "wrongAnswers": ["RNA world hypothesis", "Neogenesis", "Panspermia"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "460ed66c-5faf-4fa2-9808-d82df5f9a217",
@@ -592,11 +480,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Maximum capacity",
-        "Population carrier",
-        "Maintained size"
-      ],
+      "wrongAnswers": ["Maximum capacity", "Population carrier", "Maintained size"],
       "question": "What is the name given to the maximum size a population can maintain for a long period of time?",
       "correctAnswer": "Carrying capacity",
       "imageURL": "https://media.giphy.com/media/raBbE1fizfZGE/giphy.mp4"
@@ -612,11 +496,7 @@
     "content": {
       "question": "ATP is resynthesised by what type of reaction between ADP and P<sub>i</sub>?",
       "correctAnswer": "Condensation reaction",
-      "wrongAnswers": [
-        "Hydrolysis reaction",
-        "Glycolysis reaction",
-        "Combustion reaction"
-      ]
+      "wrongAnswers": ["Hydrolysis reaction", "Glycolysis reaction", "Combustion reaction"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "e91e5384-0133-4409-87aa-1f24ee0893c5",
@@ -629,11 +509,7 @@
     "content": {
       "question": "What is the product of the condensation of two monosaccharides?",
       "correctAnswer": "Disaccharides",
-      "wrongAnswers": [
-        "Protein",
-        "Fatty acid",
-        "Polysaccharide"
-      ]
+      "wrongAnswers": ["Protein", "Fatty acid", "Polysaccharide"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "18a102a8-e847-46b8-bd38-d058a70d42d4",
@@ -646,9 +522,7 @@
     "content": {
       "question": "Which molecule is formed of a single polynucleotide chain?",
       "correctAnswer": "RNA",
-      "wrongAnswers": [
-        "DNA"
-      ]
+      "wrongAnswers": ["DNA"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "9f62e5ef-b28f-4125-ae03-4b90dbe42998",
@@ -659,11 +533,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Increases affinity",
-        "No effect",
-        "Only increases affinity in respiring cells"
-      ],
+      "wrongAnswers": ["Increases affinity", "No effect", "Only increases affinity in respiring cells"],
       "question": "How does a high pCO<sub>2</sub> impact hemoglobin affinity for oxygen?",
       "correctAnswer": "Decreases affinity",
       "imageURL": "https://media.giphy.com/media/Q7YFxgjPvzczu/giphy.mp4"
@@ -677,11 +547,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "DNA",
-        "Amino acid sequence",
-        "Overall protein structure"
-      ],
+      "wrongAnswers": ["DNA", "Amino acid sequence", "Overall protein structure"],
       "question": "Which of the following is NOT a form of molecular evidence for evolution?",
       "correctAnswer": "Inorganic molecules",
       "imageURL": "https://media.giphy.com/media/Le01xpx635vmE/giphy.mp4"
@@ -697,10 +563,7 @@
     "content": {
       "question": "What is the main function of triglycerides?",
       "correctAnswer": "Energy storage",
-      "wrongAnswers": [
-        "Respiratory fuel",
-        "Transport molecule"
-      ]
+      "wrongAnswers": ["Respiratory fuel", "Transport molecule"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "4eafa091-4840-42cd-b84d-8d258c59b44d",
@@ -745,11 +608,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Lipid ringlet",
-        "Lipid sphere",
-        "Lipid center"
-      ],
+      "wrongAnswers": ["Lipid ringlet", "Lipid sphere", "Lipid center"],
       "question": "What is the name of this structure?",
       "correctAnswer": "Lipid droplet",
       "imageURL": "seneca-image-cdn:///2018-08/837a6046-6872-43c0-a48f-f7357b00b781/7-Triglycerides.jpg"
@@ -763,11 +622,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Evolution",
-        "Selective advancement",
-        "Revolution"
-      ],
+      "wrongAnswers": ["Evolution", "Selective advancement", "Revolution"],
       "question": "What is the name of the process where the frequency of beneficial alleles increases over time?",
       "correctAnswer": "Natural selection",
       "imageURL": "https://media.giphy.com/media/o37e1VlwzOvFS/giphy.mp4"
@@ -783,10 +638,7 @@
     "content": {
       "question": "What type of bonds are found in saturated fatty acids?",
       "correctAnswer": "Single bonds between carbon atoms ONLY",
-      "wrongAnswers": [
-        "Double bonds between carbon atoms ONLY",
-        "Single and double bonds between carbon atoms"
-      ]
+      "wrongAnswers": ["Double bonds between carbon atoms ONLY", "Single and double bonds between carbon atoms"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "2509eec5-9922-41e0-8eec-8320cf08b5b0",
@@ -797,11 +649,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "One whole square",
-        "10 squares",
-        "Over half of the quadrat"
-      ],
+      "wrongAnswers": ["One whole square", "10 squares", "Over half of the quadrat"],
       "question": "How much must a species cover of a 1m<sup>2</sup> quadrat to have 1% coverage?",
       "correctAnswer": "Over half of one square",
       "imageURL": "https://media.giphy.com/media/jnULTbYwgDLYsoBbIS/giphy.mp4"
@@ -815,12 +663,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "5 out of 6",
-        "2 out of 6",
-        "3 out of 6",
-        "4 out of 6"
-      ],
+      "wrongAnswers": ["5 out of 6", "2 out of 6", "3 out of 6", "4 out of 6"],
       "question": "How many TP molecules are converted into hexose sugars?",
       "correctAnswer": "1 out of 6",
       "imageURL": "seneca-image-cdn:///2018-08/ab5f5c56-0db5-46a1-95e0-2913636d68eb/photosynthesis-Calvin-Cycle.png"
@@ -836,11 +679,7 @@
     "content": {
       "question": "The following sentence describes which structure?<br></br>Many, relatively weak hydrogen bonds hold the β-pleated sheet in a stable fold.",
       "correctAnswer": "Secondary",
-      "wrongAnswers": [
-        "Primary",
-        "Tertiary",
-        "Quaternary"
-      ]
+      "wrongAnswers": ["Primary", "Tertiary", "Quaternary"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "c0e311e3-1cb6-490a-988e-59cca1274c0b",
@@ -853,11 +692,7 @@
     "content": {
       "question": "When Meselson and Stahl moved E. coli from the 15N batch to a broth containing 14N only, how many generations of growth did they leave the DNA for before centrifugation? ",
       "correctAnswer": "One ",
-      "wrongAnswers": [
-        "Two",
-        "Five",
-        "Ten"
-      ]
+      "wrongAnswers": ["Two", "Five", "Ten"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "9778de02-aec9-43ce-a30d-b423e0b8436c",
@@ -870,11 +705,7 @@
     "content": {
       "question": "Which organelle is most likely to be used to package the new virus particles? ",
       "correctAnswer": "Golgi ",
-      "wrongAnswers": [
-        "Rough ER",
-        "Smooth ER",
-        "Mitochondria"
-      ]
+      "wrongAnswers": ["Rough ER", "Smooth ER", "Mitochondria"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "e96d21cd-2fd9-421f-b679-4e468196c47b",
@@ -887,11 +718,7 @@
     "content": {
       "question": "What does ATP stand for?",
       "correctAnswer": "Adenosine triphosphate",
-      "wrongAnswers": [
-        "Adenine triphosphate",
-        "Adenine triphosphorous",
-        "Adenosine triphosphorous"
-      ]
+      "wrongAnswers": ["Adenine triphosphate", "Adenine triphosphorous", "Adenosine triphosphorous"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "1a70c85c-f156-416e-a543-fc620a3dd4be",
@@ -902,11 +729,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Phosphorus",
-        "Iron",
-        "Calcium"
-      ],
+      "wrongAnswers": ["Phosphorus", "Iron", "Calcium"],
       "question": "Cramp is a symptom of consuming too little of which mineral?",
       "correctAnswer": "Sodium",
       "imageURL": "https://media.giphy.com/media/rq5nQdJ3mXLdS/giphy.mp4"
@@ -938,11 +761,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Plants and animals have different cell types.",
-      "wrongAnswers": [
-        "Root cell",
-        "Guard cell",
-        "Phloem cell"
-      ],
+      "wrongAnswers": ["Root cell", "Guard cell", "Phloem cell"],
       "question": "Which of the following is a type of animal cell?",
       "correctAnswer": "Nerve cell"
     },
@@ -954,11 +773,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Glycosidic bonding",
-        "Ionic bonding",
-        "Covalent bonding"
-      ],
+      "wrongAnswers": ["Glycosidic bonding", "Ionic bonding", "Covalent bonding"],
       "question": "What is the attraction between water molecules?",
       "correctAnswer": "Hydrogen bonding ",
       "imageURL": "https://media.giphy.com/media/13a3Axwg6N3dzq/giphy.mp4"
@@ -992,11 +807,7 @@
     "content": {
       "question": "Which of the following is NOT likely to be a factor that would reduce the probability of survival?",
       "correctAnswer": "Avoiding infection",
-      "wrongAnswers": [
-        "Disease",
-        "Competition",
-        "Predation"
-      ]
+      "wrongAnswers": ["Disease", "Competition", "Predation"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "71f16535-520e-4b48-8b3c-4045f2ce3a24",
@@ -1009,11 +820,7 @@
     "content": {
       "question": "How does ATP's inorganic phosphate make other compounds more reactive?",
       "correctAnswer": "Phosphorylation",
-      "wrongAnswers": [
-        "Ionization",
-        "Fusion",
-        "Condensation"
-      ]
+      "wrongAnswers": ["Ionization", "Fusion", "Condensation"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "e8afd82e-cb7e-4b61-a33c-2419d5006a74",
@@ -1024,11 +831,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "The proteome",
-        "The gelome",
-        "The fulome"
-      ],
+      "wrongAnswers": ["The proteome", "The gelome", "The fulome"],
       "question": "What is the cell's entire genetic content called?",
       "correctAnswer": "The genome",
       "imageURL": "https://media.giphy.com/media/l1fWtMmQbuGvm/giphy.mp4"
@@ -1062,11 +865,7 @@
     "content": {
       "question": "The following sentence describes which structure?<br></br>Changing the nucleotide sequence of the protein's gene could change the amino acid sequence.",
       "correctAnswer": "Primary",
-      "wrongAnswers": [
-        "Secondary",
-        "Tertiary",
-        "Quaternary"
-      ]
+      "wrongAnswers": ["Secondary", "Tertiary", "Quaternary"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "c0e311e3-1cb6-490a-988e-59cca1274c0b",
@@ -1077,11 +876,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "No mutations",
-        "No selective pressure",
-        "No migration"
-      ],
+      "wrongAnswers": ["No mutations", "No selective pressure", "No migration"],
       "question": "Which of these is NOT an assumption made in the Hardy-Weinberg principle?",
       "correctAnswer": "Population size is finite",
       "imageURL": "https://media.giphy.com/media/xUOwGkLPqDrNmBJp72/giphy.mp4"
@@ -1095,11 +890,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Independent segregation",
-        "Recombination",
-        "Meiosis"
-      ],
+      "wrongAnswers": ["Independent segregation", "Recombination", "Meiosis"],
       "question": "Why are predictions of phenotypic ratios rarely 100% accurate?",
       "correctAnswer": "Random fertilization",
       "imageURL": "https://media.giphy.com/media/E99OMc6pkdvGw/giphy.mp4"
@@ -1113,11 +904,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Carbon dioxide",
-        "Water",
-        "Glucose"
-      ],
+      "wrongAnswers": ["Carbon dioxide", "Water", "Glucose"],
       "question": "Which molecule is the final electron acceptor?",
       "correctAnswer": "Oxygen",
       "imageURL": "https://media.giphy.com/media/l3vRdCnP428P2TgvS/giphy.mp4"
@@ -1131,11 +918,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "0.1mg",
-        "0.001mg",
-        "1mg"
-      ],
+      "wrongAnswers": ["0.1mg", "0.001mg", "1mg"],
       "question": "According to the NHS, how much vitamin D should the average person have each day?",
       "correctAnswer": "0.01mg",
       "imageURL": "https://media.giphy.com/media/l44Qj5UpKZaR5jrPy/giphy.mp4"
@@ -1148,11 +931,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "DNA polymerase",
-        "RNA expressase",
-        "RNA transcriptase"
-      ],
+      "wrongAnswers": ["DNA polymerase", "RNA expressase", "RNA transcriptase"],
       "question": "Which enzyme do repressors bind to in order to inhibit gene expression?",
       "correctAnswer": "RNA polymerase",
       "imageURL": "https://media.giphy.com/media/5OQQxLxmLffyg/giphy.mp4"
@@ -1168,9 +947,7 @@
     "content": {
       "question": "Is this statement true or false?<br></br> \"The cell's water potential decreases as the amount of triglycerides increases.\" ",
       "correctAnswer": "False",
-      "wrongAnswers": [
-        "True"
-      ]
+      "wrongAnswers": ["True"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "4eafa091-4840-42cd-b84d-8d258c59b44d",
@@ -1183,11 +960,7 @@
     "content": {
       "question": "Which of the following is a disadvantage of asexual reproduction?",
       "correctAnswer": "Can't cope with environmental change",
-      "wrongAnswers": [
-        "Needs two parents",
-        "Random fertilization can create harmful variations",
-        "Slow"
-      ]
+      "wrongAnswers": ["Needs two parents", "Random fertilization can create harmful variations", "Slow"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "c21f4982-3548-4e24-87c4-d548750c2953",
@@ -1197,11 +970,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Deductive",
-        "Inducive",
-        "Deducted"
-      ],
+      "wrongAnswers": ["Deductive", "Inducive", "Deducted"],
       "question": "Which type of reasoning uses particular results to produce general scientific principles? ",
       "correctAnswer": "Inductive ",
       "imageURL": "https://media.giphy.com/media/aI7Ret2L4hnMI/giphy.mp4"
@@ -1215,10 +984,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "yy",
-        "YY"
-      ],
+      "wrongAnswers": ["yy", "YY"],
       "question": "If a true-breeding yellow pea plant (YY) breeds with a true-breeding green pea plant (yy), what is the genotype of the offspring?",
       "correctAnswer": "Yy",
       "imageURL": "https://media.giphy.com/media/GSxIsqgnfrEFW/giphy.mp4"
@@ -1250,11 +1016,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Proteins",
-        "Polymers",
-        "Enzymes"
-      ],
+      "wrongAnswers": ["Proteins", "Polymers", "Enzymes"],
       "question": "What are the smaller units from which larger molecules are made?",
       "correctAnswer": "Monomers",
       "imageURL": "seneca-image-cdn:///2018-07/19ad9824-3f8e-4890-b6c3-2c8aeeddcd69/brick.building.block.jpg"
@@ -1267,11 +1029,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Meiosis",
-        "Fusion",
-        "Trinary division"
-      ],
+      "wrongAnswers": ["Meiosis", "Fusion", "Trinary division"],
       "question": "What is the name of the process that prokaryotes use to divide?",
       "correctAnswer": "Binary fission",
       "imageURL": "seneca-image-cdn:///2018-09/9dacd742-61c2-4aac-aebb-954b5c584544/Binary-Fission-cell-division-duplicate-replicate-bacteria-prokaryote-.png"
@@ -1287,10 +1045,7 @@
     "content": {
       "question": "When is directional selection likely to take place?",
       "correctAnswer": "After an environment experiences a change",
-      "wrongAnswers": [
-        "While an environment remains unchanged",
-        "When an environment favors more than one phenotype"
-      ]
+      "wrongAnswers": ["While an environment remains unchanged", "When an environment favors more than one phenotype"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "4c1644db-238d-45c9-b362-53e19e5b6a1b",
@@ -1301,11 +1056,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Forms tissue fluid",
-        "Establishes a water potential gradient",
-        "Produces red blood cells"
-      ],
+      "wrongAnswers": ["Forms tissue fluid", "Establishes a water potential gradient", "Produces red blood cells"],
       "question": "What is the role of the lymphatic system?",
       "correctAnswer": "Recycles excess tissue fluid",
       "imageURL": "https://media.giphy.com/media/PzMBMQSfPYCis/giphy.mp4"
@@ -1319,11 +1070,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "2",
-        "3",
-        "0.5"
-      ],
+      "wrongAnswers": ["2", "3", "0.5"],
       "question": "How many times per circuit does blood pass through the heart of a fish?",
       "correctAnswer": "1",
       "imageURL": "https://media.giphy.com/media/kTZBUjdRlZB3G/giphy.mp4"
@@ -1339,11 +1086,7 @@
     "content": {
       "question": "Following the extinction of a species, the niche the extinct species used to occupy is then available to other species. Through which process are other species most likely to occupy and exploit the newly freed niche? ",
       "correctAnswer": "Adaptive radiation",
-      "wrongAnswers": [
-        "Allopatric speciation",
-        "Selective breeding",
-        "Genetic drift"
-      ]
+      "wrongAnswers": ["Allopatric speciation", "Selective breeding", "Genetic drift"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "ab6f2a6b-3546-4711-bfca-a5329737a26c",
@@ -1356,10 +1099,7 @@
     "content": {
       "question": "Which of these is NOT an example of sensitivity?",
       "correctAnswer": "A bacterium divides",
-      "wrongAnswers": [
-        "A plant detects sunlight and grows towards it",
-        "A mouse smells a cat and runs away from it"
-      ]
+      "wrongAnswers": ["A plant detects sunlight and grows towards it", "A mouse smells a cat and runs away from it"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "721da329-5e34-4d1b-b541-5e2eb84532ca",
@@ -1371,11 +1111,7 @@
     "content": {
       "question": "How many parent cells does asexual reproduction require?",
       "correctAnswer": "One",
-      "wrongAnswers": [
-        "Two",
-        "Three",
-        "Four"
-      ]
+      "wrongAnswers": ["Two", "Three", "Four"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "3feaa22f-c8da-49fa-9c3b-cdc4e01de5f9",
@@ -1386,11 +1122,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Extant species",
-        "Extinction",
-        "Non-disjunction"
-      ],
+      "wrongAnswers": ["Extant species", "Extinction", "Non-disjunction"],
       "question": "In a phylogenetic tree, what does the point where two branches join represent?",
       "correctAnswer": "Common ancestor",
       "imageURL": "https://media.giphy.com/media/3oxRmD9a5pLTOOLigM/giphy.mp4"
@@ -1406,10 +1138,7 @@
     "content": {
       "question": "Primers are made out what?",
       "correctAnswer": "DNA",
-      "wrongAnswers": [
-        "RNA",
-        "Protein"
-      ]
+      "wrongAnswers": ["RNA", "Protein"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "56702172-5784-4fc7-9d22-3c1cafae0a7f",
@@ -1420,12 +1149,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Mutation",
-        "Recombination",
-        "Independent segregation",
-        "Random fertilization"
-      ],
+      "wrongAnswers": ["Mutation", "Recombination", "Independent segregation", "Random fertilization"],
       "question": "Which of the following is NOT a cause of genetic variation?",
       "correctAnswer": "Respiration",
       "imageURL": "https://media.giphy.com/media/78E3Cv7kKD5XW/giphy.mp4"
@@ -1457,11 +1181,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Inserting DNA fragments",
-        "Transforming the organism",
-        "Synthesizing target protein"
-      ],
+      "wrongAnswers": ["Inserting DNA fragments", "Transforming the organism", "Synthesizing target protein"],
       "question": "What is the first step in producing recombinant DNA?",
       "correctAnswer": "Producing DNA fragments",
       "imageURL": "https://media.giphy.com/media/xThta8UkUaoqJoJQC4/giphy.mp4"
@@ -1475,11 +1195,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Chloroplast",
-        "Ribosome",
-        "Lysosome"
-      ],
+      "wrongAnswers": ["Chloroplast", "Ribosome", "Lysosome"],
       "question": "Which organelle is the site of ATP production in the cell?",
       "correctAnswer": "Mitochondria",
       "imageURL": "seneca-image-cdn:///2018-09/266926cf-d4c7-41a6-85e4-daded6128e5f/cell-organelle-mitochondria-mitochondrion-energy-animal-.jpg"
@@ -1493,11 +1209,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Renal artery",
-        "Around the body",
-        "Brain"
-      ],
+      "wrongAnswers": ["Renal artery", "Around the body", "Brain"],
       "question": "Where is deoxygenated blood from the heart pumped to?",
       "correctAnswer": "Lungs",
       "imageURL": "https://media.giphy.com/media/1ar9kJIZ1nzdm/giphy.mp4"
@@ -1511,11 +1223,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Reverse transcriptase",
-        "Restriction endonuclease",
-        "Gene machine"
-      ],
+      "wrongAnswers": ["Reverse transcriptase", "Restriction endonuclease", "Gene machine"],
       "question": "Which of these is NOT a technique used to produce DNA fragments?",
       "correctAnswer": "RNA polymerase",
       "imageURL": "https://media.giphy.com/media/5qL55Olmm6moE/giphy.mp4"
@@ -1529,11 +1237,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "More substrate",
-        "More enzymes",
-        "More mutations"
-      ],
+      "wrongAnswers": ["More substrate", "More enzymes", "More mutations"],
       "question": "What is the effect of increasing temperature on enzyme function?",
       "correctAnswer": "More enzyme-substrate complexes",
       "imageURL": "https://media.giphy.com/media/l0MYLhyyzhHQEhjck/giphy.mp4"
@@ -1547,11 +1251,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Color of the wings",
-        "Color of the sky",
-        "Colors detected by the moths"
-      ],
+      "wrongAnswers": ["Color of the wings", "Color of the sky", "Colors detected by the moths"],
       "question": "What was the change that caused directional selection in peppered moths?",
       "correctAnswer": "Color of the trees",
       "imageURL": "https://media.giphy.com/media/xTiTnGuHmcaQeWSryE/giphy.mp4"
@@ -1565,11 +1265,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "DNA helicase",
-        "DNA polymerase",
-        "DNA connectase"
-      ],
+      "wrongAnswers": ["DNA helicase", "DNA polymerase", "DNA connectase"],
       "question": "Which enzyme attaches the sticky ends of DNA fragments and vector DNA together?",
       "correctAnswer": "DNA ligase",
       "imageURL": "https://media.giphy.com/media/5Gj5Hq8h7777q/giphy.mp4"
@@ -1583,11 +1279,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "0.25 micrometers and x1200",
-        "0.1 micrometers and x1000",
-        "0.5 micrometers and x2000"
-      ],
+      "wrongAnswers": ["0.25 micrometers and x1200", "0.1 micrometers and x1000", "0.5 micrometers and x2000"],
       "question": "What is the maximum resolution and magnification of an optical microscope? \n",
       "correctAnswer": "0.2 micrometers and x1500",
       "imageURL": "https://media.giphy.com/media/Par5Lr4amEIgg/giphy.mp4"
@@ -1619,11 +1311,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Fit inside the nucleus",
-        "Allow RNA polymerase to bind",
-        "Protect DNA from degradation"
-      ],
+      "wrongAnswers": ["Fit inside the nucleus", "Allow RNA polymerase to bind", "Protect DNA from degradation"],
       "question": "Why do prokaryotic chromosomes supercoil?",
       "correctAnswer": "Fit inside the cell",
       "imageURL": "https://media.giphy.com/media/12kCDW68ZcDVOo/giphy.mp4"
@@ -1655,11 +1343,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Uncontrolled cell death",
-        "Uncontrolled mitochondrial swelling",
-        "Uncontrolled nuclear death"
-      ],
+      "wrongAnswers": ["Uncontrolled cell death", "Uncontrolled mitochondrial swelling", "Uncontrolled nuclear death"],
       "question": "What is the common mechanism that causes cancer?",
       "correctAnswer": "Uncontrolled cell division",
       "imageURL": "https://media.giphy.com/media/EuJVHyYL0nVrG/giphy.mp4"
@@ -1674,11 +1358,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Translocation happens through phloem tubes. ",
-      "wrongAnswers": [
-        "Sieve tube elements",
-        "Vessel elements",
-        "Root hair cells"
-      ],
+      "wrongAnswers": ["Sieve tube elements", "Vessel elements", "Root hair cells"],
       "question": "During translocation, what type of cell is sucrose actively transported into?",
       "correctAnswer": "Companion cells",
       "imageURL": "https://media.giphy.com/media/ETXEWMy4ckOJO/giphy.mp4"
@@ -1692,10 +1372,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Intermediate filaments",
-        "Microtubules"
-      ],
+      "wrongAnswers": ["Intermediate filaments", "Microtubules"],
       "question": "Which fibers function most similarly to rubber bands?",
       "correctAnswer": "Microfilaments",
       "imageURL": "https://media.giphy.com/media/129EvVWcSNdS5a/giphy.mp4"
@@ -1711,10 +1388,7 @@
     "content": {
       "question": "What is the function of ATP?",
       "correctAnswer": "ATP is the energy currency of the cell",
-      "wrongAnswers": [
-        "ATP is a monomer of RNA",
-        "ATP is a product of digestion"
-      ]
+      "wrongAnswers": ["ATP is a monomer of RNA", "ATP is a product of digestion"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "66a2d253-14aa-47d9-a780-98266145e894",
@@ -1727,11 +1401,7 @@
     "content": {
       "question": "Which of the following conditions can be caused by a serious iodine deficiency?",
       "correctAnswer": "Goiter",
-      "wrongAnswers": [
-        "Kwashiorkor",
-        "Beriberi",
-        "Anemia"
-      ]
+      "wrongAnswers": ["Kwashiorkor", "Beriberi", "Anemia"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "0187f50a-66c2-47af-a997-7bf45eb5a382",
@@ -1741,11 +1411,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "DNA replication",
-        "Organelle replication",
-        "ATP production"
-      ],
+      "wrongAnswers": ["DNA replication", "Organelle replication", "ATP production"],
       "question": "Which of these does NOT take place during interphase?",
       "correctAnswer": "Chromosomes coil",
       "imageURL": "https://media.giphy.com/media/EuJVHyYL0nVrG/giphy.mp4"
@@ -1759,11 +1425,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "One",
-        "Three",
-        "Four"
-      ],
+      "wrongAnswers": ["One", "Three", "Four"],
       "question": "How many codons can fit inside the ribosome at one time?",
       "correctAnswer": "Two",
       "imageURL": "https://media.giphy.com/media/ZmxHPhYmatLZ6/giphy.mp4"
@@ -1777,11 +1439,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Decreases",
-        "Remains the same",
-        "Splits into two separate populations"
-      ],
+      "wrongAnswers": ["Decreases", "Remains the same", "Splits into two separate populations"],
       "question": "If abiotic conditions are more favorable for a species, what is the effect on population size?",
       "correctAnswer": "Increases",
       "imageURL": "https://media.giphy.com/media/af6RDtaBKczeM/giphy.mp4"
@@ -1797,11 +1455,7 @@
     "content": {
       "question": "Which of the following is NOT a polysaccharide?",
       "correctAnswer": "Sucrose",
-      "wrongAnswers": [
-        "Starch",
-        "Cellulose",
-        "Glycogen"
-      ]
+      "wrongAnswers": ["Starch", "Cellulose", "Glycogen"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "8f2962d3-7873-451a-9302-88916413508b",
@@ -1814,9 +1468,7 @@
     "content": {
       "question": "What is the genetic material in all living organisms made from?",
       "correctAnswer": "DNA",
-      "wrongAnswers": [
-        "RNA"
-      ]
+      "wrongAnswers": ["RNA"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "9f62e5ef-b28f-4125-ae03-4b90dbe42998",
@@ -1827,11 +1479,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Circular structures",
-        "Zig-zag structures",
-        "Pleated structures"
-      ],
+      "wrongAnswers": ["Circular structures", "Zig-zag structures", "Pleated structures"],
       "question": "What shape are eukaryotic chromosomes?",
       "correctAnswer": "Linear structures",
       "imageURL": "https://media.giphy.com/media/3o7buaucmSsxQf1pZK/giphy.mp4"
@@ -1847,9 +1495,7 @@
     "content": {
       "question": "\"Alpha and beta glucose have different molecular formulae but their atoms are arranged in the same way.\"<br></br> Is this statement true or false?",
       "correctAnswer": "False",
-      "wrongAnswers": [
-        "True"
-      ]
+      "wrongAnswers": ["True"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "a88aa985-cc21-4496-898b-323939078bd7",
@@ -1860,11 +1506,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Predation",
-        "Warm temperature",
-        "Competition"
-      ],
+      "wrongAnswers": ["Predation", "Warm temperature", "Competition"],
       "question": "Which of these is necessary for speciation to take place?",
       "correctAnswer": "Reproductive isolation",
       "imageURL": "https://media.giphy.com/media/1Ip9heNH33u6s/giphy.mp4"
@@ -1878,11 +1520,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "No end walls",
-        "Vessel elements",
-        "Lignin"
-      ],
+      "wrongAnswers": ["No end walls", "Vessel elements", "Lignin"],
       "question": "Which of these is NOT a structural feature of xylem vessels?",
       "correctAnswer": "Companion cells",
       "imageURL": "https://media.giphy.com/media/8LgMGyYaliTzG/giphy.mp4"
@@ -1914,11 +1552,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Some strains of bacteria are resistant to certain antibiotics. This means that these antibiotics cannot kill them.",
-      "wrongAnswers": [
-        "Antibiotic protection",
-        "Antibiotic fight",
-        "Antibiotic shield"
-      ],
+      "wrongAnswers": ["Antibiotic protection", "Antibiotic fight", "Antibiotic shield"],
       "question": "When antibiotics are unable to kill bacteria, that bacteria is said to be displaying:",
       "correctAnswer": "Antibiotic resistance"
     },
@@ -1930,11 +1564,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Oxygen dissociates from hemoglobin",
-        "Oxygen breaks down",
-        "Oxygen reacts with water"
-      ],
+      "wrongAnswers": ["Oxygen dissociates from hemoglobin", "Oxygen breaks down", "Oxygen reacts with water"],
       "question": "What is the effect of a high pO<sub>2</sub> on oxygen?",
       "correctAnswer": "Oxygen binds to hemoglobin",
       "imageURL": "https://media.giphy.com/media/xT5LMDcz04KuP4lLmU/giphy.mp4"
@@ -1965,11 +1595,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "One",
-        "Three",
-        "Multiple"
-      ],
+      "wrongAnswers": ["One", "Three", "Multiple"],
       "question": "How many alleles can be present in an organism for one gene?",
       "correctAnswer": "Two",
       "imageURL": "https://media.giphy.com/media/3o7TKz2eMXx7dn95FS/giphy.mp4"
@@ -2003,11 +1629,7 @@
     "content": {
       "question": "What does the Watson-Crick model describe?",
       "correctAnswer": "DNA replication",
-      "wrongAnswers": [
-        "Transcription",
-        "The immune system",
-        "ATP hydrolysis"
-      ]
+      "wrongAnswers": ["Transcription", "The immune system", "ATP hydrolysis"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "9778de02-aec9-43ce-a30d-b423e0b8436c",
@@ -2019,11 +1641,7 @@
     "content": {
       "question": "Most bacteria exhibit a binary fission rate of one division per hour. If 500 bacteria with a are placed in a large flask with an unlimited supply of nutrients, how many bacteria would there be after 3.5 hours? \n",
       "correctAnswer": "6,000",
-      "wrongAnswers": [
-        "4&comma;000",
-        "8&comma;000",
-        "3&comma;000"
-      ]
+      "wrongAnswers": ["4,000", "8,000", "3,000"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "920c2f84-7bfb-46a0-9cdb-469fa7ba03f6",
@@ -2034,11 +1652,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Increased susceptibility to disease",
-        "Inherited defects",
-        "Reduced variation"
-      ],
+      "wrongAnswers": ["Increased susceptibility to disease", "Inherited defects", "Reduced variation"],
       "question": "Which of these is NOT a problem caused by inbreeding?",
       "correctAnswer": "Greater biodiversity",
       "imageURL": "https://media.giphy.com/media/ngzhAbaGP1ovS/giphy.mp4"
@@ -2052,11 +1666,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Mating",
-        "Communicating",
-        "Living in close proximity"
-      ],
+      "wrongAnswers": ["Mating", "Communicating", "Living in close proximity"],
       "question": "What does interspecific variation always prevent individuals of different species from doing?",
       "correctAnswer": "Producing fertile offspring",
       "imageURL": "https://media.giphy.com/media/BLCHvwl9C5j1u/giphy.mp4"
@@ -2070,11 +1680,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Chromosome",
-        "Epigenome",
-        "Genome"
-      ],
+      "wrongAnswers": ["Chromosome", "Epigenome", "Genome"],
       "question": "What is the name of the structure that is made from DNA and histone proteins?",
       "correctAnswer": "Chromatin",
       "imageURL": "https://media.giphy.com/media/l41lFeWQ3QOHsgHks/giphy.mp4"
@@ -2088,11 +1694,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Transgenic DNA",
-        "Recombined DNA",
-        "Transferred DNA"
-      ],
+      "wrongAnswers": ["Transgenic DNA", "Recombined DNA", "Transferred DNA"],
       "question": "What is the name given to DNA that is produced from the transferring sections of DNA between organisms?",
       "correctAnswer": "Recombinant DNA",
       "imageURL": "https://media.giphy.com/media/xTiTnsnKWIw7HaRrOw/giphy.mp4"
@@ -2106,11 +1708,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Carbohydrate",
-        "Phosphate",
-        "Lipid"
-      ],
+      "wrongAnswers": ["Carbohydrate", "Phosphate", "Lipid"],
       "question": "Nitrogen is a key component of which biological molecule?  ",
       "correctAnswer": "Protein ",
       "imageURL": "https://media.giphy.com/media/VAG0Ct1MbUCju/giphy.mp4"
@@ -2126,9 +1724,7 @@
     "content": {
       "question": "\"Inorganic ions can only be gained through nutrition\" <br></br> Is this statement true or false?",
       "correctAnswer": "True",
-      "wrongAnswers": [
-        "False"
-      ]
+      "wrongAnswers": ["False"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "1f564e8c-239c-4a7e-a075-64c5309f8e04",
@@ -2155,10 +1751,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Recently changed",
-        "Dynamic"
-      ],
+      "wrongAnswers": ["Recently changed", "Dynamic"],
       "question": "What type of environment does stabilizing selection take place in?",
       "correctAnswer": "Non-changing",
       "imageURL": "seneca-image-cdn:///2018-09/ff34c19b-3007-44b0-b70a-ce5a594c6e75/stabilising-selection-baby-weight-.jpg"
@@ -2174,10 +1767,7 @@
     "content": {
       "question": "Which inorganic ion is required for oxygen transport in the blood?",
       "correctAnswer": "Fe<sup>2+</sup>",
-      "wrongAnswers": [
-        "PO<sub>4</sub><sup>3-</sup>",
-        "H<sup>+</sup>"
-      ]
+      "wrongAnswers": ["PO<sub>4</sub><sup>3-</sup>", "H<sup>+</sup>"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "1f564e8c-239c-4a7e-a075-64c5309f8e04",
@@ -2188,11 +1778,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Rate is halved",
-        "Rate becomes zero",
-        "Rate is quartered"
-      ],
+      "wrongAnswers": ["Rate is halved", "Rate becomes zero", "Rate is quartered"],
       "question": "What is the impact of a 10°C increase in temperature on the rate of reaction?",
       "correctAnswer": "Rate is doubled",
       "imageURL": "https://media.giphy.com/media/3o7qDLRwIgWWjKukj6/giphy.mp4"
@@ -2208,11 +1794,7 @@
     "content": {
       "question": "Which enzyme catalyzes ATP hydrolysis?",
       "correctAnswer": "ATP hydrolase",
-      "wrongAnswers": [
-        "ATP phosphatase",
-        "ATP carboxylase",
-        "ATP reductase"
-      ]
+      "wrongAnswers": ["ATP phosphatase", "ATP carboxylase", "ATP reductase"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "e8afd82e-cb7e-4b61-a33c-2419d5006a74",
@@ -2223,11 +1805,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Number of organisms in each species",
-        "Number of species",
-        "Relatedness between species"
-      ],
+      "wrongAnswers": ["Number of organisms in each species", "Number of species", "Relatedness between species"],
       "question": "What does 'N' represent in the equation for the index of diversity?",
       "correctAnswer": "Number of organisms of all species",
       "imageURL": "https://media.giphy.com/media/xUA7b6oaRIgzmAKpUY/giphy.mp4"
@@ -2241,11 +1819,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Disaccharides",
-        "Monosaccharides",
-        "Glucose"
-      ],
+      "wrongAnswers": ["Disaccharides", "Monosaccharides", "Glucose"],
       "question": "Which of these are NOT a product of hydrolysis of carbohydrates?",
       "correctAnswer": "Fatty acids",
       "imageURL": "https://media.giphy.com/media/dl56IsYHiTXFu/giphy.mp4"
@@ -2262,9 +1836,9 @@
       "question": "Eukaryotic mitochondria contain their own DNA, known as mitochondrial DNA, or mtDNA. Nuclear and mitochondrial DNA are thought to be of different (separate) evolutionary origin. <br><br> Does the presence of mitochondrial DNA suggest that organisms share many conserved core processes that evolved and are widely distributed among organisms today? ",
       "correctAnswer": "Yes, because it suggests the eukaryotes possess traits that were likely conserved from prokaryotic ancestors.",
       "wrongAnswers": [
-        "Yes&comma; because it shows the prokaryotes and eukaryotes use similar organelles&comma; namely&comma; mitochondria.",
-        "No&comma; because mitochondrial DNA is very different from the DNA within a eukaryote’s nucleus.",
-        "No&comma; because mitochondrial DNA is not used by the eukaryotic cells."
+        "Yes, because it shows the prokaryotes and eukaryotes use similar organelles, namely, mitochondria.",
+        "No, because mitochondrial DNA is very different from the DNA within a eukaryote’s nucleus.",
+        "No, because mitochondrial DNA is not used by the eukaryotic cells."
       ]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
@@ -2276,11 +1850,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Observation",
-        "Evaluation",
-        "Falsification"
-      ],
+      "wrongAnswers": ["Observation", "Evaluation", "Falsification"],
       "question": "Once a hypothesis has been selected, a scientists uses it to make what?  ",
       "correctAnswer": "Prediction",
       "imageURL": "https://media.giphy.com/media/5UG0AFAcIlQoZIiOuN/giphy.mp4"
@@ -2296,11 +1866,7 @@
     "content": {
       "question": "Where can autotrophs harness their energy from? ",
       "correctAnswer": "Light & chemicals",
-      "wrongAnswers": [
-        "Light",
-        "Heterotrophs",
-        "Hydrogen sulfide"
-      ]
+      "wrongAnswers": ["Light", "Heterotrophs", "Hydrogen sulfide"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "34428953-3d88-4c1b-b38e-feeb1c0cba46",
@@ -2311,11 +1877,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Glycosidic bond",
-        "Hydrogen bond",
-        "Peptide bond"
-      ],
+      "wrongAnswers": ["Glycosidic bond", "Hydrogen bond", "Peptide bond"],
       "question": "What bond does the condensation reaction between glycerol and a fatty acid form?\n",
       "correctAnswer": "Ester bond ",
       "imageURL": "https://media.giphy.com/media/3oEjHNCWpx4iQYytAA/giphy.mp4"
@@ -2330,11 +1892,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "For some time, and especially since the industrial revolution, humans have conducted many activities that have caused a severe decline in biodiversity on a global scale.",
-      "wrongAnswers": [
-        "Green revolution",
-        "Digital revolution",
-        "2<sup>nd </sup> green revolution"
-      ],
+      "wrongAnswers": ["Green revolution", "Digital revolution", "2<sup>nd </sup> green revolution"],
       "question": "Which revolution resulted in the initial spike in human activities that were detrimental to biodiversity?",
       "correctAnswer": "Industrial revolution"
     },
@@ -2363,11 +1921,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Pellagra",
-        "Beriberi",
-        "Typhoid"
-      ],
+      "wrongAnswers": ["Pellagra", "Beriberi", "Typhoid"],
       "question": "Which condition is caused by vitamin C deficiency?",
       "correctAnswer": "Scurvy",
       "imageURL": "https://media.giphy.com/media/k7K48NJ7qlko8/giphy.mp4"
@@ -2397,11 +1951,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Cytoplasm",
-        "Intermembrane space",
-        "Inner mitochondrial membrane"
-      ],
+      "wrongAnswers": ["Cytoplasm", "Intermembrane space", "Inner mitochondrial membrane"],
       "question": "Where does the Krebs cycle take place?",
       "correctAnswer": "Matrix of the mitochondria",
       "imageURL": "https://media.giphy.com/media/3PkatEuNsepc4/giphy.mp4"
@@ -2417,10 +1967,7 @@
     "content": {
       "question": "What sort of inhibitor binds to the active site and has a similar structure to the normal substrate of the enzyme?",
       "correctAnswer": "Competitive",
-      "wrongAnswers": [
-        "Non-competitive",
-        "Uncompetitive"
-      ]
+      "wrongAnswers": ["Non-competitive", "Uncompetitive"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "c0e311e3-1cb6-490a-988e-59cca1274c0b",
@@ -2433,11 +1980,7 @@
     "content": {
       "question": "Which of the following about the scientific method is NOT true? ",
       "correctAnswer": "Does not involve observation",
-      "wrongAnswers": [
-        "Method of research",
-        "Involves experiments",
-        "Never results in hypotheses being accepted"
-      ]
+      "wrongAnswers": ["Method of research", "Involves experiments", "Never results in hypotheses being accepted"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "df5bfa01-1501-48ce-8fa0-7fdaf94aaeb6",
@@ -2448,11 +1991,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Restriction sequences",
-        "Endosequences",
-        "Methyl groups"
-      ],
+      "wrongAnswers": ["Restriction sequences", "Endosequences", "Methyl groups"],
       "question": "What sections of DNA do restriction endonucleases attach to?",
       "correctAnswer": "Recognition sequences",
       "imageURL": "https://media.giphy.com/media/3o85gfVplErR89znCU/giphy.mp4"
@@ -2466,11 +2005,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Aorta",
-        "Pulmonary artery",
-        "Pulmonary vein"
-      ],
+      "wrongAnswers": ["Aorta", "Pulmonary artery", "Pulmonary vein"],
       "question": "Where does blood flow when the atria contract?",
       "correctAnswer": "Ventricles",
       "imageURL": "https://media.giphy.com/media/8f0y3p7TpvWFO/giphy.mp4"
@@ -2484,11 +2019,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Mitosis",
-        "Fertilization",
-        "Transcription"
-      ],
+      "wrongAnswers": ["Mitosis", "Fertilization", "Transcription"],
       "question": "During what process does independent segregation of chromosomes take place?",
       "correctAnswer": "Meiosis",
       "imageURL": "https://media.giphy.com/media/3o6UBiAQ9Ws8UWdmqA/giphy.mp4"
@@ -2504,10 +2035,7 @@
     "content": {
       "question": "Which of the following categories do humans fit into?",
       "correctAnswer": "Heterotrophs",
-      "wrongAnswers": [
-        "Photoautotrophs",
-        "Both"
-      ]
+      "wrongAnswers": ["Photoautotrophs", "Both"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "69670115-99c8-47e8-940f-b79f3450fe18",
@@ -2518,11 +2046,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Caspases",
-        "DNAses",
-        "Ligases"
-      ],
+      "wrongAnswers": ["Caspases", "DNAses", "Ligases"],
       "question": "Which enzymes target proteins that are specific to a stage of the cell cycle?",
       "correctAnswer": "Cyclin-dependent kinases ",
       "imageURL": "https://media.giphy.com/media/cn5oaUMlJ6inC/giphy.mp4"
@@ -2573,11 +2097,7 @@
     "content": {
       "question": "Most bacteria exhibit a binary fission rate of one division per hour. If 500 bacteria with a are placed in a large flask with an unlimited supply of nutrients, how many bacteria would there be after 3.5 hours? \n",
       "correctAnswer": "6,000",
-      "wrongAnswers": [
-        "4&comma;000",
-        "8&comma;000",
-        "3&comma;000"
-      ]
+      "wrongAnswers": ["4,000", "8,000", "3,000"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "96689d7c-0a39-4278-8d93-1d5933778dbe",
@@ -2588,11 +2108,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Stimuli",
-        "Receptors",
-        "Effectors"
-      ],
+      "wrongAnswers": ["Stimuli", "Receptors", "Effectors"],
       "question": "Which of these is NOT a factor that coordinates a response to the environment?",
       "correctAnswer": "Coordinators",
       "imageURL": "https://media.giphy.com/media/2ywvSulvN8RJm/giphy.mp4"
@@ -2608,9 +2124,7 @@
     "content": {
       "question": "Are zygote nuclei haploid or diploid?",
       "correctAnswer": "Diploid",
-      "wrongAnswers": [
-        "Haploid"
-      ]
+      "wrongAnswers": ["Haploid"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "8d1471c6-7d27-4e0b-a056-0904a6b40cb6",
@@ -2622,11 +2136,7 @@
     "content": {
       "question": "What does r<sub>max</sub> represent? ",
       "correctAnswer": "Maximum growth rate",
-      "wrongAnswers": [
-        "Abiotic potential",
-        "Death rate - birth rate",
-        "Maximum population"
-      ]
+      "wrongAnswers": ["Abiotic potential", "Death rate - birth rate", "Maximum population"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "920c2f84-7bfb-46a0-9cdb-469fa7ba03f6",
@@ -2637,11 +2147,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Homologous",
-        "Contain more genes",
-        "Single-stranded DNA"
-      ],
+      "wrongAnswers": ["Homologous", "Contain more genes", "Single-stranded DNA"],
       "question": "How are sex chromosomes different from autosomes?",
       "correctAnswer": "Non-homologous",
       "imageURL": "https://media.giphy.com/media/fmT4vJRi9q2A0/giphy.mp4"
@@ -2661,11 +2167,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "GTC",
-        "GAC",
-        "CUG"
-      ],
+      "wrongAnswers": ["GTC", "GAC", "CUG"],
       "question": "If the DNA codon is CAG, what will the mRNA complementary codon be?",
       "correctAnswer": "GUC",
       "imageURL": "https://media.giphy.com/media/l46CB30vSKp3DC3jW/giphy.mp4"
@@ -2681,9 +2183,7 @@
     "content": {
       "question": "ATP is most similar to nucleotides from which of the following molecules?",
       "correctAnswer": "RNA",
-      "wrongAnswers": [
-        "DNA"
-      ]
+      "wrongAnswers": ["DNA"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "66a2d253-14aa-47d9-a780-98266145e894",
@@ -2695,10 +2195,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Active transport is a process whereby dissolved molecules move from a less concentrated solution to a more concentrated solution.",
-      "wrongAnswers": [
-        "Sugar absorption in the guts of humans",
-        "Mineral ion absorption in the roots of plants"
-      ],
+      "wrongAnswers": ["Sugar absorption in the guts of humans", "Mineral ion absorption in the roots of plants"],
       "question": "Which of the following processes does NOT happen via active transport?",
       "correctAnswer": "Movement of water up xylem vessels",
       "imageURL": "seneca-image-cdn:///courseImages/biology/1.3.5 Active transport Depiction (1)-min.png"
@@ -2712,11 +2209,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Metaphase",
-        "Prophase",
-        "Telophase"
-      ],
+      "wrongAnswers": ["Metaphase", "Prophase", "Telophase"],
       "question": "What phase of the cell cyle are the G1 and S phase found in?",
       "correctAnswer": "Interphase",
       "imageURL": "https://media.giphy.com/media/3o6Mb6clyzPUK2Sbja/giphy.mp4"
@@ -2732,11 +2225,7 @@
     "content": {
       "question": "What percentage of carbon dioxide in the blood is bound to hemoglobin molecules?",
       "correctAnswer": "Around 20%",
-      "wrongAnswers": [
-        "Around 50%",
-        "Around 80%",
-        "Around 35%"
-      ]
+      "wrongAnswers": ["Around 50%", "Around 80%", "Around 35%"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "9cb2cbf9-2756-45b1-868d-fd602a28dd88",
@@ -2749,11 +2238,7 @@
     "content": {
       "question": "Thomas Hunt Morgan performed genetic crosses using which of the following organisms to produce evidence for the Chromosomal Theory of Inheritance?  ",
       "correctAnswer": "Fruit fly",
-      "wrongAnswers": [
-        "Sea urchin",
-        "Pea plants",
-        "Zebra fish"
-      ]
+      "wrongAnswers": ["Sea urchin", "Pea plants", "Zebra fish"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "9f88c33f-2b73-47f1-957a-7f8a51386c2e",
@@ -2783,11 +2268,7 @@
     "content": {
       "question": "What do scientists think caused the extinction of the dinosaurs?",
       "correctAnswer": "A meteorite or asteroid impact acted like a volcanic eruption ",
-      "wrongAnswers": [
-        "They moved to Mars",
-        "The seas flooded the entire Earth",
-        "The old Earth exploded"
-      ]
+      "wrongAnswers": ["They moved to Mars", "The seas flooded the entire Earth", "The old Earth exploded"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "3bd5c3cf-48af-427b-a0c2-f099438f7e56",
@@ -2817,11 +2298,7 @@
     "content": {
       "question": "*Plasmodium falciparum* is a protozoan that causes malaria. The protozoan lives in human liver and red blood cells and reproduces asexually in the gut of blood-feeding mosquitoes to complete its life cycle. <br> <br> \nWhat is the most likely characterization of the relationship between the protozoan and a human? ",
       "correctAnswer": "Parasitism ",
-      "wrongAnswers": [
-        "Commensalism",
-        "Mutualism",
-        "Monogamy"
-      ]
+      "wrongAnswers": ["Commensalism", "Mutualism", "Monogamy"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "b5efeb9b-e9ff-4cfe-ac0a-55bb36e000b0",
@@ -2832,11 +2309,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Warmer",
-        "Protect from predators",
-        "Greater food availability"
-      ],
+      "wrongAnswers": ["Warmer", "Protect from predators", "Greater food availability"],
       "question": "Why are damp/humid environments more favorable for woodlice?",
       "correctAnswer": "Reduce water loss",
       "imageURL": "https://media.giphy.com/media/bbwJaAzogpjfq/giphy.mp4"
@@ -2850,11 +2323,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Iron",
-        "Potassium",
-        "Sodium"
-      ],
+      "wrongAnswers": ["Iron", "Potassium", "Sodium"],
       "question": "Which of these minerals strengthens our teeth?",
       "correctAnswer": "Calcium",
       "imageURL": "https://media.giphy.com/media/BNKVtYZm5nw5O/giphy.mp4"
@@ -2869,10 +2338,7 @@
     "content": {
       "question": "Energy being released from food is an example of what?",
       "correctAnswer": "Respiration",
-      "wrongAnswers": [
-        "Excretion",
-        "Growth"
-      ]
+      "wrongAnswers": ["Excretion", "Growth"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "721da329-5e34-4d1b-b541-5e2eb84532ca",
@@ -2917,11 +2383,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Random sampling",
-        "Stratified sampling",
-        "Cluster sampling"
-      ],
+      "wrongAnswers": ["Random sampling", "Stratified sampling", "Cluster sampling"],
       "question": "What type of sampling collects data at regular intervals in a population or area?",
       "correctAnswer": "Systematic sampling",
       "imageURL": "https://media.giphy.com/media/Ps8XflhsT5EVa/giphy.mp4"
@@ -2935,11 +2397,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "They make glucose",
-        "They are the biggest organelle",
-        "They store energy"
-      ],
+      "wrongAnswers": ["They make glucose", "They are the biggest organelle", "They store energy"],
       "question": "Why are mitochondria often called the 'powerhouse' of the cell?",
       "correctAnswer": "They make ATP",
       "imageURL": "https://media.giphy.com/media/D7z8JfNANqahW/giphy.mp4"
@@ -2955,11 +2413,7 @@
     "content": {
       "question": "A population of squirrles has a birth rate of 60 per year and a death rate of 15 per year. What is the population growth rate? ",
       "correctAnswer": "45 per year",
-      "wrongAnswers": [
-        "15 per year",
-        "60 per year",
-        "75 per year"
-      ]
+      "wrongAnswers": ["15 per year", "60 per year", "75 per year"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "6d6b0a94-7099-4c15-9a7e-5ff8a3506efb",
@@ -2973,7 +2427,7 @@
       "question": "What are the results of nondisjunction in meiosis I? ",
       "correctAnswer": "Two gametes that lack that particular chromosome and two gametes with two copies of the chromosome",
       "wrongAnswers": [
-        "One gamete that lacks that chromosome&commma; two normal gametes&comma; and one gamete with two copies of the chromosome",
+        "One gamete that lacks that chromosome&commma; two normal gametes, and one gamete with two copies of the chromosome",
         "One gametes that lack that particular chromosome and one gametes with two copies of the chromosome",
         "Four normal gametes"
       ]
@@ -2987,11 +2441,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "4:0",
-        "2:2",
-        "3:2"
-      ],
+      "wrongAnswers": ["4:0", "2:2", "3:2"],
       "question": "What is the predicted ratio of a monohybrid cross between two heterozygotes?",
       "correctAnswer": "3:1",
       "imageURL": "https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.mp4"
@@ -3005,11 +2455,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Carbohydrates",
-        "Disaccharides",
-        "Nucleic acids"
-      ],
+      "wrongAnswers": ["Carbohydrates", "Disaccharides", "Nucleic acids"],
       "question": "What type of biological molecule are enzymes?",
       "correctAnswer": "Proteins",
       "imageURL": "https://media.giphy.com/media/EMM8rcF2nNprG/giphy.mp4"
@@ -3023,10 +2469,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "yy",
-        "YY"
-      ],
+      "wrongAnswers": ["yy", "YY"],
       "question": "If a true-breeding yellow pea plant (YY) breeds with a true-breeding green pea plant (yy), what is the genotype of the offspring?",
       "correctAnswer": "Yy",
       "imageURL": "https://media.giphy.com/media/GSxIsqgnfrEFW/giphy.mp4"
@@ -3048,11 +2491,7 @@
     "content": {
       "question": "Clownfish live in sea anemones. The sea anemone is not harmed by the fish, and the fish benefits with protection from predators who would be stung upon nearing the sea anemone.\nWhat is the most likely characterization of the relationship between the clownfish and an anemone? ",
       "correctAnswer": "Commensalism",
-      "wrongAnswers": [
-        "Mutualism",
-        "Mutany",
-        "Parasitism"
-      ]
+      "wrongAnswers": ["Mutualism", "Mutany", "Parasitism"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "b5efeb9b-e9ff-4cfe-ac0a-55bb36e000b0",
@@ -3063,11 +2502,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Random sampling",
-        "Stratified sampling",
-        "Cluster sampling"
-      ],
+      "wrongAnswers": ["Random sampling", "Stratified sampling", "Cluster sampling"],
       "question": "What type of sampling collects data at regular intervals in a population or area?",
       "correctAnswer": "Systematic sampling",
       "imageURL": "https://media.giphy.com/media/Ps8XflhsT5EVa/giphy.mp4"
@@ -3083,11 +2518,7 @@
     "content": {
       "question": "ATP is resynthesised by what type of reaction between ADP and P<sub>i</sub>?",
       "correctAnswer": "Condensation reaction",
-      "wrongAnswers": [
-        "Hydrolysis reaction",
-        "Glycolysis reaction",
-        "Combustion reaction"
-      ]
+      "wrongAnswers": ["Hydrolysis reaction", "Glycolysis reaction", "Combustion reaction"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "db4c7e61-316c-46df-84b5-c519777004f0",
@@ -3098,11 +2529,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Mitochondrial membrane",
-        "Mitochondrial DNA",
-        "Nucleus"
-      ],
+      "wrongAnswers": ["Mitochondrial membrane", "Mitochondrial DNA", "Nucleus"],
       "question": "Where does the link reaction take place?",
       "correctAnswer": "Matrix of the mitochondria",
       "imageURL": "https://media.giphy.com/media/5qrAPMvXQQoHS/giphy.mp4"
@@ -3116,11 +2543,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "High interspecific competition",
-        "Low predation",
-        "Small body size"
-      ],
+      "wrongAnswers": ["High interspecific competition", "Low predation", "Small body size"],
       "question": "What factor causes genetic drift to have a larger influence on evolutionary change?",
       "correctAnswer": "Small population size",
       "imageURL": "https://media.giphy.com/media/Le01xpx635vmE/giphy.mp4"
@@ -3136,11 +2559,7 @@
     "content": {
       "question": "Which of these is an example of discontinuous variation?",
       "correctAnswer": "Blood type",
-      "wrongAnswers": [
-        "Height",
-        "Mass",
-        "Weight"
-      ]
+      "wrongAnswers": ["Height", "Mass", "Weight"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "98739d1b-281b-417e-b3a7-4186193f770f",
@@ -3151,10 +2570,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "DIrectional",
-        "Disruptive"
-      ],
+      "wrongAnswers": ["DIrectional", "Disruptive"],
       "question": "Mouse camouflage in woodland habitats is an example of what type of selection?",
       "correctAnswer": "Stabilizing",
       "imageURL": "https://media.giphy.com/media/zdFbQtZ4pAmcg/giphy.mp4"
@@ -3187,10 +2603,7 @@
     "content": {
       "question": "Where does energy flow within food chains?",
       "correctAnswer": "Producers &rightarrow; consumers",
-      "wrongAnswers": [
-        "Consumers &rightarrow; producers",
-        "Producers &rightarrow; other producers"
-      ]
+      "wrongAnswers": ["Consumers &rightarrow; producers", "Producers &rightarrow; other producers"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "23f10c5d-4d60-4969-8a10-34622434b14b",
@@ -3201,11 +2614,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "PNA",
-        "FNA",
-        "TNA"
-      ],
+      "wrongAnswers": ["PNA", "FNA", "TNA"],
       "question": "Which of the following is an example of a nucleic acid?",
       "correctAnswer": "RNA",
       "imageURL": "seneca-image-cdn:///2018-09/3bca9e63-02ac-45d0-832a-5c8af2d2cbe9/rna-protein-synthesis.jpg"
@@ -3219,11 +2628,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Connector reaction",
-        "Joining reaction",
-        "Combining reaction"
-      ],
+      "wrongAnswers": ["Connector reaction", "Joining reaction", "Combining reaction"],
       "question": "What is the name of the reaction that happens after glycolysis and before the Krebs cycle in aerobic respiration?",
       "correctAnswer": "Link reaction",
       "imageURL": "seneca-image-cdn:///2019-01/1e776f86-7498-4363-99bf-66f1d38d7b66/Link%20Reaction.png"
@@ -3237,11 +2642,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Heterozygous",
-        "Duplicate",
-        "Haploid"
-      ],
+      "wrongAnswers": ["Heterozygous", "Duplicate", "Haploid"],
       "question": "What is the term given for a gene that has two copies of the same allele?",
       "correctAnswer": "Homozygous",
       "imageURL": "https://media.giphy.com/media/3o85xr46bezqkTazsc/giphy.mp4"
@@ -3255,11 +2656,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "62°C",
-        "92°C",
-        "73°C"
-      ],
+      "wrongAnswers": ["62°C", "92°C", "73°C"],
       "question": "What is the optimum temperature of DNA polymerase?",
       "correctAnswer": "72°C",
       "imageURL": "https://media.giphy.com/media/U2O50cAkpmTjG/giphy.mp4"
@@ -3273,11 +2670,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "DNA polymerase",
-        "RNA helicase",
-        "RNA polymerase"
-      ],
+      "wrongAnswers": ["DNA polymerase", "RNA helicase", "RNA polymerase"],
       "question": "Which enzyme separates the two strands of DNA?",
       "correctAnswer": "DNA helicase",
       "imageURL": "https://media.giphy.com/media/l4Hoan4OykIV2vzH2/giphy.mp4"
@@ -3291,11 +2684,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "T-shaped",
-        "U-shaped",
-        "O- shaped"
-      ],
+      "wrongAnswers": ["T-shaped", "U-shaped", "O- shaped"],
       "question": "What is the shape of the dissociation curve?",
       "correctAnswer": "S-shaped",
       "imageURL": "https://media.giphy.com/media/aIaZ8xwaA316w/giphy.mp4"
@@ -3327,11 +2716,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "62°C",
-        "92°C",
-        "73°C"
-      ],
+      "wrongAnswers": ["62°C", "92°C", "73°C"],
       "question": "What is the optimum temperature of DNA polymerase?",
       "correctAnswer": "72°C",
       "imageURL": "https://media.giphy.com/media/U2O50cAkpmTjG/giphy.mp4"
@@ -3347,11 +2732,7 @@
     "content": {
       "question": "What does r<sub>max</sub> represent? ",
       "correctAnswer": "Maximum growth rate",
-      "wrongAnswers": [
-        "Abiotic potential",
-        "Death rate - birth rate",
-        "Maximum population"
-      ]
+      "wrongAnswers": ["Abiotic potential", "Death rate - birth rate", "Maximum population"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "96689d7c-0a39-4278-8d93-1d5933778dbe",
@@ -3362,11 +2743,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Rigid mosaic model",
-        "Flexible intrinsic model",
-        "Fluid extrinsic model"
-      ],
+      "wrongAnswers": ["Rigid mosaic model", "Flexible intrinsic model", "Fluid extrinsic model"],
       "question": "What is the name of the model that describes the structure of plasma membranes?",
       "correctAnswer": "Fluid mosaic model",
       "imageURL": "seneca-image-cdn:///2018-09/b90aada5-5250-4779-aaec-d549a4c28cec/Fluid-Mosaic-Model-cell-surface-plasma-membrane-.png"
@@ -3382,10 +2759,7 @@
     "content": {
       "question": "What is the name of the type of speciation caused by the emergence of a mutation that prevents two or more populations from interbreeding?",
       "correctAnswer": "Sympatric speciation",
-      "wrongAnswers": [
-        "Allotropic speciation",
-        "Genetic drift"
-      ]
+      "wrongAnswers": ["Allotropic speciation", "Genetic drift"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "4c1644db-238d-45c9-b362-53e19e5b6a1b",
@@ -3398,11 +2772,7 @@
     "content": {
       "question": "Which of these is NOT an adaptation?",
       "correctAnswer": "Electrochemical",
-      "wrongAnswers": [
-        "Anatomical",
-        "Behavioral",
-        "Physiological"
-      ]
+      "wrongAnswers": ["Anatomical", "Behavioral", "Physiological"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "2f920945-9d82-4a0d-8fe5-9d8b45194fb6",
@@ -3413,11 +2783,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Chloroplasts",
-        "Thylakoids",
-        "Guard cells"
-      ],
+      "wrongAnswers": ["Chloroplasts", "Thylakoids", "Guard cells"],
       "question": "What are the small openings in the underside of the leaf called?",
       "correctAnswer": "Stomata",
       "imageURL": "https://media.giphy.com/media/lKKXOCVviOAXS/giphy.mp4"
@@ -3433,11 +2799,7 @@
     "content": {
       "question": "When blood glucose levels decrease, glycogen is broken down to release glucose. What is this process called? ",
       "correctAnswer": "Glycogenolysis",
-      "wrongAnswers": [
-        "Gluconeogenesis",
-        "Glycolysis",
-        "Glycogenesis"
-      ]
+      "wrongAnswers": ["Gluconeogenesis", "Glycolysis", "Glycogenesis"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "b0864daf-09d7-4f43-bebe-e2815b66b795",
@@ -3482,11 +2844,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "CAGCTC &rightarrow; CAGTC",
-        "CAGCTC &rightarrow; CAGCAG",
-        "CAGCTC &rightarrow; CAGATC"
-      ],
+      "wrongAnswers": ["CAGCTC &rightarrow; CAGTC", "CAGCTC &rightarrow; CAGCAG", "CAGCTC &rightarrow; CAGATC"],
       "question": "Which of these is an addition mutation?",
       "correctAnswer": "CAGCTC &rightarrow; CAGACTC",
       "imageURL": "https://media.giphy.com/media/l3V0Gp1JYxMeegIda/giphy.mp4"
@@ -3500,11 +2858,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Discovery",
-        "Scientific method",
-        "Theory"
-      ],
+      "wrongAnswers": ["Discovery", "Scientific method", "Theory"],
       "question": "What is a suggested and testable explanation for an event called?\n",
       "correctAnswer": "Hypothesis",
       "imageURL": "https://media.giphy.com/media/gw3IWyGkC0rsazTi/giphy.mp4"
@@ -3518,11 +2872,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Increase enzyme concentration",
-        "Increase product concentration",
-        "Increase temperature"
-      ],
+      "wrongAnswers": ["Increase enzyme concentration", "Increase product concentration", "Increase temperature"],
       "question": "How can the effects of a competitive inhibitor be compensated?",
       "correctAnswer": "Increase substrate concentration",
       "imageURL": "https://media.giphy.com/media/xUOxfp1ZiyAWgMn4ha/giphy.mp4"
@@ -3536,11 +2886,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Distance traveled by bubble",
-        "Size of bubble",
-        "Time taken for air bubble to form"
-      ],
+      "wrongAnswers": ["Distance traveled by bubble", "Size of bubble", "Time taken for air bubble to form"],
       "question": "How is the transpiration rate calculated?",
       "correctAnswer": "Rate of bubble movement",
       "imageURL": "https://media.giphy.com/media/ne3xrYlWtQFtC/giphy.mp4"
@@ -3571,11 +2917,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Krebs cycle",
-        "Link reaction",
-        "Oxidative phosphorylation"
-      ],
+      "wrongAnswers": ["Krebs cycle", "Link reaction", "Oxidative phosphorylation"],
       "question": "What stage do both types of respiration (aerobic and anaerobic) start with?",
       "correctAnswer": "Glycolysis",
       "imageURL": "https://media.giphy.com/media/3oriOgivJPodK8Qg9O/giphy.mp4"
@@ -3591,9 +2933,7 @@
     "content": {
       "question": "Water is polar. Which atom(s) hold(s) the partial negative charge?",
       "correctAnswer": "O",
-      "wrongAnswers": [
-        "H"
-      ]
+      "wrongAnswers": ["H"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "1f564e8c-239c-4a7e-a075-64c5309f8e04",
@@ -3604,11 +2944,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Only prokaryotes",
-        "Only eukaryotes",
-        "Neither prokaryotes nor eukaryotes"
-      ],
+      "wrongAnswers": ["Only prokaryotes", "Only eukaryotes", "Neither prokaryotes nor eukaryotes"],
       "question": "Which cells contain organelles?",
       "correctAnswer": "Prokaryotes and eukaryotes",
       "imageURL": "https://media.giphy.com/media/3ogwGcESuO0VK0GgPS/giphy.mp4"
@@ -3622,11 +2958,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Homologous",
-        "Contain more genes",
-        "Single-stranded DNA"
-      ],
+      "wrongAnswers": ["Homologous", "Contain more genes", "Single-stranded DNA"],
       "question": "How are sex chromosomes different from autosomes?",
       "correctAnswer": "Non-homologous",
       "imageURL": "https://media.giphy.com/media/fmT4vJRi9q2A0/giphy.mp4"
@@ -3642,11 +2974,7 @@
     "content": {
       "question": "What monomers are bonded together to form polypeptides?",
       "correctAnswer": "Amino acids",
-      "wrongAnswers": [
-        "Monosaccharides",
-        "Glycerol and fatty acids",
-        "Saturated fats"
-      ]
+      "wrongAnswers": ["Monosaccharides", "Glycerol and fatty acids", "Saturated fats"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "4b4d6003-7e46-4576-a023-76481c5a1431",
@@ -3657,11 +2985,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Double-stranded",
-        "Uses uracil not thymine",
-        "Targets mRNA for degradation"
-      ],
+      "wrongAnswers": ["Double-stranded", "Uses uracil not thymine", "Targets mRNA for degradation"],
       "question": "What feature differentiates siRNA from miRNA?",
       "correctAnswer": "Targets specific mRNA sequences",
       "imageURL": "https://media.giphy.com/media/3orif0qnPgDTegegI8/giphy.mp4"
@@ -3677,11 +3001,7 @@
     "content": {
       "question": "Which of the following animals has the largest surface area to volume ratio?",
       "correctAnswer": "Mouse",
-      "wrongAnswers": [
-        "Human",
-        "Elephant",
-        "Dog"
-      ]
+      "wrongAnswers": ["Human", "Elephant", "Dog"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "021b4202-537b-4a22-a756-00d1d4cebb2f",
@@ -3727,11 +3047,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Oxygen binds less easily",
-        "Denaturation",
-        "Carbon dioxide binds more easily"
-      ],
+      "wrongAnswers": ["Oxygen binds less easily", "Denaturation", "Carbon dioxide binds more easily"],
       "question": "What is the impact on hemoglobin when the first molecule of oxygen binds?",
       "correctAnswer": "Oxygen binds more easily",
       "imageURL": "https://media.giphy.com/media/3og0IwsW1qMJgp8BEI/giphy.mp4"
@@ -3747,9 +3063,7 @@
     "content": {
       "question": "Which photosystem is only involved in cyclic photophosphorylation?",
       "correctAnswer": "Photosystem I",
-      "wrongAnswers": [
-        "Photosystem II"
-      ]
+      "wrongAnswers": ["Photosystem II"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "9db8a619-b313-4c71-9ad6-f717aa92d5c2",
@@ -3762,11 +3076,7 @@
     "content": {
       "question": "What are the products of the hydrolysis of sucrose?",
       "correctAnswer": "Fructose and glucose",
-      "wrongAnswers": [
-        "Lactose and glucose",
-        "Glucose and glucose",
-        "Galactose and lactose"
-      ]
+      "wrongAnswers": ["Lactose and glucose", "Glucose and glucose", "Galactose and lactose"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "52d54674-ee52-477b-857e-8830fa2d091f",
@@ -3794,11 +3104,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Enzymes for respiration",
-        "Enzymes for glycogenesis",
-        "Enzymes for glycolysis"
-      ],
+      "wrongAnswers": ["Enzymes for respiration", "Enzymes for glycogenesis", "Enzymes for glycolysis"],
       "question": "What does the DNA in chloroplasts encode?",
       "correctAnswer": "Enzymes for photosynthesis",
       "imageURL": "https://media.giphy.com/media/Ur4b3yf0RhqNO/giphy.mp4"
@@ -3814,9 +3120,7 @@
     "content": {
       "question": "Which molecule contains ribose?",
       "correctAnswer": "RNA",
-      "wrongAnswers": [
-        "DNA"
-      ]
+      "wrongAnswers": ["DNA"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "9f62e5ef-b28f-4125-ae03-4b90dbe42998",
@@ -3844,10 +3148,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Triglyceride",
-        "Lipid droplet"
-      ],
+      "wrongAnswers": ["Triglyceride", "Lipid droplet"],
       "question": "What type of molecule is shown in this diagram?",
       "correctAnswer": "Phospholipid",
       "imageURL": "seneca-image-cdn:///2018-08/a4efde32-dca8-4230-80b8-cef4e88ef302/6%20-%20Phospholipid.png"
@@ -3861,11 +3162,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Atrial contraction",
-        "Relaxation",
-        "Closing of the semi-lunar valves"
-      ],
+      "wrongAnswers": ["Atrial contraction", "Relaxation", "Closing of the semi-lunar valves"],
       "question": "What causes the significant decrease in volume in the ventricles?",
       "correctAnswer": "Ventricular contraction",
       "imageURL": "https://media.giphy.com/media/oSH9ZZ9vWNByU/giphy.mp4"
@@ -3881,11 +3178,7 @@
     "content": {
       "question": "What is a pigment?",
       "correctAnswer": "A light-absorbing molecule",
-      "wrongAnswers": [
-        "A protein in the thylakoid membrane",
-        "An organelle",
-        "A ring of chloroplast DNA"
-      ]
+      "wrongAnswers": ["A protein in the thylakoid membrane", "An organelle", "A ring of chloroplast DNA"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "48c0bd13-38e9-477b-80c2-a7fa13dbabb7",
@@ -3898,11 +3191,7 @@
     "content": {
       "question": "What is the mass of an electron?",
       "correctAnswer": "0.00055amu",
-      "wrongAnswers": [
-        "0.055amu",
-        "1amu",
-        "1.5amu"
-      ]
+      "wrongAnswers": ["0.055amu", "1amu", "1.5amu"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "6dcfc526-1948-4431-aaad-539099e4f8b2",
@@ -3914,10 +3203,7 @@
     "content": {
       "question": "Which statement is NOT correct?",
       "correctAnswer": "Phospholipids are all hydrophobic",
-      "wrongAnswers": [
-        "Phospholipids only have 2 fatty acid chains",
-        "Phospholipids form a bilayer in membranes"
-      ]
+      "wrongAnswers": ["Phospholipids only have 2 fatty acid chains", "Phospholipids form a bilayer in membranes"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "4eafa091-4840-42cd-b84d-8d258c59b44d",
@@ -3929,11 +3215,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "The human body contains 23 pairs of chromosomes and one of each pair comes from each parent. ",
-      "wrongAnswers": [
-        "23",
-        "2",
-        "50"
-      ],
+      "wrongAnswers": ["23", "2", "50"],
       "question": "How many chromosomes does the human body contain?",
       "correctAnswer": "46"
     },
@@ -3945,11 +3227,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "40-50%",
-        "20-30%",
-        "90-95%"
-      ],
+      "wrongAnswers": ["40-50%", "20-30%", "90-95%"],
       "question": "What % of the human body is made up of water?",
       "correctAnswer": "60-70%",
       "imageURL": "https://media.giphy.com/media/26gsf8zpzc33EYnHW/giphy.mp4"
@@ -3964,11 +3242,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "There are two parents in sexual reproduction. ",
-      "wrongAnswers": [
-        "1",
-        "3",
-        "0"
-      ],
+      "wrongAnswers": ["1", "3", "0"],
       "question": "How many parents are involved in sexual reproduction?",
       "correctAnswer": "2"
     },
@@ -3980,10 +3254,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Deoxyribose sugars",
-        "Phosphate groups"
-      ],
+      "wrongAnswers": ["Deoxyribose sugars", "Phosphate groups"],
       "question": "Which of the following can be found on the inside of the DNA double helix?",
       "correctAnswer": "Nitrogenous bases",
       "imageURL": "https://media.giphy.com/media/uHV4veFjX22Pu/giphy.mp4"
@@ -4015,11 +3286,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Ester",
-        "Peptide",
-        "Glycosidic"
-      ],
+      "wrongAnswers": ["Ester", "Peptide", "Glycosidic"],
       "question": "What bond is formed between adjacent nucleotides?",
       "correctAnswer": "Phosphodiester",
       "imageURL": "https://media.giphy.com/media/3oEjHNCWpx4iQYytAA/giphy.mp4"
@@ -4035,11 +3302,7 @@
     "content": {
       "question": "What is the name for a sudden decrease in genetic diversity of a population, often caused by environmental factors?",
       "correctAnswer": "Genetic bottleneck",
-      "wrongAnswers": [
-        "Founder effect",
-        "Genetic drift",
-        "Succession"
-      ]
+      "wrongAnswers": ["Founder effect", "Genetic drift", "Succession"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "0b1eb444-a2d5-4ea7-8445-7f2919e80672",
@@ -4051,11 +3314,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "The Earth formed about 4.6 billion years ago.",
-      "wrongAnswers": [
-        "4.6 million years ago",
-        "46 billion years ago",
-        "460 million years ago"
-      ],
+      "wrongAnswers": ["4.6 million years ago", "46 billion years ago", "460 million years ago"],
       "question": "Approximately how many years ago did the Earth form?",
       "correctAnswer": "4.6 billion years ago"
     },
@@ -4067,11 +3326,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Towards the negative electrode",
-        "Into the center of the two electrodes",
-        "It does not move"
-      ],
+      "wrongAnswers": ["Towards the negative electrode", "Into the center of the two electrodes", "It does not move"],
       "question": "In which direction does DNA move in gel electrophoresis?",
       "correctAnswer": "Towards the positive electrode",
       "imageURL": "https://media.giphy.com/media/l0HlUIl8snxmgscE0/giphy.mp4"
@@ -4085,11 +3340,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Tannins",
-        "Alkaloids",
-        "Ethylene"
-      ],
+      "wrongAnswers": ["Tannins", "Alkaloids", "Ethylene"],
       "question": "What chemical compound is first secreted in response to grazing?",
       "correctAnswer": "Pheromones",
       "imageURL": "https://media.giphy.com/media/ZgUU4915HJ7snCN99b/giphy.mp4"
@@ -4103,11 +3354,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "1:3",
-        "4:1",
-        "1:1"
-      ],
+      "wrongAnswers": ["1:3", "4:1", "1:1"],
       "question": "Mendel observed that breeding together two heterozygotes produced offspring that expressed the dominant and recessive traits in which ratio? ",
       "correctAnswer": "3:1",
       "imageURL": "seneca-image-cdn:///courseImages/biology/Edexcel/1 Cells/calculator.jpg"
@@ -4121,11 +3368,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Scares prey away",
-        "Energetically costly to make",
-        "Helps snakes camouflage"
-      ],
+      "wrongAnswers": ["Scares prey away", "Energetically costly to make", "Helps snakes camouflage"],
       "question": "How is snake venom adaptative?",
       "correctAnswer": "Protects from predation and catches prey",
       "imageURL": "https://media.giphy.com/media/oH26RYTaAevKg/giphy.mp4"
@@ -4144,7 +3387,7 @@
       "wrongAnswers": [
         "Two “units” or alleles exist for every gene",
         "Alleles maintain their integrity in each generation (no blending)",
-        "In the presence of the dominant allele&comma; the recessive allele is hidden and makes no contribution to the phenotype"
+        "In the presence of the dominant allele, the recessive allele is hidden and makes no contribution to the phenotype"
       ]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
@@ -4157,12 +3400,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Root hair cells are specialized to use osmosis.",
-      "wrongAnswers": [
-        "Stomata",
-        "Phloem",
-        "Xylem",
-        "Palisade mesophyll cells"
-      ],
+      "wrongAnswers": ["Stomata", "Phloem", "Xylem", "Palisade mesophyll cells"],
       "question": "Which of the following is a specialized plant tissue or cell that uses osmosis to absorb water?",
       "correctAnswer": "Root hair cells",
       "imageURL": "https://media.giphy.com/media/aKFnLXHwETsLC/giphy.mp4"
@@ -4176,11 +3414,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Heterozygous pairs",
-        "Heterologous pairs",
-        "Duplicate pairs"
-      ],
+      "wrongAnswers": ["Heterozygous pairs", "Heterologous pairs", "Duplicate pairs"],
       "question": "What is the name given to chromosomes in diploid eukaryotes?",
       "correctAnswer": "Homologous pairs",
       "imageURL": "https://media.giphy.com/media/p3hYstO7EQH7Tu4TNL/giphy.mp4"
@@ -4194,10 +3428,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Transcription",
-        "Translation"
-      ],
+      "wrongAnswers": ["Transcription", "Translation"],
       "question": "Which of these is NOT a process involved in protein synthesis?",
       "correctAnswer": "Hydrolysis",
       "imageURL": "https://media.giphy.com/media/j8nXhJ1fJM0wg/giphy.mp4"
@@ -4213,11 +3444,7 @@
     "content": {
       "question": "What do we call substances that the body needs in small doses?",
       "correctAnswer": "Micronutrients ",
-      "wrongAnswers": [
-        "Macronutrients",
-        "Mininutrients",
-        "Mononutrients"
-      ]
+      "wrongAnswers": ["Macronutrients", "Mininutrients", "Mononutrients"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "5dfb1ed4-f2b8-4a65-8048-c6c513e5c5d8",
@@ -4227,10 +3454,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Triose phosphate",
-        "Glycerate 3-phosphate"
-      ],
+      "wrongAnswers": ["Triose phosphate", "Glycerate 3-phosphate"],
       "question": "Which of these molecules produced in the Calvin cycle are NOT converted into useful organic substances?",
       "correctAnswer": "NADP",
       "imageURL": "seneca-image-cdn:///2018-08/ab5f5c56-0db5-46a1-95e0-2913636d68eb/photosynthesis-Calvin-Cycle.png"
@@ -4244,11 +3468,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Deductive",
-        "Neither",
-        "Inductive & deductive"
-      ],
+      "wrongAnswers": ["Deductive", "Neither", "Inductive & deductive"],
       "question": "Which type of reasoning is being used here? <br><br> \"Most swimming animals use fins; therefore, fins are an adaptation to swimming.\"",
       "correctAnswer": "Inductive ",
       "imageURL": "https://media.giphy.com/media/U1DQ4REx2ZMI/giphy.mp4"
@@ -4262,11 +3482,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "In the intermembrane space",
-        "In the cristae",
-        "In the phospholipid bilayer"
-      ],
+      "wrongAnswers": ["In the intermembrane space", "In the cristae", "In the phospholipid bilayer"],
       "question": "Where is mitochondrial DNA found?",
       "correctAnswer": "In the mitochondrial matrix",
       "imageURL": "https://media.giphy.com/media/l3nWgXCpQpMUOrkoo/giphy.mp4"
@@ -4282,11 +3498,7 @@
     "content": {
       "question": "Which of the following fat-soluble vitamins can humans NOT consume too much of?",
       "correctAnswer": "Vitamin K",
-      "wrongAnswers": [
-        "Vitamin A",
-        "Vitamin D",
-        "Vitamin E"
-      ]
+      "wrongAnswers": ["Vitamin A", "Vitamin D", "Vitamin E"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "d414d854-cacc-42d8-9b19-4def933b0616",
@@ -4297,11 +3509,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Inner membrane",
-        "Matrix",
-        "Nucleus"
-      ],
+      "wrongAnswers": ["Inner membrane", "Matrix", "Nucleus"],
       "question": "Where do mitochondria accumulate H<sup>+</sup> ions?",
       "correctAnswer": "Intermembrane space",
       "imageURL": "https://media.giphy.com/media/5qrAPMvXQQoHS/giphy.mp4"
@@ -4317,10 +3525,7 @@
     "content": {
       "question": "Which of the following is not a disadvantage of sexual reproduction?",
       "correctAnswer": "There is variation in the offspring",
-      "wrongAnswers": [
-        "Need two parents",
-        "Harmful variations can randomly arise"
-      ]
+      "wrongAnswers": ["Need two parents", "Harmful variations can randomly arise"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "fcb20622-2e49-4d10-ad65-927c18ad2a8a",
@@ -4332,10 +3537,7 @@
     "content": {
       "question": "Which of these is not removed from an organism in excretion?",
       "correctAnswer": "Energy",
-      "wrongAnswers": [
-        "Waste products from metabolism",
-        "Toxic substances"
-      ]
+      "wrongAnswers": ["Waste products from metabolism", "Toxic substances"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "927a41a7-ffb7-480b-85b6-ce4b46048773",
@@ -4347,11 +3549,7 @@
     "content": {
       "question": "Which of the following is NOT an example of a micronutrient?",
       "correctAnswer": "Fats",
-      "wrongAnswers": [
-        "Vitamins",
-        "Minerals",
-        "Trace elements"
-      ]
+      "wrongAnswers": ["Vitamins", "Minerals", "Trace elements"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "5dfb1ed4-f2b8-4a65-8048-c6c513e5c5d8",
@@ -4361,11 +3559,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Guanine",
-        "Cytosine",
-        "Adenine"
-      ],
+      "wrongAnswers": ["Guanine", "Cytosine", "Adenine"],
       "question": "Which of the following organic bases are found in DNA nucleotides but NOT in RNA nucleotides?",
       "correctAnswer": "Thymine",
       "imageURL": "https://media.giphy.com/media/3o7TKz2eMXx7dn95FS/giphy.mp4"
@@ -4379,11 +3573,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Increases rapidly",
-        "Decreases",
-        "Increases gradually"
-      ],
+      "wrongAnswers": ["Increases rapidly", "Decreases", "Increases gradually"],
       "question": "What happens to the rate of reaction when the enzymes become saturated?",
       "correctAnswer": "Plateaus",
       "imageURL": "https://media.giphy.com/media/Wq22HfKZ0dV8Q/giphy.mp4"
@@ -4439,11 +3629,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Ribosomes",
-        "Mitochondria",
-        "Nucleus"
-      ],
+      "wrongAnswers": ["Ribosomes", "Mitochondria", "Nucleus"],
       "question": "Where do transport vesicles form? ",
       "correctAnswer": "Endoplasmic reticulum",
       "imageURL": "https://media.giphy.com/media/l396PlGWAA5N31Icw/giphy.mp4"
@@ -4457,12 +3643,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Frog",
-        "Snake",
-        "Tortoise",
-        "Shark"
-      ],
+      "wrongAnswers": ["Frog", "Snake", "Tortoise", "Shark"],
       "question": "Which of these animals is NOT an ectotherm?",
       "correctAnswer": "Mouse",
       "imageURL": "https://media.giphy.com/media/3o6Mb7smQD0aeAwW0o/giphy.mp4"
@@ -4476,11 +3657,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Attracts mates",
-        "Prevents over-heating",
-        "Buoyancy"
-      ],
+      "wrongAnswers": ["Attracts mates", "Prevents over-heating", "Buoyancy"],
       "question": "What is the adaptive benefit of blubber in walruses?",
       "correctAnswer": "Insulation",
       "imageURL": "https://media.giphy.com/media/RhPvGbWK78A0/giphy.mp4"
@@ -4512,11 +3689,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Centrosomes",
-        "Centrics",
-        "Centaurs"
-      ],
+      "wrongAnswers": ["Centrosomes", "Centrics", "Centaurs"],
       "question": "What is the name for the small cylindrical organelles pictured?",
       "correctAnswer": "Centrioles",
       "imageURL": "seneca-image-cdn:///2018-09/b96034b6-2415-4b62-8cfe-f4fcf90b882d/centriole-organelle-ultrastructure-cell-division-.jpg"
@@ -4532,11 +3705,7 @@
     "content": {
       "question": "What enables a prokaryotic cell to attach to surfaces in its environment?\n",
       "correctAnswer": "The capsule",
-      "wrongAnswers": [
-        "The cell membrane",
-        "The cell wall",
-        "The flagella"
-      ]
+      "wrongAnswers": ["The cell membrane", "The cell wall", "The flagella"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "70046c39-688e-4e09-8e40-1dd51bf68f79",
@@ -4552,7 +3721,7 @@
       "wrongAnswers": [
         "Two “units” or alleles exist for every gene",
         "Alleles maintain their integrity in each generation (no blending)",
-        "In the presence of the dominant allele&comma; the recessive allele is hidden and makes no contribution to the phenotype"
+        "In the presence of the dominant allele, the recessive allele is hidden and makes no contribution to the phenotype"
       ]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
@@ -4564,11 +3733,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Sunken stomata",
-        "Waxy cuticle",
-        "Curled leaves"
-      ],
+      "wrongAnswers": ["Sunken stomata", "Waxy cuticle", "Curled leaves"],
       "question": "Which of these are NOT a feature of xerophytic plants to control water loss?",
       "correctAnswer": "Fewer spiracles",
       "imageURL": "https://media.giphy.com/media/vOxDQLo4tuMyA/giphy.mp4"
@@ -4582,10 +3747,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Promotes cell elongation on the shaded part",
-        "Promotes cell elongation on the underside"
-      ],
+      "wrongAnswers": ["Promotes cell elongation on the shaded part", "Promotes cell elongation on the underside"],
       "question": "Which of these is NOT an effect of IAA in the shoots?",
       "correctAnswer": "Inhibits cell elongation on the shaded part",
       "imageURL": "https://media.giphy.com/media/txCo7WXCwZpmM/giphy.mp4"
@@ -4601,11 +3763,7 @@
     "content": {
       "question": "How many different amino acids are there in the human body? ",
       "correctAnswer": "20",
-      "wrongAnswers": [
-        "10",
-        "30",
-        "40"
-      ]
+      "wrongAnswers": ["10", "30", "40"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "4b4d6003-7e46-4576-a023-76481c5a1431",
@@ -4618,11 +3776,7 @@
     "content": {
       "question": "What is the name for a sudden decrease in genetic diversity of a population, often caused by environmental factors?",
       "correctAnswer": "Genetic bottleneck",
-      "wrongAnswers": [
-        "Founder effect",
-        "Genetic drift",
-        "Succession"
-      ]
+      "wrongAnswers": ["Founder effect", "Genetic drift", "Succession"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "0b1eb444-a2d5-4ea7-8445-7f2919e80672",
@@ -4652,11 +3806,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Carbon dioxide is a greenhouse gas.",
-      "wrongAnswers": [
-        "Noble gas",
-        "Green gas",
-        "Transition gas"
-      ],
+      "wrongAnswers": ["Noble gas", "Green gas", "Transition gas"],
       "question": "What is carbon dioxide an example of?",
       "correctAnswer": "Greenhouse gas",
       "imageURL": "https://media.giphy.com/media/tMQCryk2h6fBK/giphy.mp4"
@@ -4671,10 +3821,7 @@
     "content": {
       "question": "Which of the following are indirect products of the calvin cycle?",
       "correctAnswer": "Both",
-      "wrongAnswers": [
-        "Fatty acids",
-        "Glycerol"
-      ]
+      "wrongAnswers": ["Fatty acids", "Glycerol"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "c57559f7-f3dd-4432-a2b4-dfc833bea15a",
@@ -4685,12 +3832,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "1",
-        "2",
-        "4",
-        "6"
-      ],
+      "wrongAnswers": ["1", "2", "4", "6"],
       "question": "How many molecules of reduced NAD are produced per turn of the Krebs cycle?",
       "correctAnswer": "3",
       "imageURL": "https://media.giphy.com/media/2dnGHOAQt1tIziib5X/giphy.mp4"
@@ -4706,10 +3848,7 @@
     "content": {
       "question": "Which of the following conditions is NOT caused by calcium deficiency?",
       "correctAnswer": "Kwashiorkor",
-      "wrongAnswers": [
-        "Rickets",
-        "Osteoporisis"
-      ]
+      "wrongAnswers": ["Rickets", "Osteoporisis"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "8e9fe1db-b03e-4a5c-a6c2-e975280e9d79",
@@ -4721,10 +3860,7 @@
     "content": {
       "question": "Which of the following is NOT a trace mineral?",
       "correctAnswer": "Calcium",
-      "wrongAnswers": [
-        "Fluoride",
-        "Iodine"
-      ]
+      "wrongAnswers": ["Fluoride", "Iodine"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "0187f50a-66c2-47af-a997-7bf45eb5a382",
@@ -4752,11 +3888,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "UUAACCGG",
-        "GGAACCTT",
-        "CCAATTGG"
-      ],
+      "wrongAnswers": ["UUAACCGG", "GGAACCTT", "CCAATTGG"],
       "question": "If the sequence of one strand of DNA is AATTGGCC, what would the sequence of the complementary strand be?",
       "correctAnswer": "TTAACCGG",
       "imageURL": "https://media.giphy.com/media/8NdQyUi0C7ug0/giphy.mp4"
@@ -4808,10 +3940,7 @@
     "content": {
       "question": "How many copies of a recessive epistatic allele must be present for the expression of the hypostatic allele to be affected?",
       "correctAnswer": "Two",
-      "wrongAnswers": [
-        "One",
-        "None"
-      ]
+      "wrongAnswers": ["One", "None"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "991cdd6f-c105-469c-a941-867ccd48a282",
@@ -4840,11 +3969,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Both expressed in a heterozygote",
-        "Neither are recessive",
-        "Influences phenotypic ratios"
-      ],
+      "wrongAnswers": ["Both expressed in a heterozygote", "Neither are recessive", "Influences phenotypic ratios"],
       "question": "Which of these is NOT true for codominant alleles?",
       "correctAnswer": "Only influences dihybrid crosses",
       "imageURL": "https://media.giphy.com/media/3o7aCRloybJlXpNjSU/giphy.mp4"
@@ -4858,11 +3983,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Natural selection",
-        "Hybrid selection",
-        "Random selection"
-      ],
+      "wrongAnswers": ["Natural selection", "Hybrid selection", "Random selection"],
       "question": "What is getting strong, fast racehorses to reproduce an example of?",
       "correctAnswer": "Artificial selection",
       "imageURL": "https://media.giphy.com/media/CSLxrO9alWXLO/giphy.mp4"
@@ -4894,11 +4015,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Homozygosity",
-        "Heterozygosity",
-        "Hyperzygosity"
-      ],
+      "wrongAnswers": ["Homozygosity", "Heterozygosity", "Hyperzygosity"],
       "question": "What is the term given to the fact there is no role of dominance and recessiveness in X-linked genes?",
       "correctAnswer": "Hemizygosity",
       "imageURL": "https://media.giphy.com/media/B1bMjDNIwe4T09fNai/giphy.mp4"
@@ -4920,11 +4037,7 @@
     "content": {
       "question": "Where can signals to begin apoptosis originate?",
       "correctAnswer": "Within or outside the cell",
-      "wrongAnswers": [
-        "Outside the cell only",
-        "Within the cell only",
-        "Signals do not control apoptosis"
-      ]
+      "wrongAnswers": ["Outside the cell only", "Within the cell only", "Signals do not control apoptosis"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "da3e65bf-6e7b-4ed3-9b4d-591b1f14f916",
@@ -4935,11 +4048,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Number of organisms in each species",
-        "Number of species",
-        "Relatedness between species"
-      ],
+      "wrongAnswers": ["Number of organisms in each species", "Number of species", "Relatedness between species"],
       "question": "What does 'N' represent in the equation for the index of diversity?",
       "correctAnswer": "Number of organisms of all species",
       "imageURL": "https://media.giphy.com/media/xUA7b6oaRIgzmAKpUY/giphy.mp4"
@@ -4955,11 +4064,7 @@
     "content": {
       "question": "What protein is DNA folded around?",
       "correctAnswer": "Histone",
-      "wrongAnswers": [
-        "Enzyme",
-        "Hemoglobin",
-        "Collagen"
-      ]
+      "wrongAnswers": ["Enzyme", "Hemoglobin", "Collagen"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "18a4aaf2-2a1c-4423-93d1-5482abcf271f",
@@ -4972,9 +4077,7 @@
     "content": {
       "question": "\"Increasing the temperature of an enzyme catalyzed reaction will always increase the rate of reaction because there is a higher chance of a collision having the activation energy.\"<br></br> Is this true or false?",
       "correctAnswer": "False",
-      "wrongAnswers": [
-        "True"
-      ]
+      "wrongAnswers": ["True"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "c0e311e3-1cb6-490a-988e-59cca1274c0b",
@@ -5019,11 +4122,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Geographical isolation",
-        "Genetic variation",
-        "Different environmental conditions"
-      ],
+      "wrongAnswers": ["Geographical isolation", "Genetic variation", "Different environmental conditions"],
       "question": "Which of these is NOT essential for allopatric speciation?",
       "correctAnswer": "Frequent storms",
       "imageURL": "https://media.giphy.com/media/O7o2mWVFb5wo8/giphy.mp4"
@@ -5037,10 +4136,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Heterozygous",
-        "Homozygous dominant"
-      ],
+      "wrongAnswers": ["Heterozygous", "Homozygous dominant"],
       "question": "Which genotype frequency can be easily identified by observing the phenotypes of the population?",
       "correctAnswer": "Homozygous recessive",
       "imageURL": "https://media.giphy.com/media/3orieUe6ejxSFxYCXe/giphy.mp4"
@@ -5056,11 +4152,7 @@
     "content": {
       "question": "Which of these processes does NOT take place during cyclic photophosphorylation?",
       "correctAnswer": "Photolysis",
-      "wrongAnswers": [
-        "Photoionisation",
-        "Chemiosmosis",
-        "ATP synthesis"
-      ]
+      "wrongAnswers": ["Photoionisation", "Chemiosmosis", "ATP synthesis"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "9db8a619-b313-4c71-9ad6-f717aa92d5c2",
@@ -5073,11 +4165,7 @@
     "content": {
       "question": "Which of these does NOT cause sympatric speciation?",
       "correctAnswer": "Emergence of a river",
-      "wrongAnswers": [
-        "Polyploidy",
-        "Mutations that alter the reproductive organs",
-        "Mutations in mating behaviors"
-      ]
+      "wrongAnswers": ["Polyploidy", "Mutations that alter the reproductive organs", "Mutations in mating behaviors"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "be50c709-c5b3-4d2f-8e97-57fe3d9cceb9",
@@ -5090,10 +4178,7 @@
     "content": {
       "question": "Which type of vitamin is more commonly stored by our bodies?",
       "correctAnswer": "Fat-soluble vitamin",
-      "wrongAnswers": [
-        "Water-soluble vitamin",
-        "Insoluble vitamin"
-      ]
+      "wrongAnswers": ["Water-soluble vitamin", "Insoluble vitamin"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "f68349eb-f9fc-4197-92b4-4c2d89a7fc66",
@@ -5103,11 +4188,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "High protein diet",
-        "Low water availability",
-        "Sub-zero temperature"
-      ],
+      "wrongAnswers": ["High protein diet", "Low water availability", "Sub-zero temperature"],
       "question": "Which of these is NOT a type of environmental variation?",
       "correctAnswer": "Allele for sickled hemoglobin",
       "imageURL": "https://media.giphy.com/media/l1KVcrdl7rJpFnY2s/giphy.mp4"
@@ -5140,11 +4221,7 @@
     "content": {
       "question": "Heart disease and high blood pressure are symptoms of consuming too much of which mineral?",
       "correctAnswer": "Sodium",
-      "wrongAnswers": [
-        "Phosphorus",
-        "Calcium",
-        "Iron"
-      ]
+      "wrongAnswers": ["Phosphorus", "Calcium", "Iron"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "2faebde9-a470-4986-a3e2-b8ac46230ef6",
@@ -5154,11 +4231,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Transfer RNA",
-        "Ribosomal RNA",
-        "Protein RNA"
-      ],
+      "wrongAnswers": ["Transfer RNA", "Ribosomal RNA", "Protein RNA"],
       "question": "Which RNA molecule copies the DNA sequence into a polypeptide?",
       "correctAnswer": "Messenger RNA",
       "imageURL": "https://media.giphy.com/media/iFkHQLzYA09Zm/giphy.mp4"
@@ -5174,11 +4247,7 @@
     "content": {
       "question": "Unlike globular proteins, fibrous proteins are:",
       "correctAnswer": "insoluble in water",
-      "wrongAnswers": [
-        "soluble in water",
-        "soluble in acid",
-        "insoluble in acid"
-      ]
+      "wrongAnswers": ["soluble in water", "soluble in acid", "insoluble in acid"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "a7426678-ab2f-4b2e-b94b-fc7d129f6f3c",
@@ -5189,11 +4258,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Biconcave shape",
-        "No nucleus",
-        "Hemoglobin"
-      ],
+      "wrongAnswers": ["Biconcave shape", "No nucleus", "Hemoglobin"],
       "question": "Which of these is NOT a feature of red blood cells that allows them to be specialized for their function?",
       "correctAnswer": "Lots of mitochondria",
       "imageURL": "https://media.giphy.com/media/11i03wSzIuNXiw/giphy.mp4"
@@ -5224,11 +4289,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "More histone proteins",
-        "Less condensed",
-        "Fewer acetyl groups"
-      ],
+      "wrongAnswers": ["More histone proteins", "Less condensed", "Fewer acetyl groups"],
       "question": "What is the effect of increased methylation on chromatin?",
       "correctAnswer": "More condensed",
       "imageURL": "https://media.giphy.com/media/FBzSekIBu6PO8/giphy.mp4"
@@ -5244,11 +4305,7 @@
     "content": {
       "question": "Which chains are found in fetal haemoglobin?",
       "correctAnswer": "Alpha and gamma chains",
-      "wrongAnswers": [
-        "Alpha and beta chains",
-        "Alpha chains only",
-        "Gamma chains only"
-      ]
+      "wrongAnswers": ["Alpha and beta chains", "Alpha chains only", "Gamma chains only"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "35234673-054d-4608-a1ae-42f8ff3769fd",
@@ -5261,10 +4318,7 @@
     "content": {
       "question": "Which of the following is NOT a type of water-soluble vitamin?",
       "correctAnswer": "A vitamins",
-      "wrongAnswers": [
-        "B vitamins",
-        "C vitamins"
-      ]
+      "wrongAnswers": ["B vitamins", "C vitamins"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "f68349eb-f9fc-4197-92b4-4c2d89a7fc66",
@@ -5276,11 +4330,7 @@
     "content": {
       "question": "Which of these organelles is heaviest?",
       "correctAnswer": "Chloroplasts",
-      "wrongAnswers": [
-        "Mitochondria",
-        "Lysosomes",
-        "Ribosomes"
-      ]
+      "wrongAnswers": ["Mitochondria", "Lysosomes", "Ribosomes"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "14db5586-215b-4248-9553-5e9c87653629",
@@ -5291,11 +4341,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Condensed",
-        "Dehydrated",
-        "Hydrolysed"
-      ],
+      "wrongAnswers": ["Condensed", "Dehydrated", "Hydrolysed"],
       "question": "What is the name given to enzymes that have experienced a change in their active site due to environmental factors?",
       "correctAnswer": "Denatured",
       "imageURL": "https://media.giphy.com/media/l0MYMzFm8ehi9b7YA/giphy.mp4"
@@ -5310,10 +4356,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "The presence of more humans means that more resources are being used. Not only are there more humans than ever before, but the desired standard of living is also higher, and so we are producing more goods. ",
-      "wrongAnswers": [
-        "Human population explosion",
-        "Increased average standard of living"
-      ],
+      "wrongAnswers": ["Human population explosion", "Increased average standard of living"],
       "question": "Which of the following is not a cause of increased waste production?",
       "correctAnswer": "Increased rate of deforestation"
     },
@@ -5327,10 +4370,7 @@
     "content": {
       "question": "Which of the following inorganic ions is required for the co-transport of glucose across the cell membrane of cells in the intestine?",
       "correctAnswer": "Na<sup>+</sup>",
-      "wrongAnswers": [
-        "H<sup>+</sup>",
-        "PO<sub>4</sub><sup>3-</sup>"
-      ]
+      "wrongAnswers": ["H<sup>+</sup>", "PO<sub>4</sub><sup>3-</sup>"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "1f564e8c-239c-4a7e-a075-64c5309f8e04",
@@ -5341,11 +4381,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "High protein diet",
-        "Low water availability",
-        "Sub-zero temperature"
-      ],
+      "wrongAnswers": ["High protein diet", "Low water availability", "Sub-zero temperature"],
       "question": "Which of these is NOT a type of environmental variation?",
       "correctAnswer": "Allele for sickled hemoglobin",
       "imageURL": "https://media.giphy.com/media/l1KVcrdl7rJpFnY2s/giphy.mp4"
@@ -5359,11 +4395,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Clover-like shape",
-        "Thymine",
-        "Double-stranded"
-      ],
+      "wrongAnswers": ["Clover-like shape", "Thymine", "Double-stranded"],
       "question": "What feature of tRNA molecules ensures each tRNA binds to the correct codon?",
       "correctAnswer": "Anticodon",
       "imageURL": "https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.mp4"
@@ -5379,10 +4411,7 @@
     "content": {
       "question": "How many chromosomes does a human gamete have if a body cell has 46?",
       "correctAnswer": "23",
-      "wrongAnswers": [
-        "46",
-        "92"
-      ]
+      "wrongAnswers": ["46", "92"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "3c60082e-2766-4654-bfe6-77e0b8ec0b7e",
@@ -5393,11 +4422,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "One whole square",
-        "10 squares",
-        "Over half of the quadrat"
-      ],
+      "wrongAnswers": ["One whole square", "10 squares", "Over half of the quadrat"],
       "question": "How much must a species cover of a 1m<sup>2</sup> quadrat to have 1% coverage?",
       "correctAnswer": "Over half of one square",
       "imageURL": "https://media.giphy.com/media/jnULTbYwgDLYsoBbIS/giphy.mp4"
@@ -5428,11 +4453,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Bearing tension",
-        "Maintaining the shape of the cell",
-        "Anchoring organelles in place"
-      ],
+      "wrongAnswers": ["Bearing tension", "Maintaining the shape of the cell", "Anchoring organelles in place"],
       "question": "Which of these functions is NOT performed by intermediate filaments?",
       "correctAnswer": "Cellular motion",
       "imageURL": "https://media.giphy.com/media/pj5F5SvKT7WbS/giphy.mp4"
@@ -5447,12 +4468,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "The consensus amongst climate scientists is that the greenhouse effect is causing global warming, i.e. the gradual increase in the Earth’s temperature.",
-      "wrongAnswers": [
-        "Deforestation",
-        "Land use change",
-        "The population explosion",
-        "Overfishing"
-      ],
+      "wrongAnswers": ["Deforestation", "Land use change", "The population explosion", "Overfishing"],
       "question": "The consensus among climate scientists is that the greenhouse effect is causing:",
       "correctAnswer": "Global warming"
     },
@@ -5464,11 +4480,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Mitochondria",
-        "Cytoplasm",
-        "Nuclear envelope"
-      ],
+      "wrongAnswers": ["Mitochondria", "Cytoplasm", "Nuclear envelope"],
       "question": "Which of the following is found in the nucleoplasm?",
       "correctAnswer": "Chromatin and the nucleolus",
       "imageURL": "https://media.giphy.com/media/3oeSAF90T9N04MyefS/giphy.mp4"
@@ -5484,11 +4496,7 @@
     "content": {
       "question": "What shape is mitochondrial DNA?",
       "correctAnswer": "Circular",
-      "wrongAnswers": [
-        "Double helical",
-        "Helical",
-        "Linear"
-      ]
+      "wrongAnswers": ["Double helical", "Helical", "Linear"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "ac025698-f377-44e0-b5a2-cb702b994e4e",
@@ -5499,11 +4507,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Primer",
-        "Caspase",
-        "DNA ligase"
-      ],
+      "wrongAnswers": ["Primer", "Caspase", "DNA ligase"],
       "question": "Which enzyme used in the polymerase chain reaction works at an optimum temperature of 72<sup>o</sup>C?",
       "correctAnswer": "Taq polymerase",
       "imageURL": "https://media.giphy.com/media/aXCr9jb0dMNQk/giphy.mp4"
@@ -5536,11 +4540,7 @@
     "content": {
       "question": "What process specifically takes place in ribosomes?",
       "correctAnswer": "Protein synthesis",
-      "wrongAnswers": [
-        "DNA replication",
-        "Carbohydrate synthesis",
-        "Processing lipids"
-      ]
+      "wrongAnswers": ["DNA replication", "Carbohydrate synthesis", "Processing lipids"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "c75217d9-01f5-4d1f-aa20-fdbc386953b6",
@@ -5551,11 +4551,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Calvin cycle",
-        "Carbon cycle",
-        "Citrate cycle"
-      ],
+      "wrongAnswers": ["Calvin cycle", "Carbon cycle", "Citrate cycle"],
       "question": "What is the name of the cycle shown in this diagram?",
       "correctAnswer": "Krebs cycle",
       "imageURL": "seneca-image-cdn:///2018-08/cd6cda33-e266-4bee-b3d4-d7b51057dfad/respiration-Krebs-Cycle.png"
@@ -5571,11 +4567,7 @@
     "content": {
       "question": "Which organism is thought to be the first to conduct photosynthesis?",
       "correctAnswer": "Cyanobacteria",
-      "wrongAnswers": [
-        "Plants",
-        "Fungi",
-        "Plankton"
-      ]
+      "wrongAnswers": ["Plants", "Fungi", "Plankton"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "57956708-ae1c-4fe3-96a9-5b3e4b11c4c8",
@@ -5604,11 +4596,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Vacuole",
-        "Chloroplasts",
-        "Cell membrane"
-      ],
+      "wrongAnswers": ["Vacuole", "Chloroplasts", "Cell membrane"],
       "question": "Cellulose is a major component of what structure in plants?",
       "correctAnswer": "Cell wall",
       "imageURL": "https://media.giphy.com/media/IaqlNUXfacG52/giphy.mp4"
@@ -5624,11 +4612,7 @@
     "content": {
       "question": "Termites live with a symbiotic protozoa in their guts, which allow both organisms to obtain energy from the cellulose the termite consumes.<br><br>\nWhat is the most likely characterization of the relationship between the termite and the protozoa? ",
       "correctAnswer": "Mutualism",
-      "wrongAnswers": [
-        "Mutany",
-        "Parasitism",
-        "Commensalism"
-      ]
+      "wrongAnswers": ["Mutany", "Parasitism", "Commensalism"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "b5efeb9b-e9ff-4cfe-ac0a-55bb36e000b0",
@@ -5657,11 +4641,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Plants",
-        "Fungi",
-        "Algae"
-      ],
+      "wrongAnswers": ["Plants", "Fungi", "Algae"],
       "question": "Which of these eukaryotes does NOT have a cell wall?",
       "correctAnswer": "Animals",
       "imageURL": "https://media.giphy.com/media/jgsGcrYmUl7q0/giphy.mp4"
@@ -5728,11 +4708,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Stems",
-        "Leaves",
-        "Roots"
-      ],
+      "wrongAnswers": ["Stems", "Leaves", "Roots"],
       "question": "Where is starch stored in plants?",
       "correctAnswer": "Seeds",
       "imageURL": "https://media.giphy.com/media/l4FGCMcaG0fzLsFAQ/giphy.mp4"
@@ -5747,11 +4723,7 @@
     "content": {
       "question": "When a coronavirus infects a host cell, which part of the cell is the coronavirus genome most likely to enter? ",
       "correctAnswer": "Cytoplasm",
-      "wrongAnswers": [
-        "Nucleus",
-        "Rough ER",
-        "Lysosome"
-      ]
+      "wrongAnswers": ["Nucleus", "Rough ER", "Lysosome"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "e96d21cd-2fd9-421f-b679-4e468196c47b",
@@ -5762,11 +4734,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Large surface area",
-        "Steep concentration gradient",
-        "Control of blood flow"
-      ],
+      "wrongAnswers": ["Large surface area", "Steep concentration gradient", "Control of blood flow"],
       "question": "What is the advantage of the thin endothelium of capillaries?",
       "correctAnswer": "Short diffusion distance",
       "imageURL": "https://media.giphy.com/media/mIvrv5Qe0kHlu/giphy.mp4"
@@ -5782,11 +4750,7 @@
     "content": {
       "question": "Which type of reasoning uses logical thinking to predict results by applying scientific principles or practices? ",
       "correctAnswer": "Deductive  ",
-      "wrongAnswers": [
-        "Inductive",
-        "Inducive",
-        "Deducted"
-      ]
+      "wrongAnswers": ["Inductive", "Inducive", "Deducted"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "667195f5-89f9-4847-a025-e6fc0cf3f341",
@@ -5797,11 +4761,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "DNA replication",
-        "Ionizing radiation",
-        "UV radiation"
-      ],
+      "wrongAnswers": ["DNA replication", "Ionizing radiation", "UV radiation"],
       "question": "Which of these is NOT a cause of mutations?",
       "correctAnswer": "High blood water potential",
       "imageURL": "https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.mp4"
@@ -5817,11 +4777,7 @@
     "content": {
       "question": "What are antioxidants thought to protect us from?",
       "correctAnswer": "Free radicals",
-      "wrongAnswers": [
-        "Loose radicals",
-        "Heavy radicals",
-        "Short radicals"
-      ]
+      "wrongAnswers": ["Loose radicals", "Heavy radicals", "Short radicals"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "71a2e211-3aca-4113-a781-12b6f7d17717",
@@ -5831,10 +4787,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Fish",
-        "Insects"
-      ],
+      "wrongAnswers": ["Fish", "Insects"],
       "question": "Which of the following groups of organisms has a double circulatory system?",
       "correctAnswer": "Mammals",
       "imageURL": "https://media.giphy.com/media/mQzMMG2T30hwI/giphy.mp4"
@@ -5848,11 +4801,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "ATP phosphatase",
-        "ATP isomerase",
-        "ATP hydrolase"
-      ],
+      "wrongAnswers": ["ATP phosphatase", "ATP isomerase", "ATP hydrolase"],
       "question": "Which enzyme is used during the resynthesis of ATP?",
       "correctAnswer": "ATP synthase ",
       "imageURL": "https://media.giphy.com/media/EMM8rcF2nNprG/giphy.mp4"
@@ -5868,11 +4817,7 @@
     "content": {
       "question": "What type of substance helps defend our bodies against chemicals?",
       "correctAnswer": "Antioxidants",
-      "wrongAnswers": [
-        "Reoxidants",
-        "Deoxidants",
-        "Oxidants"
-      ]
+      "wrongAnswers": ["Reoxidants", "Deoxidants", "Oxidants"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "71a2e211-3aca-4113-a781-12b6f7d17717",
@@ -5884,9 +4829,7 @@
     "content": {
       "question": "Hydrolysis means \"breaking using water'. <br></br> Is this statement true or false?",
       "correctAnswer": "True",
-      "wrongAnswers": [
-        "False"
-      ]
+      "wrongAnswers": ["False"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "ee63f996-6c21-4aaf-83c5-a95b31047ab8",
@@ -5897,11 +4840,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Non-overlapping",
-        "Universal",
-        "Degenerate"
-      ],
+      "wrongAnswers": ["Non-overlapping", "Universal", "Degenerate"],
       "question": "Which of these is NOT a feature of the genetic code?",
       "correctAnswer": "Single helix",
       "imageURL": "https://media.giphy.com/media/N5Adsn0dgz6h2/giphy.mp4"
@@ -5917,9 +4856,7 @@
     "content": {
       "question": "Is the following statement true or false?<br></br> \"Monomers join together to make a polymer.\"",
       "correctAnswer": "True",
-      "wrongAnswers": [
-        "False"
-      ]
+      "wrongAnswers": ["False"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "ee63f996-6c21-4aaf-83c5-a95b31047ab8",
@@ -5932,11 +4869,7 @@
     "content": {
       "question": "Which of the following does NOT influence the permeability of cell membranes?",
       "correctAnswer": "Chlorophyll concentration",
-      "wrongAnswers": [
-        "Temperature",
-        "Solvent concentration",
-        "pH"
-      ]
+      "wrongAnswers": ["Temperature", "Solvent concentration", "pH"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "6165c942-01b5-4642-a211-c8090b001f69",
@@ -5947,11 +4880,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Inductive",
-        "Neither",
-        "Inductive & deductive"
-      ],
+      "wrongAnswers": ["Inductive", "Neither", "Inductive & deductive"],
       "question": "Which type of reasoning is being used here? <br><br> \"Water conservation is a major requirement to survive in the desert. Long leaves increase loss of water by evaporation. Therefore, desert plants should have smaller leaves.\" ",
       "correctAnswer": "Deductive ",
       "imageURL": "https://media.giphy.com/media/Ass7N88ITsb3a/giphy.mp4"
@@ -5965,11 +4894,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "_Buxus sempervirens_",
-        "_Achillea millefolium_",
-        "_Exochorda racemosa_"
-      ],
+      "wrongAnswers": ["_Buxus sempervirens_", "_Achillea millefolium_", "_Exochorda racemosa_"],
       "question": "Which of the following is an example of a plant that folds its leaves in response to being touched?",
       "correctAnswer": "_Mimosa pudica_",
       "imageURL": "https://media.giphy.com/media/2g9IR5LexL1IY/giphy.mp4"
@@ -5985,10 +4910,7 @@
     "content": {
       "question": "What phenotype(s) are favored in directional selection?",
       "correctAnswer": "One extreme phenotype",
-      "wrongAnswers": [
-        "An average phenotype",
-        "The two extremes of a phenotype"
-      ]
+      "wrongAnswers": ["An average phenotype", "The two extremes of a phenotype"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "4c1644db-238d-45c9-b362-53e19e5b6a1b",
@@ -5999,11 +4921,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Back into atria",
-        "To the lungs",
-        "Back down the veins"
-      ],
+      "wrongAnswers": ["Back into atria", "To the lungs", "Back down the veins"],
       "question": "What direction of blood flow is halted by the semi-lunar valves?",
       "correctAnswer": "Back into ventricles",
       "imageURL": "https://media.giphy.com/media/l2YWzcnnPFGF7SOYg/giphy.mp4"
@@ -6019,10 +4937,7 @@
     "content": {
       "question": "Which of these molecules are NOT involved in the Calvin cycle?",
       "correctAnswer": "Reduced NAD",
-      "wrongAnswers": [
-        "Reduced NADP",
-        "ATP"
-      ]
+      "wrongAnswers": ["Reduced NADP", "ATP"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "aad1e906-eb89-4181-ae7c-0622de6f3918",
@@ -6033,11 +4948,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Mitochondria",
-        "Ribosomes",
-        "Golgi"
-      ],
+      "wrongAnswers": ["Mitochondria", "Ribosomes", "Golgi"],
       "question": "Which of these organelles are NOT found in animal cells?",
       "correctAnswer": "Chloroplast",
       "imageURL": "https://media.giphy.com/media/kreQ1pqlSzftm/giphy.mp4"
@@ -6051,11 +4962,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Flat",
-        "Wide",
-        "Multiple folds"
-      ],
+      "wrongAnswers": ["Flat", "Wide", "Multiple folds"],
       "question": "Which of these is NOT an adaptation of single-celled organisms to increase their surface area to volume ratio?",
       "correctAnswer": "Large",
       "imageURL": "https://media.giphy.com/media/VRYdgVNnAHi3S/giphy.mp4"
@@ -6069,10 +4976,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Independent segregation",
-        "Crossing over"
-      ],
+      "wrongAnswers": ["Independent segregation", "Crossing over"],
       "question": "Which of these is NOT a process that increases genetic variation in meiosis?",
       "correctAnswer": "Replication of chromosomes",
       "imageURL": "https://media.giphy.com/media/3o6ZtoeBNKby0Cb1ZK/giphy.mp4"
@@ -6087,12 +4991,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Oxygen was not released by volcanic activity into the Earth's early atmosphere.",
-      "wrongAnswers": [
-        "Carbon dioxide",
-        "Nitrogen",
-        "Methane",
-        "Water vapor"
-      ],
+      "wrongAnswers": ["Carbon dioxide", "Nitrogen", "Methane", "Water vapor"],
       "question": "Which gas was not released by volcanic activity into the Earth's early atmosphere?",
       "correctAnswer": "Oxygen"
     },
@@ -6106,11 +5005,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Differentiation occurs when cells acquire different sub-cellular structures.",
-      "wrongAnswers": [
-        "Receive new DNA",
-        "Lose genes",
-        "Are phagocytosed"
-      ],
+      "wrongAnswers": ["Receive new DNA", "Lose genes", "Are phagocytosed"],
       "question": "Cells need to differentiate into particular cell types to perform different functions within an organism. Differentiation occurs when cells:",
       "correctAnswer": "Acquire different sub-cellular structures"
     },
@@ -6124,12 +5019,7 @@
     "content": {
       "question": "Which of these properties of water allows plants to transport water from their roots to their leaves via the transpiration stream?",
       "correctAnswer": "Cohesive properties",
-      "wrongAnswers": [
-        "High heat capacity",
-        "Good metabolite",
-        "Good solvent",
-        "High heat of vaporization"
-      ]
+      "wrongAnswers": ["High heat capacity", "Good metabolite", "Good solvent", "High heat of vaporization"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "1f564e8c-239c-4a7e-a075-64c5309f8e04",
@@ -6142,11 +5032,7 @@
     "content": {
       "question": "What is the space between the mitochondrial membranes called?",
       "correctAnswer": "Intermembrane space",
-      "wrongAnswers": [
-        "Intramembrane space",
-        "Intomembrane space",
-        "Inner membrane space"
-      ]
+      "wrongAnswers": ["Intramembrane space", "Intomembrane space", "Inner membrane space"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "c5752731-1606-4b98-8f33-633e52efd928",
@@ -6157,11 +5043,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Sister chromatids",
-        "Mitochondria",
-        "Gametes"
-      ],
+      "wrongAnswers": ["Sister chromatids", "Mitochondria", "Gametes"],
       "question": "What is separated during meiosis 1?",
       "correctAnswer": "Chromosomes ",
       "imageURL": "https://media.giphy.com/media/tOBTxGnpKbG4U/giphy.mp4"
@@ -6175,11 +5057,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "40-50%",
-        "20-30%",
-        "90-95%"
-      ],
+      "wrongAnswers": ["40-50%", "20-30%", "90-95%"],
       "question": "What % of the human body is made up of water?",
       "correctAnswer": "60-70%",
       "imageURL": "https://media.giphy.com/media/26gsf8zpzc33EYnHW/giphy.mp4"
@@ -6193,11 +5071,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "10 &minus; 15nm",
-        "5 &minus; 15nm",
-        "5 &minus; 20nm"
-      ],
+      "wrongAnswers": ["10 &minus; 15nm", "5 &minus; 15nm", "5 &minus; 20nm"],
       "question": "What is the normal thickness of the phospholipid bilayer?",
       "correctAnswer": "5 &minus; 10nm",
       "imageURL": "https://media.giphy.com/media/3oz8xZXJ4eqqmyQy0U/giphy.mp4"
@@ -6211,10 +5085,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Stunted growth",
-        "Weakened immune system"
-      ],
+      "wrongAnswers": ["Stunted growth", "Weakened immune system"],
       "question": "What can be caused by consuming too much vitamin A?",
       "correctAnswer": "Weak bones",
       "imageURL": "https://media.giphy.com/media/FHlMJHSx5sGBi/giphy.mp4"
@@ -6228,11 +5099,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Electrical energy",
-        "Solar energy",
-        "Kinetic energy"
-      ],
+      "wrongAnswers": ["Electrical energy", "Solar energy", "Kinetic energy"],
       "question": "What kind of energy do lipids store? ",
       "correctAnswer": "Chemical energy",
       "imageURL": "https://media.giphy.com/media/NSEXPXORt7THXzSMwO/giphy.mp4"
@@ -6246,11 +5113,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Mitochondria",
-        "Bacteria",
-        "Fungi"
-      ],
+      "wrongAnswers": ["Mitochondria", "Bacteria", "Fungi"],
       "question": "Which of the following does NOT contain DNA and ribosomes? ",
       "correctAnswer": "Endoplasmic reticulum ",
       "imageURL": "https://media.giphy.com/media/11xtTkSwd8iENO/giphy.mp4"
@@ -6266,9 +5129,7 @@
     "content": {
       "question": "Is this statement true or false?<br></br>\"Carbohydrates contain less energy per gram than lipids.\"",
       "correctAnswer": "True",
-      "wrongAnswers": [
-        "False"
-      ]
+      "wrongAnswers": ["False"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "4eafa091-4840-42cd-b84d-8d258c59b44d",
@@ -6281,11 +5142,7 @@
     "content": {
       "question": "Which of the following is an example of a polymer?",
       "correctAnswer": "Starch",
-      "wrongAnswers": [
-        "Amino acid",
-        "Monosaccharide",
-        "Nucleotide"
-      ]
+      "wrongAnswers": ["Amino acid", "Monosaccharide", "Nucleotide"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "1d820b21-9292-4051-be16-b6fce159bfa0",
@@ -6296,11 +5153,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "24",
-        "48",
-        "6"
-      ],
+      "wrongAnswers": ["24", "48", "6"],
       "question": "What would be the number of chromosomes produced in the daughter cells in meiosis if the parent cells have 24 chromosomes?",
       "correctAnswer": "12",
       "imageURL": "https://media.giphy.com/media/AnQSlZRqTx9ZK/giphy.mp4"
@@ -6350,11 +5203,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Organic",
-        "Increase enzyme activity",
-        "Bind to enzymes"
-      ],
+      "wrongAnswers": ["Organic", "Increase enzyme activity", "Bind to enzymes"],
       "question": "Which of these is NOT a feature of coenzymes?",
       "correctAnswer": "Permanent part of the enzyme structure",
       "imageURL": "https://media.giphy.com/media/RlkKma4rRjdHa/giphy.mp4"
@@ -6370,10 +5219,7 @@
     "content": {
       "question": "Why must polymers in food be hydrolysed in the body?",
       "correctAnswer": "Monomers are easier to transport than polymers",
-      "wrongAnswers": [
-        "Polymers are poisonous and must be broken down",
-        "Enzymes cannot break down polymers"
-      ]
+      "wrongAnswers": ["Polymers are poisonous and must be broken down", "Enzymes cannot break down polymers"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "ee63f996-6c21-4aaf-83c5-a95b31047ab8",
@@ -6384,11 +5230,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Genome sequencing",
-        "Amino acid sequencing",
-        "Antibody-antigen interactions"
-      ],
+      "wrongAnswers": ["Genome sequencing", "Amino acid sequencing", "Antibody-antigen interactions"],
       "question": "Which of these is NOT a DNA technique that can be used to clarify evolutionary relationships?",
       "correctAnswer": "Observing characteristics",
       "imageURL": "https://media.giphy.com/media/l1IXVIBIg5rMYALCM/giphy.mp4"
@@ -6404,11 +5246,7 @@
     "content": {
       "question": "When can non-disjunction occur? ",
       "correctAnswer": "Meiosis I and II",
-      "wrongAnswers": [
-        "Meiosis I",
-        "Meiosis II",
-        "Mitosis"
-      ]
+      "wrongAnswers": ["Meiosis I", "Meiosis II", "Mitosis"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "13af57c8-6aef-4c4f-9991-8efd31af5036",
@@ -6419,11 +5257,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "4:0",
-        "2:2",
-        "3:2"
-      ],
+      "wrongAnswers": ["4:0", "2:2", "3:2"],
       "question": "What is the predicted ratio of a monohybrid cross between two heterozygotes?",
       "correctAnswer": "3:1",
       "imageURL": "https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.mp4"
@@ -6443,11 +5277,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Die young",
-        "Lead a solitary lifestyle",
-        "Eat more protein"
-      ],
+      "wrongAnswers": ["Die young", "Lead a solitary lifestyle", "Eat more protein"],
       "question": "What is the most probable outcome if an individual is better at combatting disease than others?",
       "correctAnswer": "Survive and reproduce",
       "imageURL": "https://media.giphy.com/media/10jsQSpRYXL8CQ/giphy.mp4"
@@ -6463,10 +5293,7 @@
     "content": {
       "question": "How many phosphate groups does ATP contain?",
       "correctAnswer": "3",
-      "wrongAnswers": [
-        "1",
-        "2"
-      ]
+      "wrongAnswers": ["1", "2"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "66a2d253-14aa-47d9-a780-98266145e894",
@@ -6495,11 +5322,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "ATP phosphatase",
-        "ATP isomerase",
-        "ATP hydrolase"
-      ],
+      "wrongAnswers": ["ATP phosphatase", "ATP isomerase", "ATP hydrolase"],
       "question": "Which enzyme is used during the resynthesis of ATP?",
       "correctAnswer": "ATP synthase ",
       "imageURL": "https://media.giphy.com/media/EMM8rcF2nNprG/giphy.mp4"
@@ -6514,11 +5337,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "MRSA is a \"superbug\"",
-      "wrongAnswers": [
-        "Malaria",
-        "Salmonella",
-        "Measles"
-      ],
+      "wrongAnswers": ["Malaria", "Salmonella", "Measles"],
       "question": "Which of the following is known as a \"superbug\"?",
       "correctAnswer": "MRSA"
     },
@@ -6550,10 +5369,7 @@
     "content": {
       "question": "A sample is boiled in a test tube with ethanol. The sample is then shaken and left to stand. The solution inside is then poured into a tube containing distilled water. <br></br>What would be observed if there is lipid present in the tube?",
       "correctAnswer": "A white, milky layer",
-      "wrongAnswers": [
-        "The solution would turn from orange to blue/black",
-        "A red precipitate would form"
-      ]
+      "wrongAnswers": ["The solution would turn from orange to blue/black", "A red precipitate would form"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "4eafa091-4840-42cd-b84d-8d258c59b44d",
@@ -6584,11 +5400,7 @@
     "content": {
       "question": "Which type of interaction is the most common in water?",
       "correctAnswer": "Hydrogen bonding",
-      "wrongAnswers": [
-        "Van der Waal's",
-        "Ionic bonding between dipoles",
-        "Disulfide bridges"
-      ]
+      "wrongAnswers": ["Van der Waal's", "Ionic bonding between dipoles", "Disulfide bridges"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "1f564e8c-239c-4a7e-a075-64c5309f8e04",
@@ -6601,11 +5413,7 @@
     "content": {
       "question": "Which of the following would you expect to have the highest basal metabolic rate per body weight? ",
       "correctAnswer": "Ant",
-      "wrongAnswers": [
-        "Madonna",
-        "Giraffe",
-        "Cheetah"
-      ]
+      "wrongAnswers": ["Madonna", "Giraffe", "Cheetah"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "e84f3f03-e3d1-49b0-a33c-e92990468a4a",
@@ -6618,11 +5426,7 @@
     "content": {
       "question": "What is the most common number of carbon atoms found within fatty acids?",
       "correctAnswer": "12-18 carbons",
-      "wrongAnswers": [
-        "8-12 carbons",
-        "22-28 carbons",
-        "18-22 carbons"
-      ]
+      "wrongAnswers": ["8-12 carbons", "22-28 carbons", "18-22 carbons"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "5d606de0-8f08-477c-aae0-f25dca0de87a",
@@ -6633,11 +5437,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Vena cava",
-        "Pulmonary artery",
-        "Pulmonary vein"
-      ],
+      "wrongAnswers": ["Vena cava", "Pulmonary artery", "Pulmonary vein"],
       "question": "Which blood vessel should be sliced to open the heart?",
       "correctAnswer": "Aorta",
       "imageURL": "https://media.giphy.com/media/XwAKsqMGmsF8I/giphy.mp4"
@@ -6670,9 +5470,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "statement": "Asexual reproduction is faster than sexual reproduction",
-      "wrongAnswers": [
-        "Sexual reproduction"
-      ],
+      "wrongAnswers": ["Sexual reproduction"],
       "question": "Which of the following is a faster process?",
       "correctAnswer": "Asexual reproduction"
     },
@@ -6684,11 +5482,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Active transport",
-        "Permeability",
-        "Intrusion"
-      ],
+      "wrongAnswers": ["Active transport", "Permeability", "Intrusion"],
       "question": "What do we call the net movement of particles from an area of high concentration to an area of lower concentration?",
       "correctAnswer": "Diffusion",
       "imageURL": "https://media.giphy.com/media/jtb8dE3NBQt0Y/giphy.mp4"
@@ -6704,10 +5498,7 @@
     "content": {
       "question": "Crossing over and independent assortment occur during which process?",
       "correctAnswer": "Meiosis I",
-      "wrongAnswers": [
-        "Meiosis II",
-        "Mitosis"
-      ]
+      "wrongAnswers": ["Meiosis II", "Mitosis"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "43eadd08-1082-4eaf-89e4-c75c3738d0dc",
@@ -6720,11 +5511,7 @@
     "content": {
       "question": "Which of the following is NOT a biotic condition?",
       "correctAnswer": "Temperature",
-      "wrongAnswers": [
-        "Predation",
-        "Interspecific competition",
-        "Intraspecific competition"
-      ]
+      "wrongAnswers": ["Predation", "Interspecific competition", "Intraspecific competition"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "7587713f-5f0c-41bc-8f57-eeb4622cd0f8",
@@ -6735,11 +5522,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Autotrophs",
-        "Othertrophs",
-        "Carnivores"
-      ],
+      "wrongAnswers": ["Autotrophs", "Othertrophs", "Carnivores"],
       "question": "What is the name given to organisms who CANNOT perform photosynthesis?",
       "correctAnswer": "Heterotrophs",
       "imageURL": "https://media.giphy.com/media/3oz8xxsp7ryA3iXpvO/giphy.mp4"
@@ -6755,11 +5538,7 @@
     "content": {
       "question": "What is the typical relationship between metabolic rate and body mass?",
       "correctAnswer": "Inverse ",
-      "wrongAnswers": [
-        "Directly proportional",
-        "Unrelated",
-        "Causal"
-      ]
+      "wrongAnswers": ["Directly proportional", "Unrelated", "Causal"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "e84f3f03-e3d1-49b0-a33c-e92990468a4a",
@@ -6770,11 +5549,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Move towards the light",
-        "Move more slowly and turn less",
-        "Move faster and turn more"
-      ],
+      "wrongAnswers": ["Move towards the light", "Move more slowly and turn less", "Move faster and turn more"],
       "question": "How do woodlice respond to light?",
       "correctAnswer": "Move away from the light",
       "imageURL": "https://media.giphy.com/media/cLJdDcAWTkW6k/giphy.mp4"
@@ -6790,9 +5565,7 @@
     "content": {
       "question": "Which photosystem transfers electrons directly to NADP instead of the electron transport chain?",
       "correctAnswer": "Photosystem I",
-      "wrongAnswers": [
-        "Photosystem II"
-      ]
+      "wrongAnswers": ["Photosystem II"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "2702a5a5-c59c-4311-b1e4-6ae4d878ec9d",
@@ -6803,11 +5576,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Pyruvate dehydrogenase",
-        "Ethanol dehydrogenase",
-        "Ethanal decarboxylase"
-      ],
+      "wrongAnswers": ["Pyruvate dehydrogenase", "Ethanol dehydrogenase", "Ethanal decarboxylase"],
       "question": "Which enzyme catalyzes the conversion of pyruvate to ethanal?",
       "correctAnswer": "Pyruvate decarboxylase",
       "imageURL": "https://media.giphy.com/media/Qxzldkkg11gA0/giphy.mp4"
@@ -6823,11 +5592,7 @@
     "content": {
       "question": "What does the T-wave in an electrocardiogram trace represent?",
       "correctAnswer": "Repolarisation of the ventricles",
-      "wrongAnswers": [
-        "Depolarisation of the ventricles",
-        "Depolarisation of the atria",
-        "Repolarisation of the atria"
-      ]
+      "wrongAnswers": ["Depolarisation of the ventricles", "Depolarisation of the atria", "Repolarisation of the atria"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "240c9e3f-a7fa-4f19-9ea3-b10fae094d61",
@@ -6838,11 +5603,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Parallel",
-        "Antithesis",
-        "Perpendicular"
-      ],
+      "wrongAnswers": ["Parallel", "Antithesis", "Perpendicular"],
       "question": "What is the name given to the orientation of DNA strands in the double helix?",
       "correctAnswer": "Antiparallel",
       "imageURL": "https://media.giphy.com/media/l3nWgXCpQpMUOrkoo/giphy.mp4"
@@ -6876,12 +5637,7 @@
     "content": {
       "question": "Which organic base is not found in RNA",
       "correctAnswer": "Thymine",
-      "wrongAnswers": [
-        "Adenine",
-        "Cytosine",
-        "Guanine",
-        "Uracil"
-      ]
+      "wrongAnswers": ["Adenine", "Cytosine", "Guanine", "Uracil"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "9f62e5ef-b28f-4125-ae03-4b90dbe42998",
@@ -6894,9 +5650,7 @@
     "content": {
       "question": "Where is DNA found inside the mitochondria?",
       "correctAnswer": "Eukaryotes",
-      "wrongAnswers": [
-        "Prokaryotes"
-      ]
+      "wrongAnswers": ["Prokaryotes"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "9f62e5ef-b28f-4125-ae03-4b90dbe42998",
@@ -6907,10 +5661,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Has a higher water concentration than cells",
-        "Has a lower ion concentration than cells"
-      ],
+      "wrongAnswers": ["Has a higher water concentration than cells", "Has a lower ion concentration than cells"],
       "question": "Which of these is not true of a solution with a high water potential?",
       "correctAnswer": "Has a higher acid concentration than cells",
       "imageURL": "https://media.giphy.com/media/l3vRaak6fltTSi6xW/giphy.mp4"
@@ -6923,11 +5674,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "4",
-        "9",
-        "12"
-      ],
+      "wrongAnswers": ["4", "9", "12"],
       "question": "How many possible genotype combinations exist when two heterozygotes breed in a dihybrid cross?",
       "correctAnswer": "16",
       "imageURL": "https://media.giphy.com/media/3o7buj6wKChtrU9RiU/giphy.mp4"
@@ -6941,11 +5688,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Oxyglobin",
-        "Oxygenated hemoglobin",
-        "Haemogen"
-      ],
+      "wrongAnswers": ["Oxyglobin", "Oxygenated hemoglobin", "Haemogen"],
       "question": "What is the name given to hemoglobin that has bound to oxygen?",
       "correctAnswer": "Oxyhaemoglobin",
       "imageURL": "https://media.giphy.com/media/3o7aCRBaUv3Sng0rTy/giphy.mp4"
@@ -6959,11 +5702,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "wrongAnswers": [
-        "Induced fit model",
-        "Perfect fit model",
-        "Anvil and wedge model"
-      ],
+      "wrongAnswers": ["Induced fit model", "Perfect fit model", "Anvil and wedge model"],
       "question": "What is the name of the model of enzyme action shown below?",
       "correctAnswer": "Lock and key model",
       "imageURL": "seneca-image-cdn:///courseImages/biology/2.2.1 - Enzymes 1/2.2.2b Enzyme action -degradation - Edited-min.png"
@@ -6995,10 +5734,7 @@
     "content": {
       "question": "Which of the following is an example of directional selection?",
       "correctAnswer": "Increased frequency of peppered moths after the industrial revolution",
-      "wrongAnswers": [
-        "Brown-furred mice vs. light or dark colors",
-        "Multiple male forms in some species"
-      ]
+      "wrongAnswers": ["Brown-furred mice vs. light or dark colors", "Multiple male forms in some species"]
     },
     "courseId": "ed8379b7-9169-4071-a95f-02e13d47ddfb",
     "parentId": "4c1644db-238d-45c9-b362-53e19e5b6a1b",

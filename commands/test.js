@@ -138,7 +138,7 @@ module.exports = {
   description: "MCQ tests by subject",
   async execute(message, args) {
     const subjectMessage = await message.author.send(
-      new Discord.MessageEmbed().setColor("#FFD800").setTitle("QUIZ TIME!").setDescription(`**Choose your subject 📚**
+      new Discord.MessageEmbed().setColor("#FFD800").setTitle("QUIZ TIME!!").setDescription(`**Choose your subject 📚**
         \n🧬 Biology 
         \n💰 Business
         \n💻 ComSci 
