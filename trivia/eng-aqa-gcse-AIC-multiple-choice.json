@@ -36,7 +36,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What message is Priestley trying to give wider British society with this quote from Inspector Goole?<br><b>_‘Public men, Mr Birling, have their responsibilities as well as their privileges’_",
+      "question": "What message is Priestley trying to give wider British society with this quote from Inspector Goole?\n_‘Public men, Mr Birling, have their responsibilities as well as their privileges’_",
       "correctAnswer": "Upper-class men must be responsible members of society who care about lower-class people",
       "wrongAnswers": [
         "Upper-class men should not be heavily taxed because they take on a lot of responsibility",
@@ -72,14 +72,14 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What does this quote from Mrs Birling highlight about women in pre-war Britain?<br><b>_‘When you’re married you’ll realise that men with important work to do sometimes spend nearly all their time and energy on their business. You’ll have to get used to that, just as I had.’</b>_",
+      "question": "What does this quote from Mrs Birling highlight about women in pre-war Britain?\n_‘When you’re married you’ll realise that men with important work to do sometimes spend nearly all their time and energy on their business. You’ll have to get used to that, just as I had.’_",
       "correctAnswer": "Women generally had much less power and place in society than men",
       "wrongAnswers": ["Most men were attentive and dutiful husbands", "Women were the main breadwinners in families"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "fec8ea00-2c3c-11e8-b18d-d1082cf88b6d",
     "draft": {
-      "question": "What does this quote from Mrs Birling highlight about women in pre-war Britain?<br><b>_‘When you’re married you’ll realise that men with important work to do sometimes spend nearly all their time and energy on their business. You’ll have to get used to that, just as I had.’</b>_",
+      "question": "What does this quote from Mrs Birling highlight about women in pre-war Britain?\n_‘When you’re married you’ll realise that men with important work to do sometimes spend nearly all their time and energy on their business. You’ll have to get used to that, just as I had.’_",
       "correctAnswer": "Women generally had much less power and place in society than men",
       "wrongAnswers": "Most men were attentive and dutiful husbands, Women were the main breadwinners in families"
     },
@@ -126,7 +126,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘The time will soon come when, if men will not learn that lesson, then they will be taught it in =fire and blood and anguish=’.</b><br>What's Priestley referring to here?",
+      "question": "‘The time will soon come when, if men will not learn that lesson, then they will be taught it in =fire and blood and anguish=’.\nWhat's Priestley referring to here?",
       "correctAnswer": "The World Wars",
       "wrongAnswers": ["Great Fire of London", "The Cold War", "Iraq War"]
     },
@@ -140,7 +140,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘Is there any reason why my wife should answer questions from you...?’</b><br>Who is Mr Birling speaking to condescendingly in this quote?",
+      "question": "‘Is there any reason why my wife should answer questions from you...?’\nWho is Mr Birling speaking to condescendingly in this quote?",
       "correctAnswer": "Inspector Goole",
       "wrongAnswers": ["Gerald", "Edna", "Eva Smith", "Eric"]
     },
@@ -267,7 +267,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "Who is Sheila expressing her annoyance at with this quote?<br><b>‘You don’t seem to have learnt anything’",
+      "question": "Who is Sheila expressing her annoyance at with this quote?\n‘You don’t seem to have learnt anything’",
       "correctAnswer": "Mr and Mrs Birling",
       "wrongAnswers": ["Eric", "Edna", "Inspector Goole", "Eva Smith"]
     },
@@ -280,7 +280,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What does this quote from Mrs Birling highlight about women in pre-war Britain?<br><b>_‘When you’re married you’ll realise that men with important work to do sometimes spend nearly all their time and energy on their business. You’ll have to get used to that, just as I had.’</b>_",
+      "question": "What does this quote from Mrs Birling highlight about women in pre-war Britain?\n_‘When you’re married you’ll realise that men with important work to do sometimes spend nearly all their time and energy on their business. You’ll have to get used to that, just as I had.’_",
       "correctAnswer": "Women generally had much less power and place in society than men",
       "wrongAnswers": ["Most men were attentive and dutiful husbands", "Women were the main breadwinners in families"]
     },
@@ -365,7 +365,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘I think my father would agree to that, too.’</b><br>Who says this quote in Act 1?",
+      "question": "‘I think my father would agree to that, too.’\nWho says this quote in Act 1?",
       "correctAnswer": "Gerald",
       "wrongAnswers": ["Eric", "Sheila"]
     },
@@ -378,7 +378,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What is implied through Mrs Birling saying <b>‘I don’t think you ought to talk business on an occasion like this.’</b>",
+      "question": "What is implied through Mrs Birling saying ‘I don’t think you ought to talk business on an occasion like this.’",
       "correctAnswer": "She disapproves of Mr Birling mentioning business matters in front of Sheila",
       "wrongAnswers": [
         "She disapproves of Mr Birling mentioning business matters in front of Gerald",
@@ -431,7 +431,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘Well, it’s my duty to keep labour costs down, and if I’d agreed to this demand for a new rate we’d have added about twelve per cent to our labour costs'<br></b>According to this quote, what's Mr Birling's excuse for not giving Eva and the other workers a pay rise?",
+      "question": "‘Well, it’s my duty to keep labour costs down, and if I’d agreed to this demand for a new rate we’d have added about twelve per cent to our labour costs'\nAccording to this quote, what's Mr Birling's excuse for not giving Eva and the other workers a pay rise?",
       "correctAnswer": "He needs to make as much money as possible, which he cannot do if he pays the workers more",
       "wrongAnswers": [
         "He doesn't think the workers work hard enough to merit a pay rise",
@@ -447,7 +447,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What does this quote show Sheila has realised?<br>_<b>‘I’m afraid you’ll say something or do something that you’ll be sorry for afterwards’_",
+      "question": "What does this quote show Sheila has realised?\n_‘I’m afraid you’ll say something or do something that you’ll be sorry for afterwards’_",
       "correctAnswer": "Knows the Inspector is letting them explore their own involvement in Eva's suicide and work out their own guilt",
       "wrongAnswers": [
         "Knows her family are planning to murder Eva Smith",
@@ -458,7 +458,7 @@
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "73de8dc0-2c49-11e8-b18d-d1082cf88b6d",
     "draft": {
-      "question": "What does this quote show Sheila has realised?<br>_<b>‘I’m afraid you’ll say something or do something that you’ll be sorry for afterwards’_",
+      "question": "What does this quote show Sheila has realised?\n_‘I’m afraid you’ll say something or do something that you’ll be sorry for afterwards’_",
       "correctAnswer": "Knows the Inspector is letting them explore their own involvement in Eva's suicide and work out their own guilt",
       "wrongAnswers": "Knows her family are planning to murder Eva Smith, Knows her brother is a drunkard, Knows she needs to end her engagement to Gerald"
     },
@@ -517,7 +517,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Mr Birling", "Gerald", "Sheila"],
-      "question": "Who is Eric furious at in this quote?<br><b>‘You killed her! She came to you to protect me – and you turned her away… your own grandchild – you killed them both – damn you’",
+      "question": "Who is Eric furious at in this quote?\n‘You killed her! She came to you to protect me – and you turned her away… your own grandchild – you killed them both – damn you’",
       "correctAnswer": "Mrs Birling",
       "imageURL": "https://media.giphy.com/media/3t7RAFhu75Wwg/giphy.mp4"
     },
@@ -578,7 +578,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘It frightens me the way you talk.’</b> <br>Who is Sheila talking to and about in this quote?",
+      "question": "‘It frightens me the way you talk.’ \nWho is Sheila talking to and about in this quote?",
       "correctAnswer": "Mr and Mrs Birling",
       "wrongAnswers": ["Eric", "Inspector Goole", "Edna"]
     },
@@ -591,7 +591,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What does this quote show Sheila has realised?<br>_<b>‘I’m afraid you’ll say something or do something that you’ll be sorry for afterwards’_",
+      "question": "What does this quote show Sheila has realised?\n_‘I’m afraid you’ll say something or do something that you’ll be sorry for afterwards’_",
       "correctAnswer": "Knows the Inspector is letting them explore their own involvement in Eva's suicide and work out their own guilt",
       "wrongAnswers": [
         "Knows her family are planning to murder Eva Smith",
@@ -609,7 +609,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Before he leaves, Inspector Goole says<b> ‘fire and blood and anguish’</b> will follow if they do not change. What is this alluding to? ",
+      "question": "Before he leaves, Inspector Goole says ‘fire and blood and anguish’ will follow if they do not change. What is this alluding to? ",
       "correctAnswer": "Two world wars",
       "wrongAnswers": ["The real death of Eva Smith", "A death in the family", "They will go to hell"]
     },
@@ -625,7 +625,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘Well, it’s my duty to keep ??? costs down, and if I’d agreed to this demand for a new rate we’d have added about twelve per cent to our ??? costs'</b>.<br>Which word should replace the question marks in this quote?",
+      "question": "‘Well, it’s my duty to keep ??? costs down, and if I’d agreed to this demand for a new rate we’d have added about twelve per cent to our ??? costs'.\nWhich word should replace the question marks in this quote?",
       "correctAnswer": "Labour",
       "wrongAnswers": ["Food", "Agricultural", "Heating"]
     },
@@ -675,7 +675,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘Why shouldn’t they try for higher wages?’</b><br>What does this quote NOT suggest about Eric?",
+      "question": "‘Why shouldn’t they try for higher wages?’\nWhat does this quote NOT suggest about Eric?",
       "correctAnswer": "Capitalist",
       "wrongAnswers": ["Socially aware", "Socialist", "Happy to go against social norms"]
     },
@@ -703,7 +703,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘What about this ring?’</b><br>Who says this quote in Act 3?",
+      "question": "‘What about this ring?’\nWho says this quote in Act 3?",
       "correctAnswer": "Gerald",
       "wrongAnswers": ["Shelia", "Eric", "Mrs Birling"]
     },
@@ -750,7 +750,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘A chain of events’</b> - What act is this quote from?",
+      "question": "‘A chain of events’ - What act is this quote from?",
       "correctAnswer": "Act 1",
       "wrongAnswers": ["Act 2", "Act 3", "Act 4"]
     },
@@ -819,7 +819,7 @@
         "Telling her parents how different they are because they won't accept responsibility",
         "Announcing that she has decided to become a vegetarian"
       ],
-      "question": "What's Sheila doing in this quote from Act 2?<br><b>_‘You and I aren’t the same people who sat down to dinner here’_",
+      "question": "What's Sheila doing in this quote from Act 2?\n_‘You and I aren’t the same people who sat down to dinner here’_",
       "correctAnswer": "Ending her engagement to Gerald",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/b75cdc8e-7631-49e0-91a3-dc84c19d83c7/shutterstock_278960453.jpg"
     },
@@ -827,7 +827,7 @@
     "parentId": "73de8dc0-2c49-11e8-b18d-d1082cf88b6d",
     "draft": {
       "wrongAnswers": "Telling her parents how different they are because they won't accept responsibility, Announcing that she has decided to become a vegetarian ",
-      "question": "What's Sheila doing in this quote from Act 2?<br><b>_‘You and I aren’t the same people who sat down to dinner here’_",
+      "question": "What's Sheila doing in this quote from Act 2?\n_‘You and I aren’t the same people who sat down to dinner here’_",
       "correctAnswer": "Ending her engagement to Gerald",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/b75cdc8e-7631-49e0-91a3-dc84c19d83c7/shutterstock_278960453.jpg"
     },
@@ -895,7 +895,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "Who says <b>'a chain of events’</b>?",
+      "question": "Who says 'a chain of events’?",
       "correctAnswer": "Inspector Goole",
       "wrongAnswers": ["Eva Smith", "Mrs Birling", "Gerald", "Eric"]
     },
@@ -927,7 +927,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘I don’t give a damn’</b>.<br>Who says this in Act 3?",
+      "question": "‘I don’t give a damn’.\nWho says this in Act 3?",
       "correctAnswer": "Eric",
       "wrongAnswers": ["Mr Birling", "Sheila", "Inspector Goole", "Mrs Birling"]
     },
@@ -941,7 +941,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘Why shouldn’t they try for higher wages?’</b><br>How does Eric go against social norms in this quote?",
+      "question": "‘Why shouldn’t they try for higher wages?’\nHow does Eric go against social norms in this quote?",
       "correctAnswer": "Openly contradicts his father",
       "wrongAnswers": ["Discusses business", "Discusses money"]
     },
@@ -973,11 +973,11 @@
     "moduleType": "multiple-choice",
     "content": {
       "question": "Which quote most effectively encourages the audience and the characters to think about the accumulative effect of single actions?",
-      "correctAnswer": "<b>‘A chain of events’</b>",
+      "correctAnswer": "‘A chain of events’",
       "wrongAnswers": [
-        "<b>‘And you think young women ought to be protected against unpleasant things?’</b>",
-        "<b>‘The time will soon come when...they will be taught it in fire and blood and anguish’</b>",
-        "<b>‘I didn’t feel about her as she felt about me’</b>"
+        "‘And you think young women ought to be protected against unpleasant things?’",
+        "‘The time will soon come when...they will be taught it in fire and blood and anguish’",
+        "‘I didn’t feel about her as she felt about me’"
       ]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
@@ -992,7 +992,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "In Act 2, Gerald says: <b>‘I didn’t feel about her as she felt about me.’</b><br>Who is he talking about here?",
+      "question": "In Act 2, Gerald says: ‘I didn’t feel about her as she felt about me.’\nWho is he talking about here?",
       "correctAnswer": "Eva Smith",
       "wrongAnswers": ["Sheila", "Mrs Birling", "Edna"]
     },
@@ -1024,7 +1024,7 @@
         "Telling her parents how different they are because they won't accept responsibility",
         "Announcing that she has decided to become a vegetarian"
       ],
-      "question": "What's Sheila doing in this quote from Act 2?<br><b>_‘You and I aren’t the same people who sat down to dinner here’_",
+      "question": "What's Sheila doing in this quote from Act 2?\n_‘You and I aren’t the same people who sat down to dinner here’_",
       "correctAnswer": "Ending her engagement to Gerald",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/b75cdc8e-7631-49e0-91a3-dc84c19d83c7/shutterstock_278960453.jpg"
     },
@@ -1038,7 +1038,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "<b>_‘Mother, I think that was cruel and vile.’_</b><br>Which of these is NOT something suggested by Sheila's use of the word 'mother'?",
+      "question": "_‘Mother, I think that was cruel and vile.’_\nWhich of these is NOT something suggested by Sheila's use of the word 'mother'?",
       "correctAnswer": "She is child-like",
       "wrongAnswers": [
         "She is breaking social rules and maturing",
@@ -1072,7 +1072,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Mr Birling", "Gerald", "Sheila"],
-      "question": "Who is Eric furious at in this quote?<br><b>‘You killed her! She came to you to protect me – and you turned her away… your own grandchild – you killed them both – damn you’",
+      "question": "Who is Eric furious at in this quote?\n‘You killed her! She came to you to protect me – and you turned her away… your own grandchild – you killed them both – damn you’",
       "correctAnswer": "Mrs Birling",
       "imageURL": "https://media.giphy.com/media/3t7RAFhu75Wwg/giphy.mp4"
     },
@@ -1080,7 +1080,7 @@
     "parentId": "1ac281f0-2c54-11e8-b18d-d1082cf88b6d",
     "draft": {
       "wrongAnswers": "Mr Birling, Gerald, Sheila",
-      "question": "Who is Eric furious at in this quote?<br><b>‘You killed her! She came to you to protect me – and you turned her away… your own grandchild – you killed them both – damn you’",
+      "question": "Who is Eric furious at in this quote?\n‘You killed her! She came to you to protect me – and you turned her away… your own grandchild – you killed them both – damn you’",
       "correctAnswer": "Mrs Birling",
       "imageURL": "https://media.giphy.com/media/3t7RAFhu75Wwg/giphy.mp4"
     },
@@ -1093,7 +1093,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>'You! You don’t seem to care about anything. But I care. I was almost certain for a knighthood in the next Honours List.’</b><br>Which word emphasises Mr Birling's attack on Eric?",
+      "question": "'You! You don’t seem to care about anything. But I care. I was almost certain for a knighthood in the next Honours List.’\nWhich word emphasises Mr Birling's attack on Eric?",
       "correctAnswer": "Personal pronoun 'you'",
       "wrongAnswers": ["Personal pronoun 'I'", "Verb 'care'", "Noun 'knighthood'"]
     },
@@ -1121,7 +1121,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘And you think young women ought to be protected against ??? things?’</b><br>Which word should replace the question marks in this key quote from Inspector Goole?",
+      "question": "‘And you think young women ought to be protected against ??? things?’\nWhich word should replace the question marks in this key quote from Inspector Goole?",
       "correctAnswer": "Unpleasant",
       "wrongAnswers": ["Harmful", "Immoral", "Shameful"]
     },
@@ -1152,7 +1152,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What is implied by Priestley's direction that the stage lighting should be <b>‘pink and intimate’</b>?",
+      "question": "What is implied by Priestley's direction that the stage lighting should be ‘pink and intimate’?",
       "correctAnswer": "The family are metaphorically wearing rose-tinted glasses about society ",
       "wrongAnswers": [
         "Priestley wants the audience to feel relaxed",
@@ -1275,7 +1275,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘It would be much better if ??? didn’t listen to this story at all’</b>.<br>Who is Mrs Birling talking about in this quote?",
+      "question": "‘It would be much better if ??? didn’t listen to this story at all’.\nWho is Mrs Birling talking about in this quote?",
       "correctAnswer": "Sheila",
       "wrongAnswers": ["Eric", "Mr Birling", "Gerald"]
     },
@@ -1289,7 +1289,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘I don’t give a damn’</b>.<br>Who is Eric speaking to here?",
+      "question": "‘I don’t give a damn’.\nWho is Eric speaking to here?",
       "correctAnswer": "Mr Birling",
       "wrongAnswers": ["Mrs Birling", "Gerald", "Sheila", "Inspector Goole"]
     },
@@ -1303,7 +1303,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘I don’t think you ought to talk ??? on an occasion like this’</b>.<br>Mrs Birling is telling off Mr Birling for discussing:",
+      "question": "‘I don’t think you ought to talk ??? on an occasion like this’.\nMrs Birling is telling off Mr Birling for discussing:",
       "correctAnswer": "Business",
       "wrongAnswers": ["Sports", "Politics", "The war"]
     },
@@ -1317,11 +1317,11 @@
     "moduleType": "multiple-choice",
     "content": {
       "question": "Which of the following quotes portrays Sheila as immature?",
-      "correctAnswer": "<b>‘Mummy – isn’t it a beauty?’</b>",
+      "correctAnswer": "‘Mummy – isn’t it a beauty?’",
       "wrongAnswers": [
-        "<b>‘Mother I think that was cruel and vile’</b>",
-        "<b>‘I’m afraid you’ll say something or do something that you’ll be sorry for afterwards’</b>",
-        "<b>‘We really must stop these silly pretences’"
+        "‘Mother I think that was cruel and vile’",
+        "‘I’m afraid you’ll say something or do something that you’ll be sorry for afterwards’",
+        "‘We really must stop these silly pretences’"
       ]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
@@ -1353,7 +1353,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>[Not quite at ease, half shy, half assertive]</b><br>What does this quote suggest about Eric's relationship with his family in Act 1?",
+      "question": "[Not quite at ease, half shy, half assertive]\nWhat does this quote suggest about Eric's relationship with his family in Act 1?",
       "correctAnswer": "Seems to be uncomfortable around his family and separate from them",
       "wrongAnswers": ["Hates his family", "Is estranged from his family"]
     },
@@ -1381,14 +1381,14 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "<b>‘But I didn’t know it was _you_’</b>. <br>Who says this in Act 3?",
+      "question": "‘But I didn’t know it was _you_’. \nWho says this in Act 3?",
       "correctAnswer": "Mrs Birling",
       "wrongAnswers": ["Mr Birling", "Sheila", "Eric"]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "ab03ed80-2c4f-11e8-b18d-d1082cf88b6d",
     "draft": {
-      "question": "<b>‘But I didn’t know it was _you_’</b>. <br>Who says this in Act 3?",
+      "question": "‘But I didn’t know it was _you_’. \nWho says this in Act 3?",
       "correctAnswer": "Mrs Birling",
       "wrongAnswers": "Mr Birling, Sheila, Eric"
     },
@@ -1438,7 +1438,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What message is Priestley trying to give wider British society with this quote from Inspector Goole?<br><b>_‘Public men, Mr Birling, have their responsibilities as well as their privileges’_",
+      "question": "What message is Priestley trying to give wider British society with this quote from Inspector Goole?\n_‘Public men, Mr Birling, have their responsibilities as well as their privileges’_",
       "correctAnswer": "Upper-class men must be responsible members of society who care about lower-class people",
       "wrongAnswers": [
         "Upper-class men should not be heavily taxed because they take on a lot of responsibility",
@@ -1448,7 +1448,7 @@
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "parentId": "1e9910f0-2c4a-11e8-b18d-d1082cf88b6d",
     "draft": {
-      "question": "What message is Priestley trying to give wider British society with this quote from Inspector Goole?<br><b>_‘Public men, Mr Birling, have their responsibilities as well as their privileges’_",
+      "question": "What message is Priestley trying to give wider British society with this quote from Inspector Goole?\n_‘Public men, Mr Birling, have their responsibilities as well as their privileges’_",
       "correctAnswer": "Upper-class men must be responsible members of society who care about lower-class people",
       "wrongAnswers": "Upper-class men should not be heavily taxed because they take on a lot of responsibility, Upper-class men deserve to receive more privileges"
     },
@@ -1560,7 +1560,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Which character says <b>‘I was the only one who didn’t give in to him’</b>?",
+      "question": "Which character says ‘I was the only one who didn’t give in to him’?",
       "correctAnswer": "Mrs Birling",
       "wrongAnswers": ["Mr Birling", "Sheila", "Gerald"]
     },
@@ -1576,7 +1576,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "What's Inspector Goole referring to in the following quote from Act 2?<br><b>‘And you think young women ought to be protected against unpleasant things?’",
+      "question": "What's Inspector Goole referring to in the following quote from Act 2?\n‘And you think young women ought to be protected against unpleasant things?’",
       "correctAnswer": "Gerald's mistreatment of Eva",
       "wrongAnswers": ["Mrs Birling treating Sheila like a child", "Mr Birling's mistreatment of Mrs Birling"]
     },
@@ -1589,12 +1589,12 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Which quote directly contrasts with Mr Birling's assertion that <b> ‘A man has to make his own way - has to look after himself' </b>in Act 1?",
-      "correctAnswer": "<b>‘We are members of one body. We are responsible for one another’</b>",
+      "question": "Which quote directly contrasts with Mr Birling's assertion that  ‘A man has to make his own way - has to look after himself' in Act 1?",
+      "correctAnswer": "‘We are members of one body. We are responsible for one another’",
       "wrongAnswers": [
-        "<b>‘Each of you helped to kill her. Remember that. Never forget it’",
-        "<b>‘There’ll be plenty of time... for you all to adjust your family relationships’</b>",
-        "<b>‘You don’t seem to have learnt anything’"
+        "‘Each of you helped to kill her. Remember that. Never forget it’",
+        "‘There’ll be plenty of time... for you all to adjust your family relationships’",
+        "‘You don’t seem to have learnt anything’"
       ]
     },
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
@@ -1623,7 +1623,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘Well, it’s my duty to keep labour costs down, and if I’d agreed to this demand for a new rate we’d have added about twelve per cent to our labour costs’</b>. <br>What's Priestley trying to show with this quote?",
+      "question": "‘Well, it’s my duty to keep labour costs down, and if I’d agreed to this demand for a new rate we’d have added about twelve per cent to our labour costs’. \nWhat's Priestley trying to show with this quote?",
       "correctAnswer": "Selfishness of capitalism",
       "wrongAnswers": ["Selfishness of socialism", "Fairness of capitalism", "Fairness of socialism"]
     },
@@ -1726,7 +1726,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>‘It would be much better if Sheila didn’t listen to this story at all’</b>.<br>Which of these is NOT something implied by this quote?",
+      "question": "‘It would be much better if Sheila didn’t listen to this story at all’.\nWhich of these is NOT something implied by this quote?",
       "correctAnswer": "Mrs Birling doesn't want Sheila to listen to the story because the story might prompt Sheila to leave home",
       "wrongAnswers": [
         "Mrs Birling feels that Sheila should not be exposed to the nasty reality of the tale of Eva Smith because she cares about how her family behave around others",
@@ -1810,7 +1810,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "<b>‘But I didn’t know it was _you_’</b>. <br>Who says this in Act 3?",
+      "question": "‘But I didn’t know it was _you_’. \nWho says this in Act 3?",
       "correctAnswer": "Mrs Birling",
       "wrongAnswers": ["Mr Birling", "Sheila", "Eric"]
     },
@@ -1887,7 +1887,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "What's Priestley encouraging his audience to think about with the quote <b>‘a chain of events’</b>?",
+      "question": "What's Priestley encouraging his audience to think about with the quote ‘a chain of events’?",
       "correctAnswer": "The role they play in other people’s lives and the dangerous effect their actions can have",
       "wrongAnswers": [
         "A chain reaction inside a nuclear reactor",
@@ -1953,7 +1953,7 @@
     "moduleType": "multiple-choice",
     "courseId": "1bcb11c0-2c27-11e8-b18d-d1082cf88b6d",
     "content": {
-      "question": "<b>'You! You don’t seem to care about anything. But I care. I was almost certain for a knighthood in the next Honours List.’</b><br>What's ironic about what Mr Birling is saying here?",
+      "question": "'You! You don’t seem to care about anything. But I care. I was almost certain for a knighthood in the next Honours List.’\nWhat's ironic about what Mr Birling is saying here?",
       "correctAnswer": "Mr Birling says Eric doesn't care about anything but Mr Birling is the one who doesn't care about anything but himself",
       "wrongAnswers": [
         "Mr Birling claims Eric is ruining his chance of getting a knighthood when Eric has actually helped him"
@@ -2025,7 +2025,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What is Mr Birling referring to when he says <b>‘This makes a difference, y’know. In fact, it makes all the difference’</b>?\n",
+      "question": "What is Mr Birling referring to when he says ‘This makes a difference, y’know. In fact, it makes all the difference’?\n",
       "correctAnswer": "Inspector Goole is not a real police inspector",
       "wrongAnswers": [
         "Eric is the one who got Eva Smith pregnant",

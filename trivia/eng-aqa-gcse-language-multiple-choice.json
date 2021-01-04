@@ -22,7 +22,7 @@
         "His smile was one of those rare smiles with a quality of eternal reassurance in it",
         "You may come across a smile like his four or five times in life"
       ],
-      "question": "You are given this extract for Question 1. Which answer would you receive NO marks for?<br><br><b>__'He smiled understandingly-much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it, that you may come across four or five times in life.'__",
+      "question": "You are given this extract for Question 1. Which answer would you receive NO marks for?\n\n__'He smiled understandingly-much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it, that you may come across four or five times in life.'__",
       "correctAnswer": "Gatsby had a rare smile with a quality of reassurance to it",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-11/d74d3d84-f3ed-4893-9a97-737391567f3a/smile-mouth-.jpg"
     },
@@ -37,7 +37,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Does this sentence contain a fact or opinion?<br><br>\"It's shocking that over 1.3 billion people live in dire poverty\"",
+      "question": "Does this sentence contain a fact or opinion?\n\n\"It's shocking that over 1.3 billion people live in dire poverty\"",
       "correctAnswer": "Both",
       "wrongAnswers": ["Fact", "Opinion", "Neither"]
     },
@@ -53,7 +53,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Homework", "Got", "Tonight", "I've"],
-      "question": "Which word turns this sentence into an exaggeration?<br><br><b>I've got a ton of homework to do tonight!</b>",
+      "question": "Which word turns this sentence into an exaggeration?\n\nI've got a ton of homework to do tonight!",
       "correctAnswer": "Ton",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/46f35257-bbd2-4ca0-8087-372ac5cebf8c/child-homework-thinking-memory.jpg"
     },
@@ -115,7 +115,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What does sibilance draw attention to in this phrase?<br><br>The <b>s</b>torm sma<b>sh</b>ed the hou<b>ses</b> to pie<b>ces</b>.",
+      "question": "What does sibilance draw attention to in this phrase?\n\nThe storm smashed the houses to pieces.",
       "correctAnswer": "The destruction caused by the storm",
       "wrongAnswers": ["Why the storm happened", "The speed of the storm"]
     },
@@ -150,7 +150,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Statistic", "Opinion", "Fact", "Exaggeration"],
-      "question": "What persuasive technique is being used in this paragraph?<br><br><b>Are you as exhausted as I am?",
+      "question": "What persuasive technique is being used in this paragraph?\n\nAre you as exhausted as I am?",
       "correctAnswer": "Rhetorical question",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/e5540b8e-086b-485d-900c-be771465d1b9/bored-yawn-.jpg"
     },
@@ -158,7 +158,7 @@
     "parentId": "590f9a99-63fd-42e8-a88a-6e1109cffc28",
     "draft": {
       "wrongAnswers": "Statistic, Opinion, Fact, Exaggeration",
-      "question": "What persuasive technique is being used in this paragraph?<br><br><b>Are you as exhausted as I am?",
+      "question": "What persuasive technique is being used in this paragraph?\n\nAre you as exhausted as I am?",
       "correctAnswer": "Rhetorical question",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/e5540b8e-086b-485d-900c-be771465d1b9/bored-yawn-.jpg"
     },
@@ -176,7 +176,7 @@
         "The word approximately makes the fact seem less credible",
         "Statistics should not be used in informative writing"
       ],
-      "question": "Why should this sentence NOT appear in informative writing?<br><br><b>Approximately 106,000 people are killed by smoking in the UK every year, which is shocking.</b>",
+      "question": "Why should this sentence NOT appear in informative writing?\n\nApproximately 106,000 people are killed by smoking in the UK every year, which is shocking.",
       "correctAnswer": "Contains an opinion",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/biology/2.4.1/cigarette-110849_640-min.jpg"
     },
@@ -192,7 +192,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Simile", "Personification", "Emotive language"],
-      "question": "What technique is being used in this sentence?<br><br><b>Jenny was a ghost in her paleness.</b>",
+      "question": "What technique is being used in this sentence?\n\nJenny was a ghost in her paleness.",
       "correctAnswer": "Metaphor",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-10/e32e8378-238b-4a54-85a3-c9a71d16da60/ghost-.png"
     },
@@ -224,7 +224,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Boiled", "Egg", "Morning"],
-      "question": "Which word in this pun has a double meaning? <br><br>__A boiled egg every morning is hard to beat.__",
+      "question": "Which word in this pun has a double meaning? \n\n__A boiled egg every morning is hard to beat.__",
       "correctAnswer": "Beat",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/chemistry/1.1.4 - Metals/egg-2580904_640-min.jpg"
     },
@@ -255,7 +255,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Present tense", "Future tense"],
-      "question": "What tense is the verb in this sentence?<br><br><b>I walked the dog yesterday.",
+      "question": "What tense is the verb in this sentence?\n\nI walked the dog yesterday.",
       "correctAnswer": "Past tense",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/dfc821d8-5038-440e-be03-b10b986cfa8d/dog-owner.jpg"
     },
@@ -271,7 +271,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Statistics", "Opinion", "Imperative verb"],
-      "question": "What advisatory technique has the writer used to support the advice she is giving?<br><br><b> If you don’t want a cold head, you could try a sponsored silence, a non-uniform day, or a cake sale.",
+      "question": "What advisatory technique has the writer used to support the advice she is giving?\n\n If you don’t want a cold head, you could try a sponsored silence, a non-uniform day, or a cake sale.",
       "correctAnswer": "Choice of actions",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-10/aa47d9a1-722f-4cc4-a461-e7d15329bc70/icing-sugar-.jpg"
     },
@@ -279,7 +279,7 @@
     "parentId": "9f15d08d-a87a-4fc4-bb3c-1dd7bb39a33f",
     "draft": {
       "wrongAnswers": "Statistics, Opinion, Imperative verb",
-      "question": "What advisatory technique has the writer used to support the advice she is giving?<br><br><b> If you don’t want a cold head, you could try a sponsored silence, a non-uniform day, or a cake sale.",
+      "question": "What advisatory technique has the writer used to support the advice she is giving?\n\n If you don’t want a cold head, you could try a sponsored silence, a non-uniform day, or a cake sale.",
       "correctAnswer": "Choice of actions",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-10/aa47d9a1-722f-4cc4-a461-e7d15329bc70/icing-sugar-.jpg"
     },
@@ -413,7 +413,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Exaggeration", "Opinion", "Emotive language"],
-      "question": "What part of DAFORESTER does this sentence use?<br><br><b>Research shows that 5 out of 6 teens suffers from anxiety, depression, and other mental health issues. ",
+      "question": "What part of DAFORESTER does this sentence use?\n\nResearch shows that 5 out of 6 teens suffers from anxiety, depression, and other mental health issues. ",
       "correctAnswer": "Fact",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/f0b47d9e-ffa5-4087-88bd-0666417e8793/patient-doctor-anxiety-psychiatric.jpg"
     },
@@ -444,7 +444,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Anaphora", "Connotation", "Colloquialism"],
-      "question": "Which word should go in the gap?<br><br><b>War is the ____ of peace.",
+      "question": "Which word should go in the gap?\n\nWar is the ____ of peace.",
       "correctAnswer": "Antithesis",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/biology/1.1 - Cell Structure nice imaefs/1.1.4 Inherited Disorder/war-2545307_640-min.jpg"
     },
@@ -460,7 +460,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Opinion", "Neither"],
-      "question": "Is this an opinion or fact?<br><br>Ballet began in Paris in 1661.",
+      "question": "Is this an opinion or fact?\n\nBallet began in Paris in 1661.",
       "correctAnswer": "Fact",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/7a5daa19-d290-4b2f-b5f3-1688b22f2c93/shutterstock_455034385.jpg"
     },
@@ -476,7 +476,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Oxymoron", "Juxtaposition", "Foreshadowing"],
-      "question": "What technique is used in this sentence?<br><br><b>I was so hungry I could die.</b>",
+      "question": "What technique is used in this sentence?\n\nI was so hungry I could die.",
       "correctAnswer": "Hyperbole",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/6c93be05-db69-47c2-bf9a-5f44ccf230af/abdominal-pain-hunger-hungry-man-food-.jpg"
     },
@@ -491,7 +491,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "How does the following sentence show the writer is arguing and not persuading?<br><br><b>Whilst it is true that uniforms look smarter than our own clothes, and that they help us to feel like part of the school community, uniforms are expensive and unncessessary.",
+      "question": "How does the following sentence show the writer is arguing and not persuading?\n\nWhilst it is true that uniforms look smarter than our own clothes, and that they help us to feel like part of the school community, uniforms are expensive and unncessessary.",
       "correctAnswer": "They have shown the other side of the argument ",
       "wrongAnswers": [
         "They have used the strong adjectives 'expensive' and 'unnecessary'",
@@ -501,7 +501,7 @@
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "cd991a7b-bb47-464b-9a06-db4caf14b942",
     "draft": {
-      "question": "How does the following sentence show the writer is arguing and not persuading?<br><br><b>Whilst it is true that uniforms look smarter than our own clothes, and that they help us to feel like part of the school community, uniforms are expensive and unncessessary.",
+      "question": "How does the following sentence show the writer is arguing and not persuading?\n\nWhilst it is true that uniforms look smarter than our own clothes, and that they help us to feel like part of the school community, uniforms are expensive and unncessessary.",
       "correctAnswer": "They have shown the other side of the argument ",
       "wrongAnswers": "They have used the strong adjectives 'expensive' and 'unnecessary', They have ended the sentence on a strong phrase, "
     },
@@ -530,7 +530,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Adverbial phrase", "Noun phrase", "Simile"],
-      "question": "What technique does this sentence use?<br><br><b>I was struggling to figure out how lightning works then it struck me.</b>",
+      "question": "What technique does this sentence use?\n\nI was struggling to figure out how lightning works then it struck me.",
       "correctAnswer": "Pun",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-04/a6f2e9ce-d4fe-41b3-91fd-2f6bffcfe631/shutterstock_530282698.jpg"
     },
@@ -545,7 +545,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Why might J.K. Rowling have used a one-sentence paragraph here?<br><br><b>'Harry felt, afterwards, that he should have known it was all too good to last.'",
+      "question": "Why might J.K. Rowling have used a one-sentence paragraph here?\n\n'Harry felt, afterwards, that he should have known it was all too good to last.'",
       "correctAnswer": "To emphasise Harry's realisation ",
       "wrongAnswers": [
         "To build up a detailed description of Harry's feelings",
@@ -585,7 +585,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Point", "Explanation and Technique", "Reference back to the question"],
-      "question": "Which component of a paragraph is the below sentence most likely to be?\n<br><br>\n\n<b>'In paragraph three, the author uses the quotation '... </b>\n\n\n",
+      "question": "Which component of a paragraph is the below sentence most likely to be?\n\n\n\n\n'In paragraph three, the author uses the quotation '... \n\n\n",
       "correctAnswer": "Evidence",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/3c78757d-f4cb-4eb4-9613-78918c812f11/hawk-bird-flying.jpg"
     },
@@ -600,7 +600,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What is the statistic in this sentence?<br><br><b>I think that it is appalling that around 100 people choke to death on ballpoint pens every year.",
+      "question": "What is the statistic in this sentence?\n\nI think that it is appalling that around 100 people choke to death on ballpoint pens every year.",
       "correctAnswer": "Around 100 people choke to death",
       "wrongAnswers": ["I think that", "It is appalling", "Ballpoint pens"]
     },
@@ -700,7 +700,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Bought", "Sold", "Will sell", "Will buy"],
-      "question": "Which verb should go in the gap?<br><br><b>Kenji is a good friend. He always ____ me nice presents.",
+      "question": "Which verb should go in the gap?\n\nKenji is a good friend. He always ____ me nice presents.",
       "correctAnswer": "Buys",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/36767e0d-5829-4ab3-9720-4d33f309d83e/present-1893642_1920.jpg"
     },
@@ -735,7 +735,7 @@
         "Has used a triple to emphasise how difficult the students find revising",
         "Has answered the four questions"
       ],
-      "question": "How has the writer used language to inform in this paragraph?<br><br><b>Lots of students find it hard to revise – 74% of those taking GCSE exams in 2017 – but the majority found it easier once they had created a plan. ",
+      "question": "How has the writer used language to inform in this paragraph?\n\nLots of students find it hard to revise – 74% of those taking GCSE exams in 2017 – but the majority found it easier once they had created a plan. ",
       "correctAnswer": "Used a fact to support their argument",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/d7a48672-5053-48a4-8796-ebcc16dfc3b8/exam-students.jpg"
     },
@@ -743,7 +743,7 @@
     "parentId": "e5ba80c8-39cb-4685-88aa-54e972489a10",
     "draft": {
       "wrongAnswers": "Used an opinion to support their argument, Has used a triple to emphasise how difficult the students find revising, Has answered the four questions",
-      "question": "How has the writer used language to inform in this paragraph?<br><br><b>Lots of students find it hard to revise – 74% of those taking GCSE exams in 2017 – but the majority found it easier once they had created a plan. ",
+      "question": "How has the writer used language to inform in this paragraph?\n\nLots of students find it hard to revise – 74% of those taking GCSE exams in 2017 – but the majority found it easier once they had created a plan. ",
       "correctAnswer": "Used a fact to support their argument",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/d7a48672-5053-48a4-8796-ebcc16dfc3b8/exam-students.jpg"
     },
@@ -756,7 +756,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Which fact would be best to use to back up this advisatory sentence?<br><br><b>Make a revision timetable before you begin revising.",
+      "question": "Which fact would be best to use to back up this advisatory sentence?\n\nMake a revision timetable before you begin revising.",
       "correctAnswer": "70% of students who achieved an A grade in their science exam said they made a revision timetable beforehand",
       "wrongAnswers": [
         "10% of students like making revision timetables",
@@ -811,7 +811,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Emotive language", "Hyperbole", "Simile", "Onomatopoeia", "Alliteration"],
-      "question": "What technique is used in this sentence?<br><br><b>The old man was awfully good at chess.</b>",
+      "question": "What technique is used in this sentence?\n\nThe old man was awfully good at chess.",
       "correctAnswer": "Oxymoron",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/a318dc7e-cd70-42c7-a544-f41b36c8ef18/coup.jpg"
     },
@@ -826,14 +826,14 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique has the writer used to support the advice she is giving?<br><br><b>For my trip, my favourite fundraisers were a sponsored dance-a-thon and shaving my head.",
+      "question": "What technique has the writer used to support the advice she is giving?\n\nFor my trip, my favourite fundraisers were a sponsored dance-a-thon and shaving my head.",
       "correctAnswer": "Personal examples and opinion",
       "wrongAnswers": ["First person", "Repetition of 'my'", "Sympathetic tone"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "9f15d08d-a87a-4fc4-bb3c-1dd7bb39a33f",
     "draft": {
-      "question": "What technique has the writer used to support the advice she is giving?<br><br><b>For my trip, my favourite fundraisers were a sponsored dance-a-thon and shaving my head.",
+      "question": "What technique has the writer used to support the advice she is giving?\n\nFor my trip, my favourite fundraisers were a sponsored dance-a-thon and shaving my head.",
       "correctAnswer": "Personal examples and opinion",
       "wrongAnswers": "First person, Repetition of 'my', Sympathetic tone"
     },
@@ -863,7 +863,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Oxymoron", "Emotive language", "Hyperbole", "Simile"],
-      "question": "What technique is used in this sentence?<br><br><b>The storm spat in anger.</b>",
+      "question": "What technique is used in this sentence?\n\nThe storm spat in anger.",
       "correctAnswer": "Pathetic fallacy",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-04/1e84519f-8f66-477d-baae-c30a9c618101/shutterstock_89026090.jpg"
     },
@@ -931,7 +931,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Evidence", "Explanation and Technique", "Reference back to the question"],
-      "question": "Which component of a paragraph is the below sentence most likely to be?\n<br><br>\n\n<b>'Throughout the text, the writer refers to the violence in the environment.' </b>\n\n\n",
+      "question": "Which component of a paragraph is the below sentence most likely to be?\n\n\n\n\n'Throughout the text, the writer refers to the violence in the environment.' \n\n\n",
       "correctAnswer": "Point",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-10/76604cd7-680d-4b49-9380-64dcd21daad8/battle-bosworth-field-.jpg"
     },
@@ -1019,7 +1019,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Which verb should go in the gap?<br><br><b>My brother will skateboard at this park this weekend. I ____ and watch him.",
+      "question": "Which verb should go in the gap?\n\nMy brother will skateboard at this park this weekend. I ____ and watch him.",
       "correctAnswer": "Will go",
       "wrongAnswers": ["Goes", "Go", "Went"]
     },
@@ -1054,7 +1054,7 @@
         "Blood clots can develop after surgery",
         "Blood clots affect lots of US citizens"
       ],
-      "question": "Read the following extract. Which statement is NOT true?<br><br>__'Each year, blood clots affect about 900,000 people in the United States, and about half of all blood clots occur during a hospital stay or within three months of a hospital stay or surgery. Many blood clots occurring during or after hospitalisation can be prevented, but fewer than half of hospital patients receive proper prevention measures.'__\n",
+      "question": "Read the following extract. Which statement is NOT true?\n\n__'Each year, blood clots affect about 900,000 people in the United States, and about half of all blood clots occur during a hospital stay or within three months of a hospital stay or surgery. Many blood clots occurring during or after hospitalisation can be prevented, but fewer than half of hospital patients receive proper prevention measures.'__\n",
       "correctAnswer": "Half of blood clots happen after three months of a hospital stay or surgery",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/biology/1.2.1 Chromosomes and mitosis/hospital stay-min - Edited-min.jpg"
     },
@@ -1069,7 +1069,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What is this sentence an example of?<br><br><b>Motorbikes are dangerous and a drain on the economy.",
+      "question": "What is this sentence an example of?\n\nMotorbikes are dangerous and a drain on the economy.",
       "correctAnswer": "Topic sentence",
       "wrongAnswers": ["Convincing evidence", "Fact", "Rhetorical question"]
     },
@@ -1105,7 +1105,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Quotation", "Statement"],
-      "question": "Which component of a paragraph is the below sentence most likely to be?\n<br><br>\n\n<b>This quotation shows that Sherlock Holmes is frustrated when he is not solving a mystery.</b>\n",
+      "question": "Which component of a paragraph is the below sentence most likely to be?\n\n\n\n\nThis quotation shows that Sherlock Holmes is frustrated when he is not solving a mystery.\n",
       "correctAnswer": "Inference",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-10/30f3b61b-e458-4805-8a67-fe5a53b12bb1/sherlock-holmes-.jpg"
     },
@@ -1121,7 +1121,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Metaphor", "Personification", "Anthropomorphism"],
-      "question": "What technique does this sentence use?<br><br><b>James was as silly as a clown.</b>",
+      "question": "What technique does this sentence use?\n\nJames was as silly as a clown.",
       "correctAnswer": "Simile",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/6cc470d8-e93a-4894-bca3-ad0ae9c10e0e/clown-scary-phobia.jpg"
     },
@@ -1136,7 +1136,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "How do we know the writer is writing to explain in this sentence?<br><br><b>I suppose the main reason I like that spot so much is because it is in the centre of a busy city but, when I stand there, I feel peaceful. ",
+      "question": "How do we know the writer is writing to explain in this sentence?\n\nI suppose the main reason I like that spot so much is because it is in the centre of a busy city but, when I stand there, I feel peaceful. ",
       "correctAnswer": "The writer has given a reason for their opinion",
       "wrongAnswers": [
         "The writer is using a formal and informative tone",
@@ -1146,7 +1146,7 @@
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "7c131bb5-56b8-4e77-a9a7-18caca2db4ce",
     "draft": {
-      "question": "How do we know the writer is writing to explain in this sentence?<br><br><b>I suppose the main reason I like that spot so much is because it is in the centre of a busy city but, when I stand there, I feel peaceful. ",
+      "question": "How do we know the writer is writing to explain in this sentence?\n\nI suppose the main reason I like that spot so much is because it is in the centre of a busy city but, when I stand there, I feel peaceful. ",
       "correctAnswer": "The writer has given a reason for their opinion",
       "wrongAnswers": "The writer is using a formal and informative tone, The writer has used lots of figurative language to paint a picture in the reader's mind, "
     },
@@ -1209,7 +1209,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Triple", "Exaggeration", "Logical connective"],
-      "question": "What technique is used in this opening sentence?<br><br><b>School uniform is outdated and old-fashioned.",
+      "question": "What technique is used in this opening sentence?\n\nSchool uniform is outdated and old-fashioned.",
       "correctAnswer": "Clear topic sentence",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/f8c735b6-696f-4da0-bcfe-e2184ce6362c/school-children-learning.jpg"
     },
@@ -1217,7 +1217,7 @@
     "parentId": "cd991a7b-bb47-464b-9a06-db4caf14b942",
     "draft": {
       "wrongAnswers": "Triple, Exaggeration, Logical connective",
-      "question": "What technique is used in this opening sentence?<br><br><b>School uniform is outdated and old-fashioned.",
+      "question": "What technique is used in this opening sentence?\n\nSchool uniform is outdated and old-fashioned.",
       "correctAnswer": "Clear topic sentence",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/f8c735b6-696f-4da0-bcfe-e2184ce6362c/school-children-learning.jpg"
     },
@@ -1248,7 +1248,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique is the quote below an example of?<br><br><b>...surely I can't be the only one addicted to the Daily Mail's website?",
+      "question": "What technique is the quote below an example of?\n\n...surely I can't be the only one addicted to the Daily Mail's website?",
       "correctAnswer": "Rhetorical question",
       "wrongAnswers": ["Rule of 3", "Semicolon", "Quotation"]
     },
@@ -1264,7 +1264,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Alliteration", "Assonance", "Onomatopoeia"],
-      "question": "What technique is being used in the following sentence?<br><br><b>The slippery snake slid through the shrub.</b>",
+      "question": "What technique is being used in the following sentence?\n\nThe slippery snake slid through the shrub.",
       "correctAnswer": "Sibilance",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/c01fb4b5-fb60-480d-9c8e-ff4f35c5fee6/shutterstock_547176661.jpg"
     },
@@ -1342,7 +1342,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Triple", "Exaggeration", "Logical connective"],
-      "question": "What technique is used in this opening sentence?<br><br><b>The Daily Mail is the greatest website in the world.",
+      "question": "What technique is used in this opening sentence?\n\nThe Daily Mail is the greatest website in the world.",
       "correctAnswer": "Clear topic sentence",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/f8c735b6-696f-4da0-bcfe-e2184ce6362c/school-children-learning.jpg"
     },
@@ -1358,7 +1358,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Evidence", "Explanation and Technique", "Reference back to the question"],
-      "question": "Which component of a paragraph is the below sentence most likely to be?\n<br><br>\n\n<b>'Throughout the text, the writer refers to the violence in the environment.' </b>\n\n\n",
+      "question": "Which component of a paragraph is the below sentence most likely to be?\n\n\n\n\n'Throughout the text, the writer refers to the violence in the environment.' \n\n\n",
       "correctAnswer": "Point",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-10/76604cd7-680d-4b49-9380-64dcd21daad8/battle-bosworth-field-.jpg"
     },
@@ -1374,7 +1374,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Emotive"],
-      "question": "What kind of language is used in this sentence?<br><br><b>The wind is a howling wolf chasing its prey.</b>",
+      "question": "What kind of language is used in this sentence?\n\nThe wind is a howling wolf chasing its prey.",
       "correctAnswer": "Figurative",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/bc2deac7-37d2-448d-90c4-780c63cb21f6/wolf-snow-animal-forest-.jpg"
     },
@@ -1405,7 +1405,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Personification", "Simile", "Alliteration", "Pathetic fallacy", "Oxymoron"],
-      "question": "What technique is used in this sentence?<br><br><b>The ball made a plop sound as it fell into the toilet.",
+      "question": "What technique is used in this sentence?\n\nThe ball made a plop sound as it fell into the toilet.",
       "correctAnswer": "Onomatopoeia",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/82b33d06-b9ec-441f-b219-130f4785de57/toilet-urinal-urine-.jpg"
     },
@@ -1420,7 +1420,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Why is the following sentence a good example of writing to inform?<br><br><b>Do not plan to revise every second of every day, but start with an hour a day and try to stick to it. ",
+      "question": "Why is the following sentence a good example of writing to inform?\n\nDo not plan to revise every second of every day, but start with an hour a day and try to stick to it. ",
       "correctAnswer": "The writer gives a clear and relevant idea ",
       "wrongAnswers": [
         "The writer uses a fact about planning",
@@ -1440,7 +1440,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Fact", "Opinion", "Emotive language"],
-      "question": "Which of these devices has the writer used in this sentence?<br><br><b>Furthermore, the comments section, although entertaining, generally contains a high ratio of mean comments to pleasant ones. ",
+      "question": "Which of these devices has the writer used in this sentence?\n\nFurthermore, the comments section, although entertaining, generally contains a high ratio of mean comments to pleasant ones. ",
       "correctAnswer": "Strong connective",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/6489c03b-4491-411d-a81d-09bbf7360586/school-uniform-students.jpg"
     },
@@ -1460,7 +1460,7 @@
         "With an impressive beard and beetle-black eyes",
         "Who spoke with a droning voice"
       ],
-      "question": "You want to paint a picture of an evil King. Which of the following would be a good extension for this metaphor?<br><br>__James was a cruel King...__",
+      "question": "You want to paint a picture of an evil King. Which of the following would be a good extension for this metaphor?\n\n__James was a cruel King...__",
       "correctAnswer": "Who loved to beat his subjects with his razor sharp whip",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/b06166d5-f3dd-485a-bc5f-b5154a069cc0/crown-.jpg"
     },
@@ -1519,7 +1519,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Nice", "Bought", "Every day", "Flowers"],
-      "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?<br><br><b>Julie was such a nice girl. She bought me flowers every day.",
+      "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?\n\nJulie was such a nice girl. She bought me flowers every day.",
       "correctAnswer": "Was",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-04/50e5dc89-7bd5-42b6-894f-960bd71c8395/shutterstock_731074915.jpg"
     },
@@ -1527,7 +1527,7 @@
     "parentId": "2573c4e6-cfc7-41f6-8392-f565026a4146",
     "draft": {
       "wrongAnswers": "Nice, Bought, Every day, Flowers",
-      "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?<br><br><b>Julie was such a nice girl. She bought me flowers every day.",
+      "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?\n\nJulie was such a nice girl. She bought me flowers every day.",
       "correctAnswer": "Was",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-04/50e5dc89-7bd5-42b6-894f-960bd71c8395/shutterstock_731074915.jpg"
     },
@@ -1594,7 +1594,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Simile", "Emotive language", "Hyperbole"],
-      "question": "What technique is used in this sentence?<br><br><b>The car engine howled as it raced past the frightened children.</b>",
+      "question": "What technique is used in this sentence?\n\nThe car engine howled as it raced past the frightened children.",
       "correctAnswer": "Personification",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/1db090a7-3860-405a-9bad-2c3ca7ff31c0/Fast-Car-Speed-Quick-Blur-Light.jpg"
     },
@@ -1610,7 +1610,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Trudy", "Smile", "Had"],
-      "question": "Which word is an adjective in this sentence?<br><br><b>Trudy had a beautiful smile.</b>",
+      "question": "Which word is an adjective in this sentence?\n\nTrudy had a beautiful smile.",
       "correctAnswer": "Beautiful",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/b3f17db6-f90b-4eff-8d4c-a017b6994aa0/shutterstock_134915318.jpg"
     },
@@ -1661,7 +1661,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Aggressive", "Jarring"],
-      "question": "What type of sound does this alliteration create?<br><br><b>Sophia slept soundly upon the silky sofa.",
+      "question": "What type of sound does this alliteration create?\n\nSophia slept soundly upon the silky sofa.",
       "correctAnswer": "Smooth",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/3f84c71f-7534-4468-8f9b-3e941927ed82/shutterstock_397886950.jpg"
     },
@@ -1692,7 +1692,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Why is this a weak example to use in an explanatory account of the different parts of a museum?<br><br><b>The Boden room contains lots of artefacts.",
+      "question": "Why is this a weak example to use in an explanatory account of the different parts of a museum?\n\nThe Boden room contains lots of artefacts.",
       "correctAnswer": "Unspecific example",
       "wrongAnswers": ["Not relevant to the topic", "Contains an opinion", "Uses over-repetition"]
     },
@@ -1739,7 +1739,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["First person narrator", "Second person narrator"],
-      "question": "What type of narrator does Dickens use in _A Christmas Carol_?<br><br><b>'Marley was dead, to begin with. There is no doubt whatever about that. The register of his burial was signed by the clergyman, the clerk, the undertaker, and the chief mourner.'",
+      "question": "What type of narrator does Dickens use in _A Christmas Carol_?\n\n'Marley was dead, to begin with. There is no doubt whatever about that. The register of his burial was signed by the clergyman, the clerk, the undertaker, and the chief mourner.'",
       "correctAnswer": "Third person narrator",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/3872c905-a305-464d-8ed1-00d4429c2417/scrooge-christmascarol.jpg"
     },
@@ -1790,7 +1790,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Which word is repeated in this phrase?<br><br><b>Can't you see how hard I am trying? Can't we give this another go?",
+      "question": "Which word is repeated in this phrase?\n\nCan't you see how hard I am trying? Can't we give this another go?",
       "correctAnswer": "Can't",
       "wrongAnswers": ["Hard", "Trying", "I", "We"]
     },
@@ -1806,7 +1806,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Informative", "Formal", "Satirical", "Emotive"],
-      "question": "What type of language is the writer using in this sentence?<br><br><b>Instead, I hear the lapping of the water against the old brick walls of the dock.",
+      "question": "What type of language is the writer using in this sentence?\n\nInstead, I hear the lapping of the water against the old brick walls of the dock.",
       "correctAnswer": "Figurative",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/4d6856be-f35b-4ca6-a8ae-19b9e8df2630/breakwater-water-sea-barrier.jpg"
     },
@@ -1814,7 +1814,7 @@
     "parentId": "7c131bb5-56b8-4e77-a9a7-18caca2db4ce",
     "draft": {
       "wrongAnswers": "Informative, Formal, Satirical, Emotive",
-      "question": "What type of language is the writer using in this sentence?<br><br><b>Instead, I hear the lapping of the water against the old brick walls of the dock.",
+      "question": "What type of language is the writer using in this sentence?\n\nInstead, I hear the lapping of the water against the old brick walls of the dock.",
       "correctAnswer": "Figurative",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/4d6856be-f35b-4ca6-a8ae-19b9e8df2630/breakwater-water-sea-barrier.jpg"
     },
@@ -1877,7 +1877,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Why is the following sentence a good example of writing to inform?<br><br><b>Do not plan to revise every second of every day, but start with an hour a day and try to stick to it. ",
+      "question": "Why is the following sentence a good example of writing to inform?\n\nDo not plan to revise every second of every day, but start with an hour a day and try to stick to it. ",
       "correctAnswer": "The writer gives a clear and relevant idea ",
       "wrongAnswers": [
         "The writer uses a fact about planning",
@@ -1888,7 +1888,7 @@
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "e5ba80c8-39cb-4685-88aa-54e972489a10",
     "draft": {
-      "question": "Why is the following sentence a good example of writing to inform?<br><br><b>Do not plan to revise every second of every day, but start with an hour a day and try to stick to it. ",
+      "question": "Why is the following sentence a good example of writing to inform?\n\nDo not plan to revise every second of every day, but start with an hour a day and try to stick to it. ",
       "correctAnswer": "The writer gives a clear and relevant idea ",
       "wrongAnswers": "The writer uses a fact about planning, The writer inserts their opinion about planning, The writer answers the 'when' of the four questions"
     },
@@ -1902,7 +1902,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Aggressive", "Jarring"],
-      "question": "What type of sound does this alliteration create?<br><br><b>Sophia slept soundly upon the silky sofa.",
+      "question": "What type of sound does this alliteration create?\n\nSophia slept soundly upon the silky sofa.",
       "correctAnswer": "Smooth",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/3f84c71f-7534-4468-8f9b-3e941927ed82/shutterstock_397886950.jpg"
     },
@@ -1933,7 +1933,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Simile", "Oxymoron", "Juxtaposition"],
-      "question": "What technique does this sentence use?<br><br><b>I was struggling to figure out how lightning works then it struck me.</b>",
+      "question": "What technique does this sentence use?\n\nI was struggling to figure out how lightning works then it struck me.",
       "correctAnswer": "Pun",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/chemistry/2.3.1- Chemical properties/lightning-399853_640-min.jpg"
     },
@@ -1949,7 +1949,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Exaggeration", "Opinion", "Emotive language"],
-      "question": "What part of DAFORESTER does this sentence use?<br><br><b>Research shows that 5 out of 6 teens suffers from anxiety, depression, and other mental health issues. ",
+      "question": "What part of DAFORESTER does this sentence use?\n\nResearch shows that 5 out of 6 teens suffers from anxiety, depression, and other mental health issues. ",
       "correctAnswer": "Fact",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/f0b47d9e-ffa5-4087-88bd-0666417e8793/patient-doctor-anxiety-psychiatric.jpg"
     },
@@ -1957,7 +1957,7 @@
     "parentId": "590f9a99-63fd-42e8-a88a-6e1109cffc28",
     "draft": {
       "wrongAnswers": "Exaggeration, Opinion, Emotive language",
-      "question": "What part of DAFORESTER does this sentence use?<br><br><b>Research shows that 5 out of 6 teens suffers from anxiety, depression, and other mental health issues. ",
+      "question": "What part of DAFORESTER does this sentence use?\n\nResearch shows that 5 out of 6 teens suffers from anxiety, depression, and other mental health issues. ",
       "correctAnswer": "Fact",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/f0b47d9e-ffa5-4087-88bd-0666417e8793/patient-doctor-anxiety-psychiatric.jpg"
     },
@@ -2005,7 +2005,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Opinion", "Neither"],
-      "question": "Is this an opinion or fact?<br><br>Natalie Portman starred in the film Black Swan.",
+      "question": "Is this an opinion or fact?\n\nNatalie Portman starred in the film Black Swan.",
       "correctAnswer": "Fact",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/4fd2eaa3-03a3-49a1-946d-2bfde250dba2/shutterstock_639708628.jpg"
     },
@@ -2021,7 +2021,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Imperative verb", "Information to help the reader make a decision", "Choice of options"],
-      "question": "What technique does this advisatory sentence contain?<br><br><b>You should visit at least three museums while you are in Morocco.",
+      "question": "What technique does this advisatory sentence contain?\n\nYou should visit at least three museums while you are in Morocco.",
       "correctAnswer": "Modal verb",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/memory-location-images/Marrakech, Morocco-min.jpeg"
     },
@@ -2085,7 +2085,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique is used in this sentence?<br><br><b>He was blinded by her beauty.</b>",
+      "question": "What technique is used in this sentence?\n\nHe was blinded by her beauty.",
       "correctAnswer": "Hyperbole",
       "wrongAnswers": ["Oxymoron", "Pathetic fallacy", "Pun"]
     },
@@ -2140,7 +2140,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Metaphor", "Onomatopoeia", "Personification"],
-      "question": "What technique is the narrator using in this quotation about Scrooge?<br><br><b>'Secret, and self-contained, and solitary as an oyster.'</b>",
+      "question": "What technique is the narrator using in this quotation about Scrooge?\n\n'Secret, and self-contained, and solitary as an oyster.'",
       "correctAnswer": "Simile",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/e03b9e7f-750a-407d-bf64-310671f2378c/shutterstock_612162488.jpg"
     },
@@ -2148,7 +2148,7 @@
     "parentId": "2728e378-1fa6-4c84-8f84-27b60de51ec5",
     "draft": {
       "wrongAnswers": "Metaphor, Onomatopoeia, Personification",
-      "question": "What technique is the narrator using in this quotation about Scrooge?<br><br><b>'Secret, and self-contained, and solitary as an oyster.'</b>",
+      "question": "What technique is the narrator using in this quotation about Scrooge?\n\n'Secret, and self-contained, and solitary as an oyster.'",
       "correctAnswer": "Simile",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/e03b9e7f-750a-407d-bf64-310671f2378c/shutterstock_612162488.jpg"
     },
@@ -2162,7 +2162,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Rhetorical question", "Alliteration", "Metaphor"],
-      "question": "What technique is used to end this speech emphatically?<br><br><b>It's clear that going to the gym benefits all of us mentally, physically and socially. It's time to reap those benefits.",
+      "question": "What technique is used to end this speech emphatically?\n\nIt's clear that going to the gym benefits all of us mentally, physically and socially. It's time to reap those benefits.",
       "correctAnswer": "Short statement",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/ed4082f5-8ae2-47a9-9c79-2efde4e6e24d/shutterstock_521986399.jpg"
     },
@@ -2177,7 +2177,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What do we call this opening sentence of a paragraph?<br><br><b>'Harry had the best morning he'd had in a long time.'",
+      "question": "What do we call this opening sentence of a paragraph?\n\n'Harry had the best morning he'd had in a long time.'",
       "correctAnswer": "Topic sentence",
       "wrongAnswers": ["Hook", "Tense", "Narrative voice"]
     },
@@ -2192,7 +2192,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique does this sentence use?<br><br><b>I made the genius decision of quitting my job just before I was due a pay rise. ",
+      "question": "What technique does this sentence use?\n\nI made the genius decision of quitting my job just before I was due a pay rise. ",
       "correctAnswer": "Sarcasm",
       "wrongAnswers": ["Antithesis", "Foreshadowing", "Oxymoron"]
     },
@@ -2207,14 +2207,14 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What is this sentence an example of?<br><br><b>Financially, uniforms cause a lot of problems for families because they must be purchased in specific shops and are often specialised products. ",
+      "question": "What is this sentence an example of?\n\nFinancially, uniforms cause a lot of problems for families because they must be purchased in specific shops and are often specialised products. ",
       "correctAnswer": "Convincing evidence",
       "wrongAnswers": ["Opinion", "Triple", "Exaggeration"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "cd991a7b-bb47-464b-9a06-db4caf14b942",
     "draft": {
-      "question": "What is this sentence an example of?<br><br><b>Financially, uniforms cause a lot of problems for families because they must be purchased in specific shops and are often specialised products. ",
+      "question": "What is this sentence an example of?\n\nFinancially, uniforms cause a lot of problems for families because they must be purchased in specific shops and are often specialised products. ",
       "correctAnswer": "Convincing evidence",
       "wrongAnswers": "Opinion, Triple, Exaggeration"
     },
@@ -2228,7 +2228,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Told", "Got", "Highest", "Mark"],
-      "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?<br><br><b>Ruby got the highest mark in the class. She told me her score at the beginning of the day, which was unfair of her.",
+      "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?\n\nRuby got the highest mark in the class. She told me her score at the beginning of the day, which was unfair of her.",
       "correctAnswer": "Was",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/eee6bab5-d6a7-493a-8fb2-39322a189cd0/exam-sheet-answers.jpg"
     },
@@ -2236,7 +2236,7 @@
     "parentId": "2573c4e6-cfc7-41f6-8392-f565026a4146",
     "draft": {
       "wrongAnswers": "Told, Got, Highest, Mark",
-      "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?<br><br><b>Ruby got the highest mark in the class. She told me her score at the beginning of the day, which was unfair of her.",
+      "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?\n\nRuby got the highest mark in the class. She told me her score at the beginning of the day, which was unfair of her.",
       "correctAnswer": "Was",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/eee6bab5-d6a7-493a-8fb2-39322a189cd0/exam-sheet-answers.jpg"
     },
@@ -2288,7 +2288,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What sound device is used in this phrase?<br><br>\"Try to light the fire\"",
+      "question": "What sound device is used in this phrase?\n\n\"Try to light the fire\"",
       "correctAnswer": "Assonance",
       "wrongAnswers": ["Sibilance", "Onomatopoeia", "Alliteration"]
     },
@@ -2354,7 +2354,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Metaphor", "Personification", "Emotive language"],
-      "question": "What technique is used in this sentence?<br><br><b>The boy was as happy as a puppy with a bone.</b>",
+      "question": "What technique is used in this sentence?\n\nThe boy was as happy as a puppy with a bone.",
       "correctAnswer": "Simile",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/5f18f5d7-554b-4b57-b264-4cd0eea679ba/dog-puppy.jpg"
     },
@@ -2418,7 +2418,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Which word best describes the narrator's tone here?<br><br>\"Jane was effortlessly kind, but her good deeds often went unnoticed by the masses.\"",
+      "question": "Which word best describes the narrator's tone here?\n\n\"Jane was effortlessly kind, but her good deeds often went unnoticed by the masses.\"",
       "correctAnswer": "Pitiful ",
       "wrongAnswers": ["Regretful", "Angry", "Impassioned", "Snide"]
     },
@@ -2433,7 +2433,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique is used in this phrase?<br><br>\"I told you to clean the house a million times!\"",
+      "question": "What technique is used in this phrase?\n\n\"I told you to clean the house a million times!\"",
       "correctAnswer": "Hyperbole",
       "wrongAnswers": ["Pun", "Oxymoron", "Onomatopoeia"]
     },
@@ -2448,7 +2448,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Why is this a good opening sentence for an informative piece on planning?<br><br><b>It is really important to have a clear plan before you start to revise for your exams.",
+      "question": "Why is this a good opening sentence for an informative piece on planning?\n\nIt is really important to have a clear plan before you start to revise for your exams.",
       "correctAnswer": "The writer uses clear language",
       "wrongAnswers": [
         "The writer uses a relevant fact",
@@ -2503,7 +2503,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Ran", "Harry", "Friend's", "House"],
-      "question": "Which word is an adverb in this sentence?<br><br><b>Harry ran swiftly to his friend's house.</b>",
+      "question": "Which word is an adverb in this sentence?\n\nHarry ran swiftly to his friend's house.",
       "correctAnswer": "Swiftly",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/physics/1.5.1 Energy Changes/kinetic-energy-min.jpg"
     },
@@ -2534,7 +2534,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Why is this a good conclusion to an argument?<br><br><b>Although a lot of the Daily Mail's content doesn't teach people anything, wastes a lot of my time, and invades people's privacy, it covers content that it knows people enjoy reading and looking at. It is the greatest website in the world. ",
+      "question": "Why is this a good conclusion to an argument?\n\nAlthough a lot of the Daily Mail's content doesn't teach people anything, wastes a lot of my time, and invades people's privacy, it covers content that it knows people enjoy reading and looking at. It is the greatest website in the world. ",
       "correctAnswer": "Shows the writer has weighed up the argument and chosen one side",
       "wrongAnswers": ["The writer has argued one side emphatically", "The writer has repeated the word 'uniforms'"]
     },
@@ -2594,7 +2594,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What could we do instead of repeating the adjective 'nice' in this sentence?<br><br><b>Mary had a nice house on a nice estate with nice neighbours and nice gardens.",
+      "question": "What could we do instead of repeating the adjective 'nice' in this sentence?\n\nMary had a nice house on a nice estate with nice neighbours and nice gardens.",
       "correctAnswer": "Use different synonyms for nice",
       "wrongAnswers": ["Delete all the adjectives", "Replace 'nice' with 'terrible'"]
     },
@@ -2609,7 +2609,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What persuasive technique is used in this extract?<br><br><b>I am forced to revise seven nights a week. Consequently, my social life is suffering.",
+      "question": "What persuasive technique is used in this extract?\n\nI am forced to revise seven nights a week. Consequently, my social life is suffering.",
       "correctAnswer": "Logical connective",
       "wrongAnswers": ["Direct address", "First person", "Exaggeration"]
     },
@@ -2662,7 +2662,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Oxymoron", "Juxtaposition", "Foreshadowing"],
-      "question": "What technique is used in this sentence?<br><br><b>I was so hungry I could die.</b>",
+      "question": "What technique is used in this sentence?\n\nI was so hungry I could die.",
       "correctAnswer": "Hyperbole",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/6c93be05-db69-47c2-bf9a-5f44ccf230af/abdominal-pain-hunger-hungry-man-food-.jpg"
     },
@@ -2677,7 +2677,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Which verb should go in the gap?<br><br><b>Molly always jumps to conclusions. She thought that I ____ my brother.",
+      "question": "Which verb should go in the gap?\n\nMolly always jumps to conclusions. She thought that I ____ my brother.",
       "correctAnswer": "Attacked",
       "wrongAnswers": ["Attacks", "Attack", "Will attack"]
     },
@@ -2769,7 +2769,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Onomatopoeia", "Pun", "Emotive language", "Pathetic fallacy"],
-      "question": "Which of these techniques is used in this sentence?<br><br><b>The sea is a snake, licking the sand with it's split tongue.</b>",
+      "question": "Which of these techniques is used in this sentence?\n\nThe sea is a snake, licking the sand with it's split tongue.",
       "correctAnswer": "Metaphor",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/983b8d6c-b99f-4e7e-9d91-aa2a61d6a1de/beach-sea-coast-drone-ocean.jpg"
     },
@@ -2821,14 +2821,14 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What kind of tone is the narrator using to describe Scrooge?<br><br><b>'A squeezing, wrenching, grasping, scraping, clutching, covetous, old sinner!'",
+      "question": "What kind of tone is the narrator using to describe Scrooge?\n\n'A squeezing, wrenching, grasping, scraping, clutching, covetous, old sinner!'",
       "correctAnswer": "Negative tone",
       "wrongAnswers": ["Positive tone", "Neutral tone"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "2728e378-1fa6-4c84-8f84-27b60de51ec5",
     "draft": {
-      "question": "What kind of tone is the narrator using to describe Scrooge?<br><br><b>'A squeezing, wrenching, grasping, scraping, clutching, covetous, old sinner!'",
+      "question": "What kind of tone is the narrator using to describe Scrooge?\n\n'A squeezing, wrenching, grasping, scraping, clutching, covetous, old sinner!'",
       "correctAnswer": "Negative tone",
       "wrongAnswers": "Positive tone, Neutral tone"
     },
@@ -2861,7 +2861,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Harry", "Mother", "Brought", "Piping", "Pizza", "Hot"],
-      "question": "Which word uses onomatopoeia in this sentence?<br><br><b>Harry dribbled as his mother brought out the piping hot pizza.",
+      "question": "Which word uses onomatopoeia in this sentence?\n\nHarry dribbled as his mother brought out the piping hot pizza.",
       "correctAnswer": "Dribbled ",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/7e5d5c7b-c49b-4e1a-a814-e6a01e9d5726/shutterstock_719923828.jpg"
     },
@@ -2926,7 +2926,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Present tense", "Past tense"],
-      "question": "What tense is the verb in this sentence?<br><br><b>My sister, Josephine, will marry her fiancé in two weeks' time. ",
+      "question": "What tense is the verb in this sentence?\n\nMy sister, Josephine, will marry her fiancé in two weeks' time. ",
       "correctAnswer": "Future tense",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/a32e93da-2885-49d5-ae74-fe350943fb35/married-wedding.jpg"
     },
@@ -2934,7 +2934,7 @@
     "parentId": "456baca2-4ba9-4d21-ace7-ce42417a495d",
     "draft": {
       "wrongAnswers": "Present tense, Past tense",
-      "question": "What tense is the verb in this sentence?<br><br><b>My sister, Josephine, will marry her fiancé in two weeks' time. ",
+      "question": "What tense is the verb in this sentence?\n\nMy sister, Josephine, will marry her fiancé in two weeks' time. ",
       "correctAnswer": "Future tense",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/a32e93da-2885-49d5-ae74-fe350943fb35/married-wedding.jpg"
     },
@@ -2963,7 +2963,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Alliteration"],
-      "question": "What technique does the following sentence use?<br><br>__His satchel was soaking thanks to the storm.__",
+      "question": "What technique does the following sentence use?\n\n__His satchel was soaking thanks to the storm.__",
       "correctAnswer": "Sibilance",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/0f656502-a10f-4a99-90fb-6c63ffb986e9/smoke.jpg"
     },
@@ -2971,7 +2971,7 @@
     "parentId": "b61a5e83-f432-4c92-aac8-3edcc6605286",
     "draft": {
       "wrongAnswers": "Alliteration ",
-      "question": "What technique does the following sentence use?<br><br>__His satchel was soaking thanks to the storm.__",
+      "question": "What technique does the following sentence use?\n\n__His satchel was soaking thanks to the storm.__",
       "correctAnswer": "Sibilance",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/0f656502-a10f-4a99-90fb-6c63ffb986e9/smoke.jpg"
     },
@@ -3004,7 +3004,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Simile", "Personification", "Anthropomorphism"],
-      "question": "What technique is being used in this sentence?<br><br><b>Jenny was a ghost in her paleness.</b>",
+      "question": "What technique is being used in this sentence?\n\nJenny was a ghost in her paleness.",
       "correctAnswer": "Metaphor",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-10/e32e8378-238b-4a54-85a3-c9a71d16da60/ghost-.png"
     },
@@ -3066,7 +3066,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Present tense", "Past tense"],
-      "question": "What tense is the verb in this sentence?<br><br><b>My sister, Josephine, will marry her fiancé in two weeks' time. ",
+      "question": "What tense is the verb in this sentence?\n\nMy sister, Josephine, will marry her fiancé in two weeks' time. ",
       "correctAnswer": "Future tense",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/a32e93da-2885-49d5-ae74-fe350943fb35/married-wedding.jpg"
     },
@@ -3139,7 +3139,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What kind of tone is the reader using in this example of writing to advise?<br><br><b> If you don’t want a cold head, you could try a sponsored silence, a non-uniform day, or a cake sale. ",
+      "question": "What kind of tone is the reader using in this example of writing to advise?\n\n If you don’t want a cold head, you could try a sponsored silence, a non-uniform day, or a cake sale. ",
       "correctAnswer": "Friendly ",
       "wrongAnswers": ["Sinister", "Formal", "Informative"]
     },
@@ -3170,7 +3170,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Statistic", "Opinion", "Fact", "Exaggeration"],
-      "question": "What persuasive technique is being used in this paragraph?<br><br><b>Are you as exhausted as I am?",
+      "question": "What persuasive technique is being used in this paragraph?\n\nAre you as exhausted as I am?",
       "correctAnswer": "Rhetorical question",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/e5540b8e-086b-485d-900c-be771465d1b9/bored-yawn-.jpg"
     },
@@ -3186,7 +3186,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Simile", "Metaphor", "Onomatopoeia", "Hyperbole"],
-      "question": "What technique is used in this sentence?<br><br><b>The starving child stared longingly at the luxurious banquet, so far out of reach.</b>",
+      "question": "What technique is used in this sentence?\n\nThe starving child stared longingly at the luxurious banquet, so far out of reach.",
       "correctAnswer": "Emotive language",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/95a68803-387c-4c50-9a0e-89800283fa55/Banquet-Tudor-Food-Feast-Table.jpg"
     },
@@ -3202,7 +3202,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Informative", "Formal", "Satirical", "Emotive"],
-      "question": "What type of language is the writer using in this sentence?<br><br><b>Instead, I hear the lapping of the water against the old brick walls of the dock.",
+      "question": "What type of language is the writer using in this sentence?\n\nInstead, I hear the lapping of the water against the old brick walls of the dock.",
       "correctAnswer": "Figurative",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/4d6856be-f35b-4ca6-a8ae-19b9e8df2630/breakwater-water-sea-barrier.jpg"
     },
@@ -3217,7 +3217,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What kind of language is being used in these sentences?<br><br><b>Jack had no food. His body was weak and scrawny. He was tearful.</b>",
+      "question": "What kind of language is being used in these sentences?\n\nJack had no food. His body was weak and scrawny. He was tearful.",
       "correctAnswer": "Emotive language",
       "wrongAnswers": ["Metaphors", "Figurative language", "Similes"]
     },
@@ -3232,7 +3232,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What could we replace the repeated word 'Lucy' with in this phrase?<br><br><b>Lucy was a bright girl. Lucy could sing. Lucy could dance. Lucy was an all-rounder. ",
+      "question": "What could we replace the repeated word 'Lucy' with in this phrase?\n\nLucy was a bright girl. Lucy could sing. Lucy could dance. Lucy was an all-rounder. ",
       "correctAnswer": "She",
       "wrongAnswers": ["It", "Her", "Girl"]
     },
@@ -3247,7 +3247,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique does this sentence use?<br><br><b>She was moody. She was boring. She was downright awful.</b>",
+      "question": "What technique does this sentence use?\n\nShe was moody. She was boring. She was downright awful.",
       "correctAnswer": "Rule of three",
       "wrongAnswers": ["Sarcasm", "Antithesis", "Hyperbole"]
     },
@@ -3321,7 +3321,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Present tense", "Future tense"],
-      "question": "What tense is the verb in this sentence?<br><br><b>I walked the dog yesterday.",
+      "question": "What tense is the verb in this sentence?\n\nI walked the dog yesterday.",
       "correctAnswer": "Past tense",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/dfc821d8-5038-440e-be03-b10b986cfa8d/dog-owner.jpg"
     },
@@ -3329,7 +3329,7 @@
     "parentId": "456baca2-4ba9-4d21-ace7-ce42417a495d",
     "draft": {
       "wrongAnswers": "Present tense, Future tense",
-      "question": "What tense is the verb in this sentence?<br><br><b>I walked the dog yesterday.",
+      "question": "What tense is the verb in this sentence?\n\nI walked the dog yesterday.",
       "correctAnswer": "Past tense",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/dfc821d8-5038-440e-be03-b10b986cfa8d/dog-owner.jpg"
     },
@@ -3342,7 +3342,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What word directly addresses the reader in this phrase?<br><br><b>If we work on the problem together, we will get it done so much faster!",
+      "question": "What word directly addresses the reader in this phrase?\n\nIf we work on the problem together, we will get it done so much faster!",
       "correctAnswer": "We",
       "wrongAnswers": ["Together", "Problem", "Faster", "Will"]
     },
@@ -3487,14 +3487,14 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What is this sentence an example of?<br><br><b>Financially, uniforms cause a lot of problems for families because they must be purchased in specific shops and are often specialised products. ",
+      "question": "What is this sentence an example of?\n\nFinancially, uniforms cause a lot of problems for families because they must be purchased in specific shops and are often specialised products. ",
       "correctAnswer": "Convincing evidence",
       "wrongAnswers": ["Opinion", "Triple", "Exaggeration"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "36e5a023-45e4-4434-b5d2-e62f9e35df4b",
     "draft": {
-      "question": "What is this sentence an example of?<br><br><b>Financially, uniforms cause a lot of problems for families because they must be purchased in specific shops and are often specialised products. ",
+      "question": "What is this sentence an example of?\n\nFinancially, uniforms cause a lot of problems for families because they must be purchased in specific shops and are often specialised products. ",
       "correctAnswer": "Convincing evidence",
       "wrongAnswers": "Opinion, Triple, Exaggeration"
     },
@@ -3508,7 +3508,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Smooth", "Fluid", "Airy"],
-      "question": "What type of sound does this alliteration create?<br><br><b>The monster murdered everyone in sight as he marched through the marshland.",
+      "question": "What type of sound does this alliteration create?\n\nThe monster murdered everyone in sight as he marched through the marshland.",
       "correctAnswer": "Aggressive",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/a14bc0c5-48ae-4a4a-8f01-28a6571873d4/eery-frankenstein-monster-.jpg"
     },
@@ -3542,7 +3542,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique is used in this sentence?<br><br><b>Harry always hated hearing from his mother.",
+      "question": "What technique is used in this sentence?\n\nHarry always hated hearing from his mother.",
       "correctAnswer": "Alliteration",
       "wrongAnswers": ["Personification", "Simile", "Pun", "Pathetic fallacy", "Hyperbole"]
     },
@@ -3557,7 +3557,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What is the emotive word in this sentence?<br><br><b>Timmy had a stick-like frame.</b>",
+      "question": "What is the emotive word in this sentence?\n\nTimmy had a stick-like frame.",
       "correctAnswer": "Stick-like",
       "wrongAnswers": ["Frame", "Timmy", "Had"]
     },
@@ -3572,14 +3572,14 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique is the writer using in this sentence?<br><br><b>If you think the city centre is an odd place to find peace, there are others who seem to share my choice of special spot. ",
+      "question": "What technique is the writer using in this sentence?\n\nIf you think the city centre is an odd place to find peace, there are others who seem to share my choice of special spot. ",
       "correctAnswer": "Direct address",
       "wrongAnswers": ["Exaggeration", "Emotive language", "Rhetorical question", "Imperative verb", "Modal verb"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "7c131bb5-56b8-4e77-a9a7-18caca2db4ce",
     "draft": {
-      "question": "What technique is the writer using in this sentence?<br><br><b>If you think the city centre is an odd place to find peace, there are others who seem to share my choice of special spot. ",
+      "question": "What technique is the writer using in this sentence?\n\nIf you think the city centre is an odd place to find peace, there are others who seem to share my choice of special spot. ",
       "correctAnswer": "Direct address",
       "wrongAnswers": "Exaggeration, Emotive language, Rhetorical question, Imperative verb, Modal verb"
     },
@@ -3597,7 +3597,7 @@
         "With tiny feet and minuscule hands",
         "Clinging desperately to her boyfriend"
       ],
-      "question": "You want to paint a picture of a lazy person. Which of the following would be a good extension for this metaphor?<br><br>__Suzie is a sloth...__",
+      "question": "You want to paint a picture of a lazy person. Which of the following would be a good extension for this metaphor?\n\n__Suzie is a sloth...__",
       "correctAnswer": "Crawling out of bed with her eyes still closed",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/fb906586-5dcf-43e5-bbcb-08809ef29e91/shutterstock_243273610.jpg"
     },
@@ -3643,7 +3643,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Does this description SHOW or TELL?<br><br>\"The man was so tall that he banged his head as he entered the room.\"",
+      "question": "Does this description SHOW or TELL?\n\n\"The man was so tall that he banged his head as he entered the room.\"",
       "correctAnswer": "Tell",
       "wrongAnswers": ["Show"]
     },
@@ -3658,7 +3658,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique is used in this phrase?<br><br>\"I swallowed some paint this morning. I felt like I had dyed inside\"",
+      "question": "What technique is used in this phrase?\n\n\"I swallowed some paint this morning. I felt like I had dyed inside\"",
       "correctAnswer": "Pun",
       "wrongAnswers": ["Onomatopoeia", "Oxymoron", "Metaphor"]
     },
@@ -3673,7 +3673,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique is used in this phrase?<br><br>\"Roger's performance was amazingly bad\"",
+      "question": "What technique is used in this phrase?\n\n\"Roger's performance was amazingly bad\"",
       "correctAnswer": "Oxymoron",
       "wrongAnswers": ["Pun", "Emotive language", "Onomatopoeia"]
     },
@@ -3689,7 +3689,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Phenomenal", "Scored", "20", "Our", "Basketball"],
-      "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?<br><br><b>Patrick is phenomenal at basketball. He scored 20 goals in our last game.",
+      "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?\n\nPatrick is phenomenal at basketball. He scored 20 goals in our last game.",
       "correctAnswer": "Is",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/2dc4672c-80d7-4b6c-a7eb-4f32c9d59682/shutterstock_525133843.jpg"
     },
@@ -3697,7 +3697,7 @@
     "parentId": "2573c4e6-cfc7-41f6-8392-f565026a4146",
     "draft": {
       "wrongAnswers": "Phenomenal, Scored, 20, Our, Basketball",
-      "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?<br><br><b>Patrick is phenomenal at basketball. He scored 20 goals in our last game.",
+      "question": "Which word in this phrase implies you are giving a fact, rather than an opinion?\n\nPatrick is phenomenal at basketball. He scored 20 goals in our last game.",
       "correctAnswer": "Is",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/2dc4672c-80d7-4b6c-a7eb-4f32c9d59682/shutterstock_525133843.jpg"
     },
@@ -3710,7 +3710,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What type of narrator is this?<br><br>\"James was a handsome man, but I knew I could never love him.\"",
+      "question": "What type of narrator is this?\n\n\"James was a handsome man, but I knew I could never love him.\"",
       "correctAnswer": "First-person narrator",
       "wrongAnswers": ["Third-person narrator", "Second-person narrator"]
     },
@@ -3725,7 +3725,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Why is this a strong conclusion to an argument?<br><br><b>In conclusion, even though online shopping is convenient, the strain it brings on shopping outlets and individuals working in retail outweighs this pro. ",
+      "question": "Why is this a strong conclusion to an argument?\n\nIn conclusion, even though online shopping is convenient, the strain it brings on shopping outlets and individuals working in retail outweighs this pro. ",
       "correctAnswer": "Shows the writer has weighed up the argument and chosen one side",
       "wrongAnswers": ["Strongly presents one point of view"]
     },
@@ -3759,7 +3759,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Colloquialism", "Antithesis", "Connotation"],
-      "question": "What technique does this sentence use?<br><br><b>He knew... He knew all too well.</b>",
+      "question": "What technique does this sentence use?\n\nHe knew... He knew all too well.",
       "correctAnswer": "Ellipsis",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/517f300c-e208-4473-bce1-c646457752fe/man-thinking-forget.jpg"
     },
@@ -3791,7 +3791,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Statement", "Inference"],
-      "question": "Which component of a paragraph is the below sentence most likely to be?\n<br><br>\n\n<b>In paragraph two, the author uses the metaphor 'the wolfish wind'... </b>\n",
+      "question": "Which component of a paragraph is the below sentence most likely to be?\n\n\n\n\nIn paragraph two, the author uses the metaphor 'the wolfish wind'... \n",
       "correctAnswer": "Quotation",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/0cbaf7a2-c88c-4ac2-a1bf-5c8670e63c2f/wolf-howl-moon-animal-.jpg"
     },
@@ -3821,7 +3821,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What is the technical term for the phrase in bold?<br><br>She walked __as quickly as she could__.",
+      "question": "What is the technical term for the phrase in bold?\n\nShe walked __as quickly as she could__.",
       "correctAnswer": "Adverbial phrase",
       "wrongAnswers": ["Noun phrase", "Pun", "Cliché"]
     },
@@ -3851,7 +3851,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What does the alliteration draw attention to in this phrase?<br><br><b>Matthew made mellow music with his miniature microphone.",
+      "question": "What does the alliteration draw attention to in this phrase?\n\nMatthew made mellow music with his miniature microphone.",
       "correctAnswer": "The mellowness of Matthew's music",
       "wrongAnswers": [
         "The rubbishness of Matthew's microphone",
@@ -3902,7 +3902,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Oxymoron", "Pathetic fallacy", "Hyperbole", "Simile"],
-      "question": "What technique is used in this sentence?<br><br><b>No matter how much you push the envelope, it will still be stationery.</b>",
+      "question": "What technique is used in this sentence?\n\nNo matter how much you push the envelope, it will still be stationery.",
       "correctAnswer": "Pun",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/0013c8a8-e85c-4acd-a8de-79713db7ecab/post-403145_1280.png"
     },
@@ -3996,7 +3996,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "How do we know the writer is writing to explain in this sentence?<br><br><b>I suppose the main reason I like that spot so much is because it is in the centre of a busy city but, when I stand there, I feel peaceful. ",
+      "question": "How do we know the writer is writing to explain in this sentence?\n\nI suppose the main reason I like that spot so much is because it is in the centre of a busy city but, when I stand there, I feel peaceful. ",
       "correctAnswer": "The writer has given a reason for their opinion",
       "wrongAnswers": [
         "The writer is using a formal and informative tone",
@@ -4046,7 +4046,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Fact", "Neither"],
-      "question": "Is this an opinion or fact?<br><br>David Beckham is a rubbish football player.",
+      "question": "Is this an opinion or fact?\n\nDavid Beckham is a rubbish football player.",
       "correctAnswer": "Opinion",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/d8c75177-85e4-4edc-b568-4f2908872b83/football-soccer-player.jpg"
     },
@@ -4061,7 +4061,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What word does this pun play on?<br><br>__She wanted a camouflage shirt, but couldn't find one.__",
+      "question": "What word does this pun play on?\n\n__She wanted a camouflage shirt, but couldn't find one.__",
       "correctAnswer": "Camouflage",
       "wrongAnswers": ["Wanted", "She", "Couldn't", "One"]
     },
@@ -4076,7 +4076,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What kind of tone do these sentences create?<br><br>\"The twinkling stars beamed down on the sleeping child. Her soft, little snores lulled the animals around her to sleep.\"",
+      "question": "What kind of tone do these sentences create?\n\n\"The twinkling stars beamed down on the sleeping child. Her soft, little snores lulled the animals around her to sleep.\"",
       "correctAnswer": "Positive tone",
       "wrongAnswers": ["Negative tone", "Aggressive tone", "Melancholy tone"]
     },
@@ -4138,7 +4138,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Assonance", "Onomatopoeia", "Simile"],
-      "question": "Which of these techniques is being used in the following sentence?<br><br><b>The slippery snake slid through the shrub.</b>",
+      "question": "Which of these techniques is being used in the following sentence?\n\nThe slippery snake slid through the shrub.",
       "correctAnswer": "Sibilance",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/c01fb4b5-fb60-480d-9c8e-ff4f35c5fee6/shutterstock_547176661.jpg"
     },
@@ -4168,7 +4168,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique has the writer used to support the advice she is giving?<br><br><b>For my trip, my favourite fundraisers were a sponsored dance-a-thon and shaving my head.",
+      "question": "What technique has the writer used to support the advice she is giving?\n\nFor my trip, my favourite fundraisers were a sponsored dance-a-thon and shaving my head.",
       "correctAnswer": "Personal examples and opinion",
       "wrongAnswers": ["First person", "Repetition of 'my'", "Sympathetic tone"]
     },
@@ -4220,7 +4220,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Exaggeration", "Opinion", "Emotive language"],
-      "question": "What device has the writer used in this sentence?<br><br><b>Furthermore, school-aged children grow the most, so school uniforms constantly need to be replaced as pupils grow out of them so quickly.",
+      "question": "What device has the writer used in this sentence?\n\nFurthermore, school-aged children grow the most, so school uniforms constantly need to be replaced as pupils grow out of them so quickly.",
       "correctAnswer": "Strong connective",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/6489c03b-4491-411d-a81d-09bbf7360586/school-uniform-students.jpg"
     },
@@ -4228,7 +4228,7 @@
     "parentId": "cd991a7b-bb47-464b-9a06-db4caf14b942",
     "draft": {
       "wrongAnswers": "Exaggeration, Opinion, Emotive language",
-      "question": "What device has the writer used in this sentence?<br><br><b>Furthermore, school-aged children grow the most, so school uniforms constantly need to be replaced as pupils grow out of them so quickly.",
+      "question": "What device has the writer used in this sentence?\n\nFurthermore, school-aged children grow the most, so school uniforms constantly need to be replaced as pupils grow out of them so quickly.",
       "correctAnswer": "Strong connective",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/6489c03b-4491-411d-a81d-09bbf7360586/school-uniform-students.jpg"
     },
@@ -4256,7 +4256,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "How does the following sentence show the writer is arguing and not persuading?<br><br><b>However, one of the biggest arguments against the Daily Mail's website is the feeling it creates after spending a long time reading its articles. ",
+      "question": "How does the following sentence show the writer is arguing and not persuading?\n\nHowever, one of the biggest arguments against the Daily Mail's website is the feeling it creates after spending a long time reading its articles. ",
       "correctAnswer": "They have shown the other side of the argument ",
       "wrongAnswers": [
         "They have used the strong adjectives 'expensive' and 'unnecessary'",
@@ -4274,7 +4274,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Is this a good example of repetition?<br><br><b>Henry was a good boy. Henry had nice clothes. Henry was a pleasant singer. Henry enjoyed dancing",
+      "question": "Is this a good example of repetition?\n\nHenry was a good boy. Henry had nice clothes. Henry was a pleasant singer. Henry enjoyed dancing",
       "correctAnswer": "No - Henry is over-repeated so the sentence sounds jarring",
       "wrongAnswers": ["Yes - these are really interesting sentences", "No - there is no repetition"]
     },
@@ -4309,7 +4309,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "This sentence contains 1 adjective.<br><br>What word does this adjective describe?<br><br>\"Young Henrietta fondly recalled her youth and her schoolyears.\"",
+      "question": "This sentence contains 1 adjective.\n\nWhat word does this adjective describe?\n\n\"Young Henrietta fondly recalled her youth and her schoolyears.\"",
       "correctAnswer": "Henrietta",
       "wrongAnswers": ["Young", "Fondly", "Recalled", "Youth", "Schoolyears"]
     },
@@ -4371,7 +4371,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique is used in this phrase?<br><br>\"My bag weighs an absolute tonne.\"",
+      "question": "What technique is used in this phrase?\n\n\"My bag weighs an absolute tonne.\"",
       "correctAnswer": "Hyperbole",
       "wrongAnswers": ["Juxtaposition", "An oxymoron", "Irony", "A pun"]
     },
@@ -4419,7 +4419,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What type of sound does this alliteration create?<br><br><b>Yarvis yanked his ankle and Yolanda yelled out in shock.",
+      "question": "What type of sound does this alliteration create?\n\nYarvis yanked his ankle and Yolanda yelled out in shock.",
       "correctAnswer": "Jarring",
       "wrongAnswers": ["Smooth", "Fluid", "Airy"]
     },
@@ -4471,7 +4471,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Metaphor", "Personification", "Oxymoron", "Emotive language"],
-      "question": "What technique does this sentence use?<br><br><b>James was as silly as a clown.</b>",
+      "question": "What technique does this sentence use?\n\nJames was as silly as a clown.",
       "correctAnswer": "Simile",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/6cc470d8-e93a-4894-bca3-ad0ae9c10e0e/clown-scary-phobia.jpg"
     },
@@ -4581,7 +4581,7 @@
         "Has used a triple to emphasise how difficult the students find revising",
         "Has answered the four questions"
       ],
-      "question": "How has the writer used language to inform in this paragraph?<br><br><b>Lots of students find it hard to revise – 74% of those taking GCSE exams in 2017 – but the majority found it easier once they had created a plan. ",
+      "question": "How has the writer used language to inform in this paragraph?\n\nLots of students find it hard to revise – 74% of those taking GCSE exams in 2017 – but the majority found it easier once they had created a plan. ",
       "correctAnswer": "Used a fact to support their argument",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/d7a48672-5053-48a4-8796-ebcc16dfc3b8/exam-students.jpg"
     },
@@ -4658,7 +4658,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What type of sound does this alliteration create?<br><br><b>Yarvis yanked his ankle and Yolanda yelled out in shock.",
+      "question": "What type of sound does this alliteration create?\n\nYarvis yanked his ankle and Yolanda yelled out in shock.",
       "correctAnswer": "Jarring",
       "wrongAnswers": ["Smooth", "Fluid", "Airy"]
     },
@@ -4673,7 +4673,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What does the alliteration draw attention to in this phrase?<br><br><b>Matthew made mellow music with his miniature microphone.",
+      "question": "What does the alliteration draw attention to in this phrase?\n\nMatthew made mellow music with his miniature microphone.",
       "correctAnswer": "The mellowness of Matthew's music",
       "wrongAnswers": [
         "The size of Matthew's microphone",
@@ -4692,14 +4692,14 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Why is this a good conclusion to an argument?<br><br><b>In conclusion, school uniform does have its benefits – pupils look smart and feel like they are sharing a common goal and experiences. However, uniforms limit individuality and cause more problems than they solve. Uniforms are outdated and redundant. ",
+      "question": "Why is this a good conclusion to an argument?\n\nIn conclusion, school uniform does have its benefits – pupils look smart and feel like they are sharing a common goal and experiences. However, uniforms limit individuality and cause more problems than they solve. Uniforms are outdated and redundant. ",
       "correctAnswer": "Shows the writer has weighed up the argument and chosen one side",
       "wrongAnswers": ["The writer has argued one side emphatically", "The writer has repeated the word 'uniforms'"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "cd991a7b-bb47-464b-9a06-db4caf14b942",
     "draft": {
-      "question": "Why is this a good conclusion to an argument?<br><br><b>In conclusion, school uniform does have its benefits – pupils look smart and feel like they are sharing a common goal and experiences. However, uniforms limit individuality and cause more problems than they solve. Uniforms are outdated and redundant. ",
+      "question": "Why is this a good conclusion to an argument?\n\nIn conclusion, school uniform does have its benefits – pupils look smart and feel like they are sharing a common goal and experiences. However, uniforms limit individuality and cause more problems than they solve. Uniforms are outdated and redundant. ",
       "correctAnswer": "Shows the writer has weighed up the argument and chosen one side",
       "wrongAnswers": "The writer has argued one side emphatically, The writer has repeated the word 'uniforms'"
     },
@@ -4727,7 +4727,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What is the emotive word in this sentence?<br><br><b>Timmy had a stick-like frame.</b>",
+      "question": "What is the emotive word in this sentence?\n\nTimmy had a stick-like frame.",
       "correctAnswer": "Stick-like",
       "wrongAnswers": ["Frame", "Timmy", "Had"]
     },
@@ -4742,7 +4742,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique is used in this sentence?<br><br><b>The slippery slope was drenched with slush.</b>",
+      "question": "What technique is used in this sentence?\n\nThe slippery slope was drenched with slush.",
       "correctAnswer": "Sibilance",
       "wrongAnswers": ["Onomatopoeia", "Simile", "Hyperbole", "Pun"]
     },
@@ -4901,7 +4901,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "You are writing to inform about food poisoning. What's wrong with the below paragraph?<br><br><b>If a person, who has eaten food, finds themself falling ill, it may be that they have food poisoning. Around one in three people suffers from food poisoning annually.",
+      "question": "You are writing to inform about food poisoning. What's wrong with the below paragraph?\n\nIf a person, who has eaten food, finds themself falling ill, it may be that they have food poisoning. Around one in three people suffers from food poisoning annually.",
       "correctAnswer": "Does not use clear language",
       "wrongAnswers": ["Contains a false fact", "Contains an opinion", "Not relevant to the topic of food poisoning"]
     },
@@ -4961,7 +4961,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique does this explanatory sentence contain?<br><br><b>Last summer, for instance, the whole area was full of people standing and sitting, reading and chatting, quiet and laughing.",
+      "question": "What technique does this explanatory sentence contain?\n\nLast summer, for instance, the whole area was full of people standing and sitting, reading and chatting, quiet and laughing.",
       "correctAnswer": "Specific example",
       "wrongAnswers": ["Exaggeration", "Hyperbole", "Repetition"]
     },
@@ -5031,14 +5031,14 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique does this explanatory sentence contain?<br><br><b>Last summer, for instance, the whole area was full of people standing and sitting, reading and chatting, quiet and laughing.",
+      "question": "What technique does this explanatory sentence contain?\n\nLast summer, for instance, the whole area was full of people standing and sitting, reading and chatting, quiet and laughing.",
       "correctAnswer": "Specific example",
       "wrongAnswers": ["Exaggeration", "Triples", "Repetition"]
     },
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "7c131bb5-56b8-4e77-a9a7-18caca2db4ce",
     "draft": {
-      "question": "What technique does this explanatory sentence contain?<br><br><b>Last summer, for instance, the whole area was full of people standing and sitting, reading and chatting, quiet and laughing.",
+      "question": "What technique does this explanatory sentence contain?\n\nLast summer, for instance, the whole area was full of people standing and sitting, reading and chatting, quiet and laughing.",
       "correctAnswer": "Specific example",
       "wrongAnswers": "Exaggeration, Triples, Repetition "
     },
@@ -5117,7 +5117,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Evil", "Witch", "Threw", "Scalding"],
-      "question": "Which word is the onomatopoeic word in this phrase?<br><br>\"The evil witch cackled as she threw fire into her scalding cauldron\"",
+      "question": "Which word is the onomatopoeic word in this phrase?\n\n\"The evil witch cackled as she threw fire into her scalding cauldron\"",
       "correctAnswer": "Cackled",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/4cbc7d49-9259-46b0-931d-eb86358d75e1/Witch-Witchcraft-Cauldron.jpg"
     },
@@ -5153,7 +5153,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Assonance", "Oxymoron", "Pun"],
-      "question": "Apart from a simile, what technique is the narrator using in this quotation about Scrooge?<br><br><b>'Secret, and self-contained, and solitary as an oyster.'</b>",
+      "question": "Apart from a simile, what technique is the narrator using in this quotation about Scrooge?\n\n'Secret, and self-contained, and solitary as an oyster.'",
       "correctAnswer": "Sibilance",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/e03b9e7f-750a-407d-bf64-310671f2378c/shutterstock_612162488.jpg"
     },
@@ -5161,7 +5161,7 @@
     "parentId": "2728e378-1fa6-4c84-8f84-27b60de51ec5",
     "draft": {
       "wrongAnswers": "Assonance, Oxymoron, Pun",
-      "question": "Apart from a simile, what technique is the narrator using in this quotation about Scrooge?<br><br><b>'Secret, and self-contained, and solitary as an oyster.'</b>",
+      "question": "Apart from a simile, what technique is the narrator using in this quotation about Scrooge?\n\n'Secret, and self-contained, and solitary as an oyster.'",
       "correctAnswer": "Sibilance",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-05/e03b9e7f-750a-407d-bf64-310671f2378c/shutterstock_612162488.jpg"
     },
@@ -5194,7 +5194,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Point", "Explanation and Technique", "Reference back to the question"],
-      "question": "Which component of a paragraph is the below sentence most likely to be?\n<br><br>\n\n<b>'In paragraph three, the author uses the quotation '... </b>\n\n\n",
+      "question": "Which component of a paragraph is the below sentence most likely to be?\n\n\n\n\n'In paragraph three, the author uses the quotation '... \n\n\n",
       "correctAnswer": "Evidence",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/3c78757d-f4cb-4eb4-9613-78918c812f11/hawk-bird-flying.jpg"
     },
@@ -5209,7 +5209,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Which component of a paragraph is the below sentence most likely to be?\n<br><br>\n\n<b>The writer draws our attention to Malfoy's evil nature.</b>\n",
+      "question": "Which component of a paragraph is the below sentence most likely to be?\n\n\n\n\nThe writer draws our attention to Malfoy's evil nature.\n",
       "correctAnswer": "Statement",
       "wrongAnswers": ["Quotation", "Inference"]
     },
@@ -5240,7 +5240,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Figurative language", "Colloquial language", "Formal language"],
-      "question": "What kind of language is used in this sentence?<Br><br>\"The little dog whimpered as he struggled to lift his tired head\"",
+      "question": "What kind of language is used in this sentence?\n\n\"The little dog whimpered as he struggled to lift his tired head\"",
       "correctAnswer": "Emotive language",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/06d2f9a9-87e5-4735-aa70-d1ee6cdf0e66/animals-2607704_1920.jpg"
     },
@@ -5275,7 +5275,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["First person narrator", "Second person narrator"],
-      "question": "What type of narrator does Dickens use in _A Christmas Carol_?<br><br><b>'Oh! But he was a tight-fisted hand at the grindstone, Scrooge!'",
+      "question": "What type of narrator does Dickens use in _A Christmas Carol_?\n\n'Oh! But he was a tight-fisted hand at the grindstone, Scrooge!'",
       "correctAnswer": "Third person narrator",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/3872c905-a305-464d-8ed1-00d4429c2417/scrooge-christmascarol.jpg"
     },
@@ -5283,7 +5283,7 @@
     "parentId": "2728e378-1fa6-4c84-8f84-27b60de51ec5",
     "draft": {
       "wrongAnswers": "First person narrator, Second person narrator",
-      "question": "What type of narrator does Dickens use in _A Christmas Carol_?<br><br><b>'Oh! But he was a tight-fisted hand at the grindstone, Scrooge!'",
+      "question": "What type of narrator does Dickens use in _A Christmas Carol_?\n\n'Oh! But he was a tight-fisted hand at the grindstone, Scrooge!'",
       "correctAnswer": "Third person narrator",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/3872c905-a305-464d-8ed1-00d4429c2417/scrooge-christmascarol.jpg"
     },
@@ -5297,7 +5297,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Homework", "Got", "Tonight", "I've"],
-      "question": "Which word turns this sentence into an exaggeration?<br><br><b>I've got a ton of homework to do tonight!</b>",
+      "question": "Which word turns this sentence into an exaggeration?\n\nI've got a ton of homework to do tonight!",
       "correctAnswer": "Ton",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-08/46f35257-bbd2-4ca0-8087-372ac5cebf8c/child-homework-thinking-memory.jpg"
     },
@@ -5361,7 +5361,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique is the writer using in this sentence?<br><br><b>If you think the city centre is an odd place to find peace, there are others who seem to share my choice of special spot. ",
+      "question": "What technique is the writer using in this sentence?\n\nIf you think the city centre is an odd place to find peace, there are others who seem to share my choice of special spot. ",
       "correctAnswer": "Direct address",
       "wrongAnswers": ["Exaggeration", "Emotive language", "Rhetorical question", "Imperative verb", "Modal verb"]
     },
@@ -5467,7 +5467,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["I", "Cannot", "Tell", "How"],
-      "question": "What word directly addresses the reader in this phrase?<br><br><b>I cannot tell you how tired I am.",
+      "question": "What word directly addresses the reader in this phrase?\n\nI cannot tell you how tired I am.",
       "correctAnswer": "You",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/courseImages/physics/AQA New Modules/1.7.1/man yawning in car.jpg"
     },
@@ -5483,7 +5483,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Statistics", "Opinion", "Imperative verb"],
-      "question": "What advisatory technique has the writer used to support the advice she is giving?<br><br><b> If you don’t want a cold head, you could try a sponsored silence, a non-uniform day, or a cake sale.",
+      "question": "What advisatory technique has the writer used to support the advice she is giving?\n\n If you don’t want a cold head, you could try a sponsored silence, a non-uniform day, or a cake sale.",
       "correctAnswer": "Choice of actions",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-10/aa47d9a1-722f-4cc4-a461-e7d15329bc70/icing-sugar-.jpg"
     },
@@ -5498,7 +5498,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Why is this a good opening sentence for an informative piece on planning?<br><br><b>It is really important to have a clear plan before you start to revise for your exams.",
+      "question": "Why is this a good opening sentence for an informative piece on planning?\n\nIt is really important to have a clear plan before you start to revise for your exams.",
       "correctAnswer": "The writer uses clear language",
       "wrongAnswers": [
         "The writer uses a relevant fact",
@@ -5509,7 +5509,7 @@
     "courseId": "df1578de-6327-45fa-9420-1619f20f680e",
     "parentId": "e5ba80c8-39cb-4685-88aa-54e972489a10",
     "draft": {
-      "question": "Why is this a good opening sentence for an informative piece on planning?<br><br><b>It is really important to have a clear plan before you start to revise for your exams.",
+      "question": "Why is this a good opening sentence for an informative piece on planning?\n\nIt is really important to have a clear plan before you start to revise for your exams.",
       "correctAnswer": "The writer uses clear language",
       "wrongAnswers": "The writer uses a relevant fact, The writer includes their opinion on planning, The writer answers the 'where' of the four questions"
     },
@@ -5537,7 +5537,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "Harry had the best morning he'd had in a long time. He was careful to walk a little way apart from the Dursleys so that Dudley and Piers, who were starting to get bored with the animals by lunchtime, wouldn't fall back on their favourite hobby of hitting him. They ate in the zoo restaurant...\n<br><br>\nWhat is the topic sentence in this paragraph?",
+      "question": "Harry had the best morning he'd had in a long time. He was careful to walk a little way apart from the Dursleys so that Dudley and Piers, who were starting to get bored with the animals by lunchtime, wouldn't fall back on their favourite hobby of hitting him. They ate in the zoo restaurant...\n\n\n\nWhat is the topic sentence in this paragraph?",
       "correctAnswer": "Harry had the best morning he'd had in a long time.",
       "wrongAnswers": [
         "He was careful to walk a little way apart from ... favourite hobby of hitting him.",
@@ -5571,7 +5571,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Antithesis", "Connotation", "Colloquialism"],
-      "question": "What technique does Elizabeth Barrett Browning's Sonnet 43 use?<br><br><b>I love thee to (...) I love thee to",
+      "question": "What technique does Elizabeth Barrett Browning's Sonnet 43 use?\n\nI love thee to (...) I love thee to",
       "correctAnswer": "Anaphora",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-07/5800435d-96dc-4452-b614-fe6e5aac97a8/Love-Heart-Relationship.jpg"
     },
@@ -5641,7 +5641,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Modal verb", "Imperative verb", "Fact", "Opinion"],
-      "question": "Which of these techniques is NOT used in the advisatory sentence below?<br><br><b>You must do the sunset cruise in Bangkok - it's truly stunning. It's also the number 1 rated thing to do on TripAdvisor. Believe me!",
+      "question": "Which of these techniques is NOT used in the advisatory sentence below?\n\nYou must do the sunset cruise in Bangkok - it's truly stunning. It's also the number 1 rated thing to do on TripAdvisor. Believe me!",
       "correctAnswer": "A choice of actions",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/memory-location-images/Bangkok, Thailand-min.jpg"
     },
@@ -5757,7 +5757,7 @@
     "moduleType": "multiple-choice",
     "content": {
       "wrongAnswers": ["Smooth", "Fluid", "Airy"],
-      "question": "What type of sound does this alliteration create?<br><br><b>The monster murdered everyone in sight as he marched through the marshland.",
+      "question": "What type of sound does this alliteration create?\n\nThe monster murdered everyone in sight as he marched through the marshland.",
       "correctAnswer": "Aggressive",
       "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-09/a14bc0c5-48ae-4a4a-8f01-28a6571873d4/eery-frankenstein-monster-.jpg"
     },
@@ -5772,7 +5772,7 @@
   {
     "moduleType": "multiple-choice",
     "content": {
-      "question": "What technique is used in this phrase?<br><br>\"They were stuck in the room alone together\"",
+      "question": "What technique is used in this phrase?\n\n\"They were stuck in the room alone together\"",
       "correctAnswer": "An oxymoron",
       "wrongAnswers": ["Antithesis", "Irony", "Ellipsis", "An idiom"]
     },
