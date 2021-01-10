@@ -2,6 +2,8 @@ const Discord = require("discord.js");
 const bot = new Discord.Client();
 const PREFIX = "!";
 const fs = require("fs");
+const newMember = require("./intents/newMember.js")
+const roles = require("./intents/roles.js")
 
 bot.commands = new Discord.Collection();
 
@@ -12,12 +14,10 @@ for (const file of commandFiles) {
   bot.commands.set(command.name, command);
 }
 
-/**
- * The ready event is vital, it means that only _after_ this will your bot start reacting to information
- * received from Discord
- */
 bot.on("ready", () => {
-  console.log("Bot is online");
+  console.log("Bot is online")
+  newMember(bot)
+  roles(bot)
 });
 
 bot.on("message", (msg) => {
@@ -25,22 +25,15 @@ bot.on("message", (msg) => {
 
   /* All commands go here */
   switch (args[0]) {
-    // case "fact":
-    //   bot.commands.get("fact").execute(msg, args);
-    //   break;
     case "quiz":
       bot.commands.get("quiz").execute(msg, args);
       break;
     case "test":
       bot.commands.get("test").execute(msg, args);
       break;
-    // case "popquiz":
-    //   bot.commands.get("popquiz").execute(msg, args);
-    //   break;
-    case "meme":
-      bot.commands.get("meme").execute(message, args);
-      break;
   }
 });
 
-bot.login(process.env.DISCORD_BOT_TOKEN);
+// bot.login(process.env.DISCORD_BOT_TOKEN);
+
+bot.login('NzA0NzcxODgzMjUzNjI4OTI4.XuZ3mg.4ps9i3p6ETduNLOA2MFfFSJ3Z-A');
