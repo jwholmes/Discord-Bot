@@ -1,0 +1,4989 @@
+[
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "correctAnswer": "HTTP",
+      "wrongAnswers": [
+        "TCP",
+        "IP",
+        "Ethernet"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "cf10f5ee-de26-4225-af38-02ea895cd927",
+    "id": "002c2b7b-3eb3-4707-a555-f3aca0403783",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why is the 5 GHz frequency band considered better than the 2.4 GHz band?",
+      "correctAnswer": "It can support more networks at the same time",
+      "wrongAnswers": [
+        "It provides a much faster connection",
+        "It is a lot cheaper to run"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "5b8a2f28-50c7-457d-a871-940d05f50986",
+    "id": "01a2ccd0-e034-4029-b2b3-f08c8603fbe2",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "In addition to their use in logic gates, transistors can be used for:",
+      "correctAnswer": "Storing data",
+      "wrongAnswers": [
+        "Network activity",
+        "Fault tolerance",
+        "Power supply"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "78ecde10-494e-4aa7-b3bf-10e1efc3abd9",
+    "id": "027b1174-3c8d-4a39-a615-677e85b1c834",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the 'hidden' energy cost of running computer systems?",
+      "correctAnswer": "Cooling systems",
+      "wrongAnswers": [
+        "Data storage",
+        "Warming systems",
+        "Warning systems"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b6ec8355-a6f6-4c70-9507-6e48caa83563",
+    "id": "0403aaf0-a6d2-498f-aade-479bfdf03478",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What kind of devices give employees the freedom to work from anywhere?",
+      "correctAnswer": "Mobile",
+      "wrongAnswers": [
+        "Embedded",
+        "Expensive"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "7951f628-291d-4f85-b185-023a42971d00",
+    "id": "0478e681-d718-4ef0-97f3-3f41d9f13bf6",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which boolean operator takes only a single operand?",
+      "correctAnswer": "NOT",
+      "wrongAnswers": [
+        "AND",
+        "OR",
+        "XOR"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "8a397d64-8b4c-4783-bec4-66a53db9c04a",
+    "id": "04cde6b6-fa11-425f-91d0-3bdac1cad9d1",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Do bugs include deliberate attempts to bring down systems?",
+      "correctAnswer": "No",
+      "wrongAnswers": [
+        "Yes",
+        "Sometimes"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "2fcc401e-1337-4d61-9037-f3035976e0fe",
+    "id": "05e8a2a0-eeaa-4b46-b78a-680db36af50e",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Aside from ethical reasons, what encourages companies to keep personal data secure?",
+      "correctAnswer": "Substantial fines",
+      "wrongAnswers": [
+        "Fear of their own data being stolen",
+        "If they do not then another company may release their data"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "e02f7d4e-bf6b-4dd1-bbe6-30e89f2ec00b",
+    "id": "0679c55b-1d33-4640-98d3-abebbfff4e72",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is one purpose of automated software that network administrators use?",
+      "correctAnswer": "To alert them of suspicious activity",
+      "wrongAnswers": [
+        "To collect user's passwords",
+        "To automatically solve all the security vulnerabilities"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "4ca21b83-0139-4002-9fcb-6327d30f5732",
+    "id": "07f77982-87a3-4e95-b4f9-10ec2d9aa8a3",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which would be the most appropriate type to store a username?",
+      "correctAnswer": "String",
+      "wrongAnswers": [
+        "Integer",
+        "Boolean",
+        "Float",
+        "Character"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "edbbc3fb-2a04-472f-8e15-a4c1a4b8cbb4",
+    "id": "0a75d00c-d448-4321-a840-a09c689e3f93",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is FTP commonly used for?",
+      "correctAnswer": "File downloads and transfers",
+      "wrongAnswers": [
+        "Loading webpages",
+        "Encrypting sent data"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "df01c7cf-6e38-44fe-ae9e-3eff08dc9abb",
+    "id": "0ab1f950-a13f-4126-876e-b1833809e709",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What technology can help to recover data in a data centre?",
+      "correctAnswer": "RAID",
+      "wrongAnswers": [
+        "RAM",
+        "ROM",
+        "RW"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "008ee4a9-39e6-474e-b5e5-1f5e4a5033cf",
+    "draft": {
+      "question": "What technology can help to recover data in a data centre?",
+      "correctAnswer": "RAID",
+      "wrongAnswers": "RAM, ROM, RW"
+    },
+    "id": "0b0cdee9-2de3-4957-bf85-4ee2314e9b2c",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why is port 22 often blocked by the firewall?",
+      "correctAnswer": "It allows remote access over the Internet",
+      "wrongAnswers": [
+        "It allows viruses to infect the system",
+        "It deactivates the anti-virus protection"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "93637928-4675-42d8-b88a-6ba021a48fa8",
+    "id": "0c46e70c-4d2d-453b-bde0-0244d59d90de",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Who performs penetration testing?",
+      "correctAnswer": "The organisation itself",
+      "wrongAnswers": [
+        "Criminal hackers",
+        "Anyone"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "10ce157a-824c-4151-b317-44a6c3e93491",
+    "id": "0e8f8555-c922-4891-9895-910c5916b998",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the purpose of anti-virus software?",
+      "correctAnswer": "To provide real-time scanning of files to check if they have been infected",
+      "wrongAnswers": [
+        "To periodically check the entire system for viruses",
+        "To automatically delete any viruses it finds"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "53b90c31-8cb5-45c4-b05c-be77855975f8",
+    "id": "116fd7b8-c425-4fcd-9566-ba73fe080590",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the drawback of increasing sample rate and sample size?",
+      "correctAnswer": "Increased file size",
+      "wrongAnswers": [
+        "Decreased quality",
+        "Requires specialist hardware"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "45ecc5db-5ce2-48b9-89a7-62bb9059085f",
+    "id": "12f1c608-cc0e-48c2-b448-d9c3a9db0511",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why don't we always use high-level languages?",
+      "correctAnswer": "Computers cannot understand them",
+      "wrongAnswers": [
+        "Some people find other types easier",
+        "High-level languages take longer to program in",
+        "High-level languages have limited uses"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "5774aa27-194e-4650-9a3c-743abb1ab15f",
+    "id": "14132202-d6c0-47dc-af8a-3070ab2d0947",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "You translate a program and see this error:<br><br>\nERROR LINE 13  \"x = True NOT False\"  Incorrect use of operator<br><br>\nIs this a logic error?",
+      "correctAnswer": "No",
+      "wrongAnswers": [
+        "Yes"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "c2e1702d-820c-4804-957a-31340cd15c93",
+    "id": "1654b9dd-8ba4-451f-a429-c9539ab7e0e3",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "You want to find some content that you can remix and sell for profit. Which creative commons license should you avoid?",
+      "correctAnswer": "Non-commercial",
+      "wrongAnswers": [
+        "Attribution",
+        "Share-alike"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "933090bd-c6c7-4b00-b76a-d8de37995cc5",
+    "draft": {
+      "question": "You want to find some content that you can remix and sell for profit. Which creative commons license should you avoid?",
+      "correctAnswer": "Non-commercial",
+      "wrongAnswers": "Attribution, Share-alike"
+    },
+    "id": "16746cb8-4f8d-47a2-9d6f-b3f83f061363",
+    "type": "module",
+    "moduleDifficulty": 2,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is global scope?",
+      "correctAnswer": "When a variable can be accessed from any part of the program",
+      "wrongAnswers": [
+        "When a variable can be accessed from any program",
+        "When a variable can be accessed from one subroutine only"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "173bcef1-2af2-4595-8223-dc4cddeae02c",
+    "id": "1824b234-a966-4155-8ca0-d3c9c3cc7d7d",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What must we do to read a compressed file?",
+      "correctAnswer": "De-compress the file",
+      "wrongAnswers": [
+        "Re-compress the file",
+        "Co-compress the file"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "7e6374e9-71ea-4a38-810e-a6cd1ae3b40a",
+    "id": "1879f248-df30-45fe-9ffe-d2916b4eaaa4",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How much data can a single compact disk (CD) store?",
+      "correctAnswer": "700 MB",
+      "wrongAnswers": [
+        "4.7 GB",
+        "25 GB",
+        "500 MB"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "7b838fda-1ca0-4d12-9416-1425d00a2e31",
+    "id": "1958556b-bc6b-4d80-ae12-7e96bb498bb2",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "A client has asked you to develop a self-checkout machine for his small supermarket which allows customers to scan their shopping and pay for it without him having to oversee the process. \n\nWhat type of computer system would you be developing?",
+      "correctAnswer": "Embedded system",
+      "wrongAnswers": [
+        "General purpose system"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "3107d1e6-b46c-46b8-9aa0-abe400f1cb7b",
+    "id": "19a48874-c31b-466c-9fb6-4d092259ed0d",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is a lot of activity data used for?",
+      "correctAnswer": "Advertising",
+      "wrongAnswers": [
+        "Knowing where you are",
+        "Checking against other records"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "841fde99-6952-4217-8424-a063361ac951",
+    "id": "19e801ac-e511-42e5-a3ef-1070870cd3d4",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Is it quicker to write data or read data on optical media?",
+      "correctAnswer": "Read data",
+      "wrongAnswers": [
+        "Write data",
+        "You can't do either"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "111093ee-39bb-4811-93cd-b755de2f7edc",
+    "id": "1a581b77-3328-461f-8486-6c20c6feddfc",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why is censorship sometimes considered to be negative?",
+      "correctAnswer": "It can limit people's freedom of expression",
+      "wrongAnswers": [
+        "It can keep people safe online",
+        "It can make life harder for criminals"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b4135a85-8a0d-4391-ab6a-5e361b4850e6",
+    "id": "1b3dabb7-f2ee-4ab4-a2cd-fb351176a4b5",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "There are only three sorting algorithms. True or false?",
+      "correctAnswer": "False",
+      "wrongAnswers": [
+        "True"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "635df242-f171-4be1-bda6-c70752c9afbf",
+    "id": "1cc7570e-966d-4293-a0d2-2c2b379c2176",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "If you use an open source component within your software, your software must often have what kind of license?",
+      "correctAnswer": "Open source",
+      "wrongAnswers": [
+        "Protected source",
+        "Prohibited source",
+        "Shared source"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "537a639d-605c-48d3-8bce-d4a1d27a4d01",
+    "id": "1cd8905f-c91a-48ee-92fc-b1d6a5abcbdf",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which devices have a public IP address?",
+      "correctAnswer": "Routers",
+      "wrongAnswers": [
+        "Switches",
+        "Twisted-pair cabling",
+        "Network Interface Controllers"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "13337f53-5f68-40da-95e6-a5c0fbf32577",
+    "id": "1d8ec018-f934-4721-9a11-9d1fb9702047",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What happens if a user breaks network policy?",
+      "correctAnswer": "An administrator should be notified",
+      "wrongAnswers": [
+        "Their account will be immediately terminated",
+        "They would immediately lose their job"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "4ca21b83-0139-4002-9fcb-6327d30f5732",
+    "id": "1ea0b7b1-cf50-43e0-ba62-4c88ea48e381",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "It shows basic information about economics",
+        "It is easy to carry around"
+      ],
+      "question": "Why is money an example of abstraction?",
+      "correctAnswer": "It represents the value of goods and services",
+      "imageURL": "https://media.giphy.com/media/VTxmwaCEwSlZm/giphy.mp4"
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "34ea9414-143c-42c3-9b46-3ca580ed1cae",
+    "id": "1f251ad1-6756-4568-b979-21e7ed566d37",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How do you start a comment in a C-style language?",
+      "correctAnswer": "//",
+      "wrongAnswers": [
+        "*/",
+        "||",
+        "--"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "74223ecc-bf4c-478a-a3d0-adaac54a741a",
+    "id": "21bde0d2-21af-4bae-95d9-ce3dc503aa73",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Is the digital divide getting better or worse?",
+      "correctAnswer": "Worse",
+      "wrongAnswers": [
+        "Better",
+        "Neither"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "a2d8f460-f978-4a7f-86b8-3e35bb5d16f3",
+    "id": "227af4ce-d605-40a8-a5a8-be4c0ae7ad8d",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Each device on the peer-to-peer network is known as a:",
+      "correctAnswer": "Peer",
+      "wrongAnswers": [
+        "Friend",
+        "Linked device",
+        "Vertex"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "a2344968-ba12-4442-af75-39caafc53d4e",
+    "id": "22d965d2-de46-4e54-8845-ea7043a67e4a",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How does online communication benefit the environment?",
+      "correctAnswer": "It reduces the need to travel for meetings",
+      "wrongAnswers": [
+        "It allows people to discuss issues online",
+        "It allows people to learn"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "ab57bf8f-14c7-41e1-99c9-2a6e1eb1e777",
+    "id": "230c2233-c175-4222-abbc-98df85521aef",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the result of 17 MOD 5?",
+      "correctAnswer": "2",
+      "wrongAnswers": [
+        "3",
+        "1",
+        "4"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "e4380715-00cc-478b-8120-c7e69d3153f4",
+    "id": "2391de45-8556-47e7-8444-5cf057f846f5",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these events could break an entire client-server network?",
+      "correctAnswer": "Server failure",
+      "wrongAnswers": [
+        "Client turning off their machine",
+        "Client computer failure"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "3c239dbd-c78e-4b14-921c-0565767091ab",
+    "id": "253313b2-ed09-4f97-a964-01dd3d28036b",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is it called when an error arises in a program?",
+      "correctAnswer": "Throwing an exception",
+      "wrongAnswers": [
+        "Catching an exception",
+        "Holding an exception"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "1b443ef5-a884-4e59-af3a-2d31dc83c72b",
+    "id": "25f23189-09fe-4318-be62-22364b43765a",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "When is it a particularly bad idea to use merge sort?",
+      "correctAnswer": "On a small list which is unlikely to grow",
+      "wrongAnswers": [
+        "On a small list which is likely to grow",
+        "On a large list which is likely to grow",
+        "On a large list which is unlikely to grow"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "2c0118e1-62c6-4d75-ae41-66b74c39ffb3",
+    "id": "2635ad22-5baf-4019-a4b5-f37a2f2a59d5",
+    "type": "module",
+    "moduleDifficulty": 2,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Malware which opens up an access channel to a computer that other malware can use to take over the machine",
+        "Malware which modifies the computer's operating system to avoid detection by antivirus software"
+      ],
+      "question": "What is a trojan horse?",
+      "correctAnswer": "Any form of malware which tricks the user into installing it by pretending to be a different program",
+      "imageURL": "https://media.giphy.com/media/26ueZ7bYkDQ4YeHx6/giphy.mp4"
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "f0d2cfa0-dcd0-4998-ad92-c226b76dd752",
+    "id": "26891851-e758-4801-a274-4dc860508551",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the motivation to use hybrid drives?",
+      "correctAnswer": "To get the benefits of multiple storage media",
+      "wrongAnswers": [
+        "They offer the fastest transfer times",
+        "They are the only persistent storage media"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "bfca603d-224b-4556-81d4-1a7fcfdacd78",
+    "id": "26fa0c1e-8248-4b1d-9512-b44cab01eefb",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the value of NOT(False AND NOT(False))?",
+      "correctAnswer": "True",
+      "wrongAnswers": [
+        "False"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "efb29794-e363-4f85-99af-3a7c16545c40",
+    "id": "2757e90a-56bd-46af-9f19-9d38abc3f736",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these characters gets most commonly confused in programming?",
+      "correctAnswer": "0 and O",
+      "wrongAnswers": [
+        "M and N",
+        "L and J",
+        "W and E"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "2a0d41de-b643-45e1-89d4-f100527a0dab",
+    "id": "27bf524d-031c-4f46-89d2-05fc7900cb51",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does a server send when it receives a client's request?",
+      "correctAnswer": "Response",
+      "wrongAnswers": [
+        "Answer",
+        "Return",
+        "Shout"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "fc8a355c-342e-4625-a4e5-ce8af8b26ff8",
+    "id": "28a196ee-e637-4675-a01b-242d628f3f93",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What effect has social media had on people's satisfaction with their lives?",
+      "correctAnswer": "Satisfaction has decreased",
+      "wrongAnswers": [
+        "Satisfaction has increased",
+        "Satisfaction is the same"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "e19bedae-3a08-43b6-8cb4-e25b782c7dbb",
+    "id": "2a7d80f8-240a-4482-bc5d-c4d39b6cc9e6",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the value of True AND NOT(False)?",
+      "correctAnswer": "True",
+      "wrongAnswers": [
+        "False"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "efb29794-e363-4f85-99af-3a7c16545c40",
+    "id": "2bdcd26e-35e1-463f-8d5a-ded0bcc0617c",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following is a well-known wireless communication encryption protocol?",
+      "correctAnswer": "WPA2",
+      "wrongAnswers": [
+        "WiFiP",
+        "WFS",
+        "SecWiFi"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "e154d90a-156b-442e-8231-59cdb0abd404",
+    "id": "2f7c3e88-ee3a-44ab-afcd-484f98e539c5",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Fetch",
+        "Decode"
+      ],
+      "question": "During a CPU cycle, the Arithmetic Logic Unit has been activated. During which stage of the FDE cycle was it activated?",
+      "correctAnswer": "Execute",
+      "imageURL": "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.mp4"
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "2cd6a784-d5c0-4cd1-a73a-07c98dbe1991",
+    "id": "305eddce-cf67-437f-970d-6221f45415a4",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Routers use an IP address to determine what?",
+      "correctAnswer": "If a packet is destined for the current network",
+      "wrongAnswers": [
+        "If a packet contains valid data",
+        "If a packet may contain malware",
+        "If a packet needs to be encrypted"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "fbed2517-4c31-4243-8902-1f89e2ce93c7",
+    "id": "30a49359-4bc9-41ee-b585-02a2e1b41553",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the purpose of the program counter?",
+      "correctAnswer": "To hold the memory location address of the next instruction",
+      "wrongAnswers": [
+        "To record how long the program has been running for",
+        "To count how many times the CPU is accessed"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "892977d6-90aa-4543-8d9f-cbc495f69e85",
+    "id": "32a6ae6b-8474-43a2-88b3-a0cb65f4ebc1",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What are some of the worst offenders for energy consumption within technology?",
+      "correctAnswer": "Data centres",
+      "wrongAnswers": [
+        "Home computers",
+        "Mobile phones"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b6ec8355-a6f6-4c70-9507-6e48caa83563",
+    "id": "32b6dba5-2527-4b3d-bcb3-d6911199ee25",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is it called if a DNS server does not have an IP address associated with a particular domain name?",
+      "correctAnswer": "DNS miss",
+      "wrongAnswers": [
+        "DNS mistake",
+        "DNS error"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "ad5719dd-c957-4b7e-8a8c-06fca0228315",
+    "id": "332bbc47-7a9d-4cc0-b173-7d42af2817d8",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "In reality, how many processes can be run on a single processor at once?",
+      "correctAnswer": "One",
+      "wrongAnswers": [
+        "Four",
+        "Depends on the clock speed",
+        "Infinite"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "e3ae3d02-40d2-42a8-baa8-27a68c211e8c",
+    "id": "3376706a-518a-4985-9b20-6b46cbf9fbcc",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "correctAnswer": "IP",
+      "wrongAnswers": [
+        "TCP",
+        "Ethernet",
+        "UDP"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "cf10f5ee-de26-4225-af38-02ea895cd927",
+    "id": "339d9c14-c0f6-4f93-b37e-67479039c854",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does the * wildcard mean in SQL?",
+      "correctAnswer": "All fields",
+      "wrongAnswers": [
+        "No fields",
+        "Multiply",
+        "Starting with"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "0350ecd7-5c29-42dc-8e0e-8ee0723d521f",
+    "id": "33b66d59-1496-4786-9938-2cb0f0ef1310",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "When should a test plan be written?",
+      "correctAnswer": "When designing the system",
+      "wrongAnswers": [
+        "When programming the system",
+        "When testing the system"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "adae7bab-58d3-4cfd-9924-482cdef35bb2",
+    "id": "33f4392f-70cf-4f9e-b912-ef6ba40a43be",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What represents a 1 in most modern computers?",
+      "correctAnswer": "The presence of electricity",
+      "wrongAnswers": [
+        "The absence of electricity"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "6483f2af-860e-485f-bd78-c507c8a67b43",
+    "id": "3455e3d7-6c63-43b8-bf85-0c3b7828a732",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is an example of a task that a network administrator might do to help a user?",
+      "correctAnswer": "Reset their password",
+      "wrongAnswers": [
+        "Show them how to use a document editor",
+        "Correct their spelling mistakes in real time"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "73f3ffe1-8ec5-430f-97fe-0a2e0b507143",
+    "id": "36c682c4-a8b5-433e-9850-5dbdb2bbb603",
+    "type": "module",
+    "moduleDifficulty": 3,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Is it cheaper to create a wired or a wireless mesh?",
+      "correctAnswer": "Wireless mesh",
+      "wrongAnswers": [
+        "Wired mesh"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "53ee87ac-d227-4be1-8efa-1cb855535679",
+    "id": "37e35b38-5439-4ff7-9039-350911ac5cc5",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which compression method results in the best size reduction?",
+      "correctAnswer": "Lossy compression",
+      "wrongAnswers": [
+        "Lossless compression"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "7d4f44e4-6343-4265-a171-e208b1c63395",
+    "id": "39fee542-07f9-4b9d-9ee3-679ef9e13b55",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How do you start a comment in Python?",
+      "correctAnswer": "#",
+      "wrongAnswers": [
+        "//",
+        "/*",
+        "<>"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "74223ecc-bf4c-478a-a3d0-adaac54a741a",
+    "id": "3b991cfd-90e9-4404-9777-39b30506057f",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Some small businesses may not be able to set up a client-server network because:",
+      "correctAnswer": "Server hardware is very expensive",
+      "wrongAnswers": [
+        "Businesses need a license to set up their own server",
+        "Server hardware is too large for a small office"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "3c239dbd-c78e-4b14-921c-0565767091ab",
+    "id": "3b9c08c8-392d-4839-a0b1-473c8e65fe0b",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following terms best describes read-only memory?",
+      "correctAnswer": "Non-volatile",
+      "wrongAnswers": [
+        "Volatile"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "1d4d910e-47c6-4d15-b2dd-4d31e47ae5ed",
+    "id": "3c3e8bfd-6442-452e-9630-8f381d90d680",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the purpose of the domain in a Uniform Resource Locators (URL)?",
+      "correctAnswer": "It is the name of the server we wish to access",
+      "wrongAnswers": [
+        "It is the set of rules that we will use to communicate with the server",
+        "It is the name of the requested file on the server"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "1f14a8ef-353c-4ac0-9773-a6e9e87b7f78",
+    "id": "3c75e65d-9176-42a5-bdaa-e23c9bac2f66",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "A page will have to be moved back to the RAM if:",
+      "correctAnswer": "We need to access its data",
+      "wrongAnswers": [
+        "The RAM is full",
+        "The page is not in use"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "ebaeee45-d3fc-4229-b402-58a093673c4d",
+    "id": "3cb72afe-5a8b-4282-ad61-044bed643363",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the cause of the digital divide?",
+      "correctAnswer": "Not everyone has access to technology",
+      "wrongAnswers": [
+        "Not everyone is well educated",
+        "Not everyone agrees with technological advances"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "a2d8f460-f978-4a7f-86b8-3e35bb5d16f3",
+    "id": "3fa53d16-b623-4a17-9222-8b9de7c19c55",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "If you wish to use a piece of proprietary software, which of these would you do?",
+      "correctAnswer": "Buy a license to use the software",
+      "wrongAnswers": [
+        "Buy the software"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "effe8a37-265c-412e-8e33-e698bd4864a2",
+    "id": "41206a57-7ee7-4d0f-bd29-15018c54555f",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why does layering allow people to specialise in one area?",
+      "correctAnswer": "People can work with one layer without having knowledge of the others",
+      "wrongAnswers": [
+        "The workforce can be split up into layers",
+        "Employees will gain a knowledge of all layers"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "1c11b3b3-4162-4fc4-9fef-93a1084510c2",
+    "id": "424b0820-9683-45a6-ab13-c70a1b03ad81",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the weakest point in most networks?",
+      "correctAnswer": "People",
+      "wrongAnswers": [
+        "Servers",
+        "Firewalls",
+        "Ports"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "fc8a355c-342e-4625-a4e5-ce8af8b26ff8",
+    "id": "43585d45-1185-4337-8d2c-58a6c10d2aa6",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why might a company prefer to use cloud based applications rather than their own local software?",
+      "correctAnswer": "There is no need to employ specialist IT managers",
+      "wrongAnswers": [
+        "Cloud based applications are easier to use",
+        "Cloud based applications are faster"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "3aebca50-be90-4d07-85d4-1a606a4877f8",
+    "id": "448e1369-954a-4265-ae2c-5785e579c23f",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these is more cost-effective?",
+      "correctAnswer": "Wireless star",
+      "wrongAnswers": [
+        "Wired star"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "2b9c8d60-add3-4d8f-a004-026a3f568c58",
+    "draft": {
+      "question": "Which of these is more cost-effective?",
+      "correctAnswer": "Wireless star",
+      "wrongAnswers": "Wired star"
+    },
+    "id": "45311018-a946-4c27-81b3-02931b192a57",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following is not the name of a programming error?",
+      "correctAnswer": "Typing",
+      "wrongAnswers": [
+        "Syntax",
+        "Runtime",
+        "Logic"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "20bc2a8c-0662-409f-9beb-eef98e6252c8",
+    "id": "45318e8d-b136-42f9-a8ed-5c93d1635cef",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which piece of networking hardware uses IP addresses?",
+      "correctAnswer": "Router",
+      "wrongAnswers": [
+        "Switch",
+        "Hub",
+        "Twisted-pair cable"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "fbed2517-4c31-4243-8902-1f89e2ce93c7",
+    "id": "45d5889d-96fe-4d88-bf43-7eeb8597b204",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why is censorship sometimes considered to be negative?",
+      "correctAnswer": "It can limit people's freedom of expression",
+      "wrongAnswers": [
+        "It can keep people safe online",
+        "It can make life harder for criminals"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "274a0c95-b097-4e03-8aae-d82cd4e32f01",
+    "draft": {
+      "question": "Why is censorship sometimes considered to be negative?",
+      "correctAnswer": "It can limit people's freedom of expression",
+      "wrongAnswers": "It can keep people safe online, It can make life harder for criminals"
+    },
+    "id": "4831c766-9688-4deb-ad0b-38117a3c4552",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is an argument of a subroutine?",
+      "correctAnswer": "The actual value passed into the subroutine",
+      "wrongAnswers": [
+        "A special variable used to pass values into a subroutine",
+        "The value returned from a subroutine"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "c20587e1-b365-413c-8d6b-d71dd56f2d76",
+    "id": "483c5f51-83df-4779-8c6b-3c0d92667c49",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "A cleaner has found that a computer in an office has been left unlocked. The cleaner uses the computer to check their emails. Is this a breach of the computer misuse act?",
+      "correctAnswer": "Yes - they were not authorised",
+      "wrongAnswers": [
+        "No - the computer was signed in"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b7b42b77-f19c-4c46-8ca9-c3c27a2b5424",
+    "id": "4ae44ae5-e56d-4d2a-9072-b7d77ddd2b14",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Are layers used only in networking?",
+      "correctAnswer": "No",
+      "wrongAnswers": [
+        "Yes"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "f1562954-63fa-4230-94f6-9a1fe80beb24",
+    "id": "4b343e77-7603-4ae9-b34a-4185ad5ddbdb",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of compression is run length encoding when pixels have been grouped in an image?",
+      "correctAnswer": "Lossy",
+      "wrongAnswers": [
+        "Lossless"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "5a444edf-79d3-454c-a880-45eab955752b",
+    "id": "4d6998f8-f083-4838-9341-6f6f30ec4291",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the main disadvantage of insertion sort?",
+      "correctAnswer": "Not very efficient",
+      "wrongAnswers": [
+        "Not very effective",
+        "Uses too much memory",
+        "Hard to implement"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "a8294e04-ad96-47f7-82e4-7d5049ac24ef",
+    "id": "4db89420-63a8-412f-80bd-04aec72ba284",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is included in ASCII?",
+      "correctAnswer": "All commonly used letters and symbols in English",
+      "wrongAnswers": [
+        "All commonly used letters and symbols in European languages",
+        "All commonly used letters and symbols in all languages"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "f21aa837-a3da-463b-858d-84ac85d21887",
+    "id": "4dde9957-1c36-42c0-8365-74b6e434d84a",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What do operating systems control?",
+      "correctAnswer": "Hardware",
+      "wrongAnswers": [
+        "Software"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b4869cac-f2a9-48ee-89c1-f5f078e6f38b",
+    "id": "4e7669f3-57ef-4029-82ae-40d7c0e33787",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is definite iteration?",
+      "correctAnswer": "A block of code will repeat a known number of times",
+      "wrongAnswers": [
+        "A block of code will repeat whilst a specified condition is true",
+        "A block of code will repeat forever"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "9dba08d6-63f0-4f0c-bb24-35addcbd2d50",
+    "id": "4eaf8eca-ab75-455d-9cf0-037f97f95caa",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is an algorithm?",
+      "correctAnswer": "A series of steps to solve a given problem",
+      "wrongAnswers": [
+        "A computer program",
+        "A subroutine within a program",
+        "A piece of hardware"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "9ac7dcd1-c6f9-4201-a7de-a2ab34b830ea",
+    "id": "4ebbcb0c-f0ff-4853-88d4-11e9cc8d6bd1",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How many offences are covered by the computer misuse act?",
+      "correctAnswer": "Three",
+      "wrongAnswers": [
+        "One",
+        "Two",
+        "Four"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b7b42b77-f19c-4c46-8ca9-c3c27a2b5424",
+    "id": "4f2f2d95-6465-41a1-8fc8-23dc624e4404",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What character starts a comment in Python?",
+      "correctAnswer": "#",
+      "wrongAnswers": [
+        "//",
+        "<!--",
+        "%"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "20bc2a8c-0662-409f-9beb-eef98e6252c8",
+    "id": "4f34f849-a144-4288-ac84-7e8056baed33",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Do stakeholders have to be directly involved with the project?",
+      "correctAnswer": "No - they may be indirectly involved",
+      "wrongAnswers": [
+        "Yes - stakeholders must be directly involved"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "6b25ace1-8b79-4ce5-9703-6c265cba3e0b",
+    "id": "4fa4a993-33f5-4e09-bff3-5cace4ab5016",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Records are made up of:",
+      "correctAnswer": "Fields",
+      "wrongAnswers": [
+        "Farms",
+        "Boxes",
+        "Entries"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "e7bfaaf2-4e5d-440c-a0df-d93f2ec44c65",
+    "id": "4fb6b9e6-a28f-411d-9cf8-88fde08700c6",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How can technology help to improve the efficiency of wind turbines?",
+      "correctAnswer": "By creating simulations to optimise the system",
+      "wrongAnswers": [
+        "By being able to move them remotely",
+        "By using the Internet"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "ab57bf8f-14c7-41e1-99c9-2a6e1eb1e777",
+    "id": "5030db97-aa76-4c02-8ba8-3c121ad30f91",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What material are fibre-optic cables made out of?",
+      "correctAnswer": "Glass",
+      "wrongAnswers": [
+        "Copper",
+        "Silicon"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "3903d059-8316-4fac-8c29-735c9b402c46",
+    "id": "50ca60ed-2df8-4c8a-9f1a-f15af6baf09c",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the main reason that network administrators analyse data from past cyberattacks?",
+      "correctAnswer": "To stop it happening again",
+      "wrongAnswers": [
+        "To catch the criminals",
+        "To practice data analysis skills"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "4ca21b83-0139-4002-9fcb-6327d30f5732",
+    "id": "526ca0fe-7ed9-4b2a-acfc-db2820f91f69",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How do many companies get around the Waste Electric and Electronic Equipment's (WEEE's) strict rules on e-waste disposal?",
+      "correctAnswer": "Exporting e-waste to other countries",
+      "wrongAnswers": [
+        "Disposing of e-waste without declaring it",
+        "Disposing of the e-waste illegally and then paying the fines"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "6e7f7fd6-81da-4ac2-9d73-1d97009fae89",
+    "id": "52acc18b-9666-4387-afac-0be38cf79887",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the name of the file which contains pages which are not currently in use?",
+      "correctAnswer": "Pagefile",
+      "wrongAnswers": [
+        "Book",
+        "Page store"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "ebaeee45-d3fc-4229-b402-58a093673c4d",
+    "id": "55cc0f4f-40c2-437a-b8d1-ea46b9dd09a8",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How can stronger authentication systems be developed?",
+      "correctAnswer": "Using two-factor authentication",
+      "wrongAnswers": [
+        "Using better passwords",
+        "Removing passwords altogether",
+        "Insisting on passwords of a certain format"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "6004560a-10af-42fe-840d-ebf31e086bf9",
+    "id": "5682632d-da55-4cf5-a910-07a9c1dc413b",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How do company security policies help to protect against social engineering?",
+      "correctAnswer": "They provide guidance to employees to tell them how to stay safe",
+      "wrongAnswers": [
+        "They physically prevent data from being leaked from the network",
+        "They send out fake data to hide the real data"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "c0958668-b48d-4669-a75a-d7359351180c",
+    "id": "570106b7-ddb7-48af-b721-1ad23ada18e2",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Primary storage"
+      ],
+      "question": "Which of these tends to be cheaper per unit capacity?",
+      "correctAnswer": "Secondary storage",
+      "imageURL": "https://media.giphy.com/media/lZd4oyt1EzC3C/giphy.mp4"
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "82247696-30a4-40e6-b821-87e842cc83cd",
+    "id": "58851ecd-3d2f-4c51-9913-5c18d3122632",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does BD-R mean?",
+      "correctAnswer": "A Blu-Ray disk which can be written once at home",
+      "wrongAnswers": [
+        "A Blu-Ray disk which is read-only",
+        "A Blu-Ray disk which can always be re-written"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "969f1f7b-e590-48d0-95fc-ceb89d2dc67b",
+    "id": "59660d79-b052-4705-938d-ebbeb0f27fec",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the value of ```True OR NOT(False)```?",
+      "correctAnswer": "```True```",
+      "wrongAnswers": [
+        "```False```"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "78ecde10-494e-4aa7-b3bf-10e1efc3abd9",
+    "id": "59e03c41-f138-497c-918d-4bbd72e0d88e",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why might an administrator choose to use a VLAN?",
+      "correctAnswer": "It provides increased security",
+      "wrongAnswers": [
+        "It is cheaper",
+        "It allows people to connect remotely to the office"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "dc9e0613-b2d6-48df-a659-e834403341a8",
+    "id": "5bd0841b-a6dd-4ba0-9167-d3b3053d01cf",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why is it important that a WAP uses encryption and authentication?",
+      "correctAnswer": "To make sure that unauthorised individuals do not take advantage of the network",
+      "wrongAnswers": [
+        "To increase transmission speeds",
+        "To allow more users to join the network at the same time"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "ae4cf52d-8ccd-4d9e-8166-cfb14171b61e",
+    "id": "5c533bd6-5105-4b2b-a975-db87c723a040",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why must we close a file?",
+      "correctAnswer": "So that it is free for other programs to access",
+      "wrongAnswers": [
+        "So that it is not corrupted",
+        "So that it does not duplicate the file"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "e34574a7-e550-4b90-9941-8ab3dbaeb8c8",
+    "id": "5d39c214-8ff4-4e49-85b9-8c149c6b8ed1",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Solid state storage",
+        "Magnetic storage"
+      ],
+      "question": "I live in an area prone to flooding and need to make a backup of important files. Should I make a backup using magnetic, solid state, or optical media?",
+      "correctAnswer": "Optical media",
+      "imageURL": "https://media.giphy.com/media/i9Fg9YcbOSNhe/giphy.mp4"
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "111093ee-39bb-4811-93cd-b755de2f7edc",
+    "id": "5d95dac5-e1a2-4341-acb9-a95cc068f978",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How many wires are inside Cat-6 twisted-pair copper cable?",
+      "correctAnswer": "Eight",
+      "wrongAnswers": [
+        "Four",
+        "Six",
+        "Ten"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "3903d059-8316-4fac-8c29-735c9b402c46",
+    "id": "5eb625d9-531d-497c-a48c-c60d50358cf2",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why are Hard Disk Drives subject to wear-and-tear?",
+      "correctAnswer": "They contain moving parts",
+      "wrongAnswers": [
+        "They use old technology",
+        "The platter is damaged when data is written"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "bd4eebe3-f0ac-4a6b-a588-e99767fd879e",
+    "id": "5ed6c2ac-9bac-4b29-8fe4-1053fecc3306",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "The input method takes data from what device?",
+      "correctAnswer": "The keyboard",
+      "wrongAnswers": [
+        "The mouse",
+        "The microphone",
+        "The camera"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "1e0e8e62-fa3c-4ec4-8971-46306c874068",
+    "id": "5f56a30c-ca81-42d6-84d3-79455c1944fa",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is a passive attack?",
+      "correctAnswer": "When a hacker eavesdrops on a network by 'sniffing' the data packets",
+      "wrongAnswers": [
+        "When a person is exploited into giving away critical information",
+        "When someone in an organisation gives away access details or sensitive information"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "223f63ac-5c28-49f9-a3c1-2d4e2e78f52c",
+    "id": "5f9d3901-aef4-4eaf-9913-979afe980bcb",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "The rest of the network can continue as usual",
+        "One of the other devices will take its place"
+      ],
+      "question": "What happens if the central switch or server fails in a star topology?",
+      "correctAnswer": "The whole network is affected",
+      "imageURL": "https://media.giphy.com/media/l1J3rGigrYfx8aKqI/giphy.mp4"
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "2b9c8d60-add3-4d8f-a004-026a3f568c58",
+    "id": "5ff2e8c1-c817-4891-8598-beeb83029bc8",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Logic gates are commonly created to perform what kind of function?",
+      "correctAnswer": "Boolean",
+      "wrongAnswers": [
+        "Algebraic",
+        "Linear",
+        "Embedded"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "073af07e-c94e-46a3-b90d-c2be3a494005",
+    "id": "603160ad-7be4-4f55-a3c4-6b374e02991c",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why are the first 256 characters in Unicode identical to extended ASCII?",
+      "correctAnswer": "For backwards compatability",
+      "wrongAnswers": [
+        "It was an easy place to start building the character set from",
+        "It was a coincidence"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b5eb638f-db38-454b-84e2-e04758ae93fd",
+    "id": "609e6063-db88-4919-8ee7-802a5c49c8f4",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the main reason to use files?",
+      "correctAnswer": "To allow programs to pick up where they left off",
+      "wrongAnswers": [
+        "To free up space in the main memory",
+        "To reduce the amount of data sent over networks"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "46fe62bf-9ff5-4024-82ba-701a211db29d",
+    "id": "64004979-beb6-4e71-9a96-3f281fac6053",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "It is cheaper",
+        "It is more interesting"
+      ],
+      "question": "Why might a network administrator want to apply security updates using a client-server model?",
+      "correctAnswer": "It saves time",
+      "imageURL": "https://media.giphy.com/media/FRahZTLxPgZWM/giphy.mp4"
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "c19c5e5a-a6f9-4b0f-a8e7-67f239d765b1",
+    "id": "640f4ade-10c4-4f87-83d9-75e5c33eef55",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Will increasing the bandwidth always make a network faster?",
+      "correctAnswer": "No",
+      "wrongAnswers": [
+        "Yes"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "fe30db68-f7cf-45e6-aa7d-bb325bc84833",
+    "draft": {
+      "question": "Will increasing the bandwidth always make a network faster?",
+      "correctAnswer": "No",
+      "wrongAnswers": "Yes"
+    },
+    "id": "6442afa4-15d2-4cf1-882a-391e1c1452a5",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the main drawback of ASCII?",
+      "correctAnswer": "Lack of international language support",
+      "wrongAnswers": [
+        "It is slow on newer machines",
+        "It wastes a lot of data"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "f21aa837-a3da-463b-858d-84ac85d21887",
+    "id": "6488358c-1ff5-49bd-bd45-325204aaac20",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why is run length encoding difficult in images?",
+      "correctAnswer": "Adjacent pixels have similar colours",
+      "wrongAnswers": [
+        "Images are too large to start with",
+        "Their file size cannot be reduced further"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "5a444edf-79d3-454c-a880-45eab955752b",
+    "id": "670412a2-2843-4ac3-9d12-878e8baee6a2",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the main news source for young adults?",
+      "correctAnswer": "Social media",
+      "wrongAnswers": [
+        "Tabloid papers",
+        "Broadsheet papers",
+        "Online newspapers"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "e19bedae-3a08-43b6-8cb4-e25b782c7dbb",
+    "id": "67dbb183-c31a-46a9-8a6e-e1982d2703a3",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does a text file contain?",
+      "correctAnswer": "Strings",
+      "wrongAnswers": [
+        "Integers",
+        "Floats",
+        "Booleans"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "46fe62bf-9ff5-4024-82ba-701a211db29d",
+    "id": "68b59fb9-0dd1-4f53-abcb-c33ea14eb676",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Errors in software are often called what?",
+      "correctAnswer": "Bugs",
+      "wrongAnswers": [
+        "Ants",
+        "Insects",
+        "Birds"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "2fcc401e-1337-4d61-9037-f3035976e0fe",
+    "id": "6912f402-3e43-4fd5-811f-d691c969e08e",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is a macro?",
+      "correctAnswer": "A small program that is given permission to run on the computer",
+      "wrongAnswers": [
+        "A small piece of data that can contain instructions for the virus",
+        "A large program which can take up all the remaining storage space"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "1f620599-2482-4f5f-8944-ef666932eefc",
+    "id": "69e569c0-6b07-42a0-ba93-dbdfd042f9ec",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Are hackers more likely to target data in the cloud or on local storage?",
+      "correctAnswer": "The cloud",
+      "wrongAnswers": [
+        "Local storage"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "a9d0cb29-6ab2-46b4-95d0-39671a177a9d",
+    "id": "6a7938fa-d476-4710-be6a-668621c029c9",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Read-Only Memory"
+      ],
+      "question": "Which does a general purpose computer usually have more of?",
+      "correctAnswer": "Random Access Memory",
+      "imageURL": "https://media.giphy.com/media/XKSPsk67cnCw0/giphy.mp4"
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "8c99472c-8751-4035-9136-ac084d30a60d",
+    "id": "6bdc8b86-3f14-4893-9b36-97ccbfdfa789",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "The DIV operation performs which operation?",
+      "correctAnswer": "Integer division",
+      "wrongAnswers": [
+        "Real division",
+        "Multiplication",
+        "Modulo"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "e4380715-00cc-478b-8120-c7e69d3153f4",
+    "id": "6be912b5-1f1c-40ea-bb7c-1d25429596cb",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is a distributed denial of service attack?",
+      "correctAnswer": "Where multiple devices all send a DoS attack at the same time to a certain server",
+      "wrongAnswers": [
+        "Where a single device sends DoS attacks to multiple servers at the same time"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "643ea92c-551a-49da-910e-c4aa531e5c8f",
+    "id": "6c53d5cc-ea55-4d64-8458-43370e87632b",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Columns in a trace table represent:",
+      "correctAnswer": "Variables",
+      "wrongAnswers": [
+        "Statements",
+        "Decisions"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "9a1056e7-efdc-40f2-8a7b-5aff6edb5cda",
+    "id": "6cd029e4-12fc-4255-b334-81ace987b4db",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Encryption software is essential for what type of data?",
+      "correctAnswer": "Sensitive data",
+      "wrongAnswers": [
+        "Fragmented data",
+        "Emails",
+        "Data stored in the cloud"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "5237f81c-c186-4ce4-bc84-0de847ce1d9d",
+    "id": "6d4dfaae-120f-41dc-b0cd-45227690c31d",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the main advantage of binary search?",
+      "correctAnswer": "It is efficient",
+      "wrongAnswers": [
+        "It is effective",
+        "It is easy to implement"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "c3f82da2-7ab2-4d83-a42a-f6baa2f9fde0",
+    "id": "6dbb60a3-5279-431d-8904-7c01c73b7320",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why do cloud developers have more control over the version of their software?",
+      "correctAnswer": "The software is kept on their central server and they can make sure that copy is always updated",
+      "wrongAnswers": [
+        "They are better at telling the end users when to update",
+        "They make the updates easier to apply",
+        "They revoke product keys to older versions of the software"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "3aebca50-be90-4d07-85d4-1a606a4877f8",
+    "id": "6e507e4c-7c0b-4c61-a06c-66574901c119",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these is the correct operator for 'not equal to'?",
+      "correctAnswer": "!=",
+      "wrongAnswers": [
+        "<>",
+        "/=",
+        "-/-"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "e686c70a-3214-470c-b60a-3c3fcec819b5",
+    "id": "6e52aedc-837f-4d17-ae93-81ef1353e844",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these is the main focus of pseudocode?",
+      "correctAnswer": "Logic of an algorithm",
+      "wrongAnswers": [
+        "Syntax of the language",
+        "Specific API calls"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "6f77c4f9-5ca5-49c9-a6f5-28f1232ed341",
+    "id": "6f1e64c8-df18-4fb9-b2bf-56842459e8ba",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why do we subdivide frequencies into bands and channels?",
+      "correctAnswer": "To reduce the effects of interference",
+      "wrongAnswers": [
+        "To make transfer speeds faster;\nTo reduce costs;"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "5b8a2f28-50c7-457d-a871-940d05f50986",
+    "id": "6f4026d7-6fae-4919-9cf5-b54e75afe1b3",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Would the following code cause a syntax error?<br/><br/>\nprint(\"Hello, world!\")",
+      "correctAnswer": "No",
+      "wrongAnswers": [
+        "Yes"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "be84f187-e3ae-44f0-b43a-450ac96a64be",
+    "id": "7075a30b-53b3-4a7f-8879-60f5d8eb3bf3",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How do we access the first element of an array?",
+      "correctAnswer": "myArray[0]",
+      "wrongAnswers": [
+        "myArray[1]",
+        "myArray[first]",
+        "myArray.first()"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "4da702de-d497-4c3e-9b97-c3f2c6d9fe12",
+    "id": "70b6656a-84ef-419a-983f-726db4be73c5",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is often the best way to identify an algorithm?",
+      "correctAnswer": "Looking for comments",
+      "wrongAnswers": [
+        "Examining identifiers",
+        "Examining output statements"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "20bc2a8c-0662-409f-9beb-eef98e6252c8",
+    "id": "7267986c-30f0-4add-ae32-f6df2fe84d0c",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the official name for WiFi?",
+      "correctAnswer": "IEEE 802.11x",
+      "wrongAnswers": [
+        "IET 208.11x",
+        "WWW 196.16x"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "261596bd-d496-455d-8e91-45f3ad509e43",
+    "id": "727cb4ba-86ab-43c2-bd7d-dd569bb5a690",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the main disadvantage of linear search?",
+      "correctAnswer": "It is slow",
+      "wrongAnswers": [
+        "It is hard to implement",
+        "It is not effective"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "ed2d7225-ce17-4121-8119-9e24aca7c6ac",
+    "id": "743738a0-c178-4408-8045-791779c22746",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these should a layer consider about other layers?",
+      "correctAnswer": "Inputs and outputs",
+      "wrongAnswers": [
+        "Inputs and how it works",
+        "How it works and outputs",
+        "Inputs&#44; outputs and how it works"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "f1562954-63fa-4230-94f6-9a1fe80beb24",
+    "id": "7af9487d-8855-4a9f-bc41-ebe523dfd170",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "How data should be structured",
+        "How to check if received data is correct"
+      ],
+      "question": "What is agreed during handshaking?",
+      "correctAnswer": "How communication will start and end",
+      "imageURL": "https://media.giphy.com/media/3oz8xDV1AStIMFJ0uk/giphy.mp4"
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "d8352606-1d8e-4f30-b08a-42f4519f82fb",
+    "id": "7aff8e7f-5f65-45a5-93a8-f1676564ccdb",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What happens if one peer in a network fails?",
+      "correctAnswer": "The other peers carry on as usual",
+      "wrongAnswers": [
+        "The network becomes unusable",
+        "The other peers will also fail",
+        "The other peers will help it get back online"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b9cdfcf6-316e-437e-abaf-cdb0d083ebd8",
+    "id": "7b810507-f900-4414-a8d8-4d5543235b9b",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Operating systems are an example of what type of software?",
+      "correctAnswer": "System",
+      "wrongAnswers": [
+        "Application",
+        "Utility"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "af47feea-fe53-415d-acf0-c6b7cc8fbe71",
+    "id": "7f4b5525-773a-4630-b436-0c1fc8d70bdb",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What might happen if the memory manager does not efficiently manage the memory?",
+      "correctAnswer": "The computer might slow down or crash",
+      "wrongAnswers": [
+        "The computer might delete all files in secondary storage",
+        "The computer might lose network connections"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "e3ae3d02-40d2-42a8-baa8-27a68c211e8c",
+    "id": "7f6839f5-3311-4d59-8256-0827f1bfad90",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the purpose of a device driver?",
+      "correctAnswer": "To tell the operating system how to use a piece of hardware",
+      "wrongAnswers": [
+        "To perform maintenance tasks to make sure the operation of the system continues",
+        "To allow the user to complete a specified task"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "af47feea-fe53-415d-acf0-c6b7cc8fbe71",
+    "id": "7f6c3eb1-52a8-4865-b65e-2366cf32ea8f",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "The Data Protection Act defines the rights of the individual over what?",
+      "correctAnswer": "Any data that is stored about them",
+      "wrongAnswers": [
+        "Any data that is stored about anyone",
+        "Only the data that is publicly accessible"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "082da132-6de4-4d09-812a-d421be0ec707",
+    "id": "81e90adb-0c8e-44f7-be13-4b4adce5e212",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does each box represent on a decomposition structure chart?",
+      "correctAnswer": "A sub-problem",
+      "wrongAnswers": [
+        "A process",
+        "An employee",
+        "A frame"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b2db4692-797b-46d5-9b91-71ea30fc8215",
+    "id": "821f0c44-7fd1-4842-81a9-17626efaf9d8",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why would Internet Message Access Protocol (IMAP) and Post Office Protocol (POP) not be used together in an email client?",
+      "correctAnswer": "They both serve the same purpose",
+      "wrongAnswers": [
+        "It is too expensive to use both",
+        "Most computers would run out of memory"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "4bc28aee-17d9-4fcb-bf16-b030bd6b27ac",
+    "id": "8252d168-a313-4781-8cd0-7f048ae80c4b",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "False OR True<br/>\nIs the above statement True or False?",
+      "correctAnswer": "True",
+      "wrongAnswers": [
+        "False"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "8a397d64-8b4c-4783-bec4-66a53db9c04a",
+    "id": "83f87143-6c36-40a2-845c-41404c505a74",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why should we not use compression on files we use often?",
+      "correctAnswer": "It takes a lot of time to decompress the file each time",
+      "wrongAnswers": [
+        "Each time we decompress the file a we have to pay a fee",
+        "The decompression software is very difficult to use"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "7e6374e9-71ea-4a38-810e-a6cd1ae3b40a",
+    "id": "846715de-c198-4286-8019-85dc7a1b4110",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Can a single-user operating system have two user accounts?",
+      "correctAnswer": "Yes",
+      "wrongAnswers": [
+        "No"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "7296acde-10ad-4710-a09c-45997cbd70bc",
+    "id": "849eda43-9ccd-48fe-91d4-c5b9d06578c4",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Does optical media tend to be cheap or expensive on a per-GB basis?",
+      "correctAnswer": "Cheap",
+      "wrongAnswers": [
+        "Expensive"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "111093ee-39bb-4811-93cd-b755de2f7edc",
+    "id": "8606bf51-63d9-4555-ac19-09e167542119",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What would the command \"array[5][3] = 0\" do to a 2D array?",
+      "correctAnswer": "Set the fourth element of the sixth array to zero",
+      "wrongAnswers": [
+        "Set the third element of the fifth array to zero",
+        "Set the second element of the fifth array to zero",
+        "Set the third element of the sixth array to zero"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "7c45e226-96a2-436b-9a67-3196d6bcae3c",
+    "id": "898b16c6-e007-4713-a032-b1a00a1ca5be",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which type of language often have more optimised (faster) code?",
+      "correctAnswer": "Low-level languages",
+      "wrongAnswers": [
+        "High-level languages",
+        "Mid-level languages"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "0dd358dd-cdea-4bb5-82ca-08d4ff3efe57",
+    "id": "8b624a7f-3baf-44b7-922e-5b9f4a911916",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Who is responsible for the maintenance of each peer in a peer-to-peer network?",
+      "correctAnswer": "The peer themselves",
+      "wrongAnswers": [
+        "The network administrator",
+        "The central server"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "a2344968-ba12-4442-af75-39caafc53d4e",
+    "id": "8bffc87a-6856-4e93-95c8-181b5739012b",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why should an organisation perform penetration testing?",
+      "correctAnswer": "They can fix vulnerabilities before criminals exploit them",
+      "wrongAnswers": [
+        "They can gain information about their competitors",
+        "They can use their findings to attack other sites"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "10ce157a-824c-4151-b317-44a6c3e93491",
+    "id": "8c3afde7-66c5-48e8-88c0-492325b58697",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is a DDoS (Distributed Denial of Service) attack?",
+      "correctAnswer": "Where multiple devices send DoS attacks to a single server at the same time",
+      "wrongAnswers": [
+        "Where a single device sends DoS attacks to multiple servers at the same time"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "fc8a355c-342e-4625-a4e5-ce8af8b26ff8",
+    "id": "8c89be4f-7ce2-4b35-a70d-09787e3c42c4",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these is an example of a public body?",
+      "correctAnswer": "A school",
+      "wrongAnswers": [
+        "A startup company",
+        "A large commercial organisation",
+        "A high street bank"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "a6dd58b7-6ca7-4bcf-89d4-61bfca86f33c",
+    "id": "8ca8834c-a572-46ec-b0f0-42795514d2dc",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Does a public body always have to release requested information?",
+      "correctAnswer": "No",
+      "wrongAnswers": [
+        "Yes"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "a6dd58b7-6ca7-4bcf-89d4-61bfca86f33c",
+    "id": "8da2644e-88f0-4cba-a8b5-78ecf8be0a62",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the result of two left binary shifts on 00110100?",
+      "correctAnswer": "11010000",
+      "wrongAnswers": [
+        "11010011",
+        "10110000",
+        "00110011"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "08711b6e-4e4e-43c6-9a50-7d90dd6d1c3c",
+    "id": "8de349a0-708a-4da0-9028-5ed6699675c3",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How can pseudocode be run on the computer?",
+      "correctAnswer": "It can not be run",
+      "wrongAnswers": [
+        "By compiling it",
+        "By assembling it",
+        "It can already be run"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "6f77c4f9-5ca5-49c9-a6f5-28f1232ed341",
+    "id": "8e31d6fa-18f5-4992-9980-cf155afef8b7",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these statements will output the text, 'Hello world!'?",
+      "correctAnswer": "print(\"Hello world!\")",
+      "wrongAnswers": [
+        "print(Hello world!)",
+        "output(Hello world!)",
+        "output(\"Hello world!\")"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "1e0e8e62-fa3c-4ec4-8971-46306c874068",
+    "id": "9002e773-7896-4aa2-acaf-bf10589f14c9",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is validation?",
+      "correctAnswer": "Checking that data meets certain criteria",
+      "wrongAnswers": [
+        "Checking that data is correct",
+        "Removing certain symbols from the input data"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "fcc31da8-54bf-4103-a974-3a6e0b028e4a",
+    "id": "911c6846-78d0-47aa-a132-b6aab4f7ec9d",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What are Digital Versatile Disks (DVDs) often used to store?",
+      "correctAnswer": "Standard-definition movies",
+      "wrongAnswers": [
+        "High-definition movies",
+        "Ultra high-definition movies"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "7b838fda-1ca0-4d12-9416-1425d00a2e31",
+    "id": "915a96f3-e723-436f-9e44-b785d6a46b0c",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the short name of the new data regulation, introduced in 2018?",
+      "correctAnswer": "GDPR",
+      "wrongAnswers": [
+        "GPPI",
+        "RGPC",
+        "DPA2"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "082da132-6de4-4d09-812a-d421be0ec707",
+    "id": "931a68d3-5439-4ab4-8fff-12698154dbeb",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why might a company choose to use magnetic media to make backups of large files?",
+      "correctAnswer": "Magnetic media is low cost per unit capacity",
+      "wrongAnswers": [
+        "Magnetic media is robust",
+        "Magnetic media is fast to access"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "6a7588f9-ac23-4585-bb9e-9d661d4b236f",
+    "id": "94c150c6-47b0-45b6-8f6b-e54ee4113056",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How can a number be multiplied by eight using binary shifts?",
+      "correctAnswer": "Three shifts left",
+      "wrongAnswers": [
+        "Four shifts left",
+        "One shift right",
+        "Two shifts right"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "08711b6e-4e4e-43c6-9a50-7d90dd6d1c3c",
+    "id": "98bacfaa-a48b-4e8c-a7d7-5a94026d59f1",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is iterative testing?",
+      "correctAnswer": "Testing done during the development process",
+      "wrongAnswers": [
+        "Testing done at the end of the project",
+        "Testing only the loops in a piece of software"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "bef5e5f9-55b9-4fb2-981d-6a27e2db32cc",
+    "id": "98e09e77-2760-4e02-9f3a-4c0ea2abaea4",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these is an ethical use of censorship?",
+      "correctAnswer": "Blocking illegal content",
+      "wrongAnswers": [
+        "Controlling the communication of citizens",
+        "Controlling the media to affect elections"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b4869cac-f2a9-48ee-89c1-f5f078e6f38b",
+    "id": "9b78defc-0cd1-44c4-afe2-7981d87fe6f9",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "A lot of encryption depends upon secret keys, what is a secret key?",
+      "correctAnswer": "A shared secret piece of data",
+      "wrongAnswers": [
+        "The location of some data",
+        "The algorithm used to encrypt the data"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "e154d90a-156b-442e-8231-59cdb0abd404",
+    "id": "9b7c844c-1a6f-4cdd-a0d6-3599a3222a34",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the Internet Protocol (IP)?",
+      "correctAnswer": "A set of rules that make sure that devices can work together on the Internet",
+      "wrongAnswers": [
+        "A set of rules that tell users how to set up their own Internet connection",
+        "A set of rules that control which applications have access to the Internet"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "24253ab1-7458-46ed-846a-1798ed633cc3",
+    "id": "9ce3fbb6-016f-4cb8-93b2-8ea18578f60c",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "The number of bits used to store the colour of each pixel is known as:",
+      "correctAnswer": "Colour depth",
+      "wrongAnswers": [
+        "Bit rate",
+        "Resolution",
+        "Encoding"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "dcb8140c-a9d6-4554-934a-85a4e2f2af46",
+    "id": "a1a4c1a4-9fdc-48f3-bd3b-e6f10967afd1",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of language is Python?",
+      "correctAnswer": "High-level",
+      "wrongAnswers": [
+        "Low-level",
+        "Mid-level"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "c4996370-261d-4f80-88aa-b78159dd1975",
+    "id": "a1fe75fc-3def-4b63-896f-ed9f8d652a71",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "If we don't use the correct methods to access files, what might happen?",
+      "correctAnswer": "Files may get corrupted",
+      "wrongAnswers": [
+        "Files may duplicate",
+        "Files may display sensitive information"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "e34574a7-e550-4b90-9941-8ab3dbaeb8c8",
+    "id": "a26d2448-18e1-4e31-a913-ba8c1a54c7dd",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "In which register is the output of the arithmetic and logic unit stored?",
+      "correctAnswer": "Accumulator",
+      "wrongAnswers": [
+        "Program counter",
+        "Memory address register",
+        "Memory data register"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "892977d6-90aa-4543-8d9f-cbc495f69e85",
+    "id": "a3a42a5f-ebb5-44d3-97b6-048ba0a2bb77",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the difference between the TCP and OSI models?",
+      "correctAnswer": "Nothing apart from the grouping",
+      "wrongAnswers": [
+        "The protocols used in transmission",
+        "The time taken to send data",
+        "The hardware used"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "e789cab4-6944-4559-ab54-f5d4c285cd94",
+    "id": "a3e49941-38d2-47bc-949d-1190a60c1d8e",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What characters are supported by Unicode?",
+      "correctAnswer": "All characters from all major alphabets",
+      "wrongAnswers": [
+        "All characters from all European alphabets",
+        "Most characters from all major alphabets",
+        "Most characters from all European alphabets"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b5eb638f-db38-454b-84e2-e04758ae93fd",
+    "id": "a4366576-4a64-4504-a70d-b5fdacdbcb4c",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the main disadvantage of bubble sort?",
+      "correctAnswer": "Poor efficiency",
+      "wrongAnswers": [
+        "Poor effectiveness",
+        "Only works for certain data types"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "19666777-9a22-42ef-a238-5d415a6b79ce",
+    "id": "a65213ec-b0fa-476d-978c-1060d3b96638",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why is compilation bad for small changes?",
+      "correctAnswer": "The compilation process is slow",
+      "wrongAnswers": [
+        "Compilation does not allow small changes",
+        "It makes the software run slower"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "0bbc59c2-89f0-48cd-9a66-0ab3d01c70f4",
+    "id": "a6cf633e-e169-4678-821f-941b99528d6b",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Primary storage",
+        "Random Access Memory",
+        "Read-Only Memory"
+      ],
+      "question": "Where does the computer store data and instructions which are NOT currently in use?",
+      "correctAnswer": "Secondary storage",
+      "imageURL": "https://media.giphy.com/media/3Mj3Dssgl3eeI/giphy.mp4"
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "6a6ddaaa-480b-4911-930e-d3e8ef1128bb",
+    "id": "a8686804-a8e2-48e9-b0cd-383536eaefdd",
+    "type": "module",
+    "moduleDifficulty": 2,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "In wide area networks"
+      ],
+      "question": "Where might we often see a star topology?",
+      "correctAnswer": "In local area networks",
+      "imageURL": "https://media.giphy.com/media/26gswguqPGZFTv6q4/giphy.mp4"
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "2b9c8d60-add3-4d8f-a004-026a3f568c58",
+    "id": "a8aa3413-b04a-4899-bbff-f9b56fcbf3fe",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "content": {
+      "wrongAnswers": [
+        "Compression",
+        "Backup",
+        "Encryption"
+      ],
+      "question": "Which type of utility software improves hard disk performance by applying an algorithm to reorganise data?",
+      "correctAnswer": "Defragmentation",
+      "imageURL": "seneca-image-cdn:///2018-06/38cfa5ea-ebbc-4e43-909f-1da812e62725/shutterstock_581985661.jpg"
+    },
+    "parentId": "b4640f06-3376-4a73-b531-0477befcc2fa",
+    "id": "a8f0f073-2417-4ffd-b17b-1a6c534158ee",
+    "type": "module",
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which option is NOT suitable?",
+      "correctAnswer": "Optical media",
+      "wrongAnswers": [
+        "Solid-state media",
+        "Magnetic media"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "a8373ccb-d1d3-48c4-8a21-0070296fe783",
+    "id": "aa1de86f-e6f0-40fb-b435-91f40710dec2",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the main issue with having to duplicate files in a peer-to-peer network?",
+      "correctAnswer": "It can lead to multiple out-of-date versions of the same document",
+      "wrongAnswers": [
+        "It can use up more bandwidth on the network",
+        "It can take a long time to duplicate the files"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "337c929d-81b5-4596-a1c0-8453f11f6ba1",
+    "id": "aa2c87ff-193c-4c91-bc50-5299d79a9083",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "I need to download two videos, of average size 500 MB. What is the approximate total amount of data that I will download?",
+      "correctAnswer": "1 GB",
+      "wrongAnswers": [
+        "2 GB",
+        "256 MB",
+        "1 KB"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "66044ec5-c47c-4368-86a3-a8fd291fc868",
+    "id": "abba2861-0b5c-4cf1-8348-95703ff4af48",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following suggests a phishing attack?",
+      "correctAnswer": "Poor spelling",
+      "wrongAnswers": [
+        "Good grammar",
+        "Specific greetings"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "57ce7135-860c-4239-af79-ee025dd4c8db",
+    "id": "ac81d256-f40d-4ede-82f7-d93876a78b38",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "In the following code, is x a parameter or an argument?<br/><br/>\n\nFUNCTION name(x, y)&emsp;&emsp;<br/>\nreturn x + y&emsp;&emsp;<br/>\nENDFUNCTION&emsp;&emsp;&emsp;&emsp;&emsp;<br/>",
+      "correctAnswer": "Parameter",
+      "wrongAnswers": [
+        "Argument"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "c20587e1-b365-413c-8d6b-d71dd56f2d76",
+    "id": "acd0b7f6-1bc6-48be-9545-89b67ff33f6b",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which type of optical disk is usually used to distribute games or movies?",
+      "correctAnswer": "ROM",
+      "wrongAnswers": [
+        "R",
+        "RW"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "969f1f7b-e590-48d0-95fc-ceb89d2dc67b",
+    "id": "ad039af1-2ccc-47c2-bd74-cdf86329fe65",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why is it more difficult to detect a logic error than a syntax error?",
+      "correctAnswer": "The translator does not alert us to logic errors",
+      "wrongAnswers": [
+        "Logic errors are very minor spelling mistakes",
+        "Syntax errors only happen when something is visibly wrong"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "c2e1702d-820c-4804-957a-31340cd15c93",
+    "id": "ad400ae7-7b38-444f-8266-3719ac5246df",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does DVD-ROM mean?",
+      "correctAnswer": "The disk is read only",
+      "wrongAnswers": [
+        "The disk can be re-written once",
+        "The disk can always be re-written"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "969f1f7b-e590-48d0-95fc-ceb89d2dc67b",
+    "id": "ae6fa72e-34eb-435d-8fa9-7725b8f39ea1",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How does the Internet of things learn more about your schedule and movement habits?",
+      "correctAnswer": "Using the GPS signal from your phone",
+      "wrongAnswers": [
+        "Checking where you have posted about on social media",
+        "Checking which WiFi networks you have connected to"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "0f93c15c-4a65-41b4-aec2-308e2982f383",
+    "id": "af41728a-c2b7-4039-8eb4-c56b45f4a12b",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is one of the most common reasons for casting?",
+      "correctAnswer": "Input / Output",
+      "wrongAnswers": [
+        "Passing parameters",
+        "Global variables",
+        "Poor planning"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "d7e012d7-53f4-45c9-8fe2-99d068cb0aa6",
+    "id": "b111cbaa-042a-4962-88d7-e126b509ada3",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Lateral Processing Unit",
+        "Peripheral Processing Unit",
+        "Core Processing Unit"
+      ],
+      "question": "This is the common architecture for what feature of computers?",
+      "correctAnswer": "Central Processing Unit",
+      "imageURL": "seneca-image-cdn:///2019-11/52254e7d-b81b-41b1-be5a-b2d87a0d9423/Copy%20of%20CPU%20(1)-min.png"
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b158b200-6e27-11e8-af4b-35cf52f905c2",
+    "id": "b158b203-6e27-11e8-af4b-35cf52f905c2",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "An online video streaming service sends data at 4 MB per second. I only have 180 MB of data left. How long will I be able to watch the stream for?",
+      "correctAnswer": "45 seconds",
+      "wrongAnswers": [
+        "1 minute",
+        "30 seconds",
+        "15 seconds"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "66044ec5-c47c-4368-86a3-a8fd291fc868",
+    "id": "b1f777fc-4651-4b07-9447-88e197d22735",
+    "type": "module",
+    "moduleDifficulty": 3,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why do we use domain names instead of IP addresses?",
+      "correctAnswer": "They are easier to remember",
+      "wrongAnswers": [
+        "They are longer than IP addresses",
+        "It makes the DNS process quicker"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "ad5719dd-c957-4b7e-8a8c-06fca0228315",
+    "id": "b466639d-e0ba-4cef-9f3f-ffd1fea2083c",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "5 <= __ <br>\nWhat is the smallest integer which could make this statement True?\n",
+      "correctAnswer": "5",
+      "wrongAnswers": [
+        "4",
+        "3",
+        "2"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "e686c70a-3214-470c-b60a-3c3fcec819b5",
+    "id": "b70197c1-a012-4941-87a5-8ea0c8611a63",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the purpose of a network policy?",
+      "correctAnswer": "To make sure that all users of the system are aware of the 'rules' of the system",
+      "wrongAnswers": [
+        "To make sure that there is never a cyberattack against the network",
+        "To make sure that people are more efficient at work"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "5e3af26b-088c-49ca-b9ed-1a3a9ba94af2",
+    "id": "b7c88c5f-6ba3-4738-a714-34fc1d31f242",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of cyberattack is Structured Query Language (SQL) injection?",
+      "correctAnswer": "Active",
+      "wrongAnswers": [
+        "Passive",
+        "Insider"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "9b5f3770-70ed-4c81-b6e6-cac8b9218ba5",
+    "id": "b7ff8575-3cab-4fc8-86e0-e289106a9f3e",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which shape is used to show selection in a flow diagram?",
+      "correctAnswer": "Diamond",
+      "wrongAnswers": [
+        "Rectangle",
+        "Oval",
+        "Parallelogram"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "bb9289d0-a169-491b-9dc6-8efe3fd0733a",
+    "id": "b8b12ef4-da99-4232-9a7e-a8801c8af0b8",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "A home computer user's solid state drive (SSD) has failed. They are trying to find out why this has happened, but the only thing that they have done differently recently is use virtual memory. Why has their SSD failed?",
+      "correctAnswer": "Using their SSD as virtual memory caused pages to be continuously written and read, which broke the read/write cycle limit",
+      "wrongAnswers": [
+        "It is impossible to use a solid state drive with virtual memory. The computer attempted to access it as a magnetic drive which broke the SSD"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "7b387b8f-9b66-4217-ad27-66371f9214bc",
+    "id": "ba59b536-4cc2-475d-9559-dcfeaaf59ec6",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does it mean for a program to be robust?",
+      "correctAnswer": "It can handle unexpected inputs",
+      "wrongAnswers": [
+        "It can work under many different conditions",
+        "It is impossible to brute force attack it",
+        "It has been written in a special robust programming language"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "184e460a-7b11-42a8-9205-eb2f8e5d271c",
+    "id": "ba9db4fb-5444-4602-80c5-a97f8f1ca0c2",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why can runtime errors cause a lot of problems?",
+      "correctAnswer": "They are not always found during development",
+      "wrongAnswers": [
+        "Runtime errors cannot be caught or handled",
+        "Runtime errors are reserved for the most serious problems"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "c473f4c2-a3c1-43a0-bafc-0893856f2749",
+    "id": "bae24f74-a9a1-4476-8f87-5cce6486ac32",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is $$10101_{2}$$ in denary?",
+      "correctAnswer": "$$21_{10}$$",
+      "wrongAnswers": [
+        "$$12_{10}$$",
+        "$$12_{01}$$",
+        "$$21_{01}$$"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "c4996370-261d-4f80-88aa-b78159dd1975",
+    "id": "bbceab7d-bc1a-40de-85c8-e0bcdb12d353",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the most common operator mistake?",
+      "correctAnswer": "&gt; vs >=",
+      "wrongAnswers": [
+        "== vs !=",
+        "&plus; vs -"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "2a0d41de-b643-45e1-89d4-f100527a0dab",
+    "id": "bef0e47c-f5bd-4bf8-b0d5-4169202f8d5b",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "They are always free",
+        "They are easier to use"
+      ],
+      "question": "Why might a user choose to use cloud-based applications?",
+      "correctAnswer": "There is no need to install them on secondary storage",
+      "imageURL": "https://media.giphy.com/media/LNDBTeQl8lhTO/giphy.mp4"
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "27243053-099e-4493-89fe-a355f4352084",
+    "id": "bf5b210e-c928-4bb4-998b-ee88845c3c61",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the payload of a packet?",
+      "correctAnswer": "The data that was intended to be sent",
+      "wrongAnswers": [
+        "The sender's address",
+        "The recipient's address",
+        "Metadata"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "1d017497-3256-4efc-af28-b551e197c4b0",
+    "id": "c0597db5-f0e7-4c9b-91d1-f303b2a722cc",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why might a manufacturer distribute media on a compact disk (CD) rather than a digital versatile disk (DVD)?",
+      "correctAnswer": "CDs are cheaper",
+      "wrongAnswers": [
+        "CDs store more content",
+        "CDs provide better quality"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "7b838fda-1ca0-4d12-9416-1425d00a2e31",
+    "id": "c1cd7ff2-d46b-49c9-8932-265ee8443828",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why do syntax errors prevent programs from running?",
+      "correctAnswer": "Translators needs code to be syntactically correct",
+      "wrongAnswers": [
+        "The program might do something unexpected",
+        "The program would likely damage the computer"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "be84f187-e3ae-44f0-b43a-450ac96a64be",
+    "id": "c42197ab-a55c-4edd-afaa-82c181f6f63a",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the main motivation for using assembly?",
+      "correctAnswer": "It gives exact control of hardware",
+      "wrongAnswers": [
+        "It is easier to program in",
+        "It is easier to read the code",
+        "It is faster to write"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "6bd5715c-f5a9-41e4-bb58-92b98b4fe4a2",
+    "id": "c4a36a8a-3fa5-46ab-b47d-26d23c306d1b",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Secondary storage"
+      ],
+      "question": "What's Random Access Memory an example of?",
+      "correctAnswer": "Primary storage",
+      "imageURL": "https://media.giphy.com/media/3oKIPmHmREIV18Xtbq/giphy.mp4"
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "82247696-30a4-40e6-b821-87e842cc83cd",
+    "id": "c557099b-baa8-4e36-9dac-644058e27945",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is a timeout limit?",
+      "correctAnswer": "The maximum amount of time that packet transfer is expected to take",
+      "wrongAnswers": [
+        "The minimum amount of time that a packet will take to transfer",
+        "The maximum number of packets that we can send per second"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "85dcd9e6-732a-4014-8bdb-c8a3e8810c77",
+    "id": "c5d57409-ede6-41cb-aebe-35e4e4be767c",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "correctAnswer": "Solid state",
+      "wrongAnswers": [
+        "Magnetic",
+        "Optical"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "5e6e93f4-a7b5-4a64-b37e-23f37c3ad795",
+    "id": "c6a9acdd-4d40-4641-a9e5-8b797b229756",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is an application programming interface?",
+      "correctAnswer": "A set of code libraries",
+      "wrongAnswers": [
+        "A programming tutorial",
+        "A way of writing new code",
+        "A special purpose operating system"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "6eb5fbeb-7967-46f0-b17e-bf306b40cbe0",
+    "id": "c6f5b723-7c8a-445e-b979-b8d343452e9f",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which protocol is used to send emails?",
+      "correctAnswer": "SMTP",
+      "wrongAnswers": [
+        "POP3",
+        "IMAP"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "fc8a355c-342e-4625-a4e5-ce8af8b26ff8",
+    "id": "c709587a-e185-4b9a-bdcc-7638c597b6c1",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the name of the smallest unit of data that a computer can store?",
+      "correctAnswer": "Bit",
+      "wrongAnswers": [
+        "Byte",
+        "Nibble"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "4a0b8cf9-c7ec-48e2-9eab-f6210ae641f1",
+    "id": "c79c691e-52f3-439b-be94-9a180b191b5c",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Once a user is authenticated, what should they see?",
+      "correctAnswer": "Data relevant to themselves but no one else",
+      "wrongAnswers": [
+        "Data relevant to everyone",
+        "General data that is not relevant to any user"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "dadeeb6a-903e-41fa-97ec-8b3c8f4e9628",
+    "id": "c81e7419-a4a5-46de-a72c-89d27d1df4cb",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How is audio stored digitally?",
+      "correctAnswer": "By sampling its amplitude at regular intervals",
+      "wrongAnswers": [
+        "By storing it in a separate analogue storage device",
+        "By creating a perfect model of the sound wave"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "45ecc5db-5ce2-48b9-89a7-62bb9059085f",
+    "id": "c9cde04a-3e13-43e7-bb2d-13a3c6d10799",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the most important factor that allows optical media to be transported?",
+      "correctAnswer": "Optical media is not damaged by shocks",
+      "wrongAnswers": [
+        "Optical media is very light",
+        "Optical media is very small"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "111093ee-39bb-4811-93cd-b755de2f7edc",
+    "id": "ca257c2b-f652-4358-b0ba-1f99c0f82d70",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is net neutrality?",
+      "correctAnswer": "How bandwidth is controlled on the Internet",
+      "wrongAnswers": [
+        "How people voice opinions online",
+        "The types of content presented online"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "1f8dd572-7f4d-408c-b58d-1f814ef8976a",
+    "id": "ca6ca07e-1362-461b-8e36-5afc72514d14",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Secondary storage"
+      ],
+      "question": "Which of these tends to be faster to access?",
+      "correctAnswer": "Primary storage",
+      "imageURL": "https://media.giphy.com/media/101IgDtwWFQKti/giphy.mp4"
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "82247696-30a4-40e6-b821-87e842cc83cd",
+    "id": "caf1711b-a12c-43b3-9746-981cd70ed9bd",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Do we always need a protocol when two devices exchange data?",
+      "correctAnswer": "Yes",
+      "wrongAnswers": [
+        "No"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "d8352606-1d8e-4f30-b08a-42f4519f82fb",
+    "id": "cb65392f-c8b7-4b20-afd2-614452246609",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is overflow?",
+      "correctAnswer": "When a number is too large to be stored",
+      "wrongAnswers": [
+        "When a number is too small to be stored",
+        "When we have too many empty bits",
+        "When we have a digit which is not a 0 or a 1"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "a3e91940-7a7a-40fb-8d23-fe99cbf85c68",
+    "id": "cb7b99be-f6f0-417c-8a88-851e48db719c",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Binary search is an example of what type of algorithm?",
+      "correctAnswer": "Divide and conquer",
+      "wrongAnswers": [
+        "Greedy",
+        "Monte Carlo",
+        "Decomposition"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "c3f82da2-7ab2-4d83-a42a-f6baa2f9fde0",
+    "id": "cb9cf4c8-710c-4d19-8299-501c826f6f5a",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Are MAC addresses unique globally or locally?",
+      "correctAnswer": "Globally",
+      "wrongAnswers": [
+        "Locally"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "887c1a04-14d3-4e65-992d-dc24db6d4ebe",
+    "id": "cbb5225a-09c8-4b64-b22e-47b4c75ebd12",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is used to perform a complex boolean function?",
+      "correctAnswer": "Logic circuit",
+      "wrongAnswers": [
+        "Logic gate",
+        "Transistor"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "78ecde10-494e-4aa7-b3bf-10e1efc3abd9",
+    "id": "ccf9e2c0-b375-4e6f-9daf-964eaea64c52",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is an efficient search?",
+      "correctAnswer": "A search which will find data quickly",
+      "wrongAnswers": [
+        "A search which will always work",
+        "A search which works on any type of data",
+        "A search which only works in certain data sets"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "38079bbe-4a4c-47f4-a72b-74ff9a12fd14",
+    "id": "cd7e036d-770e-4ce0-b376-e31dd8353aae",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How does input validation protect against Structured Query Language (SQL) injection?",
+      "correctAnswer": "The rules don't permit the characters needed to write SQL code",
+      "wrongAnswers": [
+        "It removes SQL command words from the input before it is processed",
+        "It makes sure that the data input by the user is correct"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "9b5f3770-70ed-4c81-b6e6-cac8b9218ba5",
+    "id": "cd869cb3-b646-4315-b665-6b8ed0d42ea3",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Can censorship have positive consequences?",
+      "correctAnswer": "Yes",
+      "wrongAnswers": [
+        "No"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "274a0c95-b097-4e03-8aae-d82cd4e32f01",
+    "draft": {
+      "question": "Can censorship have positive consequences?",
+      "correctAnswer": "Yes",
+      "wrongAnswers": "No"
+    },
+    "id": "cf90bc0f-df28-42f8-a610-a69a99fca54c",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Algorithms are only found in computing. True or false?",
+      "correctAnswer": "False",
+      "wrongAnswers": [
+        "True"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "9ac7dcd1-c6f9-4201-a7de-a2ab34b830ea",
+    "id": "d06db0d0-8112-413b-b8d2-435f3d0b2bb1",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the main issue with Post Office Protocol compared to Internet Message Access Protocol?",
+      "correctAnswer": "It does not sync inboxes",
+      "wrongAnswers": [
+        "It can lose emails",
+        "It lacks security"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "4bc28aee-17d9-4fcb-bf16-b030bd6b27ac",
+    "id": "d0ff72b6-9662-4a1b-b7eb-1d894f90e9a6",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why is the path of each packet different?",
+      "correctAnswer": "To avoid bottlenecks",
+      "wrongAnswers": [
+        "They sometimes get lost",
+        "There is no way to control them"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "c89848c2-7ae2-404c-b2e9-aaef289da94e",
+    "id": "d1541935-6b4f-4c91-8b6a-06d4b2f92350",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How many bits represent each character in ASCII?",
+      "correctAnswer": "7",
+      "wrongAnswers": [
+        "8",
+        "4",
+        "15"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "c4996370-261d-4f80-88aa-b78159dd1975",
+    "id": "d19605df-5f9a-43ae-9f1b-1455b1ef8bde",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Can anyone view the source code of an open source project?",
+      "correctAnswer": "Yes",
+      "wrongAnswers": [
+        "No"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "270ee251-3933-4d3a-a3b6-2bafc62239cb",
+    "id": "d280b835-be63-4cfe-8c88-13481173cb1b",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why might a user choose to use a command line interface rather than a graphical user interface?",
+      "correctAnswer": "CLIs use less memory compared to GUIs",
+      "wrongAnswers": [
+        "CLIs are easier to use than GUIs",
+        "CLIs are cheaper than GUIs"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "3dcbf565-7368-4fda-af6e-0657dc729f4f",
+    "id": "d2b8d1e9-2554-4c34-af84-9c59492a36c6",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What kind of components can cause licensing issues when used in commercial projects?",
+      "correctAnswer": "Open source",
+      "wrongAnswers": [
+        "Untested",
+        "Depreciated",
+        "Proprietary"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "537a639d-605c-48d3-8bce-d4a1d27a4d01",
+    "id": "d318f10a-1217-4b30-acf2-bc8e184948c2",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is often the best way to identify an algorithm?",
+      "correctAnswer": "Looking for comments",
+      "wrongAnswers": [
+        "Examining identifiers",
+        "Examining output statements"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "584fd343-b3b3-4a7c-836e-e2007572fee6",
+    "id": "d33bf53b-6f99-4387-b665-f324389db4e5",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "In which country is net neutrality particularly threatened?",
+      "correctAnswer": "United States of America",
+      "wrongAnswers": [
+        "United Kingdom",
+        "France",
+        "China"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "1f8dd572-7f4d-408c-b58d-1f814ef8976a",
+    "id": "d397fdbc-2a22-474c-b155-a31981606dad",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these is a benefit of using virtual networks?",
+      "correctAnswer": "Remote network connection",
+      "wrongAnswers": [
+        "Easier to use",
+        "Faster"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "474b795d-2548-4a93-81dd-d230e5c87f05",
+    "id": "d3b60a74-da2a-41cc-8ab9-2eddbc788583",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why might we group users into user groups?",
+      "correctAnswer": "It simplifies managing access rights",
+      "wrongAnswers": [
+        "It makes it easier to log in",
+        "It is easier to delete a user account"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "616c2a1c-d68e-4c7a-bf98-9dea060dea5d",
+    "id": "d5166e80-0935-4b9f-a362-5f1182754f73",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does it mean for a language to be portable?",
+      "correctAnswer": "It can run on different types of hardware",
+      "wrongAnswers": [
+        "The computer it runs on can be moved",
+        "It can only be run on mobile devices"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "5774aa27-194e-4650-9a3c-743abb1ab15f",
+    "id": "d583a451-dc37-4b3d-900d-a15a2a009569",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is usually represented by the presence of charge in a computer system?",
+      "correctAnswer": "1",
+      "wrongAnswers": [
+        "0"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "c4996370-261d-4f80-88aa-b78159dd1975",
+    "id": "d5faefe5-8973-4ceb-b7b9-2ef48d1cd132",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the issue with fragmented files?",
+      "correctAnswer": "They take longer to load",
+      "wrongAnswers": [
+        "They cannot be opened",
+        "They damage the secondary storage device"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "ce3b3387-8d35-4d94-9df3-7fd8343a1704",
+    "id": "d92fde9a-7dd7-442b-8804-8210f6285e99",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the weakest point in most networks?",
+      "correctAnswer": "People",
+      "wrongAnswers": [
+        "Network hardware",
+        "Network configuration"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "8d0049c8-a17e-4330-ae09-3cad530fb110",
+    "id": "d9738716-cebb-4a0d-ab8b-836a04cdcf6e",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why might a commercial organisation use a virtual private network rather than setting up a wide area network?",
+      "correctAnswer": "It is much cheaper",
+      "wrongAnswers": [
+        "It is more secure",
+        "It does not need specialist technicians"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "33722cc4-ca4a-417e-ad07-624ec4da9a42",
+    "id": "da3b9b67-19dc-4540-95cd-0a0e4370e4a4",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Central Programming Unit",
+        "Computer Processing Unit",
+        "Control Processing Unit"
+      ],
+      "question": "Modern CPUs are based on the Von Neumann architecture. What does CPU stand for?",
+      "correctAnswer": "Central Processing Unit",
+      "imageURL": "https://media.giphy.com/media/970Sr8vpwEbXG/giphy.mp4"
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b158b200-6e27-11e8-af4b-35cf52f905c2",
+    "id": "da3e7180-6e29-11e8-af4b-35cf52f905c2",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these is a common error-recovery route?",
+      "correctAnswer": "Undo feature",
+      "wrongAnswers": [
+        "Save feature",
+        "Edit feature",
+        "Open feature"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "dadeeb6a-903e-41fa-97ec-8b3c8f4e9628",
+    "id": "dafc8144-4954-4e73-8747-30964bda9fcb",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How can the Internet of Things know what you look like?",
+      "correctAnswer": "Storing data from facial recognition",
+      "wrongAnswers": [
+        "With hidden cameras",
+        "By finding your social media photos"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "0f93c15c-4a65-41b4-aec2-308e2982f383",
+    "id": "db754b10-4118-4a90-9561-47bd080c30fd",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "If a single file takes up 20 MB and 10 of these files must be stored, what capacity is required on disk?",
+      "correctAnswer": "200 MB",
+      "wrongAnswers": [
+        "2 MB",
+        "30 MB",
+        "100 MB"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "1d4d910e-47c6-4d15-b2dd-4d31e47ae5ed",
+    "id": "dd5dcd67-70a8-4c71-8280-7b4e0024721a",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these most accurately describes what a general-purpose computer does?",
+      "correctAnswer": "Many different tasks",
+      "wrongAnswers": [
+        "One single task",
+        "Add numbers",
+        "Act as part of a larger system"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "1d4d910e-47c6-4d15-b2dd-4d31e47ae5ed",
+    "id": "dfea5a47-6f81-4d32-bedc-8c097e3a1ca4",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Is it easier to intercept a wireless or a wired signal?",
+      "correctAnswer": "Wireless",
+      "wrongAnswers": [
+        "Wired"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "f840831c-31b8-446e-af33-c2458e43f627",
+    "id": "dffbbd63-28ae-4595-bd80-7a2f319d8fff",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does the first half of a MAC address specify?",
+      "correctAnswer": "The manufacturer of a device",
+      "wrongAnswers": [
+        "The individual device",
+        "The device's location within a network",
+        "The year that a device was manufactured"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "887c1a04-14d3-4e65-992d-dc24db6d4ebe",
+    "id": "e16849cb-7a8f-4988-8497-244ec470102b",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What impact does the lack of a central server have on a mesh network's reliability?",
+      "correctAnswer": "There is no single point at which the network can fail",
+      "wrongAnswers": [
+        "The network becomes a lot less reliable",
+        "The server cannot assess the reliability as effectively"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "53ee87ac-d227-4be1-8efa-1cb855535679",
+    "id": "e3b4c8ff-9f89-43ef-bf68-a6ad1058219e",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does indentation help programmers to visualise?",
+      "correctAnswer": "Scopes",
+      "wrongAnswers": [
+        "Identifiers",
+        "Processes",
+        "Parameters"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "af94619b-b040-4b94-bdcc-bbcda933f083",
+    "id": "e3c8fc6e-5cd4-45ea-8a8f-dd96aeb68272",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why are so many types of data included in test plans?",
+      "correctAnswer": "To make sure that no bugs remain in deployment",
+      "wrongAnswers": [
+        "It is interesting to see what happens",
+        "To make sure that they work for all values in the valid range"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "adae7bab-58d3-4cfd-9924-482cdef35bb2",
+    "id": "e4b91cfb-d531-4d2d-8346-dffbbfd5b59c",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What would be the most suitable type to store the number 2.5?",
+      "correctAnswer": "Float",
+      "wrongAnswers": [
+        "Integer",
+        "Boolean",
+        "String"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "edbbc3fb-2a04-472f-8e15-a4c1a4b8cbb4",
+    "id": "e6dda2e3-eaf3-4c06-a48e-db66df41f6fc",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why might a hybrid storage system be used?",
+      "correctAnswer": "To leverage the advantages of both media",
+      "wrongAnswers": [
+        "To increase total storage capacity",
+        "To improve the reliability of the system",
+        "To allow error-checking"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "a8373ccb-d1d3-48c4-8a21-0070296fe783",
+    "id": "e76ee0f2-398c-4dd2-994a-fb0195ac9cc4",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is e-waste?",
+      "correctAnswer": "Discarded electronic devices",
+      "wrongAnswers": [
+        "Chemicals produced during the manufacturing process",
+        "Discarded plastic packaging from electronic devices"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "6e7f7fd6-81da-4ac2-9d73-1d97009fae89",
+    "id": "e7885426-fe2b-43e0-8c97-c4d7ed1c2ac0",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is a brute force attack?",
+      "correctAnswer": "An attack which attempts to crack a password by trying every combination of letters and numbers",
+      "wrongAnswers": [
+        "An attack on physical hardware which seeks to damage the hardware",
+        "An attack which uses logical rules to deduce a person's password"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "bc791a1a-99ed-47a2-ba71-f1e5e64c1609",
+    "id": "ebce3d9b-9b51-42e8-90e4-548da7c24d48",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the purpose of device drivers?",
+      "correctAnswer": "To help the operating system to understand data from devices",
+      "wrongAnswers": [
+        "To help supply power to a peripheral device",
+        "To allow hardware to connect without having to use the operating system"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "31883e54-0329-448b-a498-9ae827135c05",
+    "id": "ec0e5cd1-4e3d-402b-8e2f-c98d0739b3b7",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why might a company choose to use a different type of storage device if they need to have fast access to their data in the future?",
+      "correctAnswer": "The moving parts of the magnetic media make access times slow",
+      "wrongAnswers": [
+        "The magnetic media may break before they have chance to access their data",
+        "Magnetic media is too expensive"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "6a7588f9-ac23-4585-bb9e-9d661d4b236f",
+    "id": "ed438519-8e1e-471f-9da6-8b02cc6d8bb3",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Can censorship have positive consequences?",
+      "correctAnswer": "Yes",
+      "wrongAnswers": [
+        "No"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b4135a85-8a0d-4391-ab6a-5e361b4850e6",
+    "id": "ed6d6cd0-549e-414a-9421-22de2bf93936",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What do we have no guarantee of in a peer-to-peer network?",
+      "correctAnswer": "The strength or existence of a peer's connection",
+      "wrongAnswers": [
+        "The identity of our peers",
+        "That our files reach their destination"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "337c929d-81b5-4596-a1c0-8453f11f6ba1",
+    "id": "edf49dbb-d444-47b8-8cfb-9543f049df48",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Patents can apply to:",
+      "correctAnswer": "Hardware and software",
+      "wrongAnswers": [
+        "Hardware only",
+        "Software only",
+        "Neither"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "9f27e49e-95a5-4fb9-bebc-ca92084cbe04",
+    "id": "ee0243f3-76f4-4a51-a6c4-8c5c06100f1f",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is an identifier?",
+      "correctAnswer": "A name for a location in memory",
+      "wrongAnswers": [
+        "The value of a variable",
+        "The value of a constant",
+        "A section of memory"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "df3181da-b1b4-4cae-b6fb-90629c749e9b",
+    "id": "eede3ea0-c31c-436a-afd5-d8a2e3776bfe",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Is flash memory volatile or non-volatile?",
+      "correctAnswer": "Non-volatile",
+      "wrongAnswers": [
+        "Volatile"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "dca762bd-ca24-4b13-b71c-85e01afbb3ab",
+    "id": "f09ff32b-3c6c-4a1b-ac78-bf97d8b6197b",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "In an even parity system, you receive the binary number 10011000.<br/>\nIs the number correct?",
+      "correctAnswer": "No",
+      "wrongAnswers": [
+        "Yes"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "a8283a6f-65f5-41f4-ad7f-5b6877cc92dc",
+    "id": "f53416bd-9850-4a4a-aac4-591f74ee45c7",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the benefit of increasing sample rate and sample size?",
+      "correctAnswer": "Increased quality",
+      "wrongAnswers": [
+        "Decreased file size",
+        "Requires specialist hardware"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "c4996370-261d-4f80-88aa-b78159dd1975",
+    "id": "f543517a-d8c8-4cd8-b534-63ca95a35998",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "6962d7db-ef4d-4c73-afad-9426970a3a7a",
+    "title": "Logic, Translation & Representation"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which character separated each values of a CSV file?",
+      "correctAnswer": "Comma",
+      "wrongAnswers": [
+        "Semi-colon",
+        "Colon",
+        "Full stop"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "e7bfaaf2-4e5d-440c-a0df-d93f2ec44c65",
+    "id": "f5780ce6-cfdb-406e-8ddf-873cada83a27",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which symbol is commonly used for assignment?",
+      "correctAnswer": "=",
+      "wrongAnswers": [
+        "!=",
+        "==",
+        "<="
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "df3181da-b1b4-4cae-b6fb-90629c749e9b",
+    "id": "f62cd9f5-d7a6-4d17-9e36-c91c3074011b",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the 'hidden' energy cost of running computer systems?",
+      "correctAnswer": "Cooling systems",
+      "wrongAnswers": [
+        "Warming systems",
+        "Data storage",
+        "Warning systems"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b4869cac-f2a9-48ee-89c1-f5f078e6f38b",
+    "id": "f7aa6422-ae32-4232-a916-8022f0a2a82b",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which type of network is easier to set up?",
+      "correctAnswer": "Peer-to-peer network",
+      "wrongAnswers": [
+        "Client-server network"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b9cdfcf6-316e-437e-abaf-cdb0d083ebd8",
+    "id": "f803049d-a73a-42d2-99cc-3df0a832ba42",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "ec5470d4-2a06-4a2b-86ec-b1f6619441d6",
+    "title": "Networks & Security"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does an oval represent in a flow diagram?",
+      "correctAnswer": "Start or end of a program",
+      "wrongAnswers": [
+        "A process",
+        "Input or output",
+        "A decision"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "1cdeac8c-403b-4da4-a7af-45307e2d2f24",
+    "id": "f86af01a-de08-4f75-bbb7-e7dad78d749c",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the purpose of the 'except' block of a try-except structure?",
+      "correctAnswer": "To correct or clean up after any errors",
+      "wrongAnswers": [
+        "To allow a faster alternative to the code in the try block",
+        "To exit the program"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "1b443ef5-a884-4e59-af3a-2d31dc83c72b",
+    "id": "f8dbd605-51f3-4137-882b-f95473392dd9",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Virtual memory moves pages between which two storage devices?",
+      "correctAnswer": "RAM and secondary storage",
+      "wrongAnswers": [
+        "RAM and ROM",
+        "ROM and secondary storage",
+        "Screen and Printer"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "ebaeee45-d3fc-4229-b402-58a093673c4d",
+    "id": "f9c22efe-ee95-4f7f-b8e5-9d03a1dea331",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is an efficient sort algorithm?",
+      "correctAnswer": "An algorithm that sorts a data set in a short time",
+      "wrongAnswers": [
+        "An algorithm that will work for any data set",
+        "An algorithm that accepts any data type"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "635df242-f171-4be1-bda6-c70752c9afbf",
+    "id": "fb17bdd7-cd5e-4882-995f-a39209e57cb1",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is concatenation?",
+      "correctAnswer": "Adding two strings together",
+      "wrongAnswers": [
+        "Accessing a certain character of a string",
+        "Accessing a range of characters of a string",
+        "Finding the length of a string"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "55200f78-eba0-401f-a076-c4fe88e9dd85",
+    "id": "fba5e629-63e4-4235-8391-e6d70db17dc4",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "51550f8d-a38b-47f1-8c1b-fa0d2501e6f0",
+    "title": "Programming"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Is the read-write limit of solid-state media likely to affect the gamer?",
+      "correctAnswer": "No&comma; the read/write limit is usually very high",
+      "wrongAnswers": [
+        "No&comma; the gamer will not be writing to the medium",
+        "Yes&comma; the gamer will hit the limit very quickly",
+        "Yes&comma; the gamer will hit the limit eventually"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "a8373ccb-d1d3-48c4-8a21-0070296fe783",
+    "id": "fc00c502-0334-453d-b5b3-4ee530bf1910",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "a2cca2a0-6e27-11e8-af4b-35cf52f905c2",
+    "title": "Computer Systems"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does a device driver do?",
+      "correctAnswer": "Helps the operating system to understand data from devices",
+      "wrongAnswers": [
+        "Provides power to devices in the computer system",
+        "Allows the user to perform a specific task"
+      ]
+    },
+    "courseId": "a1ce4570-6e27-11e8-af4b-35cf52f905c2",
+    "parentId": "b4869cac-f2a9-48ee-89c1-f5f078e6f38b",
+    "id": "ff2ba784-f858-4ed6-bc0d-48ba8f4dae8c",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "e9d3ef75-295b-41b1-864d-4dc1ecca6149",
+    "title": "Software & Issues"
+  }
+]

@@ -1,0 +1,3127 @@
+[
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following is NOT a softwood tree?",
+      "correctAnswer": "Balsa ",
+      "wrongAnswers": ["Larch", "Pine", "Spruce"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "8983d116-ce7e-4c97-bbaa-92b6241096f1",
+    "id": "0154fd60-bafb-4a09-b2a5-ccecdd37dfcc",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": ["Snail cam", "Circular cam"],
+      "question": "Name the type of cam pictured below:",
+      "correctAnswer": "Pear shaped cam",
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/10561364-9605-4cbb-9349-06770c2b21e4/pear-cam-dt-.png"
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d3084018-3b69-4771-9e19-61fad3027e0a",
+    "id": "03ca2be2-388b-4218-9c43-e70b3659d010",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Select the example of an open looped system:",
+      "correctAnswer": "A toaster",
+      "wrongAnswers": ["House thermostat", "Cruise control system (in cars)", "A kettle"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "caca38a0-e6fd-4861-8353-b9b54a0ca7e2",
+    "id": "040b1659-5c95-4506-960e-ceb7875d8d69",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which wood is pink in appearance with a tight grain?",
+      "correctAnswer": "Beech",
+      "wrongAnswers": ["Ash", "Mahogany", "Balsa"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "0a6e778c-7abe-4f5b-9316-88dcd03f1d5a",
+    "id": "055aafb0-e625-417a-a141-0f0dffa6152e",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these products often uses embossing?",
+      "correctAnswer": "Greetings cards",
+      "wrongAnswers": ["Plastic bags", "Wine bottles", "Toasters"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "881baced-e340-4ef0-ac72-73d8b2fb8104",
+    "id": "07121d29-7096-461f-b16d-35186f88bee9",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is added to paper to make rag paper?",
+      "correctAnswer": "Cotton",
+      "wrongAnswers": ["Wool", "Silk", "Additives"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "168da5d4-4013-45fd-bada-627ce702f14b",
+    "id": "08abd283-fc09-43a1-b2d0-daad6a93f2b5",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which measuring unit do designers across the planet use for non-large pieces??",
+      "correctAnswer": "Millimetres (mm)",
+      "wrongAnswers": ["Centimetres (cm)", "Metres (m)", "Inches (in)"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d9fc6b56-a097-4f97-94b7-4d0320dff6d6",
+    "id": "0a3fbaea-a27d-47b7-8cd2-a25cd9bff958",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which designer designed the London Underground map in 1931?",
+      "correctAnswer": "Harry Beck",
+      "wrongAnswers": ["Henry Beckett", "Harold Bennett", "Harvey Bentley"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "9a8a7ee8-d4ba-4104-b265-0a90cb8c286e",
+    "id": "0d40b660-323b-4d3e-a9c3-afaa88aa9827",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following is an example of secondary data?",
+      "correctAnswer": "Government statistics ",
+      "wrongAnswers": ["Taking measurements", "Questionnaires", "Interviews"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "8b8a7944-6534-4873-95d8-a13a3234a092",
+    "id": "0e9c27a6-7025-436d-8c65-82f8af67c910",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is CO2 the symbol for?",
+      "correctAnswer": "Carbon dioxide ",
+      "wrongAnswers": ["Chloride", "Chromium", "Chlorobenzene"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "539f9048-6edf-4084-8895-4f849099fc46",
+    "id": "100526ba-24ad-4451-896a-51e0d8447cfb",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which technical textile can be insect repelling?",
+      "correctAnswer": "Microfibres",
+      "wrongAnswers": ["Gore-Tex", "Kevlar", "Conductive fibres"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "03271418-99ac-4918-9fb3-fef854d89b4a",
+    "id": "1061e105-6196-4462-97fd-b5c515c5a6fc",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": ["Closed looped system"],
+      "question": "Is this an open or closed looped system?",
+      "correctAnswer": "Open looped system",
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/fa012f45-a8c4-4215-b8e6-2d92892c8166/open-looped-system-dt-.png"
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "caca38a0-e6fd-4861-8353-b9b54a0ca7e2",
+    "id": "1096afaf-b577-4631-ab2c-5823b99e11e9",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which thermosetting are commonly used for kitchenware, worktops and flat packed furniture? ",
+      "correctAnswer": "Melamine Formaldehyde (MF) ",
+      "wrongAnswers": ["Urea Formaldehyde (UF)", "Polyester Resin (PR)", "Epoxy Resin (ER)"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "1c11c907-872e-4442-985e-8cfc806a34fb",
+    "id": "10e8a1e9-207e-454f-ad2a-20ca11f8f4d5",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which non-ferrous metal is difficult to weld?",
+      "correctAnswer": "Aluminium",
+      "wrongAnswers": ["Zinc", "Copper", "Tin"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "aeb50f17-7239-4f1b-a253-5180ae6362b8",
+    "id": "11dfce26-4ec3-4696-b513-e11bfc6dd8a3",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Select the example of a third order lever:",
+      "correctAnswer": "Tweezers",
+      "wrongAnswers": ["A see-saw", "A wheelbarrow", "A nut-cracker"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "66e831bd-e276-4d68-a1c4-92e52f4273e4",
+    "id": "13eda812-8914-4d6d-baaf-71c007f84bc2",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does seasoning do to wood?",
+      "correctAnswer": "Makes the wood less moist",
+      "wrongAnswers": ["Makes the wood more moist", "Makes the wood more malleable", "Makes the wood a darker colour"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "535e7bd6-a8f9-409f-80bc-1097e9d0cbd6",
+    "id": "152dafa9-03d0-427f-89b6-c43ff30d8e80",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What changes when stimulated by light?",
+      "correctAnswer": "Photochromic pigments",
+      "wrongAnswers": ["Thermochromic pigments", "Shape Memory Alloys (SMA)", "Polycaprolactone (PCL)"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "2b74d6b3-2f48-4aae-8c43-5509bc3c1c30",
+    "id": "156b40c8-8125-452a-917a-2830b22736a4",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which size of paper is often used for envelopes?",
+      "correctAnswer": "C series",
+      "wrongAnswers": ["A series", "B series"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d86c95e9-dfb8-4f67-969a-fd2cba5a1886",
+    "id": "186c5f7b-27c7-4fdf-9ca2-fbe56dd67504",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Who is NOT someone you should ensure you get regular feedback from?",
+      "correctAnswer": "An AQA examiner ",
+      "wrongAnswers": ["Your client", "Your target market", "Your teacher"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "52a68e75-7467-432a-9f5e-73ec55cc9158",
+    "id": "187c618f-86e3-418e-a021-fa730286e5c3",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of synthetic fibre is LYCRA?",
+      "correctAnswer": "Elastane",
+      "wrongAnswers": ["Nylon", "Polyester", "Polymide"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d001e919-1b8c-45be-96bb-19616eb0ea96",
+    "id": "1b1880e8-7721-4251-9176-fc51c75fb88f",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is a major ecological problem caused by producing timber?",
+      "correctAnswer": "Deforestation ",
+      "wrongAnswers": ["Light pollution", "Recycling plants", "Pesticides"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "9eded8e3-f66d-4589-9f1d-c4c2dcdc5b50",
+    "id": "1d0ae207-6760-44a2-b5d3-912d74fc6026",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is NOT a type of polymer?",
+      "correctAnswer": "Graphene",
+      "wrongAnswers": ["Corn starch polymers", "Polylactic acid (PLA)", "Polyhydroxybutyrate (PHB, Biopol)"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "fb5867df-1d03-4464-aabb-84332d3371a0",
+    "id": "1d2cfd8f-211a-4070-9c3a-b0eb20d67063",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which stage of the design process is iterative design most important for?",
+      "correctAnswer": "The designing and modelling stages",
+      "wrongAnswers": ["The construction stages", "The evaluation stages", "The recycling stages"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "1bdead05-aab7-4198-ac68-d8763010b000",
+    "id": "1e67f388-726a-4cc0-b6b4-ab7787e78467",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which machine tool would be best for making a bannister?",
+      "correctAnswer": "A lathe",
+      "wrongAnswers": ["A pillar drill", "A table saw", "A planer thicknesser"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "535e7bd6-a8f9-409f-80bc-1097e9d0cbd6",
+    "id": "226d466b-c542-4321-a4c1-309166fbd13d",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of cutting instrument can cut accurate circles using the diameter?",
+      "correctAnswer": "Circle cutters",
+      "wrongAnswers": ["Perforation cutters", "Guillotines and paper trimmers", "Scissors"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "060a884e-c8f0-4560-947e-46dd8a2dd51c",
+    "id": "2376144a-f15a-4e9c-b534-38da23bd3384",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is NOT something that stimulates Piezoelectrical materials to change? ",
+      "correctAnswer": "Heat",
+      "wrongAnswers": ["Movement", "Electricity", "Stress"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d22350ba-8245-4d45-a673-147532d02415",
+    "id": "2616444b-ed3d-436f-b906-673020244dfc",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": ["Class 2 - Second order lever", "Class 3 - Third order lever"],
+      "question": "What class of lever is this an example of?",
+      "correctAnswer": "Class 1 - First order lever",
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/3b9f89ec-c598-4ff9-a427-71fe206957a3/class-1-lever-2-dt-.png"
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "66e831bd-e276-4d68-a1c4-92e52f4273e4",
+    "id": "27711573-a695-4a4e-9bce-e00b33d5e775",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is polymide also known as?",
+      "correctAnswer": "Nylon ",
+      "wrongAnswers": ["Polyester", "LYCRA", "Elastane"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d001e919-1b8c-45be-96bb-19616eb0ea96",
+    "id": "279be24e-2cb8-4857-a0d9-8f0e456173ee",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which part of the world has increased in trees and forestry in recent times?",
+      "correctAnswer": "Asia",
+      "wrongAnswers": ["South America", "Europe", "Africa"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "1b331751-f41d-410a-b2b4-19e6f06f3e7a",
+    "id": "27bb52ca-7931-45f0-adf6-ee7bbe907a01",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": ["A motorbike accelerating", "Boomerang", "A car reversing"],
+      "question": "Which of the following is an example of reciprocating motion?",
+      "correctAnswer": "Football pump",
+      "imageURL": "https://media.giphy.com/media/3orif9pDvdG07dOhXi/giphy.mp4"
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "9a8df72d-6f36-4c1a-af49-0fd58f438463",
+    "id": "2a1f3182-739e-4023-8ac0-51562af18012",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following is an example of primary data?",
+      "correctAnswer": "Taking measurements ",
+      "wrongAnswers": ["Books and magazines", "Government statistics", "Media outlets (news/radio/TV)"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "8b8a7944-6534-4873-95d8-a13a3234a092",
+    "id": "2a2a7c75-8794-4a52-b4c6-779037cd50ee",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": ["Lots of polystyrene", "Corrugated boxes"],
+      "question": "What type of packaging helps reduce transport and energy costs as well as carbon dioxide emissions?",
+      "correctAnswer": "Flat-pack packaging",
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2018-03/afe4c760-d2af-4b33-be39-0ad6d607bec4/shutterstock_363108614.jpg"
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "0f6bd33c-1733-4e5f-a8f1-d5b757e170d3",
+    "id": "2a7f8643-6d92-4df3-8f0f-f95acdd65c0f",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these energy sources is NOT a fossil fuel?",
+      "correctAnswer": "Wind",
+      "wrongAnswers": ["Gas", "Coal", "Oil"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "c1a6cceb-9a20-49d9-b37d-9eec77cee784",
+    "id": "2bd8cd6c-0032-48ed-aa53-bc33590147e7",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Select the example of a second order lever:",
+      "correctAnswer": "A wheelbarrow",
+      "wrongAnswers": ["Tweezers", "A stapler", "A see-saw"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "66e831bd-e276-4d68-a1c4-92e52f4273e4",
+    "id": "2cd95c0e-920f-4dfc-9362-266fccbf12ba",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these companies use the iterative design approach?",
+      "correctAnswer": "Dyson",
+      "wrongAnswers": ["Zara", "Farrow and Ball", "Twinings"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "3957a6c6-dfac-4fbe-a91c-a2fa6140cee4",
+    "id": "2cdc1956-ec3a-46bd-9aa9-5d3fb413140c",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is NOT something new designs should do?",
+      "correctAnswer": "Be offensive ",
+      "wrongAnswers": ["Be accessible", "Improve people’s lives", "Be inclusive"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "03d4daf4-b007-40a8-8ef4-808afcd7ff40",
+    "id": "2e61e33d-c6b7-40f8-9f63-316625308516",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What did Harry Beck design in 1931?",
+      "correctAnswer": "The London Underground map ",
+      "wrongAnswers": ["The Hong Kong MTR", "The Paris metro", "The New York subway"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "9a8a7ee8-d4ba-4104-b265-0a90cb8c286e",
+    "id": "2f2f0d4d-5cb5-41a7-89a0-4a8957347716",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of material should you leave a seam allowance for?",
+      "correctAnswer": "Fabric ",
+      "wrongAnswers": ["Wood", "Paper and board", "Metals"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "e475bf73-8a83-4dd4-80d0-e41cbea3003f",
+    "id": "2f8ba3a2-22ba-4c5b-88a7-38fd651cda0c",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "More technological advancements and automation mean machines are replacing:",
+      "correctAnswer": "Low-skilled workers",
+      "wrongAnswers": ["High-skilled workers", "Pensioners", "Young working professionals"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "7493e9db-58cc-4df8-adc9-079dec2d2c1a",
+    "id": "309af2a8-adfb-4812-a692-94e1ea033ed3",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which company uses 'just in time' production? ",
+      "correctAnswer": "Zara",
+      "wrongAnswers": ["Under Armour", "Primark", "GAP"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "030c6b2c-2409-47ea-91ba-f4cf3c3e2b3a",
+    "id": "30c0f8e1-6184-4228-a50f-cfc36c701326",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why is bamboo such a good/environmentally sound alternative to other timbers?",
+      "correctAnswer": "It is so fast growing",
+      "wrongAnswers": [
+        "It releases more oxygen as it grows",
+        "It is easier to transport",
+        "It does not release CO2 when it burns"
+      ]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "4ddc7e1e-37d6-4e65-9c3b-b168ce0aad57",
+    "id": "3185f4f1-ca0b-426f-ad22-11630fc26a34",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "The Mini was the first car that was economic on fuel, cheap to buy and great to drive. Who was the designer behind the Mini?\n",
+      "correctAnswer": "Sir Alec Issigonis",
+      "wrongAnswers": ["Raymond Templier", "Philippe Starck", "Ettore Sottsass"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "30b8ac2c-bb05-4d54-a8c9-8c4ab1c923ce",
+    "id": "3312a489-ef4f-4262-80c4-139e9e816e02",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which machine tool would be best for making a bannister?",
+      "correctAnswer": "A lathe",
+      "wrongAnswers": ["A pillar drill", "A table saw", "A planer thicknesser"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "ae1df6f2-3a53-4ee3-9831-811730b35720",
+    "id": "33e65dc6-c447-4771-85d3-400299d09aae",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of softwood is tough, water resistant, good to work with and machines well?",
+      "correctAnswer": "Larch",
+      "wrongAnswers": ["Spruce", "Pine", "Ash"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "8983d116-ce7e-4c97-bbaa-92b6241096f1",
+    "id": "34097e68-f5f1-4951-92c0-46067360cc41",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which drawings need to be drawn in scale (e.g. 1:2)? ",
+      "correctAnswer": "Working drawings",
+      "wrongAnswers": ["Freehand sketching", "Schematic drawings", "Exploded drawing"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "b044dfbb-c1a4-41c8-bfd8-ccfda844d078",
+    "id": "34379e74-5a71-42c3-a36a-2e6d943bc746",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does MA stand for?",
+      "correctAnswer": "Mechanical advantage ",
+      "wrongAnswers": ["Machine advancement", "Measurable advantage", "Metier advancement"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "6ff23f75-5356-41b4-ad33-99f2a4de7b41",
+    "id": "35a61b09-912f-4293-b25f-e6d0f6633311",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Systems diagrams tend to be drawn using:",
+      "correctAnswer": "Flow charts",
+      "wrongAnswers": ["Bar charts", "Histograms", "Pie charts"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "8de2213b-755c-4a46-abdc-0b7e9713ee4f",
+    "id": "36280dc9-b843-4969-acb8-303e676f0a51",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these metals is least prone to oxidisation (rust)?",
+      "correctAnswer": "Cast iron ",
+      "wrongAnswers": ["High carbon steel", "Low carbon steel"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "f932732d-061d-42c2-961d-3046ead11370",
+    "id": "37e45d80-a647-40aa-b7d4-20c43a2b660b",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the most common type of quality control inspection used at most stages of production?",
+      "correctAnswer": "Visual inspections ",
+      "wrongAnswers": ["Machine inspections", "Microscopic inspections", "Psychic inspections"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "aaaa1e50-45d4-40c8-ae2c-80071098b786",
+    "id": "393a16fd-5cd2-439e-a72c-dbd203b53ee1",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "On average, how long does it take softwood trees to grow?",
+      "correctAnswer": "Up to 25 years ",
+      "wrongAnswers": ["Up to 100 years", "Up to 50 years", "Up to 75 years"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d1b208da-deac-4f8c-9a06-e9d4045b8f51",
+    "id": "3edd89d2-6be2-4890-8e95-214f9db44fc4",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": ["Pear shaped cam", "Snail cam"],
+      "question": "Name the type of cam pictured below:",
+      "correctAnswer": "Circular cam",
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/12df27ed-e616-40a6-91bc-14e765d9ba0f/circular-cam-dt-.png"
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d3084018-3b69-4771-9e19-61fad3027e0a",
+    "id": "3ee700f2-3cde-4913-92ee-1dac54f87074",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following features would NOT be appropriate for a design for a children's toy inspired by space?\n",
+      "correctAnswer": "The product should be sharp and easily breakable",
+      "wrongAnswers": [
+        "The product should be eye catching",
+        "The product should be safe",
+        "The product should be educational"
+      ]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "192b3992-3f38-47c5-9e10-653b1ee3a06e",
+    "id": "456baa55-d75e-40ab-b267-f189b6f4884c",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which is a use of carbon fibre reinforced plastic but not of glass reinforced plastic?",
+      "correctAnswer": "Musical instruments ",
+      "wrongAnswers": ["Boat hulls", "Storage tanks", "Seating"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "e2bc2cdf-9921-45db-98f7-78d22a09ff8c",
+    "id": "45d6c20b-bc43-4201-b4ad-4bffc88bb3d3",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which softwood is commonly used in musical instruments?",
+      "correctAnswer": "Spruce",
+      "wrongAnswers": ["Pine", "Larch", "Oak"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "8983d116-ce7e-4c97-bbaa-92b6241096f1",
+    "id": "46905f9a-da49-484d-8211-c836fcaeeb87",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "If you design clothes to fit between the 5th and 95th percentile of your target market, what total percentage of your target market will you be accommodating?",
+      "correctAnswer": "90%",
+      "wrongAnswers": ["95%", "5%", "85%"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "1bdead05-aab7-4198-ac68-d8763010b000",
+    "id": "46a07415-cabb-411c-95bf-8272043e22a6",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the name for workflow that is organised to make layout of the building efficient?",
+      "correctAnswer": "Efficient workflow",
+      "wrongAnswers": ["Improved workflow", "Organised workflow", "Neat workflow"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "9ca94578-fb8f-4e4e-963f-0fc7840d6e29",
+    "id": "4810409d-1af3-47bf-b0f8-a367cff9d6c1",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these woods is very lightweight, soft, thin, and prone to snapping?",
+      "correctAnswer": "Balsa ",
+      "wrongAnswers": ["Oak", "Ash", "Mahogany"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "0a6e778c-7abe-4f5b-9316-88dcd03f1d5a",
+    "id": "48945324-e0aa-4155-aa0c-06c1b3b6bcd7",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": ["Pear shaped CAM", "Circular CAM"],
+      "question": "Name the type of CAM pictured below:",
+      "correctAnswer": "Snail CAM",
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/6a1b4e8f-33fb-4f85-8e80-46fc250e5f98/snail-cam-dt-.png"
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d3084018-3b69-4771-9e19-61fad3027e0a",
+    "draft": {
+      "wrongAnswers": "Pear shaped CAM, Circular CAM",
+      "question": "Name the type of CAM pictured below:",
+      "correctAnswer": "Snail CAM",
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/6a1b4e8f-33fb-4f85-8e80-46fc250e5f98/snail-cam-dt-.png"
+    },
+    "id": "4a1da3a4-adf4-4fbf-9dc6-a4e0c6dbf5fe",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Masking and double-sided are both types of what? ",
+      "correctAnswer": "Tape",
+      "wrongAnswers": ["Staples", "Ribbon", "Stickers"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "a066ffcb-3098-4c3e-836c-a8bee9f7995a",
+    "id": "4a9a7c05-dfb2-4603-b7ed-3cd2f05900e7",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": ["Class 3 - Third order lever", "Class 1 - First order lever"],
+      "question": "What class of lever is this an example of?",
+      "correctAnswer": "Class 2 - Second order lever",
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/1e28b202-c373-48ca-b9fa-aa4762168a25/class-2-lever-dt-.png"
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "66e831bd-e276-4d68-a1c4-92e52f4273e4",
+    "id": "4b0a8780-88f3-49bf-b904-273bcff40d57",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which product requires less sizing? ",
+      "correctAnswer": "Kitchen paper towel ",
+      "wrongAnswers": ["Cartridge paper", "Food packaging", "Photography paper", "Bleed proof paper"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "ec6403e8-8822-481a-a328-36a53201bbff",
+    "id": "4cc5bff1-bb76-4a83-9e8d-921fc1b2cc5a",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following is NOT an example of a TED question?",
+      "correctAnswer": "\"What do you want?\"",
+      "wrongAnswers": [
+        "“Tell me what features you want the product to have.”",
+        "“Describe how you want the product to look.”",
+        "\"Explain what you want the product to do.\""
+      ]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "9f0ec36a-c5b4-4891-bfc5-49bb2e0b40ef",
+    "id": "4cf3d753-46f2-45db-966d-e59313c41851",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of card is commonly used for high quality photo prints?",
+      "correctAnswer": "Inkjet card",
+      "wrongAnswers": ["Solid white board", "Duplex board", "Corrugated cardboard"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "649ea091-940a-4fb3-a67e-0a9ae5cc93bc",
+    "id": "4d0894cb-e8c2-4150-b127-d8994bc64098",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these timbers can be produced from recycled wood?",
+      "correctAnswer": "Composite boards",
+      "wrongAnswers": ["Mahogany", "Balsa", "Bamboo"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "9a417de4-4314-484e-9cb8-7a8c27d0ee56",
+    "id": "4f394add-af52-4a51-b6e3-ac88c655c091",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is NOT a product that might have a gloss finish?",
+      "correctAnswer": "Egg boxes",
+      "wrongAnswers": ["Easter chocolate eggs", "Perfume packages"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "881baced-e340-4ef0-ac72-73d8b2fb8104",
+    "id": "549cb390-f526-460c-814c-d49c7a15f79f",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which cutting tool offers better speed and precision than craft knives and paper trimmers?",
+      "correctAnswer": "Die cutters",
+      "wrongAnswers": ["Scissors", "Rulers", "Rotary blades"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d86c95e9-dfb8-4f67-969a-fd2cba5a1886",
+    "id": "54c4d479-46a3-44f6-a05b-db993de76b79",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Where might you typically find hardwood trees?",
+      "correctAnswer": "Tropical rainforest",
+      "wrongAnswers": ["Desert", "Tundra", "Evergreen forest"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "fd6fb679-bf2c-4a5d-8943-2f23d34405c0",
+    "draft": {
+      "question": "Where might you typically find hardwood trees?",
+      "correctAnswer": "Tropical rainforest",
+      "wrongAnswers": "Desert, Tundra, Evergreen forest"
+    },
+    "id": "54cb0e6c-545d-46d4-ac18-7de3add23ccc",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which type of motion can be described as a swinging motion backwards and forwards?",
+      "correctAnswer": "Oscillating motion",
+      "wrongAnswers": ["Rotary motion", "Reciprocating motion", "Linear motion"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "8de2213b-755c-4a46-abdc-0b7e9713ee4f",
+    "id": "560f8248-6b4d-4cf4-9da2-c663f9d24146",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is NOT a common use of knitted fabric?",
+      "correctAnswer": "Dishcloths",
+      "wrongAnswers": ["Jumpers", "Toys", "Socks"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "e6b1804a-6bc2-4e0c-8e03-8b1f7538efa9",
+    "id": "5681406e-0a12-4f25-ab76-a211e48b027a",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is an example of a specialist process? ",
+      "correctAnswer": "Metal welding",
+      "wrongAnswers": ["Sanding wood", "Drilling holes", "Operating a table saw"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "b3009e09-48d8-482a-af01-094c2dcd8cee",
+    "id": "58090e45-2c9d-472b-89fc-6238502b13ad",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which boards are made using lamination techniques?",
+      "correctAnswer": "Plywood and blockboard",
+      "wrongAnswers": ["MDF and chipboard", "Chipboard and hardboard", "MDF and hardboard"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "f05bdfd7-0d77-43f6-ac99-ed3a9a8dfd51",
+    "id": "597f6015-ca55-4f51-aa61-89a956f942d1",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which is NOT an example of a manufactured board?",
+      "correctAnswer": "Hardwood",
+      "wrongAnswers": ["MDF", "Chipboard", "Hardboard"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "f05bdfd7-0d77-43f6-ac99-ed3a9a8dfd51",
+    "id": "5a0d9ef6-71a1-4153-a4a3-42ac78c8f1e5",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which band on a resistor identifies how much tolerance it has?",
+      "correctAnswer": "The fourth band",
+      "wrongAnswers": ["The third band", "The first band", "The second band"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "41551ba7-d4d7-4c73-bde3-8377c33cb503",
+    "id": "5a172810-2f69-4546-9643-749193e17a6d",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What kind of production demands a higher price for the products as the labour skill level is so high?",
+      "correctAnswer": "Job production ",
+      "wrongAnswers": ["Mass production", "Batch production", "Continuous production"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "b3b01c75-eae3-4bb0-a591-03e5ffb7324b",
+    "id": "5afe458f-d3dc-4b58-8af3-13051f46a6fa",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the six R's helps to make a statement about wood sources nearing extinction? ",
+      "correctAnswer": "Refusing ",
+      "wrongAnswers": ["Reusing", "Reducing", "Recycling"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "898687a1-e0b3-4f7d-b784-9243c29ecc60",
+    "id": "5b49436e-0d55-48d2-b621-49bc5a2387df",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following is an example of a non-finite resource? ",
+      "correctAnswer": "Cotton",
+      "wrongAnswers": ["Oil", "Gas", "Coal"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "68164ccc-c6ac-45be-8006-688b3c537736",
+    "id": "5d1d7104-c301-46eb-988d-4c56d4d146ad",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What do some carrier bags contain to prevent the bags from sticking?",
+      "correctAnswer": "An animal fat made from boiled animal bones",
+      "wrongAnswers": [
+        "A type of renewable plastic made from bamboo",
+        "A non-sustainable wool fibre",
+        "Hydrogenated vegetable oil"
+      ]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "db64d153-15f3-442b-8644-3c7c1d5091c0",
+    "id": "5f4bba5e-679f-4ec4-a3e4-f4e39b5aba19",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which resin is stronger than other adhesives, can join multiple materials and has a good chemical and heat resistance?",
+      "correctAnswer": "Epoxy Resin (ER - Araldite) ",
+      "wrongAnswers": ["Melamine Formaldehyde (MF)", "Polyester Resin (PR)", "Phenol Formaldehyde (PF)"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "1c11c907-872e-4442-985e-8cfc806a34fb",
+    "id": "60278ff0-40e4-416a-9c4f-07d5de8f4f5d",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these timbers can be produced from recycled wood?",
+      "correctAnswer": "Composite boards",
+      "wrongAnswers": ["Mahogany", "Balsa", "Bamboo"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "9eded8e3-f66d-4589-9f1d-c4c2dcdc5b50",
+    "id": "606aa1c0-4f71-4f57-a9ff-3c57115d76f1",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which marking tool is used to measure 90 degree angles on wood?",
+      "correctAnswer": "Try square",
+      "wrongAnswers": ["Engineer square", "Tape measure", "Steel Rule"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "a55db558-24d2-4900-aa95-86bf0d3433d4",
+    "id": "60e4ac6d-74c3-4716-9b0d-4d2cc98878fb",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which major furniture company is making efforts to be more sustainable? ",
+      "correctAnswer": "IKEA",
+      "wrongAnswers": ["Feather & Black", "DFS", "Sofa Workshop"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "0d1a411e-a849-4198-bcfe-ef75584cd0a4",
+    "id": "63105e60-3427-42fd-9cf4-986e9976116a",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which term is used to describe the process of drying wood so that the moisture content is reduced?",
+      "correctAnswer": "Seasoning",
+      "wrongAnswers": ["Drying", "Heating", "Roasting"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "9eded8e3-f66d-4589-9f1d-c4c2dcdc5b50",
+    "id": "637c2b5a-5d7b-454e-8eb5-0cbf47018359",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": ["Acrylic – Poly-methyl Meth Acrylate (PMMA)", "Polypropylene (PP)"],
+      "question": "Which thermoforming plastic has recycle logo number 6?",
+      "correctAnswer": "High Impact Polystyrene Sheet (HIPS)",
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/ecd8ebf4-e8cf-406b-b4bc-cac2fe6715da/ps-dt-polymer-recycle-.png"
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "c872c4ec-08e4-4338-8db5-3dcc98a461a7",
+    "id": "65060391-19fd-4673-845e-796c177b2c25",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which type of battery is best for the environment?",
+      "correctAnswer": "Rechargeable batteries  ",
+      "wrongAnswers": ["Alkaline batteries", "Acid batteries"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "fc8b941f-670d-422d-90a6-93d9dfe709a2",
+    "id": "65ad7c81-4cc3-4d24-aefa-0c11ea4f02fd",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What did Harry Beck design in 1931?",
+      "correctAnswer": "The London Underground map ",
+      "wrongAnswers": ["The Hong Kong MTR", "The Paris metro", "The New York subway"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "30b8ac2c-bb05-4d54-a8c9-8c4ab1c923ce",
+    "id": "6727c068-1e6c-484d-9c49-9e94c1c999bd",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which assessment is used to analyse all the stages in a product’s life and highlight the impact it will have on the environment?",
+      "correctAnswer": "Life cycle assessment",
+      "wrongAnswers": ["Product cycle assessment", "Green cycle assessment", "Environmental cycle assessment"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "7493e9db-58cc-4df8-adc9-079dec2d2c1a",
+    "id": "68354a3c-b6f7-477f-8e78-2ee3d2014e31",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What's a veneer?",
+      "correctAnswer": "Covering of a small slice of more expensive wood",
+      "wrongAnswers": ["Coat of varnish", "Softwood slice on top of a hardwood", "Type of hardwood"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "fd6fb679-bf2c-4a5d-8943-2f23d34405c0",
+    "draft": {
+      "question": "What's a veneer?",
+      "correctAnswer": "Covering of a small slice of more expensive wood",
+      "wrongAnswers": "Coat of varnish,Softwood slice on top of a hardwood, Type of hardwood"
+    },
+    "id": "68660a3d-1424-4064-8a3f-f0ef470e515c",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does FMS stand for?",
+      "correctAnswer": "Flexible manufacturing systems ",
+      "wrongAnswers": ["Feedback manufacturing systems", "Feedback making systems", "Flexible making system"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "7d4e0ccd-469e-4d77-9ba4-f90ac6b5bc6a",
+    "draft": {
+      "question": "What does FMS stand for?",
+      "correctAnswer": "Flexible manufacturing systems ",
+      "wrongAnswers": "Feedback manufacturing systems, Feedback making systems, Flexible making system "
+    },
+    "id": "68cb9c22-190a-4ec0-bc91-04546d4063f3",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these timbers can NOT be made from recycled wood?",
+      "correctAnswer": "Balsa ",
+      "wrongAnswers": ["Chipboard", "MDF", "Composite boards"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "9a417de4-4314-484e-9cb8-7a8c27d0ee56",
+    "id": "697a82de-83fd-42c6-b971-8b064c8a02ac",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the 'unit cost'?",
+      "correctAnswer": "The price of one of the material",
+      "wrongAnswers": [
+        "The price of 1m of the material",
+        "The price of all the materials as a collective",
+        "The price of 1cm of the material"
+      ]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "9eded8e3-f66d-4589-9f1d-c4c2dcdc5b50",
+    "id": "69b396dd-f640-4c8a-9c4c-2ba4468a04ea",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of paper is typically used for leaflets?",
+      "correctAnswer": "Gloss paper",
+      "wrongAnswers": ["Inkjet paper", "Laser jet paper", "Cartridge paper"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "298cf7d8-35b7-4618-a7fb-e2a7c9fca9d4",
+    "id": "6a385d8a-07c1-4acc-b3e9-aa2c7936ff6d",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following appliances is likely to have a thermistor?",
+      "correctAnswer": "An oven ",
+      "wrongAnswers": ["A street light", "A shower", "A table"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "8de2213b-755c-4a46-abdc-0b7e9713ee4f",
+    "id": "6a54fc7d-3e16-4103-81da-e3704b01eb27",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is NOT something piezoelectrical material is commonly used in?",
+      "correctAnswer": "Chemical balance for swimming pools",
+      "wrongAnswers": ["Mobile phone speakers", "Gas lighters", "Inkjet printers"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d22350ba-8245-4d45-a673-147532d02415",
+    "id": "6d794dac-dd4a-4f57-bf34-1ac9cec85a2f",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which cutting tool offers better speed and precision than craft knives and paper trimmers?",
+      "correctAnswer": "Die cutters",
+      "wrongAnswers": ["Scissors", "Rulers", "Rotary blades"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "eb213e18-bc75-462a-a414-f73bb44cfe04",
+    "id": "6e219d55-90af-4885-9634-710461ec5bd0",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which non-ferrous metal is bright reddish orange in appearance and when oxidised will turn to a mottled green shade?",
+      "correctAnswer": "Copper ",
+      "wrongAnswers": ["Zinc", "Tin", "Aluminium"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "aeb50f17-7239-4f1b-a253-5180ae6362b8",
+    "id": "6ec1433e-1aca-4ed5-8583-3fbb2b39f373",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What often happens to timber that is not reused?",
+      "correctAnswer": "It ends up on landfill",
+      "wrongAnswers": ["It gets upcycled", "It is recycled", "It continues to be used"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "898687a1-e0b3-4f7d-b784-9243c29ecc60",
+    "id": "6f00a098-5baf-46b2-ab6e-e9c0dc677d1e",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What finish brings out the natural grain in the wood?",
+      "correctAnswer": "Wax polish ",
+      "wrongAnswers": ["Paint", "Primer"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "c4b4abd3-ac8c-4905-8deb-045a2a8b18d9",
+    "id": "6f1d948e-90ff-409f-ae3e-ff990d1015e6",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "When are gloss finishes generally applied?",
+      "correctAnswer": "During offset lithography",
+      "wrongAnswers": ["During die cutting", "During UV varnishing", "During printing"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "881baced-e340-4ef0-ac72-73d8b2fb8104",
+    "id": "6f5d3026-b2c8-4565-acb5-82b8d08344be",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does FSC stand for?",
+      "correctAnswer": "Forestry Stewardship Council ",
+      "wrongAnswers": ["Fair Social Chances", "Free Sustainability Council", "Forest Sustainability Council"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "9af0da9e-615d-4844-94ae-788bfce02463",
+    "id": "7330d957-bdeb-4af6-9d4a-5cbcedc19a2e",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which company produces paper for nearly all continents including Europe?",
+      "correctAnswer": "The International Paper Company",
+      "wrongAnswers": ["The Consortium Group", "The Global Paper Organisation", "World Wide Paper Inc."]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "dad06444-71a0-4986-bfd1-dd4ff82867c3",
+    "id": "753e56ba-ca81-4f0f-bfcc-3ae2580771fb",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Select the example of a closed looped system:",
+      "correctAnswer": "A kettle ",
+      "wrongAnswers": ["TV remote control", "A toaster", "A tumble drier"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "caca38a0-e6fd-4861-8353-b9b54a0ca7e2",
+    "id": "7668e806-3316-4c5f-a272-7888eb6c84b6",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these fabrics is cheapest to produce? ",
+      "correctAnswer": "Poly-cotton",
+      "wrongAnswers": ["Cotton", "Wool", "Silk"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "759e208a-5b8b-4399-a308-cff0067288d3",
+    "id": "77ef4086-4cc3-4ec0-af14-9c25c8df88b3",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these products might one tanalise?",
+      "correctAnswer": "A garden shed",
+      "wrongAnswers": ["A dining room table", "A bedroom shelf", "A coffee table"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "a09a64c8-4fd4-4214-a888-47d4812077f8",
+    "id": "7b6ff83a-ffa8-4eb4-836f-854709f098e6",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which rule should you remember before you cut your materials?",
+      "correctAnswer": "CHECK - CHECK - CUT",
+      "wrongAnswers": ["CHECK - CUT - CHECK", "CUT - CUT - CHECK", "CHECK - CUT"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "39cf60ea-e6a8-4a6f-b101-866b322cdb59",
+    "id": "7c0cf354-525b-467c-a063-45e7a44733c3",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which saw has a TPI of 11?",
+      "correctAnswer": "Tenon saw",
+      "wrongAnswers": ["Dovetail saw", "Coping saw", "Jack saw"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "a025dcd6-7dbb-45c8-8e14-940026317490",
+    "id": "7c492a66-3fd6-47b6-8581-476ae55cf0cb",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these timbers can NOT be made from recycled wood?",
+      "correctAnswer": "Balsa ",
+      "wrongAnswers": ["Chipboard", "MDF", "Composite boards"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "9eded8e3-f66d-4589-9f1d-c4c2dcdc5b50",
+    "id": "7e214ac4-9cd7-47df-bf79-22bbbd504763",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which thermoforming polymer is commonly used in raincoats?",
+      "correctAnswer": "Polyvinyl Chloride (PVC)",
+      "wrongAnswers": [
+        "High-Density Polyethylene (HDPE)",
+        "Polyethylene Terephthalate (PET)",
+        "Low-Density Polyethylene (LDPE)"
+      ]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "209839a7-af3e-4ff2-ab01-067a27a86b44",
+    "id": "7ee76273-7873-4876-af2f-f444607299fc",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What are dimmer switches on lights an example of?",
+      "correctAnswer": "An oscillator",
+      "wrongAnswers": ["A timer", "A pulse generator", "A counter"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "8de2213b-755c-4a46-abdc-0b7e9713ee4f",
+    "id": "7ef69ea5-1445-4524-915f-6539414a26fb",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": ["Bell crank linkage", "Reverse motion linkage"],
+      "question": "Name the linkage pictured below:",
+      "correctAnswer": "Push/pull linkages",
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/b897063e-b1a0-4c06-a33e-9f39b2ba3eb3/Screen%20Shot%202019-03-27%20at%2013.02.58.png"
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "7fcce9ca-2ceb-40dc-82ac-77c3c09d99cf",
+    "id": "817ee67f-106a-48ce-a2db-6508e353a4c7",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which is NOT a common use of cast iron?",
+      "correctAnswer": "Scissors",
+      "wrongAnswers": ["Kitchen pots and pans", "Manhole covers", "Post boxes"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "f932732d-061d-42c2-961d-3046ead11370",
+    "id": "81c3f6cb-6680-4bf7-8b8f-78a255bdd992",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which technical fibre is commonly used in body armour, helmets, and bulletproof vests?",
+      "correctAnswer": "Kevlar ",
+      "wrongAnswers": ["Gore-Tex", "Microfibres", "Conductive fibres"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "03271418-99ac-4918-9fb3-fef854d89b4a",
+    "id": "854fd3ad-44e0-459c-a054-d8abf881c851",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which type of saw is used to cur curved lines?",
+      "correctAnswer": "Coping saw",
+      "wrongAnswers": ["JAck saw", "Tenon saw", "Dovetail saw"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "535e7bd6-a8f9-409f-80bc-1097e9d0cbd6",
+    "id": "8686fec6-26c8-4f46-88d2-7319c478d0db",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "When was the fashion house of Chanel first founded? ",
+      "correctAnswer": "1910",
+      "wrongAnswers": ["1920", "1930", "1940"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "b79d43cb-c1ab-4240-9095-8e213c96ea5a",
+    "id": "86d834fe-03eb-4df6-b444-bcfef6ac91a1",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following is NOT true of automated production lines?",
+      "correctAnswer": "More employees are needed",
+      "wrongAnswers": [
+        "Products are manufactured faster",
+        "Products are manufactured more accurately",
+        "The machines improve efficiency",
+        "The machines reduce human error"
+      ]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "9ca94578-fb8f-4e4e-963f-0fc7840d6e29",
+    "id": "872eb4ae-edc4-4649-8745-0ca1f5443ef1",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which drawings need to be drawn in scale (e.g. 1:2)? ",
+      "correctAnswer": "Working drawings",
+      "wrongAnswers": ["Freehand sketching", "Schematic drawings", "Exploded drawing"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d9fc6b56-a097-4f97-94b7-4d0320dff6d6",
+    "id": "87608945-d583-46bd-8b0b-de229a4caeba",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does FMS stand for?",
+      "correctAnswer": "Flexible manufacturing systems ",
+      "wrongAnswers": ["Feedback manufacturing systems", "Feedback making systems", "Flexible making system"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "0743bd3d-cc21-45ae-a95d-57ef67cc1ee7",
+    "id": "8b8d9abf-b16e-4b2e-adec-19df0fa9f68c",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is another name for Epoxy Resin (ER)?",
+      "correctAnswer": "Araldite",
+      "wrongAnswers": ["Chloride", "Formaldehyde", "Resin"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "1c11c907-872e-4442-985e-8cfc806a34fb",
+    "id": "8d1dd998-c2e4-47f6-9a6f-7b56b474c50f",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Gerrit Rietveld is a Dutch architect and furniture designer who joined the De Stijl design movement. What is one of his most famous designs?",
+      "correctAnswer": "The Red and Blue chair",
+      "wrongAnswers": ["The Red and Yellow chair", "The Red and Green chair", "The Red and Black chair"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "30b8ac2c-bb05-4d54-a8c9-8c4ab1c923ce",
+    "id": "8d85ff17-7440-4998-a953-186b44ccbd52",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which natural-fibre comes from sheep?",
+      "correctAnswer": "Wool",
+      "wrongAnswers": ["Silk", "Cotton"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "86ec3af5-1b36-456e-8697-4e327ab25e31",
+    "id": "8d946601-d8d1-4f0f-9f46-6e2711d8310d",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What common type of paper is uncoated which keeps the cost low?",
+      "correctAnswer": "Newsprint paper",
+      "wrongAnswers": ["Photocopy paper", "Tissue paper", "Photo quality paper"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "1fd47354-2029-4bf2-97aa-3b2cc8889abd",
+    "id": "8e166cf1-f40d-49d5-920c-5b5dab5ddb29",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which drives the turbine to create electricity in a nuclear power plant?",
+      "correctAnswer": "Steam",
+      "wrongAnswers": ["Water", "Man power", "Radioactive waste"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "b794c63c-788d-4c7a-998a-bf6d24641ddf",
+    "id": "9088cb4d-9715-4f28-953d-25675006704b",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which stage of the design process is iterative design most important for?",
+      "correctAnswer": "The designing/modelling stages",
+      "wrongAnswers": ["The construction stages", "The evaluation stages", "The recycling stages"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "6b5072c5-5bae-4f60-bcb2-585452de4479",
+    "id": "9205a9c7-18cb-4e83-9edd-c743d064e5bb",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Around how many times can some rechargeable batteries be recharged and used?",
+      "correctAnswer": "Around 1000 times",
+      "wrongAnswers": ["Around 100 times", "Unlimited", "Around 1 million"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "fc8b941f-670d-422d-90a6-93d9dfe709a2",
+    "id": "96973192-40f1-4960-93fd-de35cc860064",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What can be used to fill holes or knots in the wood?",
+      "correctAnswer": "Filler",
+      "wrongAnswers": ["A sander", "A scraper", "A scourer"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "b0949562-804b-4119-b9da-8ced473e01ae",
+    "id": "969894fd-632e-42be-89cd-4dd12d817846",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which company did Sir Alec Issigonis design for?",
+      "correctAnswer": "Morris Minor",
+      "wrongAnswers": ["Bentley", "Ford", "Aston Martin", "Rolls Royce"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "ac5fefc4-389c-46ab-8c0d-de5770b25e10",
+    "id": "985e846c-346c-4702-8934-54e773700015",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is NOT an example of iterative design methods?",
+      "correctAnswer": "Only making one model",
+      "wrongAnswers": [
+        "Making lots of models",
+        "Using CAD to develop and show a range of solutions",
+        "Getting regular feedback from your client"
+      ]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "1bdead05-aab7-4198-ac68-d8763010b000",
+    "id": "98d9998e-3834-482e-8a13-7ab89d807c19",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which is NOT a type of non-ferrous metal?",
+      "correctAnswer": "Steel",
+      "wrongAnswers": ["Copper", "Gold", "Silver", "Platinum"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "88fbd288-4c8e-4f48-a0f2-fbaf6f1a602c",
+    "id": "9d8b5a47-72da-480b-9d48-813d1780ae9a",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of paper is typically used for leaflets?",
+      "correctAnswer": "Gloss paper",
+      "wrongAnswers": ["Inkjet paper", "Laser jet paper", "Cartridge paper"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d86c95e9-dfb8-4f67-969a-fd2cba5a1886",
+    "id": "9e4ffa21-cbf2-414f-8f93-cff3bd3546a5",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What environmentally considerate practice has B&Q adopted?",
+      "correctAnswer": "Offering free wood that would otherwise be discarded",
+      "wrongAnswers": [
+        "Managing their own forests",
+        "Only selling composite recycled boards",
+        "Only selling woods grown in the UK"
+      ]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "4ddc7e1e-37d6-4e65-9c3b-b168ce0aad57",
+    "id": "9fab82e7-c7f3-4075-bf9d-1d9c55bdaa91",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which polymer is quite brittle, stable, and strong?",
+      "correctAnswer": "Polyhydroxybutyrate polymers ",
+      "wrongAnswers": ["Corn starch polymers", "Polylactic acid polymers"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "fb5867df-1d03-4464-aabb-84332d3371a0",
+    "id": "a07f02b1-4598-4f3b-915f-7a66aadc0571",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which is an example of a plant-based natural fibre?",
+      "correctAnswer": "Cotton",
+      "wrongAnswers": ["Wool", "Silk", "Polyester", "Nylon"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "edfd35c6-e3a9-4148-84f5-d4b12dcb7dfe",
+    "id": "a2b6be8c-804f-4bcb-8b86-0fa1a4661e24",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is an advantage of LEDs? ",
+      "correctAnswer": "They do not use a lot of power and stay cool",
+      "wrongAnswers": [
+        "They heat up fast and use a lot of power",
+        "They break easily",
+        "They are available in a range of sizes"
+      ]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "6ff129c8-6506-4f43-9596-cd6fc9376245",
+    "id": "a2d31deb-e73c-4dd0-be87-7f8bcda74596",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these is NOT a renewable source of energy? ",
+      "correctAnswer": "Gas",
+      "wrongAnswers": ["Wind", "Solar", "Biomass", "Tidal"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "6629ad3b-7817-4a7b-8a1d-3d4048741987",
+    "id": "a6e654c8-0dcb-46d0-be4e-1b6eab5a286e",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which smart materials changes when stimulated by pressure?",
+      "correctAnswer": "Quantum tunnelling composite",
+      "wrongAnswers": ["Piezoelectrical material", "Litmus paper", "Polycaprolactone"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d22350ba-8245-4d45-a673-147532d02415",
+    "id": "a7e2ebab-a5ec-47ff-b619-94416e8e8f9c",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of paper is commonly used with marker pens for marker rendering design ideas? \n\n",
+      "correctAnswer": "Bleed proof paper",
+      "wrongAnswers": ["Cartridge paper", "Grid paper", "Tracing paper"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "a7624a61-42aa-4b78-8305-e68c42eac3b8",
+    "id": "a94b08e0-3e9b-46d1-ad70-7d0abe73e2cc",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": ["Push/pull linkage", "Bell crank linkage"],
+      "question": "Name the linkage pictured below:",
+      "correctAnswer": "Reverse motion linkage",
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/6f69bc05-6d6a-4999-a5c1-53d725fa1014/Reverse-motion-linkages-dt-.png"
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "7fcce9ca-2ceb-40dc-82ac-77c3c09d99cf",
+    "id": "af5d3001-a2ba-4f27-9163-dd8fb1a32da6",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does seasoning do to wood?",
+      "correctAnswer": "Makes the wood less moist",
+      "wrongAnswers": ["Makes the wood more moist", "Makes the wood more malleable", "Makes the wood a darker colour"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "8531ca85-77e9-4b93-965a-6e70b20daade",
+    "id": "afc324ac-4ca3-462f-90b9-a44391281c0b",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why do companies create products with planned obsolescence?",
+      "correctAnswer": "To maintain sales",
+      "wrongAnswers": ["To reduce waste", "To make consumers happy", "Because they have no choice"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d6faf821-b659-45cc-8136-d20f13adbc97",
+    "id": "afd6eb25-c6fd-4fc3-8f66-b0eb64eb18f7",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is NOT an example of bonded fabric?",
+      "correctAnswer": "Soundproof insulation",
+      "wrongAnswers": ["Tea bags", "Dishcloths", "Dusters"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "5f50a95e-2cd7-4b86-9156-c28324cb1177",
+    "id": "b2110dc5-9bfa-44f4-b785-cd97cfd60a83",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "When was the company Braun first established? ",
+      "correctAnswer": "1921",
+      "wrongAnswers": ["1931", "1941", "1951"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "62ac77b2-5069-41c5-bb04-db75bf0d8df6",
+    "id": "b22f26d3-9807-413b-a585-a13d42a72742",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of switch is used for light switches?",
+      "correctAnswer": "A toggle switch ",
+      "wrongAnswers": ["A pressure switch", "Push to make switch", "Push to break switch"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "63859c05-dd67-40eb-a860-c0d77963a19d",
+    "id": "b263d07d-e84c-40f6-85c2-a9ed0a320718",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is Danish oil made from?",
+      "correctAnswer": "Oil and varnish ",
+      "wrongAnswers": ["Butter and oil", "Varnish and sawdust", "Wax and oil", "Varnish and wax"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "c4b4abd3-ac8c-4905-8deb-045a2a8b18d9",
+    "id": "b2a8643c-e80a-4a64-8114-9ac262b98ac4",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of paper is commonly used for mathematics, graphs, diagrams and layout drawings?\n",
+      "correctAnswer": "Grid paper",
+      "wrongAnswers": ["Layout paper", "Cartridge paper", "Bleed proof paper"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "a7624a61-42aa-4b78-8305-e68c42eac3b8",
+    "id": "b2da2ef3-80c0-4329-9ec7-a1336b13084c",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Carbon, steel and cast iron are examples of which type of metal?",
+      "correctAnswer": "Ferrous metals",
+      "wrongAnswers": ["Non-ferrous metals", "Alloys"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "bb324e9a-d786-472c-9046-c9572d5d5cc7",
+    "id": "b36305ef-f490-461d-b592-37458a5d912c",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Name the process of drying wood to reduce the moisture?",
+      "correctAnswer": "Seasoning ",
+      "wrongAnswers": ["Processing", "Producing composites", "Planing", "Tessellating"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "8ce3b04e-5453-45da-bac7-6523b433d46a",
+    "id": "b4d4ce80-891a-4ec3-8041-0eecde1d1ee5",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which type of polymer is difficult to recycle as when heated they generally burn rather than melt?",
+      "correctAnswer": "Thermosetting polymers",
+      "wrongAnswers": ["Thermoforming polymers", "Both are easy to recycle", "Neither can be recycled"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "e69f27c3-6ba8-4aee-9ff2-ba634f22d748",
+    "id": "b6a9978e-d62e-4460-a5e9-f6ad55927127",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What can designers use to analyse all the stages in a product’s life and highlight the impact it will have on the environment?",
+      "correctAnswer": "Life cycle assessment (LCA)",
+      "wrongAnswers": ["Life time check (LTC)", "Product timeline exam (PTE)", "Product life span (PLS)"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d72c00bf-1713-4afe-a2e4-6fe9e1538cc6",
+    "id": "b884215d-52fb-4aca-b06d-7f2ec7f3a1f1",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is a big health and safety concern in paper mills?",
+      "correctAnswer": "Fire",
+      "wrongAnswers": ["Floods", "Landslides", "Paper cuts"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d986c0ee-c1a3-48ff-a931-b4b0ba552c9b",
+    "id": "b8d25b50-a59b-4eaa-876b-6264f29d8e14",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following is a softwood?",
+      "correctAnswer": "Cedar",
+      "wrongAnswers": ["Balsa", "Ash", "Plywood"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "e5862462-3d72-494f-b76b-ab198f3c8df7",
+    "id": "bed57130-c4df-4725-a864-2d72a311fc97",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is another name for Poly-methyl Meth Acrylate (PMMA)?",
+      "correctAnswer": "Acrylic",
+      "wrongAnswers": ["Polystyrene", "Polypropylene", "Chloride"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "c872c4ec-08e4-4338-8db5-3dcc98a461a7",
+    "id": "bf7e9ec2-5a1f-4789-a984-1d10103f84c0",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is NOT a common type of alloy?",
+      "correctAnswer": "Cast iron",
+      "wrongAnswers": ["Brass", "Stainless steel", "Steel"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "88fbd288-4c8e-4f48-a0f2-fbaf6f1a602c",
+    "id": "c0c8150d-0436-4157-a01f-a600e26d61ca",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of drawing is used for circuit boards to show the layout of the components?",
+      "correctAnswer": "Schematic drawings",
+      "wrongAnswers": ["Working drawings", "Exploded drawing", "Freehand sketching"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d9fc6b56-a097-4f97-94b7-4d0320dff6d6",
+    "id": "c0f868f2-6ee6-478b-91e5-a1acf90d62e4",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does CMC stand for?",
+      "correctAnswer": "Carboxymethyl cellulose",
+      "wrongAnswers": ["Carbon monoxide", "Cellulose Moxyprotein", "Carbolic methane"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "e5fd81f7-5ef8-4700-aa0b-cc0e0676ad23",
+    "id": "c10ea23d-54c5-4be8-99b5-4e64f3c05b0a",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which type of follow is good for precision, not good for heavy loads, low friction however tip wears easily?\n",
+      "correctAnswer": "Knife edge follower",
+      "wrongAnswers": ["Flat follower", "Roller follower"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d9a7ed8e-4f17-43a4-bf51-95ffe0fe61fc",
+    "id": "c30706bf-baf9-4997-b26b-05f4594311a7",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Where is the forest that IKEA owns and runs?",
+      "correctAnswer": "Romania ",
+      "wrongAnswers": ["Sweden", "Bulgaria", "Latvia", "Denmark"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "4ddc7e1e-37d6-4e65-9c3b-b168ce0aad57",
+    "id": "c32371b7-00a8-452e-a283-63d8530daa67",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of paper or board was made to take impact and hold a heavyweight?\n",
+      "correctAnswer": "Corrugated cardboard",
+      "wrongAnswers": ["Cartridge paper", "Mount board", "Photo quality paper"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "fbf8d2df-842c-477b-b4ee-a6efe99fb35c",
+    "id": "c6588d82-71ef-48e1-9b4b-cdce82e92882",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What kind of trees does softwood come from?",
+      "correctAnswer": "Coniferous trees",
+      "wrongAnswers": ["Deciduous trees", "Mahogany trees", "Camphor trees"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "bb324e9a-d786-472c-9046-c9572d5d5cc7",
+    "id": "c6f75327-dbec-4b6b-8d6f-5dd5be6a3e4c",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Who of the following is NOT a textile designer? ",
+      "correctAnswer": "Norman Foster",
+      "wrongAnswers": ["Vivienne Westwood", "Coco Chanel", "Alexander McQueen"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "b79d43cb-c1ab-4240-9095-8e213c96ea5a",
+    "id": "c7c7d8bb-fb0c-4a73-864f-8fec7dc4b874",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which type of force is best described as a twisting force applied to both or one end of a material?",
+      "correctAnswer": "Torsion",
+      "wrongAnswers": ["Shear", "Tension", "Compression"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "66705a15-3131-4895-93c3-ee3ecbbbf9ab",
+    "id": "c9ae3548-feb3-4e2c-81d1-322b697e46ff",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "In 2002, what did Umbro call their new line of trainers that had to be withdrawn?",
+      "correctAnswer": "Zyklon",
+      "wrongAnswers": ["Dursban", "Malathion", "Diazinon"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "03d4daf4-b007-40a8-8ef4-808afcd7ff40",
+    "id": "cbc3f43b-802e-4d82-980c-efd2be1c4ee0",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following is an example of secondary data?",
+      "correctAnswer": "Government statistics ",
+      "wrongAnswers": ["Taking measurements", "Conducting questionnaires", "Conducting interviews"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "1bdead05-aab7-4198-ac68-d8763010b000",
+    "id": "cc66bdcd-d0fd-45d7-879f-5f0cea9117e9",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What are dimmer switches on lights an example of?",
+      "correctAnswer": "An oscillator",
+      "wrongAnswers": ["A timer", "A pulse generator", "A counter"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "1514f93f-db21-4b07-9aa1-aabc5ed365dd",
+    "id": "ce094f23-886c-431c-ad06-a224646bc629",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What does FSC stand for?",
+      "correctAnswer": "Forestry Stewardship Council ",
+      "wrongAnswers": ["Fair Social Chances", "Free Sustainability Council", "Forest Sustainability Council"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d9fc6b56-a097-4f97-94b7-4d0320dff6d6",
+    "id": "cf4c7df3-c2e9-46d8-80d8-281d27ed2df9",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of machines commonly use the datum point as a cutting reference point?",
+      "correctAnswer": "Laser cutters ",
+      "wrongAnswers": ["Rotary sanders", "Drills", "Table saws"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "455727fc-9cb4-4901-bb93-e7c019acb9c0",
+    "id": "d0058553-0f90-42a2-8958-0b5064efd055",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which product designer is famous for the ‘Juicy Salif’ lemon squeezer?",
+      "correctAnswer": "Philippe Starck ",
+      "wrongAnswers": ["Raymond Templier", "Louis Comfort Tiffany", "Ettore Sottsass"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "f3d71249-766f-427e-a6a5-09f2d0b3ff73",
+    "id": "d25feafa-55cc-4dc5-bd2c-cbbaff73350a",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of board is commonly used for displays, architectural models, model making and artwork?",
+      "correctAnswer": "Foam core board",
+      "wrongAnswers": ["Inkjet card", "Foil lined board", "Duplex board"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "649ea091-940a-4fb3-a67e-0a9ae5cc93bc",
+    "id": "d2c5f940-f357-4f19-8d34-80cb6c6b59ce",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which thermoforming plastic gives off a toxic fumes when burnt?",
+      "correctAnswer": "High Impact Polystyrene Sheet (HIPS)",
+      "wrongAnswers": ["Acrylic – Poly-methyl Meth Acrylate (PMMA)", "Polypropylene (PP)"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "c872c4ec-08e4-4338-8db5-3dcc98a461a7",
+    "id": "d368b176-bbaf-4f82-97e6-d7f95b403bcd",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the best way to speed up the sanding process?",
+      "correctAnswer": "Use a rotary or belt sander ",
+      "wrongAnswers": [
+        "Use the most abrasive sandpaper",
+        "Rub in random directions as fast as possible",
+        "Use a sandpaper of 400 grit"
+      ]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "8e36bed5-f9c3-4cb7-80fc-43160f1c96cb",
+    "id": "d520253a-3478-4afe-ac26-c252182d58d4",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": ["Speaker", "Lamp", "LED"],
+      "question": "What is this the component symbol pictured below? ",
+      "correctAnswer": "Buzzer",
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/6b282c77-1e20-4924-a0c6-bbc999f667aa/buzzer-symbol-dt-.png"
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "956ad2bc-d14f-4464-9477-a059d2491231",
+    "id": "d558b25d-eef4-44ec-800b-ab6547098b2d",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following appliances is likely to have a thermistor?",
+      "correctAnswer": "An oven ",
+      "wrongAnswers": ["A street light", "A shower", "A bed"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "4274a9bb-4797-4e27-a8f9-0f27243926d7",
+    "id": "d6553a11-8bc6-43a3-ba5f-dca1e184d57f",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which company produces paper for nearly all continents including Europe?",
+      "correctAnswer": "The International Paper Company",
+      "wrongAnswers": ["The Consortium Group", "The Global Paper Organisation", "World Wide Paper Inc."]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "66705a15-3131-4895-93c3-ee3ecbbbf9ab",
+    "id": "d78fb66e-4ff6-4c93-9e50-1ea52dac6b1b",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the name for workflow that is organised to make layout of the building efficient?",
+      "correctAnswer": "Efficient workflow",
+      "wrongAnswers": ["Improved workflow", "Organised workflow", "Neat workflow"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "7493e9db-58cc-4df8-adc9-079dec2d2c1a",
+    "id": "d7ae1005-e5a8-4ab1-b245-52b27d3aec53",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the below best describes 'shear'?",
+      "correctAnswer": "Forces acting across the material in opposite directions",
+      "wrongAnswers": [
+        "A twisting force applied to both or one end of a material",
+        "A pushing force which is inwards",
+        "A pulling force which is outwards"
+      ]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "66705a15-3131-4895-93c3-ee3ecbbbf9ab",
+    "id": "d7ceb0b4-cf9c-411e-bf99-63e76b9f5d38",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is commonly used for presentation boards as it retains a high quality and professional feel without being heavy?",
+      "correctAnswer": "Foam board",
+      "wrongAnswers": ["Cardboard", "Cartridge paper", "Laminated paper"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "da40f517-84e8-4094-8a44-239c790a940c",
+    "id": "d80d560e-86b5-407c-8882-9f494178de1a",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": ["Reverse motion linkage", "Push/pull linkage"],
+      "question": "Name the linkage pictured below:",
+      "correctAnswer": "Bell crank linkage",
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/af5ab4d4-6f6c-402d-beff-37d25e422c65/bell-crank-linkage-dt-.png"
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "7fcce9ca-2ceb-40dc-82ac-77c3c09d99cf",
+    "id": "d849534b-7682-42e3-b8af-4a3bfc296c2e",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": ["Class 2 - Second order lever", "Class 1 - First order lever"],
+      "question": "What class of lever is this an example of?",
+      "correctAnswer": "Class 3 - Third order lever",
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/31e75d81-79dd-420e-ae9e-683946ebe558/class-3-lever-dt-.png"
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "66e831bd-e276-4d68-a1c4-92e52f4273e4",
+    "id": "d8501f87-184e-4ccb-8ef5-9d20b67a4cf2",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is NOT an example of PPE (personal protective equipment)?",
+      "correctAnswer": "Jewellery ",
+      "wrongAnswers": ["Goggles", "High-visibility jacket", "Steel toed boots"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "960280ea-490a-4d2c-ab56-6719c5f016ca",
+    "id": "dc53744d-db32-44bf-bed7-694b82bae994",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How can you measure the impact of your design on the environment?",
+      "correctAnswer": "The carbon footprint",
+      "wrongAnswers": ["The hydrogen handprint", "The atomic number", "The oxygen outline"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "539f9048-6edf-4084-8895-4f849099fc46",
+    "id": "dee6e437-cd17-4e26-b813-600856d1a13e",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which marking tool is used to mark out metal?",
+      "correctAnswer": "Scribe",
+      "wrongAnswers": ["Pencil", "Marker pen", "Tailor's chalk"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "3374271e-8d68-4054-9247-12e46cc626ef",
+    "id": "df503e9e-b1fc-492f-83e4-d0b8277fae57",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Low Density Polyethylene (LDPE)",
+        "High Density Polyethylene (HDPE)",
+        "Polyethylene Terephthalate (PET)"
+      ],
+      "question": "Which thermoforming polymer has triangular recycle logo number 3?",
+      "correctAnswer": "Polyvinyl Chloride (PVC)",
+      "imageURL": "https://image-v2.cdn.app.senecalearning.com/2019-03/4342828c-349a-4aac-a544-36846d7b2ce2/pvc-dt-polymer-recycle-.png"
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "209839a7-af3e-4ff2-ab01-067a27a86b44",
+    "id": "e393aa6f-9852-482f-b528-192d8b825cbc",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of wood can be used with no harm to the environment?",
+      "correctAnswer": "Driftwood ",
+      "wrongAnswers": ["Hardwood", "Softwood"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "1b331751-f41d-410a-b2b4-19e6f06f3e7a",
+    "id": "e4fdd107-e6cf-4874-a24e-bd11d974ea4b",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following is a softwood?",
+      "correctAnswer": "Cedar",
+      "wrongAnswers": ["Balsa", "Ash", "Plywood"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "535e7bd6-a8f9-409f-80bc-1097e9d0cbd6",
+    "id": "e713ac28-1bb4-432a-97c0-73053f3ed2a4",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the best way to speed up the sanding process?",
+      "correctAnswer": "Use a rotary or belt sander ",
+      "wrongAnswers": [
+        "Use the most abrasive sandpaper",
+        "Rub in lots of directions as fast as possible",
+        "Use a sandpaper of 400 grit"
+      ]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "535e7bd6-a8f9-409f-80bc-1097e9d0cbd6",
+    "id": "e89bba37-4bb6-441c-802c-b3bd3847b615",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which hardwood is deep reddish brown in appearance?",
+      "correctAnswer": "Mahogany",
+      "wrongAnswers": ["Oak", "Balsa", "Ash"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "0a6e778c-7abe-4f5b-9316-88dcd03f1d5a",
+    "id": "e9933733-0ac2-467e-b8b0-c0ff2435ed4f",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is NOT an example of iterative design methods?",
+      "correctAnswer": "Only making one model",
+      "wrongAnswers": [
+        "Making lots of models",
+        "Using CAD to develop and show a range of solutions",
+        "Getting regular feedback from your client"
+      ]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "6b5072c5-5bae-4f60-bcb2-585452de4479",
+    "id": "e9c0190e-6316-4f7c-b78e-e7201dd62e48",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which designer is famous for the Wassily Chair?",
+      "correctAnswer": "Marcel Breuer ",
+      "wrongAnswers": ["Norman Foster", "Aldo Rossi", "Harry Beck"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "51947baa-c966-44c4-8dd2-82943877b291",
+    "id": "ed8e5d5b-f3c7-47a6-b151-1aebebac9648",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is a major ecological problem caused by producing timber?",
+      "correctAnswer": "Deforestation ",
+      "wrongAnswers": ["Light pollution", "Recycling plants", "Pesticides"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "51251bfc-f6d3-4313-b790-76c08c1847f4",
+    "id": "ee789173-d5ef-4bc4-abe5-65a0ff78468d",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "f11542ac-560c-4a07-8999-5d5abed5223b",
+    "title": "Timber: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which two non-ferrous metals mix as an alloy to create bronze?\n",
+      "correctAnswer": "Tin and copper ",
+      "wrongAnswers": ["Copper and zinc", "Tin and aluminium", "Aluminium and zinc"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "aeb50f17-7239-4f1b-a253-5180ae6362b8",
+    "id": "eefce219-9494-411a-b965-cab1e639be07",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is the most common type of quality control inspection used at most stages of production?",
+      "correctAnswer": "Visual inspections ",
+      "wrongAnswers": ["Machine inspections", "Microscopic inspections", "Psychic inspections"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d86c95e9-dfb8-4f67-969a-fd2cba5a1886",
+    "id": "ef9759da-c6c3-46ae-bc87-3c6bf34889d2",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is it important that your prototype links to? ",
+      "correctAnswer": "Your chosen specialist area",
+      "wrongAnswers": ["Your teacher's specialist area", "The examiner's specialist area", "Anything you like"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "bca94bc3-3c58-43ea-a0e7-c845cedbbc48",
+    "id": "efbddcb6-3a15-41e0-be5d-eb89b0b4b5ce",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What shape of CAM only works in one direction?",
+      "correctAnswer": "Snail CAM",
+      "wrongAnswers": ["Pear shaped CAM", "Circular CAM"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d3084018-3b69-4771-9e19-61fad3027e0a",
+    "draft": {
+      "question": "What shape of CAM only works in one direction?",
+      "correctAnswer": "Snail CAM",
+      "wrongAnswers": "Pear shaped CAM, Circular CAM"
+    },
+    "id": "f0008f43-b96d-4bf0-a731-105e6d72899d",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which paper size is used for envelopes?",
+      "correctAnswer": "C series",
+      "wrongAnswers": ["B series", "A series"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "eb4ca8f1-a800-4b70-a7c8-42a009a6626b",
+    "id": "f11b8ba5-deed-4578-bcdd-5afc4af87a0c",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of these companies use the iterative design approach?",
+      "correctAnswer": "Dyson",
+      "wrongAnswers": ["Zara", "Farrow and Ball", "Twinings"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d9fc6b56-a097-4f97-94b7-4d0320dff6d6",
+    "id": "f3d3b1ff-6844-4c95-845b-bccd54d27e40",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which fabric is commonly used in outdoor clothing such as ski wear and mountain wear?",
+      "correctAnswer": "Gore-Tex",
+      "wrongAnswers": ["Kevlar", "Microfiber", "Conductive fibres"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "03271418-99ac-4918-9fb3-fef854d89b4a",
+    "id": "f5d152b5-3349-4a8d-a56d-4bf02945ded1",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "CMC is an additive used to aid in the bonding of fibres. What does CMC stand for?",
+      "correctAnswer": "Carboxymethyl cellulose",
+      "wrongAnswers": ["Carbon monoxide", "Cellulose Moxyprotein", "Carbolic methane"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "d86c95e9-dfb8-4f67-969a-fd2cba5a1886",
+    "id": "f6c48a2d-53ad-4fd1-be5f-2124259f34cf",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "3ba60d15-42e9-46e4-8829-f821f30ef650",
+    "title": "Paper & Board: Specialist Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What is NOT an advantage of virtual workspaces?",
+      "correctAnswer": "A good internet connection is needed",
+      "wrongAnswers": ["There is no need to rent office space", "Travel time is reduced", "Expenses are reduced"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "9ca94578-fb8f-4e4e-963f-0fc7840d6e29",
+    "id": "f8f0875b-ffb0-4874-b665-0953b971391d",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Why was Gucci’s balaclava knit top withdrawn?",
+      "correctAnswer": "It was deemed to resemble ‘black face’",
+      "wrongAnswers": [
+        "It was deemed to send a sexist message",
+        "It was seen as being anti-Semitic",
+        "Gucci was using slave-labour in the manufacturing process"
+      ]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "db64d153-15f3-442b-8644-3c7c1d5091c0",
+    "id": "fa7a4b73-47a3-40b1-a7c3-e94cb04dd081",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Carbon, steel and cast iron are examples of which type of metal?",
+      "correctAnswer": "Ferrous metals",
+      "wrongAnswers": ["Non-ferrous metals", "Alloys"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "bb324e9a-d786-472c-9046-c9572d5d5cc7",
+    "id": "fb955fbe-f14c-4f46-85a7-63107e19c11e",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of modelling is used a lot when designing cars to see how streamline the car is?",
+      "correctAnswer": "Mathematical modelling",
+      "wrongAnswers": ["Breadboards", "Card modelling", "Toiles"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "ca0612bd-e9ac-4ac4-8c76-8b2146b700ee",
+    "id": "fc267eb5-8d79-4a00-91db-78ffb0656726",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Who designed the famous Red and Blue chair?",
+      "correctAnswer": "Gerrit Rietveld ",
+      "wrongAnswers": ["Ettore Sottsass", "Louis Comfort Tiffany", "Raymond Templier"]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "b038fcde-1ed4-40ef-8514-3a5e06cb295c",
+    "id": "fc2cd6b5-629c-4f41-9d80-1357259001ba",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "d3808791-357f-4df3-9864-0043259efc35",
+    "title": "Designing & Making Principles"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Designers are responsible for ensuring that their product doesn’t cause offence, but they do not always succeed. Why was Gucci’s balaclava knit top withdrawn?",
+      "correctAnswer": "It was deemed to resemble ‘black face’",
+      "wrongAnswers": [
+        "It was deemed to send a sexist message",
+        "It was seen as being anti-Semitic",
+        "Gucci was using slave-labour in the manufacturing process"
+      ]
+    },
+    "courseId": "b4e64de8-a5d1-411b-81e2-aa4e2016e908",
+    "parentId": "7493e9db-58cc-4df8-adc9-079dec2d2c1a",
+    "id": "fd034b3c-cf6e-4c41-8cef-493a065861b7",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "766b5e76-df38-47d2-98a4-f07873e1cc5d",
+    "title": "Core Technical Principles"
+  }
+]

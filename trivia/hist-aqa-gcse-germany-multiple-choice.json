@@ -1,0 +1,2566 @@
+[
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Because there was a new wave of artistic talent across Europe.",
+        "Because there was mass emmigration to Germany.",
+        "Because the government was communist."
+      ],
+      "question": "Why did culture begin to thrive in Weimar Germany?",
+      "correctAnswer": "Because there was no censorship.",
+      "imageURL": "https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "70fceef5-2f36-43b3-9fd9-4f4c23abe7c3",
+    "id": "02bf624c-b286-4cbf-b87b-3c79a41b1294",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "October 1933",
+        "April 1932",
+        "December 1928"
+      ],
+      "question": "When was Hitler made Chancellor?",
+      "correctAnswer": "January 1933",
+      "imageURL": "https://media.giphy.com/media/7zchHc4akgt4k/giphy.mp4"
+    },
+    "parentId": "b9e35130-2eb9-11e8-9e85-d36be8a3a67a",
+    "id": "042ef3d0-2ebe-11e8-9e85-d36be8a3a67a",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Because there was a new wave of artistic talent across Europe.",
+        "Because there was mass emmigration to Germany.",
+        "Because the government was communist."
+      ],
+      "question": "Why did culture begin to thrive in Weimar Germany?",
+      "correctAnswer": "Because there was no censorship.",
+      "imageURL": "https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "5c88174a-66aa-4765-95ac-b703caf3c9e5",
+    "draft": {
+      "wrongAnswers": "Because there was a new wave of artistic talent across Europe., Because there was mass emmigration to Germany., Because the government was communist.",
+      "question": "Why did culture begin to thrive in Weimar Germany?",
+      "correctAnswer": "Because there was no censorship.",
+      "imageURL": "https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.mp4"
+    },
+    "id": "04ff91ca-0c0f-4f89-9246-95156a5cc2c1",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which party had the most seats in the Reichstag by 1912? ",
+      "correctAnswer": "SPD ",
+      "wrongAnswers": [
+        "KPD",
+        "DDP",
+        "Catholic Centre Party"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "6c992562-54e8-4bf9-85de-c06cec0838c9",
+    "id": "05887b78-e275-4fc5-8bba-6109dea9d888",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Field Marshall Haig and General Botha",
+        "Field Marshall Lettow-Vorbeck and General Albrecht",
+        "Field Marshall Ludendorff and General Scheer"
+      ],
+      "question": "What were the names of the military officers who told the Kaiser that Germany could not win the war?",
+      "correctAnswer": "Field Marshall Hindenburg and General Ludendorff",
+      "imageURL": "https://media.giphy.com/media/yL2VJVD1xQlO/giphy.mp4"
+    },
+    "parentId": "4d4465a0-290a-11e8-81aa-65fd3c22dbf1",
+    "id": "07be3620-290d-11e8-8260-4d5ffead7718",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "How was the Reichstag formed?",
+      "correctAnswer": "It was elected by German voters.",
+      "wrongAnswers": [
+        "It was appointed by the Kaiser.",
+        "It was selected by a group of military leaders.",
+        "It was appointed by the Bundesrat."
+      ]
+    },
+    "parentId": "e290aac0-26e8-11e8-bf5f-712e87169b9a",
+    "id": "0840e1c0-26eb-11e8-bf5f-712e87169b9a",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which statement is false?",
+      "correctAnswer": "Propaganda continued to work effectively until the end of war",
+      "wrongAnswers": [
+        "In 1944 the Nazis controlled over 80% of German newspapers",
+        "The Nazis censored and destroyed literature which they disagreed with",
+        "The Nazis rejected the art and culture of Weimar and called it 'degenerate'"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "a36cfe00-1239-43fa-8c9e-6d1a525245d4",
+    "id": "09f3b093-ec11-428b-b37e-4ccbd618eafc",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "He was killed.",
+        "He never turned up to the meeting.",
+        "He escaped."
+      ],
+      "question": "What happened to Hitler during the July Plot?",
+      "correctAnswer": "He was injured.",
+      "imageURL": "https://media.giphy.com/media/UL4ABgd4AjCco/giphy.mp4"
+    },
+    "parentId": "90348770-314b-11e8-af04-b563e8e1ba50",
+    "id": "1042b4f0-3197-11e8-942b-577dcf589d7e",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Hitler",
+        "Ebert",
+        "Bülow"
+      ],
+      "question": "Who did Kaiser Wilhelm II remove as Chancellor?",
+      "correctAnswer": "Bismarck",
+      "imageURL": "https://media.giphy.com/media/ygtSRiDyDnjqM/giphy.mp4"
+    },
+    "parentId": "465a65d0-28f8-11e8-81aa-65fd3c22dbf1",
+    "id": "11b3e490-28f9-11e8-81aa-65fd3c22dbf1",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "August 1924",
+        "November 1924",
+        "August 1923"
+      ],
+      "question": "When was the 'Rentenmark' created?",
+      "correctAnswer": "November 1923",
+      "imageURL": "https://media.giphy.com/media/YYnbND6NevLHi/giphy.mp4"
+    },
+    "parentId": "103ad0b0-29cb-11e8-a9dc-5da80b9555d0",
+    "id": "11ee1410-29cd-11e8-a9dc-5da80b9555d0",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "What was the primary way that the Great Depression affected Germany?",
+      "correctAnswer": "US banks recalled loans to Germany and German companies.",
+      "wrongAnswers": [
+        "US companies fired German workers.",
+        "German investors lost lots of money in the US stock market."
+      ]
+    },
+    "parentId": "74c15640-2b91-11e8-8683-a3a1ce373107",
+    "id": "133ffba0-2b92-11e8-8683-a3a1ce373107",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "When was the first time the Jews were physically harmed by the Nazis?",
+      "correctAnswer": "Kristallnacht",
+      "wrongAnswers": [
+        "In the ghettos",
+        "Directly after the Nuremburg Laws",
+        "In the Weimar Republic"
+      ]
+    },
+    "parentId": "1dc86690-3144-11e8-af04-b563e8e1ba50",
+    "id": "137ec9f0-3193-11e8-942b-577dcf589d7e",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "Which side group were excluded from the Aryan vision?",
+      "correctAnswer": "Undesirables",
+      "wrongAnswers": [
+        "Unknowns",
+        "Unwelomes",
+        "Unacceptables"
+      ]
+    },
+    "parentId": "fa54ee40-3143-11e8-af04-b563e8e1ba50",
+    "id": "1674b860-3146-11e8-af04-b563e8e1ba50",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Post-modernism",
+        "Structuralism",
+        "Impressionism"
+      ],
+      "question": "What movement can also be seen in Weimar films?",
+      "correctAnswer": "Expressionism",
+      "imageURL": "https://media.giphy.com/media/GOXDFrZpjTlHG/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "70fceef5-2f36-43b3-9fd9-4f4c23abe7c3",
+    "id": "1ac2bf6e-fd2c-48be-b054-18b6dbb181cd",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "In what year did the Nazis gain political power in the Reichstag?",
+      "correctAnswer": "1932",
+      "wrongAnswers": [
+        "1933",
+        "1928",
+        "1930"
+      ]
+    },
+    "parentId": "b9e35130-2eb9-11e8-9e85-d36be8a3a67a",
+    "id": "1baeccd0-2ebc-11e8-9e85-d36be8a3a67a",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "The SS organised a mass imprisonment of Jews.",
+        "The SS organised a series of executions of Jewish communities.",
+        "It was made illegal for Jewish people to be in Germany."
+      ],
+      "question": "What was Kristallnacht?",
+      "correctAnswer": "The SS organised a series of attacks on Jewish communities.",
+      "imageURL": "https://media.giphy.com/media/CR87XpsNNWqRy/giphy.mp4"
+    },
+    "parentId": "1dc86690-3144-11e8-af04-b563e8e1ba50",
+    "id": "1dc86695-3144-11e8-af04-b563e8e1ba50",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "50%",
+        "100%",
+        "20%"
+      ],
+      "question": "Out of all the Jews killed, what percentage were executed after 1942's Final Solution?",
+      "correctAnswer": "60%",
+      "imageURL": "https://media.giphy.com/media/lEWkIitHZzoJy/giphy.mp4"
+    },
+    "parentId": "1dc86690-3144-11e8-af04-b563e8e1ba50",
+    "id": "1dc86698-3144-11e8-af04-b563e8e1ba50",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What percentage of Germans lived in towns and cities in 1910? ",
+      "correctAnswer": "60%",
+      "wrongAnswers": [
+        "20%",
+        "40%",
+        "80%"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "6c992562-54e8-4bf9-85de-c06cec0838c9",
+    "id": "1e843a1c-b14e-4e9c-bd94-3812f93a6575",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "What was the political orientation of most German military officers in this period?",
+      "correctAnswer": "Conservative",
+      "wrongAnswers": [
+        "Liberal",
+        "Communist",
+        "Libertarian"
+      ]
+    },
+    "parentId": "c093bbf0-26df-11e8-bf5f-712e87169b9a",
+    "id": "1f37f900-2929-11e8-aa60-678ea65c23bf",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "What prevented dissent in Nazi Germany?",
+      "correctAnswer": "The thought of many Gestapo informants everywhere.",
+      "wrongAnswers": [
+        "Many Gestapo members everywhere.",
+        "Personal vendettas.",
+        "The idea of Hitler as a God."
+      ]
+    },
+    "parentId": "23132bc0-314a-11e8-af04-b563e8e1ba50",
+    "id": "231352d5-314a-11e8-af04-b563e8e1ba50",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Because Christians were ready to go on crusade against Hitler.",
+        "Because Christian values were the same as Nazi beliefs.",
+        "Because the Pope wanted power in Germany."
+      ],
+      "question": "Why did the Church pose a threat to the Nazis?",
+      "correctAnswer": "Because Christian values conflicted with Nazi beliefs.",
+      "imageURL": "https://media.giphy.com/media/l3UcpyyvoJyZBDKs8/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "07643220-2f56-11e8-936a-e5cc8bb42b99",
+    "id": "251d6980-2f6f-11e8-9052-b37c72f2d3cc",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of businesses benefited the most from Nazi economic policy?",
+      "correctAnswer": "Big businesses ",
+      "wrongAnswers": [
+        "Small businesses",
+        "Medium sized businesses"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "0c68f352-0a72-4fa8-9d99-312568a97b58",
+    "id": "25aa826e-f445-46c9-92c9-1e9d5b5c8d2d",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "420",
+        "357",
+        "87"
+      ],
+      "question": "How many deputies made up the Reichstag?",
+      "correctAnswer": "397",
+      "imageURL": "https://media.giphy.com/media/1188ugU0y3lKJq/giphy.mp4"
+    },
+    "parentId": "e290aac0-26e8-11e8-bf5f-712e87169b9a",
+    "id": "289acff0-26e9-11e8-bf5f-712e87169b9a",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How many women were elected to the Reichstag in Weimar Germany?",
+      "correctAnswer": "112",
+      "wrongAnswers": [
+        "12",
+        "1120",
+        "145"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "70fceef5-2f36-43b3-9fd9-4f4c23abe7c3",
+    "id": "29231c08-50ec-463b-9def-ee93b55237e0",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "In which year did the Nazis order all gypsies to be deported?",
+      "correctAnswer": "1942",
+      "wrongAnswers": [
+        "1940",
+        "1939",
+        "1938"
+      ]
+    },
+    "parentId": "fb4f53d0-3143-11e8-af04-b563e8e1ba50",
+    "id": "2b7d21c0-3191-11e8-942b-577dcf589d7e",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "What date was the Night of the Long Knives?",
+      "correctAnswer": "30th June 1934",
+      "wrongAnswers": [
+        "30th June 1933",
+        "30th July 1934",
+        "30th July 1933"
+      ]
+    },
+    "parentId": "b138be30-2ebe-11e8-9e85-d36be8a3a67a",
+    "id": "2bd1de40-30dd-11e8-a144-e7523d951d36",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Bavaria",
+        "Saxony",
+        "Hamburg"
+      ],
+      "question": "What state was the most powerful in Germany under Kaiser Wilhelm II?",
+      "correctAnswer": "Prussia",
+      "imageURL": "https://media.giphy.com/media/73wMzT85asnoQ/giphy.mp4"
+    },
+    "parentId": "2b695ae0-28fa-11e8-81aa-65fd3c22dbf1",
+    "id": "2c925510-28fb-11e8-81aa-65fd3c22dbf1",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "According to the constitution, who had the right to vote in Weimar Germany?",
+      "correctAnswer": "All men and women over 20.",
+      "wrongAnswers": [
+        "All men over 18.",
+        "All men and women over 18.",
+        "All women over 21."
+      ]
+    },
+    "parentId": "05df3ab0-29c2-11e8-a9dc-5da80b9555d0",
+    "id": "2cd18ea0-29c4-11e8-a9dc-5da80b9555d0",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Raum",
+        "Goebbels",
+        "Hindenburg"
+      ],
+      "question": "Who was the chief of the SS?",
+      "correctAnswer": "Himmler",
+      "imageURL": "https://media.giphy.com/media/xUOwFSnzDUjAUd12fe/giphy.mp4"
+    },
+    "parentId": "b138be30-2ebe-11e8-9e85-d36be8a3a67a",
+    "id": "2fa93ab0-2edd-11e8-a6b3-e1901b94efab",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Germany and 55 others.",
+        "Germany and 75 others.",
+        "Germany and 5 others."
+      ],
+      "question": "How many countries signed the Kellogg-Briand Pact?",
+      "correctAnswer": "Germany and 62 others.",
+      "imageURL": "https://media.giphy.com/media/6otqU2T8JHURi/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "13cc5be0-29cb-11e8-a9dc-5da80b9555d0",
+    "draft": {
+      "wrongAnswers": "Germany and 55 others., Germany and 75 others., Germany and 5 others.",
+      "question": "How many countries signed the Kellogg-Briand Pact?",
+      "correctAnswer": "Germany and 62 others.",
+      "imageURL": "https://media.giphy.com/media/6otqU2T8JHURi/giphy.mp4"
+    },
+    "id": "31cd76e0-29d2-11e8-a9dc-5da80b9555d0",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How many women were elected to the Reichstag in Weimar Germany?",
+      "correctAnswer": "112",
+      "wrongAnswers": [
+        "12",
+        "1120",
+        "145"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "2509f6b0-29cb-11e8-a9dc-5da80b9555d0",
+    "draft": {
+      "question": "How many women were elected to the Reichstag in Weimar Germany?",
+      "correctAnswer": "112",
+      "wrongAnswers": "12, 1120, 145"
+    },
+    "id": "3873b0e0-371f-11e8-91e7-eb2af6f8cf80",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "1 000",
+        "10 000",
+        "5 000"
+      ],
+      "question": "How many Edelweiss Pirates were there by 1939?",
+      "correctAnswer": "2 000",
+      "imageURL": "https://media.giphy.com/media/TE3ZlXmfr5psI/giphy.mp4"
+    },
+    "parentId": "1921da30-314a-11e8-af04-b563e8e1ba50",
+    "id": "3a569b90-3196-11e8-942b-577dcf589d7e",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Middle Classes",
+        "The Kaiser"
+      ],
+      "question": "Who primarily supported Socialism in Germany under the Kaiser?",
+      "correctAnswer": "Workers",
+      "imageURL": "https://media.giphy.com/media/3o7abDnUPDkOC05QU8/giphy.mp4"
+    },
+    "parentId": "93408ca0-2900-11e8-81aa-65fd3c22dbf1",
+    "id": "3bcd4840-2b4f-11e8-8683-a3a1ce373107",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Post-modernism",
+        "Structuralism",
+        "Impressionism"
+      ],
+      "question": "What movement can also be seen in Weimar films?",
+      "correctAnswer": "Expressionism",
+      "imageURL": "https://media.giphy.com/media/GOXDFrZpjTlHG/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "5c88174a-66aa-4765-95ac-b703caf3c9e5",
+    "draft": {
+      "wrongAnswers": "Post-modernism, Structuralism, Impressionism",
+      "question": "What movement can also be seen in Weimar films?",
+      "correctAnswer": "Expressionism",
+      "imageURL": "https://media.giphy.com/media/GOXDFrZpjTlHG/giphy.mp4"
+    },
+    "id": "3d942649-105e-41af-9965-9cf71c4925f6",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "Who was the President that used Article 48 to bypass the Reichstag?",
+      "correctAnswer": "President Hindenburg",
+      "wrongAnswers": [
+        "President Hitler",
+        "President Brüning",
+        "President Müller"
+      ]
+    },
+    "parentId": "a492c630-2eb9-11e8-9e85-d36be8a3a67a",
+    "id": "3dc3bc00-2ebb-11e8-9e85-d36be8a3a67a",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Every 5 years",
+        "Every 4 years",
+        "Every 11 months"
+      ],
+      "question": "How often was a President elected in the Weimar Republic?",
+      "correctAnswer": "Every 7 years",
+      "imageURL": "https://media.giphy.com/media/26FfhYBnzPt2PVqI8/giphy.mp4"
+    },
+    "parentId": "05df3ab0-29c2-11e8-a9dc-5da80b9555d0",
+    "id": "408f3a10-29c3-11e8-a9dc-5da80b9555d0",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "Censorship was meant to have a similar function to what?",
+      "correctAnswer": "Propaganda",
+      "wrongAnswers": [
+        "World War 2",
+        "Ethnic cleansing"
+      ]
+    },
+    "parentId": "e0f33f00-31cb-11e8-8a25-3b5ccadedee2",
+    "id": "478ba170-31cd-11e8-8a25-3b5ccadedee2",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "It meant that the army officers could bypass democracy.",
+        "It meant that the President was a puppet.",
+        "It allowed the military to stage a coup against the President."
+      ],
+      "question": "Why was Article 48 a weakness of the Weimar Constitution?",
+      "correctAnswer": "It meant that the President could bypass democracy.",
+      "imageURL": "https://media.giphy.com/media/z4vN4xgqCbVII/giphy.mp4"
+    },
+    "parentId": "36f9b990-29c2-11e8-a9dc-5da80b9555d0",
+    "id": "4bb3ad10-29c6-11e8-a9dc-5da80b9555d0",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "What happened to Jews who worked for the government from 1933?",
+      "correctAnswer": "They were fired.",
+      "wrongAnswers": [
+        "They were executed.",
+        "They were deported.",
+        "They remained in their jobs."
+      ]
+    },
+    "parentId": "1ca6a2e0-3144-11e8-af04-b563e8e1ba50",
+    "id": "4c6f7800-3192-11e8-942b-577dcf589d7e",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What did the Locarno Pact mean for Germany?",
+      "correctAnswer": "Germany recognised their borders with France and the demilitarisation of the Rhineland.",
+      "wrongAnswers": [
+        "Germany recognised their borders with Poland and the demilitarisation of the Ruhr.",
+        "Germany recognised their borders with France and the demilitarisation of the Ruhr.",
+        "Germany recognised their borders with Poland and the demilitarisation of the Rhineland."
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "5acfe6a0-704d-4a67-81c9-429be6d2f4d5",
+    "draft": {
+      "question": "What did the Locarno Pact mean for Germany?",
+      "correctAnswer": "Germany recognised their borders with France and the demilitarisation of the Rhineland.",
+      "wrongAnswers": "Germany recognised their borders with Poland and the demilitarisation of the Ruhr., Germany recognised their borders with France and the demilitarisation of the Ruhr., Germany recognised their borders with Poland and the demilitarisation of the Rhineland."
+    },
+    "id": "4ce0a932-4e4b-4be5-9232-cf4065498a32",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Western Europe",
+        "Asia",
+        "The USA"
+      ],
+      "question": "The success of industrialisation attracted many immigrants. Where did many come from?",
+      "correctAnswer": "Eastern Europe",
+      "imageURL": "https://media.giphy.com/media/s4vCZZtrQBvJC/giphy.mp4"
+    },
+    "parentId": "8cf49c60-2900-11e8-81aa-65fd3c22dbf1",
+    "id": "4e11f300-2903-11e8-81aa-65fd3c22dbf1",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Liberal parties",
+        "Left-wing parties",
+        "Traditionalist parties"
+      ],
+      "question": "Which type of political party did German people turn to during the economic crisis?",
+      "correctAnswer": "Extremist parties",
+      "imageURL": "https://media.giphy.com/media/3o7bu6ctZy3qGJyBkk/giphy.mp4"
+    },
+    "parentId": "4e9b7d40-2b93-11e8-8683-a3a1ce373107",
+    "id": "50c31d50-2eb6-11e8-9e85-d36be8a3a67a",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Who was eligible to vote in Weimar elections? ",
+      "correctAnswer": "Men and women over 20 ",
+      "wrongAnswers": [
+        "Property owners",
+        "Men over 20",
+        "Men and women over 21"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "ff1db0f4-e231-4dfd-9013-b07ed4cbba07",
+    "id": "54832224-d037-4cf8-a022-8bd20a7a5598",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What type of films did German cinemas show from 1943? ",
+      "correctAnswer": "Propaganda ",
+      "wrongAnswers": [
+        "Horror",
+        "Romantic",
+        "Historical"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "0c68f352-0a72-4fa8-9d99-312568a97b58",
+    "id": "54d31169-9101-4806-9a3b-45d589cbb00b",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "The Dawes Plan meant that Weimar Germany relied on which country for loans?",
+      "correctAnswer": "The USA",
+      "wrongAnswers": [
+        "The UK",
+        "France",
+        "Belgium"
+      ]
+    },
+    "parentId": "103ad0b0-29cb-11e8-a9dc-5da80b9555d0",
+    "id": "5c594eb0-2b68-11e8-8683-a3a1ce373107",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which statement is incorrect?",
+      "correctAnswer": "An SS 'race farm' was where SS men would have children with white Western Europeans ",
+      "wrongAnswers": [
+        "The 1935 Nuremberg Laws banned marriage or sexual relations between Aryans and non-Aryans",
+        "Mixed-race children were sterilised",
+        "The 'Untermenschen' was the term for 'sub-humans'"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "161a3651-4047-41c5-852d-9c67e63d2cdb",
+    "id": "5fa542ce-693a-46d8-a967-191ef32b01b4",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "450 million marks",
+        "590 billion marks",
+        "550 trillion marks"
+      ],
+      "question": "What was the German state's debt by 1913?",
+      "correctAnswer": "490 billion marks",
+      "imageURL": "https://media.giphy.com/media/OZTOxjfoxzdra/giphy.mp4"
+    },
+    "parentId": "504e52a0-28fc-11e8-81aa-65fd3c22dbf1",
+    "id": "6a593490-2900-11e8-81aa-65fd3c22dbf1",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "500 marks",
+        "1 000 marks",
+        "100 marks"
+      ],
+      "question": "How many marks of a marriage loan could a family keep for every child they had?",
+      "correctAnswer": "250 marks",
+      "imageURL": "https://media.giphy.com/media/e4e56vKQggwmI/giphy.mp4"
+    },
+    "parentId": "6bc310a0-310a-11e8-a144-e7523d951d36",
+    "id": "6bc310a6-310a-11e8-a144-e7523d951d36",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How many German people were left homeless by British and US air raids (bombing)? ",
+      "correctAnswer": "Over 7 million",
+      "wrongAnswers": [
+        "Over 2 million",
+        "Over 25 million",
+        "Over 18 million"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "0c68f352-0a72-4fa8-9d99-312568a97b58",
+    "id": "6dc784a1-af9f-49d1-8403-b9cbfca79368",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which Chancellors could not improve Germany’s economy?",
+      "correctAnswer": "Müller and Brüning",
+      "wrongAnswers": [
+        "Müller and Hitler",
+        "Hindenburg and Brüning",
+        "Von Papen and Müller"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "b1b9c815-653c-49f6-8f46-144381d3a666",
+    "id": "6e49655a-ef6d-4884-bda3-9e06e082b7c6",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Germania",
+        "Bauhaus Germany"
+      ],
+      "question": "What was the German state formed after the Kaiser widely known as?",
+      "correctAnswer": "Weimar Germany",
+      "imageURL": "https://media.giphy.com/media/z4vN4xgqCbVII/giphy.mp4"
+    },
+    "parentId": "dd5a5ec0-2b52-11e8-8683-a3a1ce373107",
+    "id": "6ec03e60-2b54-11e8-8683-a3a1ce373107",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "1933",
+        "1939",
+        "1942"
+      ],
+      "question": "When was membership for children aged 10 made compulsory?",
+      "correctAnswer": "1936",
+      "imageURL": "https://media.giphy.com/media/qG2h9G9NMRRE4/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "63fad3d0-2f4d-11e8-936a-e5cc8bb42b99",
+    "draft": {
+      "wrongAnswers": "1933, 1939, 1942",
+      "question": "When was membership for children aged 10 made compulsory?",
+      "correctAnswer": "1936",
+      "imageURL": "https://media.giphy.com/media/qG2h9G9NMRRE4/giphy.mp4"
+    },
+    "id": "6fa331f0-2f52-11e8-936a-e5cc8bb42b99",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Article 9",
+        "Article 48",
+        "Article 124"
+      ],
+      "question": "Which article of the Weimar Constitution asserted gender equality in the workplace and the home?",
+      "correctAnswer": "Article 109",
+      "imageURL": "https://media.giphy.com/media/3oKIPdQnwoQJilRHji/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "70554370-371f-11e8-91e7-eb2af6f8cf80",
+    "draft": {
+      "wrongAnswers": "Article 9, Article 48, Article 124",
+      "question": "Which article of the Weimar Constitution asserted gender equality in the workplace and the home?",
+      "correctAnswer": "Article 109",
+      "imageURL": "https://media.giphy.com/media/3oKIPdQnwoQJilRHji/giphy.mp4"
+    },
+    "id": "70556a82-371f-11e8-91e7-eb2af6f8cf80",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Family",
+        "Marriage",
+        "Politics"
+      ],
+      "question": "What did some women start to focus on with their growing independence? ",
+      "correctAnswer": "Leisure",
+      "imageURL": "https://media.giphy.com/media/kvIClgsZCN633TwJss/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "70554370-371f-11e8-91e7-eb2af6f8cf80",
+    "draft": {
+      "wrongAnswers": "Family, Marriage, Politics",
+      "question": "What did some women start to focus on with their growing independence? ",
+      "correctAnswer": "Leisure",
+      "imageURL": "https://media.giphy.com/media/kvIClgsZCN633TwJss/giphy.mp4"
+    },
+    "id": "70556a86-371f-11e8-91e7-eb2af6f8cf80",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Brown.",
+        "They did not wear uniforms.",
+        "Yellow."
+      ],
+      "question": "What colour uniforms did the SS wear?",
+      "correctAnswer": "Black.",
+      "imageURL": "https://media.giphy.com/media/y6AApIWCt11uM/giphy.mp4"
+    },
+    "parentId": "23bfbf70-314a-11e8-af04-b563e8e1ba50",
+    "id": "72f41600-3194-11e8-942b-577dcf589d7e",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following did NOT help spread the Nazi message?",
+      "correctAnswer": "The Gestapo ",
+      "wrongAnswers": [
+        "The annual Nuremberg rally",
+        "Radios and public loudspeakers",
+        "Cinema"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "a36cfe00-1239-43fa-8c9e-6d1a525245d4",
+    "id": "7638637b-efda-4801-89c9-4477de3ba2f5",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What percentage of German workers were unemployed in 1932? ",
+      "correctAnswer": "40% ",
+      "wrongAnswers": [
+        "25%",
+        "30%",
+        "35%"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "5f1276ea-0923-4bbd-a4e5-f44bf1877f5b",
+    "draft": {
+      "question": "What percentage of German workers were unemployed in 1932? ",
+      "correctAnswer": "40% ",
+      "wrongAnswers": "25%, 30%, 35% "
+    },
+    "id": "786db90e-cded-40eb-a58e-a4da84dd9c93",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which statement is true?",
+      "correctAnswer": "6 death camps with gas chambers were built in Poland ",
+      "wrongAnswers": [
+        "The German public all knew what happened at the death camps",
+        "Many Jews died from starvation and disease from the Nazi purpose-built ghettos after 1939",
+        "The SS organised a series of attacks on the Jewish people's homes and their businesses in 1938"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "161a3651-4047-41c5-852d-9c67e63d2cdb",
+    "id": "79b15e91-faa8-4060-92f8-7496582601aa",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which of the following is true of the Swing Youth?",
+      "correctAnswer": "They embraced the culture of Weimar and organised illegal dances to jazz",
+      "wrongAnswers": [
+        "They were a group of youths in the Rhineland",
+        "Their opposition to Nazism was more political than cultural",
+        "Their symbol was the Edelweiss"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "a36cfe00-1239-43fa-8c9e-6d1a525245d4",
+    "id": "79f3b1d5-f9bd-4256-8755-7a2a3066ddfb",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How much did Germany have to pay to the Allies in reparations? ",
+      "correctAnswer": "£6.6 billion ",
+      "wrongAnswers": [
+        "£5.5 billion",
+        "£6.6 million",
+        "£66 million"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "ff1db0f4-e231-4dfd-9013-b07ed4cbba07",
+    "id": "7a2497ff-d4c2-47c1-8d3b-5a6b915ae081",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Adolf Hitler",
+        "Joseph Goebbels",
+        "Hermann Goering"
+      ],
+      "question": "Who was the leader of the Gestapo, SS and SD?",
+      "correctAnswer": "Henrich Himmler",
+      "imageURL": "https://media.giphy.com/media/7wuQacamh7VqU/giphy.mp4"
+    },
+    "parentId": "4f634ce0-2f7f-11e8-9052-b37c72f2d3cc",
+    "id": "7cb56730-2f81-11e8-9052-b37c72f2d3cc",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "The Slavs were deported from Germany.",
+        "Many Slavs were executed.",
+        "Hitler sent all Slavs to concentration camps."
+      ],
+      "question": "What was the policy concerning Slavs?",
+      "correctAnswer": "They were constantly reminded that they were inferior but there were not many policies directed at the Slavs.",
+      "imageURL": "https://media.giphy.com/media/xT8qBmamiB4mFbSu4M/giphy.mp4"
+    },
+    "parentId": "fb4f53d0-3143-11e8-af04-b563e8e1ba50",
+    "id": "7da54e10-3145-11e8-af04-b563e8e1ba50",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Müller and Hitler",
+        "Hindenburg and Brüning",
+        "Von Papen and Müller"
+      ],
+      "question": "Which Chancellors could not improve Germany’s economy?",
+      "correctAnswer": "Müller and Brüning",
+      "imageURL": "https://media.giphy.com/media/P7yThm3L7JpMk/giphy.mp4"
+    },
+    "parentId": "a492c630-2eb9-11e8-9e85-d36be8a3a67a",
+    "id": "80694ee0-2eba-11e8-9e85-d36be8a3a67a",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Short athletic blond & blue-eyed",
+        "Tall athletic blond & brown-eyed",
+        "Peter Crouch"
+      ],
+      "question": "What was the perfect Aryan man according to Nazi beliefs?",
+      "correctAnswer": "Tall athletic blond & blue-eyed",
+      "imageURL": "https://media.giphy.com/media/1Epb49QTLWIN79iE/giphy.mp4"
+    },
+    "parentId": "e963ecd0-3143-11e8-af04-b563e8e1ba50",
+    "id": "8309d930-31c1-11e8-8a25-3b5ccadedee2",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What percentage of German workers were unemployed in 1932? ",
+      "correctAnswer": "40% ",
+      "wrongAnswers": [
+        "25%",
+        "30%",
+        "35%"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "b1b9c815-653c-49f6-8f46-144381d3a666",
+    "id": "843b4cb2-1027-427e-bce4-8600a4c6b205",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "What was the Nazi who ran a province in Nazi Germany called?",
+      "correctAnswer": "Gauleiter",
+      "wrongAnswers": [
+        "Reichsleiter",
+        "Provinceleiter",
+        "Provimeister"
+      ]
+    },
+    "parentId": "b138be30-2ebe-11e8-9e85-d36be8a3a67a",
+    "id": "8457ae20-3720-11e8-91e7-eb2af6f8cf80",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What scheme gave workers rewards if they worked hard? ",
+      "correctAnswer": "The Strength Through Joy Scheme ",
+      "wrongAnswers": [
+        "The Beauty of Labour Scheme",
+        "The German Labour Front",
+        "The National Labour Service"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "0c68f352-0a72-4fa8-9d99-312568a97b58",
+    "id": "883fd0d1-c7fb-4022-87f5-6379e266edd8",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "Who had the power to control income tax under Wilhelm?",
+      "correctAnswer": "Individual states",
+      "wrongAnswers": [
+        "Kaiser Wilhelm II",
+        "The Chancellor",
+        "The German Federal State"
+      ]
+    },
+    "parentId": "465a65d0-28f8-11e8-81aa-65fd3c22dbf1",
+    "id": "8b53e8e0-28f9-11e8-81aa-65fd3c22dbf1",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Which Chancellors could not improve Germany’s economy?",
+      "correctAnswer": "Müller and Brüning",
+      "wrongAnswers": [
+        "Müller and Hitler",
+        "Hindenburg and Brüning",
+        "Von Papen and Müller"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "5f1276ea-0923-4bbd-a4e5-f44bf1877f5b",
+    "draft": {
+      "question": "Which Chancellors could not improve Germany’s economy?",
+      "correctAnswer": "Müller and Brüning",
+      "wrongAnswers": "Müller and Hitler, Hindenburg and Brüning, Von Papen and Müller "
+    },
+    "id": "8bea91a7-d2ca-4155-b730-6a27c21c19d5",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Destroy Communism",
+        "Reverse the Treaty of Versailles",
+        "Achieve Lebensraum"
+      ],
+      "question": "Which of these wasn't one of the Nazi Party's main aims?",
+      "correctAnswer": "Defeat the United States",
+      "imageURL": "https://media.giphy.com/media/mKeHxgZL2NvPO/giphy.mp4"
+    },
+    "parentId": "4e9b7d40-2b93-11e8-8683-a3a1ce373107",
+    "id": "8d959210-2eb8-11e8-9e85-d36be8a3a67a",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "Who fought the political opponents of the Nazis?",
+      "correctAnswer": "The SA",
+      "wrongAnswers": [
+        "The DS",
+        "The AA",
+        "The SS"
+      ]
+    },
+    "parentId": "a8a4adf0-30c7-11e8-a144-e7523d951d36",
+    "id": "8e388310-30cc-11e8-a144-e7523d951d36",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Domestic policy",
+        "Economic policy",
+        "Cultural policy"
+      ],
+      "question": "Over which type of policy did the Kaiser have absolute power?",
+      "correctAnswer": "Foreign policy",
+      "imageURL": "https://media.giphy.com/media/hQGKtRa2rzdHa/giphy.mp4"
+    },
+    "parentId": "c093bbf0-26df-11e8-bf5f-712e87169b9a",
+    "id": "8eda8f40-26e3-11e8-bf5f-712e87169b9a",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "How many Germans supported the Nazis?",
+      "correctAnswer": "Most",
+      "wrongAnswers": [
+        "All",
+        "None",
+        "Few"
+      ]
+    },
+    "parentId": "90348770-314b-11e8-af04-b563e8e1ba50",
+    "id": "9034ae81-314b-11e8-af04-b563e8e1ba50",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "10%",
+        "100%",
+        "56%"
+      ],
+      "question": "What percentage of children were part of the Hitler Youth by 1939?",
+      "correctAnswer": "90%",
+      "imageURL": "https://media.giphy.com/media/j39kXAp4QjxFC/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "90b35fc0-311c-11e8-a144-e7523d951d36",
+    "draft": {
+      "wrongAnswers": "10%, 100%, 56%",
+      "question": "What percentage of children were part of the Hitler Youth by 1939?",
+      "correctAnswer": "90%",
+      "imageURL": "https://media.giphy.com/media/j39kXAp4QjxFC/giphy.mp4"
+    },
+    "id": "90b35fcb-311c-11e8-a144-e7523d951d36",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "In which year were women banned from having professional jobs in Nazi Germany?",
+      "correctAnswer": "1933",
+      "wrongAnswers": [
+        "1932",
+        "1934",
+        "1939"
+      ]
+    },
+    "parentId": "6bc310a0-310a-11e8-a144-e7523d951d36",
+    "id": "9202f9f0-310b-11e8-a144-e7523d951d36",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How big was Germany's debt in 1918?",
+      "correctAnswer": "150 billion marks",
+      "wrongAnswers": [
+        "200 billion marks",
+        "50 billion marks",
+        "100 billion marks"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "ff1db0f4-e231-4dfd-9013-b07ed4cbba07",
+    "id": "9316dec8-3e27-4ddd-b845-5ad29e7e011a",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Propaganda",
+        "Education",
+        "Censorship"
+      ],
+      "question": "Which was the most important aspect in the creation of gleischaltung?",
+      "correctAnswer": "Repression",
+      "imageURL": "https://media.giphy.com/media/pBYaJGYfzTc52/giphy.mp4"
+    },
+    "parentId": "23132bc0-314a-11e8-af04-b563e8e1ba50",
+    "id": "9962d780-3195-11e8-942b-577dcf589d7e",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "How often was the President of the Weimar Republic elected?",
+      "correctAnswer": "Every 7 years",
+      "wrongAnswers": [
+        "Every 4 years",
+        "Every year",
+        "Every 10 years"
+      ]
+    },
+    "parentId": "05df3ab0-29c2-11e8-a9dc-5da80b9555d0",
+    "id": "9e15e880-2b64-11e8-8683-a3a1ce373107",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Who did the German army swear an oath of allegiance to under the Nazis? ",
+      "correctAnswer": "Hitler ",
+      "wrongAnswers": [
+        "Germany",
+        "The Government",
+        "The German people"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "5f1276ea-0923-4bbd-a4e5-f44bf1877f5b",
+    "id": "9e73dbf3-280b-41fc-aef0-d8a287f3cc6e",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How many women were elected to the Reichstag in Weimar Germany?",
+      "correctAnswer": "112",
+      "wrongAnswers": [
+        "12",
+        "1120",
+        "145"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "5c88174a-66aa-4765-95ac-b703caf3c9e5",
+    "draft": {
+      "question": "How many women were elected to the Reichstag in Weimar Germany?",
+      "correctAnswer": "112",
+      "wrongAnswers": "12, 1120, 145"
+    },
+    "id": "9f59fa5a-5387-4f34-b920-376dc3d178a3",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Germany and 55 others.",
+        "Germany and 75 others.",
+        "Germany and 5 others."
+      ],
+      "question": "How many countries signed the Kellogg-Briand Pact?",
+      "correctAnswer": "Germany and 62 others.",
+      "imageURL": "https://media.giphy.com/media/6otqU2T8JHURi/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "85d753c3-fadd-43fe-92a7-069c6a8673ea",
+    "id": "a16b4839-6900-4886-965e-4ebcd8a757c5",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "What did the Nazis call the style of the Weimar Republic?",
+      "correctAnswer": "'Degenerate' style",
+      "wrongAnswers": [
+        "'Decadent' style",
+        "'Jewish' style",
+        "'Old' style"
+      ]
+    },
+    "parentId": "b534ba00-2f79-11e8-9052-b37c72f2d3cc",
+    "id": "a1c09350-2f7d-11e8-9052-b37c72f2d3cc",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "1942",
+        "1943",
+        "1944"
+      ],
+      "question": "When were food rations set up in Nazi Germany?",
+      "correctAnswer": "1939",
+      "imageURL": "https://media.giphy.com/media/eSQKNSmg07dHq/giphy.mp4"
+    },
+    "parentId": "a271bdf0-3109-11e8-a144-e7523d951d36",
+    "id": "a271bdf2-3109-11e8-a144-e7523d951d36",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Theatre",
+        "Concerts",
+        "Baseball"
+      ],
+      "question": "Which leisure activity remained open after 1943 in Germany?",
+      "correctAnswer": "Cinema",
+      "imageURL": "https://media.giphy.com/media/G0lXg7mTDf4MU/giphy.mp4"
+    },
+    "parentId": "a271bdf0-3109-11e8-a144-e7523d951d36",
+    "id": "a271bdf8-3109-11e8-a144-e7523d951d36",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "In January 1943, which age groups were forced to work?",
+      "correctAnswer": "Men between 16 and 65 and women between 17 and 45.",
+      "wrongAnswers": [
+        "Men and women between 16 and 65.",
+        "Men between 18 and 65 and women between 21 and 60",
+        "Men between 21 and 65 and women between 21 and 45."
+      ]
+    },
+    "parentId": "a2ebf700-3109-11e8-a144-e7523d951d36",
+    "id": "a2ebf705-3109-11e8-a144-e7523d951d36",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Britain",
+        "Russia",
+        "Denmark"
+      ],
+      "question": "Who were Germany banned from joining with at the Treaty of Versailles?",
+      "correctAnswer": "Austria",
+      "imageURL": "https://media.giphy.com/media/Ae7SI3LoPYj8Q/giphy.mp4"
+    },
+    "parentId": "2900a830-290e-11e8-8260-4d5ffead7718",
+    "id": "a51ea8d0-2b53-11e8-8683-a3a1ce373107",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Foreign workers went on strike.",
+        "German workers went disinterested in right-wing extremism.",
+        "German police put down the rebellion."
+      ],
+      "question": "Why did the Kapp Putsch fail in March 1920?",
+      "correctAnswer": "German workers went on strike.",
+      "imageURL": "https://media.giphy.com/media/l0HlW6GBSjbyFDCW4/giphy.mp4"
+    },
+    "parentId": "13f5cbf0-29c2-11e8-a9dc-5da80b9555d0",
+    "id": "a6263fd0-29c9-11e8-a9dc-5da80b9555d0",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "1933",
+        "1939",
+        "1942"
+      ],
+      "question": "When was membership for children aged 10 made compulsory?",
+      "correctAnswer": "1936",
+      "imageURL": "https://media.giphy.com/media/qG2h9G9NMRRE4/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "91c851bb-cf96-4b73-84a6-cde2c59fff3b",
+    "id": "a797c98c-135f-41c7-bf4e-3c70f1f33e07",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "Why were some women attracted by Nazism?",
+      "correctAnswer": "Hitler said the Nazis would prioritise the family and home.",
+      "wrongAnswers": [
+        "Hitler said the Nazis would give women equal opportunities in the army.",
+        "Hitler said the Nazis would prioritise the workplace.",
+        "Hitler said the Nazis would  protect them from Communists."
+      ]
+    },
+    "parentId": "a8a4adf0-30c7-11e8-a144-e7523d951d36",
+    "id": "a8a4d50a-30c7-11e8-a144-e7523d951d36",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "Who did Hitler force the army to swear an oath of allegiance to?",
+      "correctAnswer": "Himself",
+      "wrongAnswers": [
+        "Germany",
+        "The Weimar Republic",
+        "Heinrich Himmler"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "b138be30-2ebe-11e8-9e85-d36be8a3a67a",
+    "id": "ab3bf1d0-2ede-11e8-a6b3-e1901b94efab",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "3 months",
+        "1 year",
+        "18 months"
+      ],
+      "question": "Under the National Labour Service (RAD) how many months did men aged 18-25 have to work on public schemes for?",
+      "correctAnswer": "6 months",
+      "imageURL": "https://media.giphy.com/media/bJvmhRG1GpRXG/giphy.mp4"
+    },
+    "parentId": "182ff160-2edf-11e8-a6b3-e1901b94efab",
+    "id": "acb0b910-2f42-11e8-936a-e5cc8bb42b99",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "What was the key challenge from the left in the Weimar era?",
+      "correctAnswer": "The Spartacist Uprising",
+      "wrongAnswers": [
+        "The Kapp Putsch",
+        "The Munich Putsch",
+        "The Persianist Uprising"
+      ]
+    },
+    "parentId": "13f5cbf0-29c2-11e8-a9dc-5da80b9555d0",
+    "id": "afb0aeb0-29c8-11e8-a9dc-5da80b9555d0",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "222 votes to 94.",
+        "111 votes to 94.",
+        "333 votes to 94."
+      ],
+      "question": "The Reichstag supported the Enabling Act by how many votes?",
+      "correctAnswer": "444 votes to 94.",
+      "imageURL": "https://media.giphy.com/media/2MvPcQqA77u9y/giphy.mp4"
+    },
+    "parentId": "2971ade0-2ebe-11e8-9e85-d36be8a3a67a",
+    "id": "b0005de0-2ec1-11e8-9e85-d36be8a3a67a",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "What percentage of German gypsies had been killed by the end of the war?",
+      "correctAnswer": "85%",
+      "wrongAnswers": [
+        "25%",
+        "15%",
+        "50%"
+      ]
+    },
+    "parentId": "fb4f53d0-3143-11e8-af04-b563e8e1ba50",
+    "id": "b1fe7560-31c2-11e8-8a25-3b5ccadedee2",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Adolf Hitler",
+        "Roger Bannister",
+        "Ralph Metcalfe"
+      ],
+      "question": "Who won gold in the 100 metres in the Berlin Olympics?",
+      "correctAnswer": "Jesse Owens",
+      "imageURL": "https://media.giphy.com/media/rGd96FmvAfymY/giphy.mp4"
+    },
+    "parentId": "b2faa880-2f79-11e8-9052-b37c72f2d3cc",
+    "id": "b2459e70-2f7b-11e8-9052-b37c72f2d3cc",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "1918",
+        "1914",
+        "1920"
+      ],
+      "question": "When was the Treaty of Versailles signed?",
+      "correctAnswer": "1919",
+      "imageURL": "https://media.giphy.com/media/SHd6067C0OCJi/giphy.mp4"
+    },
+    "parentId": "2900a830-290e-11e8-8260-4d5ffead7718",
+    "id": "b6b391f0-290f-11e8-8260-4d5ffead7718",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What percentage of food was Germany importing by the start of WW2? ",
+      "correctAnswer": "20%",
+      "wrongAnswers": [
+        "30%",
+        "40%",
+        "60%"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "0c68f352-0a72-4fa8-9d99-312568a97b58",
+    "id": "b81c1545-5e36-4eb4-b3a6-2da2b67c018c",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How did people try to get around the problem of hyperinflation?",
+      "correctAnswer": "Using a barter system",
+      "wrongAnswers": [
+        "Printing their own money",
+        "Buying very expensive items",
+        "Trading their money for gold at the bank"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "37549090-290e-11e8-8260-4d5ffead7718",
+    "id": "bac81680-2914-11e8-8260-4d5ffead7718",
+    "type": "module",
+    "moduleDifficulty": 1,
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What did the Locarno Pact mean for Germany?",
+      "correctAnswer": "Germany recognised their borders with France and the demilitarisation of the Rhineland.",
+      "wrongAnswers": [
+        "Germany recognised their borders with Poland and the demilitarisation of the Ruhr.",
+        "Germany recognised their borders with France and the demilitarisation of the Ruhr.",
+        "Germany recognised their borders with Poland and the demilitarisation of the Rhineland."
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "13cc5be0-29cb-11e8-a9dc-5da80b9555d0",
+    "draft": {
+      "question": "What did the Locarno Pact mean for Germany?",
+      "correctAnswer": "Germany recognised their borders with France and the demilitarisation of the Rhineland.",
+      "wrongAnswers": "Germany recognised their borders with Poland and the demilitarisation of the Ruhr., Germany recognised their borders with France and the demilitarisation of the Ruhr., Germany recognised their borders with Poland and the demilitarisation of the Rhineland."
+    },
+    "id": "c193e940-29d1-11e8-a9dc-5da80b9555d0",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Post-modernism",
+        "Structuralism",
+        "Impressionism"
+      ],
+      "question": "What movement can also be seen in Weimar films?",
+      "correctAnswer": "Expressionism",
+      "imageURL": "https://media.giphy.com/media/GOXDFrZpjTlHG/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "2509f6b0-29cb-11e8-a9dc-5da80b9555d0",
+    "draft": {
+      "wrongAnswers": "Post-modernism, Structuralism, Impressionism",
+      "question": "What movement can also be seen in Weimar films?",
+      "correctAnswer": "Expressionism",
+      "imageURL": "https://media.giphy.com/media/GOXDFrZpjTlHG/giphy.mp4"
+    },
+    "id": "c38c5680-29d4-11e8-a9dc-5da80b9555d0",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "1 million killed - 5 million wounded",
+        "4 million killed - 2 million wounded",
+        "2 million killed - 4 billion wounded"
+      ],
+      "question": "How many German troops were killed and wounded in World War One?",
+      "correctAnswer": "2 million killed - 4 million wounded",
+      "imageURL": "https://media.giphy.com/media/Tim0q7zolF3fa/giphy.mp4"
+    },
+    "parentId": "aa70f700-2907-11e8-81aa-65fd3c22dbf1",
+    "id": "c39d4020-2908-11e8-81aa-65fd3c22dbf1",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "When did the Nazis begin to euthanise (intentionally end the life of) disabled people?",
+      "correctAnswer": "1939",
+      "wrongAnswers": [
+        "1938",
+        "1940",
+        "1942"
+      ]
+    },
+    "parentId": "fa54ee40-3143-11e8-af04-b563e8e1ba50",
+    "id": "c474ad80-3191-11e8-942b-577dcf589d7e",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "The first half of the 1800s",
+        "The first half of the 1900s",
+        "The second half of the 1700s"
+      ],
+      "question": "When did industrialisation begin in Germany?",
+      "correctAnswer": "The second half of the 1800s",
+      "imageURL": "https://media.giphy.com/media/KLEUvMUO0NAKk/giphy.mp4"
+    },
+    "parentId": "8cf49c60-2900-11e8-81aa-65fd3c22dbf1",
+    "id": "c7c25cf0-2901-11e8-81aa-65fd3c22dbf1",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "10%",
+        "100%",
+        "56%"
+      ],
+      "question": "What percentage of children were part of the Hitler Youth by 1939?",
+      "correctAnswer": "90%",
+      "imageURL": "https://media.giphy.com/media/j39kXAp4QjxFC/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "63c576c3-dc01-4b27-b3b0-2c44fd688b5d",
+    "id": "c8c7c2b5-5066-4ae3-bc48-2a0e6f9185d9",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Article 9",
+        "Article 48",
+        "Article 124"
+      ],
+      "question": "Which article of the Weimar Constitution asserted gender equality in the workplace and the home?",
+      "correctAnswer": "Article 109",
+      "imageURL": "https://media.giphy.com/media/3oKIPdQnwoQJilRHji/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "70733829-aabf-40ef-b4c4-9e45a1be911c",
+    "id": "c92bd079-50da-40ac-b761-1fd89a4b546c",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "2.6%",
+        "37%",
+        "10%"
+      ],
+      "question": "What was the Nazi share of the vote in 1930?",
+      "correctAnswer": "18%",
+      "imageURL": "https://media.giphy.com/media/szvaihL4uXoo8/giphy.mp4"
+    },
+    "parentId": "a492c630-2eb9-11e8-9e85-d36be8a3a67a",
+    "id": "cc6db090-30d8-11e8-a144-e7523d951d36",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Adolf Hitler",
+        "Paul von Hindenburg",
+        "Henrich Himmler"
+      ],
+      "question": "Who was the first minister of the economy for the Nazis between 1934 and 1937?",
+      "correctAnswer": "Hjalmar Schact",
+      "imageURL": "https://media.giphy.com/media/iP1qEUE7VKhLq/giphy.mp4"
+    },
+    "parentId": "ccd92a00-3722-11e8-91e7-eb2af6f8cf80",
+    "id": "ccd92a02-3722-11e8-91e7-eb2af6f8cf80",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Germany was Americanised.",
+        "People became poorer.",
+        "People preferred ersatz substitutes."
+      ],
+      "question": "Why did the number of imports increase between 1933 and 1939?",
+      "correctAnswer": "People became wealthier.",
+      "imageURL": "https://media.giphy.com/media/h0MTqLyvgG0Ss/giphy.mp4"
+    },
+    "parentId": "ccd92a00-3722-11e8-91e7-eb2af6f8cf80",
+    "id": "ccd92a08-3722-11e8-91e7-eb2af6f8cf80",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "The Catholic Church",
+        "The Edelweiss Pirates",
+        "The Concordat"
+      ],
+      "question": "What institution was set up in 1934 to oppose the Reich Church?",
+      "correctAnswer": "The Confessional Church",
+      "imageURL": "https://media.giphy.com/media/oNrzjwmDsWQM0/giphy.mp4"
+    },
+    "parentId": "d01e7660-3142-11e8-af04-b563e8e1ba50",
+    "id": "d01e7667-3142-11e8-af04-b563e8e1ba50",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Family",
+        "Marriage",
+        "Politics"
+      ],
+      "question": "What did some women start to focus on with their growing independence? ",
+      "correctAnswer": "Leisure",
+      "imageURL": "https://media.giphy.com/media/kvIClgsZCN633TwJss/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "70733829-aabf-40ef-b4c4-9e45a1be911c",
+    "id": "d885b6f9-a1a6-4c09-ad93-46e088fd9c5b",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "100 000",
+        "125 000",
+        "132"
+      ],
+      "question": "How many Germans were removed from their homes during the seizing of the Ruhr?",
+      "correctAnswer": "150 000",
+      "imageURL": "https://media.giphy.com/media/5LYjhMQE3zUNG/giphy.mp4"
+    },
+    "parentId": "dd5a5ec0-2b52-11e8-8683-a3a1ce373107",
+    "id": "dd5a5ec7-2b52-11e8-8683-a3a1ce373107",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "What did the Locarno Pact mean for Germany?",
+      "correctAnswer": "Germany recognised their borders with France and the demilitarisation of the Rhineland.",
+      "wrongAnswers": [
+        "Germany recognised their borders with Poland and the demilitarisation of the Ruhr.",
+        "Germany recognised their borders with France and the demilitarisation of the Ruhr.",
+        "Germany recognised their borders with Poland and the demilitarisation of the Rhineland."
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "85d753c3-fadd-43fe-92a7-069c6a8673ea",
+    "id": "e3a5de87-ced1-486d-831d-9246882a050d",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "38 then 6 then 7",
+        "6 then 38 then 7",
+        "7 then 6 then 38"
+      ],
+      "question": "How many extra battleships did the First, Second and Third Naval Laws introduce?",
+      "correctAnswer": "7 then 38 then 6",
+      "imageURL": "https://media.giphy.com/media/OqrqwnAkEti8M/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "504e52a0-28fc-11e8-81aa-65fd3c22dbf1",
+    "draft": {
+      "wrongAnswers": "38 then 6 then 7, 6 then 38 then 7, 7 then 6 then 38",
+      "question": "How many extra battleships did the First, Second and Third Naval Laws introduce?",
+      "correctAnswer": "7 then 38 then 6",
+      "imageURL": "https://media.giphy.com/media/OqrqwnAkEti8M/giphy.mp4"
+    },
+    "id": "e575e340-28ff-11e8-81aa-65fd3c22dbf1",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Henrich Himmler",
+        "Adolf Hitler",
+        "Ludwig van Beethoven"
+      ],
+      "question": "Who led the Reich Church?",
+      "correctAnswer": "Ludwig Müller",
+      "imageURL": "https://media.giphy.com/media/7ZWKTrVmhkkWQ/giphy.mp4"
+    },
+    "parentId": "07643220-2f56-11e8-936a-e5cc8bb42b99",
+    "id": "e5bec440-2f6f-11e8-9052-b37c72f2d3cc",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "The Triple Entente",
+        "The Grand Alliance",
+        "The Triple Alliance"
+      ],
+      "question": "What was the agreement signed between Great Britain and France in 1904?",
+      "correctAnswer": "The Entente Cordiale",
+      "imageURL": "https://media.giphy.com/media/ToMjGpnsDvb5S4Pl23S/giphy.mp4"
+    },
+    "parentId": "504e52a0-28fc-11e8-81aa-65fd3c22dbf1",
+    "id": "e5f59000-28fe-11e8-81aa-65fd3c22dbf1",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "15 million to 3 million",
+        "3 million to 0.5 million",
+        "0.5 million to 0.3 million"
+      ],
+      "question": "Hitler boasted that unemployment fell from ..... in 1933 to ...... in 1939.",
+      "correctAnswer": "5 million to 0.3 million",
+      "imageURL": "https://media.giphy.com/media/q0eh4TU8OMXRu/giphy.mp4"
+    },
+    "parentId": "182ff160-2edf-11e8-a6b3-e1901b94efab",
+    "id": "e6ab2410-2f43-11e8-936a-e5cc8bb42b99",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Germany and 55 others.",
+        "Germany and 75 others.",
+        "Germany and 5 others."
+      ],
+      "question": "How many countries signed the Kellogg-Briand Pact?",
+      "correctAnswer": "Germany and 62 others.",
+      "imageURL": "https://media.giphy.com/media/6otqU2T8JHURi/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "5acfe6a0-704d-4a67-81c9-429be6d2f4d5",
+    "draft": {
+      "wrongAnswers": "Germany and 55 others., Germany and 75 others., Germany and 5 others.",
+      "question": "How many countries signed the Kellogg-Briand Pact?",
+      "correctAnswer": "Germany and 62 others.",
+      "imageURL": "https://media.giphy.com/media/6otqU2T8JHURi/giphy.mp4"
+    },
+    "id": "e8f05624-5bb1-4f08-93eb-61a0279bae3d",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "What is the word for sub-humans in German?",
+      "correctAnswer": "Untermenschen",
+      "wrongAnswers": [
+        "Lebensraum",
+        "Untermann",
+        "Gleischaltung"
+      ]
+    },
+    "parentId": "e963ecd0-3143-11e8-af04-b563e8e1ba50",
+    "id": "e96413e4-3143-11e8-af04-b563e8e1ba50",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "Which of the following did the Kaiser have the power to dissolve?",
+      "correctAnswer": "The Reichstag",
+      "wrongAnswers": [
+        "The Bundesrat",
+        "The Bundestag",
+        "The Volkskammer"
+      ]
+    },
+    "parentId": "c093bbf0-26df-11e8-bf5f-712e87169b9a",
+    "id": "eae1da80-26e0-11e8-bf5f-712e87169b9a",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "By killing all of the political leaders and securing Hindenburg's authority.",
+        "By eliminating political opposition and securing von Papen's authority.",
+        "By sharing power with many German political leaders."
+      ],
+      "question": "How did the Nazis first set out to make Germany a dictatorship?",
+      "correctAnswer": "By eliminating political opposition and securing Hitler’s authority.",
+      "imageURL": "https://media.giphy.com/media/y6AApIWCt11uM/giphy.mp4"
+    },
+    "parentId": "2971ade0-2ebe-11e8-9e85-d36be8a3a67a",
+    "id": "ec50b1b0-2ec0-11e8-9e85-d36be8a3a67a",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Krupp & Von Furstenberg",
+        "Krupp & Hidenberg",
+        "Hugenberg & Von Papen"
+      ],
+      "question": "Which millionaires funded the Nazi party as Hitler gained popularity?",
+      "correctAnswer": "Krupp & Hugenberg",
+      "imageURL": "https://media.giphy.com/media/Cg7EvzvZYlVyE/giphy.mp4"
+    },
+    "parentId": "4e9b7d40-2b93-11e8-8683-a3a1ce373107",
+    "id": "ee219c60-30c9-11e8-a144-e7523d951d36",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "23rd March 1933",
+        "14th July 1933"
+      ],
+      "question": "On what date was the Reichstag fire?",
+      "correctAnswer": "27th February 1933",
+      "imageURL": "https://media.giphy.com/media/l2YWE2ZXqiYa4h8ic/giphy.mp4"
+    },
+    "parentId": "2971ade0-2ebe-11e8-9e85-d36be8a3a67a",
+    "id": "eeefe3b0-30db-11e8-a144-e7523d951d36",
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Eat them.",
+        "Throw them away.",
+        "Publish them."
+      ],
+      "question": "What did the Nazis do to books to show Nazi power?",
+      "correctAnswer": "Burn them.",
+      "imageURL": "https://media.giphy.com/media/4uAFqLYRruCnS/giphy.mp4"
+    },
+    "parentId": "b534ba00-2f79-11e8-9052-b37c72f2d3cc",
+    "id": "ef8bc720-2f7e-11e8-9052-b37c72f2d3cc",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "Jewish",
+        "European",
+        "Polish"
+      ],
+      "question": "The ideal Nazi woman was ......, with blonde hair and blue eyes.",
+      "correctAnswer": "Aryan",
+      "imageURL": "https://media.giphy.com/media/SFGHhOkQsPkFq/giphy.mp4"
+    },
+    "parentId": "60ce4c00-2f4d-11e8-936a-e5cc8bb42b99",
+    "id": "f05c3750-2f4e-11e8-936a-e5cc8bb42b99",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "wrongAnswers": [
+        "Because there was a new wave of artistic talent across Europe.",
+        "Because there was mass emmigration to Germany.",
+        "Because the government was communist."
+      ],
+      "question": "Why did culture begin to thrive in Weimar Germany?",
+      "correctAnswer": "Because there was no censorship.",
+      "imageURL": "https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.mp4"
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "2509f6b0-29cb-11e8-a9dc-5da80b9555d0",
+    "draft": {
+      "wrongAnswers": "Because there was a new wave of artistic talent across Europe., Because there was mass emmigration to Germany., Because the government was communist.",
+      "question": "Why did culture begin to thrive in Weimar Germany?",
+      "correctAnswer": "Because there was no censorship.",
+      "imageURL": "https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.mp4"
+    },
+    "id": "f06d18c0-29d3-11e8-a9dc-5da80b9555d0",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "500 marks",
+        "250 marks",
+        "100 marks"
+      ],
+      "question": "How large was the marriage loan given to couples by the Nazis?",
+      "correctAnswer": "1000 marks",
+      "imageURL": "https://media.giphy.com/media/e4e56vKQggwmI/giphy.mp4"
+    },
+    "parentId": "60ce4c00-2f4d-11e8-936a-e5cc8bb42b99",
+    "id": "f61b5320-310a-11e8-a144-e7523d951d36",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "In which year did Germany join the League of Nations? ",
+      "correctAnswer": "1926 ",
+      "wrongAnswers": [
+        "1925",
+        "1922",
+        "1921"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "ff1db0f4-e231-4dfd-9013-b07ed4cbba07",
+    "id": "f7667f21-4bf8-4918-a687-84bb58289cf0",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "content": {
+      "question": "How many communists were arrested after the Reichstag fire? ",
+      "correctAnswer": "4000",
+      "wrongAnswers": [
+        "400",
+        "5000",
+        "500"
+      ]
+    },
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "parentId": "5f1276ea-0923-4bbd-a4e5-f44bf1877f5b",
+    "id": "f79a8866-b4b3-45bc-8627-ca760a9f7a1c",
+    "moduleDifficulty": 1,
+    "type": "module",
+    "sectionId": "7d2fb2c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Depression"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "question": "Which country did Germany need to be more powerful than to become the most powerful country in the world under the Kaiser?",
+      "correctAnswer": "Great Britain",
+      "wrongAnswers": [
+        "USA",
+        "Russia",
+        "France"
+      ]
+    },
+    "parentId": "2b695ae0-28fa-11e8-81aa-65fd3c22dbf1",
+    "id": "f88a36b0-28fb-11e8-81aa-65fd3c22dbf1",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "10 000",
+        "1 000",
+        "1 000 000"
+      ],
+      "question": "Approximately how many disabled people were secretly killed between 1939 and 1941?",
+      "correctAnswer": "100 000",
+      "imageURL": "https://media.giphy.com/media/A5unJu0G1EGw8/giphy.mp4"
+    },
+    "parentId": "fa54ee40-3143-11e8-af04-b563e8e1ba50",
+    "id": "fa54ee4b-3143-11e8-af04-b563e8e1ba50",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "They executed everyone",
+        "They deported anyone that was not a Nazi",
+        "Himmler personally searched for non-Nazis"
+      ],
+      "question": "What was a key reason why the Nazis had no opposition?",
+      "correctAnswer": "They controlled the legal system",
+      "imageURL": "https://media.giphy.com/media/sT37MSqpfSPYc/giphy.mp4"
+    },
+    "parentId": "4f634ce0-2f7f-11e8-9052-b37c72f2d3cc",
+    "id": "fb865b00-3193-11e8-942b-577dcf589d7e",
+    "type": "module",
+    "sectionId": "98fed6c0-2148-11e8-a674-f7eebd705ce6",
+    "title": "The Experience for Germans under the Nazis"
+  },
+  {
+    "moduleType": "multiple-choice",
+    "courseId": "423aecc0-2148-11e8-a674-f7eebd705ce6",
+    "content": {
+      "wrongAnswers": [
+        "11th September 1918",
+        "10th November 1918",
+        "28th October 1918"
+      ],
+      "question": "When was the armistice of World War One signed?",
+      "correctAnswer": "11th November 1918",
+      "imageURL": "https://media.giphy.com/media/3ohs7NA0hAuTTHVBHW/giphy.mp4"
+    },
+    "parentId": "4d4465a0-290a-11e8-81aa-65fd3c22dbf1",
+    "id": "fd386230-290b-11e8-8260-4d5ffead7718",
+    "type": "module",
+    "sectionId": "583943f0-2148-11e8-a674-f7eebd705ce6",
+    "title": "Germany & the Growth of Democracy"
+  }
+]
