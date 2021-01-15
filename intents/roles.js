@@ -1,6 +1,7 @@
 const Discord = require("discord.js");
 const Airtable = require('airtable');
-const base = new Airtable({ apiKey: 'keyBop3NKn0c5lDgX' }).base('appTigRgtCa5YFAQr');
+const config = require('../config.json')
+const base = new Airtable({ apiKey: config.AIRTABLE_API_KEY }).base('appTigRgtCa5YFAQr');
 
 async function roles(oldMember, newMember) {
     await base('Tutees').select({
@@ -9,18 +10,7 @@ async function roles(oldMember, newMember) {
         records.forEach(function (record) {
             const recordToUpdate = record.getId()
             const allRoles = newMember._roles
-            const roleNames = []
-
-            for (let i = 0; i < allRoles.length; i++) {
-                const roleArray = newMember.roles.cache.array()
-                const newRole = roleArray[i]
-                const roleName = newRole.name
-
-                roleNames.push(roleName)
-            }
-
-            console.log(roleNames)
-
+            const roleNames = newMember.roles.cache.array().map(role => role.name);
             base('Tutees').update(recordToUpdate, {
                 "Roles": roleNames
             }, { typecast: true })

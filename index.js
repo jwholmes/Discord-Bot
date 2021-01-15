@@ -2,8 +2,8 @@ const Discord = require("discord.js");
 const bot = new Discord.Client();
 const PREFIX = "!";
 const fs = require("fs");
-const newMember = require("./intents/newMember.js")
-const roles = require("./intents/roles.js")
+const handleNewMember = require("./intents/newMember.js")
+const handleRolesChange = require("./intents/roles.js")
 
 bot.commands = new Discord.Collection();
 
@@ -16,8 +16,8 @@ for (const file of commandFiles) {
 
 bot.on("ready", () => {
   console.log("Bot is online")
-  newMember(bot)
-  roles(bot)
+  handleNewMember(bot)
+  handleRolesChange(bot)
 });
 
 bot.on("message", (msg) => {
