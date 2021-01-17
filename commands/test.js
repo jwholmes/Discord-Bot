@@ -111,7 +111,7 @@ async function process(message, data) {
       new Discord.MessageEmbed()
         .setColor('#30E84E')
         .setTitle(`Points: ${score * 100}`)
-        .setDescription(`You nailed it! :partying_face:`)
+        .setDescription(`You nailed it! 🥳`)
     );
     if (Math.random() > 0.5) {
       setTimeout(sendCorrectGIF, 2000);
@@ -139,7 +139,7 @@ module.exports = {
   description: 'MCQ tests by subject',
   async execute(message, args) {
     const subjectMessage = await message.author.send(
-      new Discord.MessageEmbed().setColor("#FFD800").setTitle('QUIZ TIME!').setDescription(`**Choose your subject :books:**
+      new Discord.MessageEmbed().setColor("#FFD800").setTitle('QUIZ TIME!').setDescription(`**Choose your subject 📚**
         \n🧬 Biology
         \n💰 Business
         \n💻 ComSci
@@ -223,8 +223,7 @@ module.exports = {
     }
     await sleep(1000);
     await message.author.send(
-      new Discord.MessageEmbed().setColor("#9534EB").setTitle('End of Quiz : checkered_flag: ').setDescription(`GG ${message.author.username
-        }! :fire:
+      new Discord.MessageEmbed().setColor("#9534EB").setTitle('End of Quiz 🏁').setDescription(`GG ${message.author.username}! 🔥
         \nFinal score: ${score * 100} / ${questionNumber * 100}
         \n**Topics to revise:**
         \n- ${topicsToRevise.join(`\n- `)}`)
