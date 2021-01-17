@@ -1,7 +1,6 @@
 const Discord = require("discord.js");
 const Airtable = require('airtable');
-const config = require('../config.json')
-const base = new Airtable({ apiKey: config.AIRTABLE_API_KEY }).base('appTigRgtCa5YFAQr');
+const base = new Airtable({ apiKey: process.env.AIRTABLE_API_KEY }).base('appTigRgtCa5YFAQr');
 
 async function roles(oldMember, newMember) {
     await base('Tutees').select({
