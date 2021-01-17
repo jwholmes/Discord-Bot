@@ -230,8 +230,7 @@ module.exports = {
       // );
       new Discord.MessageEmbed().setColor("#9534EB").setTitle('End of Quiz 🏁').setDescription(
         `GG ${message.author.username}! 🔥
-        \nFinal score: ${score * 100} / ${questionNumber * 100}`
-      );
+        \nFinal score: ${score * 100} / ${questionNumber * 100}`));
     score = 0;
     questionNumber = 0;
   },
